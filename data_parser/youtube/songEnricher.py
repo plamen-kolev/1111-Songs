@@ -1,4 +1,4 @@
-from youtube.fakeYoutubeService import getYoutubePlayInfo
+from youtube.youtubeService import getYoutubePlayInfo
 
 
 def enrichSong(songJson):
