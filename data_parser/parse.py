@@ -3,7 +3,7 @@ import re
 import urllib.parse
 import json
 
-from source.data_parser.SongEntry import SongEntry
+from data_parser.SongEntry import SongEntry
 
 file = open("data.list", "r", encoding="utf8")
 
