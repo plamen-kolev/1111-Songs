@@ -3516,7 +3516,41 @@
             "artist": "Various",
             "song": "Out of Cuba - Latin American Music Takes Africa by Storm",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-Out%20of%20Cuba%20-%20Latin%20American%20Music%20Takes%20Africa%20by%20Storm"
+            "url": "https://www.youtube.com/results?search_query=Various-Out%20of%20Cuba%20-%20Latin%20American%20Music%20Takes%20Africa%20by%20Storm",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/SykQp0n_mTBAKYtjy4JfW-cohC8\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLASdTI5XuyvqcxRCyLPbMIjSL23KhMUrL"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-02T13:52:58.000Z",
+                    "channelId": "UCGa54w2s_Uon1xtdujM2DWw",
+                    "title": "El Manicero - the Peanut Vendor (Con Dos Guitarras)",
+                    "description": "Provided to YouTube by Ingrooves Cachumbambe \u00b7 Antonio Machin Famous Hits by Antonio Machin \u2117 Jazz Elite S.P. Writer, Composer: Antonio Machin ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/PLASdTI5XuyvqcxRCyLPbMIjSL23KhMUrL/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/PLASdTI5XuyvqcxRCyLPbMIjSL23KhMUrL/default.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/PLASdTI5XuyvqcxRCyLPbMIjSL23KhMUrL/default.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Antonio Mach\u00edn - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chang\u00fc\u00ed ": [

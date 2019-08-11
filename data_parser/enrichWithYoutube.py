@@ -17,3 +17,6 @@ jsonToEnrich[genre][randomSongIndex] = enrichSong(songs[randomSongIndex])
 
 with open('json/data.json', 'w') as outfile:
     json.dump(jsonToEnrich, outfile, indent=4)
+
+with open('../source/src/data.json', 'w') as outfile:
+    json.dump(jsonToEnrich, outfile, indent=4)
