@@ -4650,7 +4650,41 @@
             "artist": "Hank Williams",
             "song": "40 Greatest Hits",
             "year": "(1947-1953)",
-            "url": "https://www.youtube.com/results?search_query=Hank%20Williams-40%20Greatest%20Hits"
+            "url": "https://www.youtube.com/results?search_query=Hank%20Williams-40%20Greatest%20Hits",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/I_X9Md1JvcFsuGvYm2QJsWYR-ys\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLpWuX2SwiSCOK-qE8Dd0eBsn6eUlYf0b2"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-30T22:19:31.000Z",
+                    "channelId": "UChcnFR6M1pHkAVdIawv5KSg",
+                    "title": "40 greatest hits of hank williams",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/mAuTdwYdkb8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/mAuTdwYdkb8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/mAuTdwYdkb8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "John Stanford",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nashville Sound ": [
@@ -8522,7 +8556,41 @@
             "artist": "Integrity",
             "song": "Those Who Fear Tomorrow",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Integrity-Those%20Who%20Fear%20Tomorrow"
+            "url": "https://www.youtube.com/results?search_query=Integrity-Those%20Who%20Fear%20Tomorrow",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/v8xFiYbiGMG-03xtZm-dtECHZ3c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Fy-y1-KmTTc"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-28T06:36:59.000Z",
+                    "channelId": "UCmGqOe4_vbXR62UxbTJbnsw",
+                    "title": "INTEGRITY - those who fear tomorrow 1991 (full album)",
+                    "description": "Den Of Iniquity 00:00 Micha: Those Who Fear Tomorrow 00:29 Diehard 03:34 Lundgren/Crucifixion 06:00 Judgement Day 08:36 Descent Into... 10:56 Darkness ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Fy-y1-KmTTc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Fy-y1-KmTTc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Fy-y1-KmTTc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "massimo1009",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mathcore ": [
