@@ -4,18 +4,13 @@ import csv
 import urllib.parse
 import json
 
-class Genre:
-    pass
-
-class Artist:
-    pass
 
 class Row:
-    def __init__(self, uniqueId, genre, artist, song ,year, url):
-        self.uniqueId = uniqueId
+    def __init__(self, unique_id, genre, a, s, year, url):
+        self.unique_id = unique_id
         self.genre = genre
-        self.artist = artist
-        self.song = song,
+        self.artist = a
+        self.song = s,
         self.year = year
         self.url = url
 
@@ -34,9 +29,8 @@ song_and_year_regexp = "^(.+)(\(.*\))"
 
 for line in file:
     idResult = re.search(id_regexp, line)
-    id = idResult[1]
     rest = idResult[2]
-    ids.append(id)
+    ids.append(idResult[1])
 
     genreResult = re.search(genre_regexp, rest)
 
@@ -49,6 +43,7 @@ for line in file:
 
     songAndYearResult = re.search(song_and_year_regexp, rest)
     songs.append(songAndYearResult[1])
+
     if (songAndYearResult[2]):
         years.append(songAndYearResult[2])
     else:
@@ -59,26 +54,13 @@ def sanitizeString(string):
     return string.strip().rstrip()
 
 
-csvFile = csv.writer(open('data.csv', "w", encoding="utf8", newline=''))
-csvFile.writerow(["id", "genre", "artist", "song", "year", "youtube search"])
+jsonData = []
+
 for i in range(0, len(years)):
     artist = sanitizeString(artists[i])
     song = sanitizeString(songs[i])
     songSearchTerm = urllib.parse.quote(html.escape("%s-%s" % (artist, song)))
-    csvFile.writerow([
-        int(ids[i]),
-        sanitizeString(genres[i]),
-        artist,
-        song,
-        sanitizeString(years[i]),
-        "https://www.youtube.com/results?search_query=%s" % songSearchTerm
-    ])
 
-jsonFile = open('data.json', "w", encoding="utf8", newline='')
-jsonFile.write("[")
-for i in range(0, len(years)):
-    artist = sanitizeString(artists[i])
-    song = sanitizeString(songs[i])
     row = Row(
         int(ids[i]),
         sanitizeString(genres[i]),
@@ -87,6 +69,14 @@ for i in range(0, len(years)):
         sanitizeString(years[i]),
         "https://www.youtube.com/results?search_query=%s" % songSearchTerm
     )
-    jsonFile.write(json.dumps(row.__dict__))
-    jsonFile.write(",")
-jsonFile.write("]")
+    jsonData.append(row.__dict__)
+
+genres2 = {}
+for entry in jsonData:
+    if entry['genre'] in genres2:
+        genres2[entry['genre']].append(entry)
+    else:
+        genres2[entry['genre']] = [entry]
+
+with open('data.json', 'w') as outfile:
+    json.dump(genres2, outfile, indent=4)
