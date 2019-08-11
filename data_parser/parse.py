@@ -2,10 +2,9 @@ import html
 import re
 import urllib.parse
 import json
+from models.SongEntry import SongEntry
 
-from data_parser.SongEntry import SongEntry
-
-file = open("data.list", "r", encoding="utf8")
+file = open("json/data.list", "r", encoding="utf8")
 
 id_regexp = "^(\d+)\s\|\s(.*)"
 genre_regexp = "^([\w -\]\[]+)\|\s(.*)"
@@ -58,5 +57,5 @@ for line in file:
         jsonData[row.genre] = [entryAsJson]
 
 
-with open('data.json', 'w') as outfile:
+with open('json/data.json', 'w') as outfile:
     json.dump(jsonData, outfile, indent=4)

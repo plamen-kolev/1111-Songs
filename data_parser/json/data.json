@@ -6,7 +6,41 @@
             "artist": "Fornnordiska klanger",
             "song": "The Sounds of Prehistoric Scandinavia",
             "year": "(3'000'000 BC - 5'000 BC)",
-            "url": "https://www.youtube.com/results?search_query=Fornnordiska%20klanger-The%20Sounds%20of%20Prehistoric%20Scandinavia"
+            "url": "https://www.youtube.com/results?search_query=Fornnordiska%20klanger-The%20Sounds%20of%20Prehistoric%20Scandinavia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/T9HtKtWPXWCuvGnLBWv9_m4ojOE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "loq3Vcqqk4U"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-18T17:18:00.000Z",
+                    "channelId": "UC-_KNdP02_IKxWIYRvlgRlw",
+                    "title": "Fornnordiska klanger - The Sounds of Prehistoric Scandinavia (Full Album)",
+                    "description": "Fornnordiska klanger - The Sounds of Prehistoric Scandinavia (1991) Tracklist: Sten\u00c3\u00a5lder/Stone Age 1. Rasseldans/Rattle dance 2. Benskrapare/Bone scraper 3 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/loq3Vcqqk4U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/loq3Vcqqk4U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/loq3Vcqqk4U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Gabriel Bum Houston",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sumerian ": [
