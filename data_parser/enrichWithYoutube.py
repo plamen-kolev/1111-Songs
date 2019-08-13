@@ -9,14 +9,23 @@ with open('./json/data.json') as json_data:
     jsonToEnrich = json.load(json_data)
 
 
-genre, songs = random.choice(list(jsonToEnrich.items()))
-randomSongIndex = random.randint(0,len(songs) - 1)
-print(randomSongIndex)
+# genre, songs = random.choice(list(jsonToEnrich.items()))
+# randomSongIndex = random.randint(0,len(songs) - 1)
+# print(randomSongIndex)
+for key in jsonToEnrich:
+    for songIndex in range(0, len(jsonToEnrich[key])):
+        try:
+            jsonToEnrich[key][songIndex] = enrichSong(jsonToEnrich[key][songIndex])
 
-jsonToEnrich[genre][randomSongIndex] = enrichSong(songs[randomSongIndex])
+        except:
+            jsonToEnrich[key][songIndex]['enriched'] = True
+            with open('json/data.json', 'w') as outfile:
+                json.dump(jsonToEnrich, outfile, indent=4)
 
-with open('json/data.json', 'w') as outfile:
-    json.dump(jsonToEnrich, outfile, indent=4)
+
+# jsonToEnrich[genre][randomSongIndex] = enrichSong(songs[randomSongIndex])
+
+
 
 with open('../source/src/data.json', 'w') as outfile:
     json.dump(jsonToEnrich, outfile, indent=4)

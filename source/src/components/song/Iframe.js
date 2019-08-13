@@ -14,8 +14,8 @@ export default function (props) {
       }
 
     return (<iframe 
-        width="560" 
-        height="315" 
+        width="100%" 
+        height="150px" 
         src={source}
         frameborder="0" 
         allow="autoplay; encrypted-media; picture-in-picture" 

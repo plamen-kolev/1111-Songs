@@ -50,7 +50,41 @@
             "artist": "Various",
             "song": "Sounds From Silence - Recent Discoveries in Ancient Near Eastern Music",
             "year": "(1800 BC - 1400 BC)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sounds%20From%20Silence%20-%20Recent%20Discoveries%20in%20Ancient%20Near%20Eastern%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Sounds%20From%20Silence%20-%20Recent%20Discoveries%20in%20Ancient%20Near%20Eastern%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ZJorXRgmB5pgevJmdJ-vlsPgHXw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-brfOQ0WCjs"
+                },
+                "snippet": {
+                    "publishedAt": "2013-06-12T14:39:19.000Z",
+                    "channelId": "UCJ1X6F7lGMEadnNETSzTv8A",
+                    "title": "Recreating the Music of the Ancient Near East - &quot;Rites of Baal&quot;",
+                    "description": "\"Rites of Baal\" - track 4 from Michael Levy's album, \"Ancient Visions - New Compositions For An Ancient Lyre\". Baal was the ancient Mesopotamian god of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-brfOQ0WCjs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-brfOQ0WCjs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-brfOQ0WCjs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Michael Levy",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient ": [
@@ -60,7 +94,41 @@
             "artist": "Ensemble De Organographia",
             "song": "Music of the Ancient Sumerians, Egyptians & Greeks",
             "year": "(1950 BC - 400 AD)",
-            "url": "https://www.youtube.com/results?search_query=Ensemble%20De%20Organographia-Music%20of%20the%20Ancient%20Sumerians%2C%20Egyptians%20%26amp%3B%20Greeks"
+            "url": "https://www.youtube.com/results?search_query=Ensemble%20De%20Organographia-Music%20of%20the%20Ancient%20Sumerians%2C%20Egyptians%20%26amp%3B%20Greeks",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/-gT4QS_4zrEOuui2wBql8W7e1FQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "XCSCiDD6ywQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-25T04:00:06.000Z",
+                    "channelId": "UCJG5ex3LH8wgDu70ql_OPVw",
+                    "title": "Music of The Ancient Sumerians, Egyptians and Greeks",
+                    "description": "Music of The Ancient Sumerians, Egyptians and Greeks.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/XCSCiDD6ywQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/XCSCiDD6ywQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/XCSCiDD6ywQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Roberto Pintos",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient Chinese ": [
@@ -70,7 +138,41 @@
             "artist": "Various",
             "song": "Ancient Music from Chang An",
             "year": "()",
-            "url": "https://www.youtube.com/results?search_query=Various-Ancient%20Music%20from%20Chang%20An"
+            "url": "https://www.youtube.com/results?search_query=Various-Ancient%20Music%20from%20Chang%20An",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Zn-_AWAM9LXEwBkeLtfSrczwFjo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pDZOi-7uEeY"
+                },
+                "snippet": {
+                    "publishedAt": "2018-10-30T21:34:07.000Z",
+                    "channelId": "UCLS0Al3AvgLKSwY4-N7PwFQ",
+                    "title": "Jane Zhang \u5f20\u9753\u9896\u300a\u6545\u957f\u5b89/The Old Chang&#39;an\u300bTheme song of the ancient drama \u300a\u5c06\u591c/The Night\u300b",
+                    "description": "Jane Zhang \u5f20\u9753\u9896\u300a\u6545\u957f\u5b89/The Old Chang'an\u300b is the theme song of the ancient drama \u300a\u5c06\u591c/The Night\u300b. Lyrics: \u738b\u94ee\u4eae/Reno Wang & \u738b\u88d5\u4ec1/Wang Yuren ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pDZOi-7uEeY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pDZOi-7uEeY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pDZOi-7uEeY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jane Zhang Italia",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hyang_ak ": [
@@ -80,7 +182,41 @@
             "artist": "Various",
             "song": "Cor\u00e9e Jongmyo Jeryeak - Musique rituelle pour les anc\u00eatres royaux",
             "year": "(50 BC - 650 AD)",
-            "url": "https://www.youtube.com/results?search_query=Various-Cor%C3%A9e%20Jongmyo%20Jeryeak%20-%20Musique%20rituelle%20pour%20les%20anc%C3%AAtres%20royaux"
+            "url": "https://www.youtube.com/results?search_query=Various-Cor%C3%A9e%20Jongmyo%20Jeryeak%20-%20Musique%20rituelle%20pour%20les%20anc%C3%AAtres%20royaux",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Rx_0W-X914sctiReFz6n8N88bfk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "dD25EGn63HA"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-21T22:26:38.000Z",
+                    "channelId": "UCzZKIwVKGFMXJiw-vxlSr4Q",
+                    "title": "Jeongdae-Eop (Seonwi)",
+                    "description": "Provided to YouTube by Believe SAS Jeongdae-Eop (Seonwi) \u00b7 Orchestra of the National Gugak Centre of Korea Cor\u00e9e: Jongmyo Jeryeak (Musique rituelle ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dD25EGn63HA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dD25EGn63HA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dD25EGn63HA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Orchestra of the National Gugak Centre of Korea - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient Japanese ": [
@@ -90,7 +226,41 @@
             "artist": "Toshiyuki Tsuchitori",
             "song": "D\u014dtaku - Ancient Japanese Bronze Bells From Yayoi Period",
             "year": "(400 BC - 25 AD)",
-            "url": "https://www.youtube.com/results?search_query=Toshiyuki%20Tsuchitori-D%C5%8Dtaku%20-%20Ancient%20Japanese%20Bronze%20Bells%20From%20Yayoi%20Period"
+            "url": "https://www.youtube.com/results?search_query=Toshiyuki%20Tsuchitori-D%C5%8Dtaku%20-%20Ancient%20Japanese%20Bronze%20Bells%20From%20Yayoi%20Period",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/btR10r7zTmIkGpuI5baNxUadf1E\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "D9P49L9UmO8"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-17T21:44:22.000Z",
+                    "channelId": "UCk6WTWhxZurLXBvv0G-Y_uQ",
+                    "title": "Toshi Tsuchitori - Reimei",
+                    "description": "\u571f\u53d6\u5229\u884c - \u9ece\u660e (1983) \u9285\u9438 \u5f25\u751f\u5e7b\u60f3 'Dotaku' Ancient Japanese Bells from Yayoi Period.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/D9P49L9UmO8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/D9P49L9UmO8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/D9P49L9UmO8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "fascia lata",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient Egyptian ": [
@@ -100,7 +270,41 @@
             "artist": "Soliman Gamil",
             "song": "A Map of Egypt Before the Sands",
             "year": "(3100 BC - 350 BC)",
-            "url": "https://www.youtube.com/results?search_query=Soliman%20Gamil-A%20Map%20of%20Egypt%20Before%20the%20Sands"
+            "url": "https://www.youtube.com/results?search_query=Soliman%20Gamil-A%20Map%20of%20Egypt%20Before%20the%20Sands",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/DrXyhxEpFUMf4ZYWbodMPTk-Slg\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLKtI6DyKnYmO23Aa2fwU30kR-KXnyU_QM"
+                },
+                "snippet": {
+                    "publishedAt": "2013-03-17T00:56:27.000Z",
+                    "channelId": "UC-ksUES3XQOFheQdrSycKDQ",
+                    "title": "ALBUM: Soliman Gamil - A Map Of Egypt Before The Sands [T...",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/fmc_Uz7i7O0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/fmc_Uz7i7O0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/fmc_Uz7i7O0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "touchmusic33",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient Greek ": [
@@ -110,7 +314,41 @@
             "artist": "Gregorio Paniagua",
             "song": "Musique de la Gr\u00e8ce antique",
             "year": "(800 BC - 600 AD)",
-            "url": "https://www.youtube.com/results?search_query=Gregorio%20Paniagua-Musique%20de%20la%20Gr%C3%A8ce%20antique"
+            "url": "https://www.youtube.com/results?search_query=Gregorio%20Paniagua-Musique%20de%20la%20Gr%C3%A8ce%20antique",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/K6t7sqEHQ3MZxgdFPYnS2kbzaxk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "a1z0zaGDzlQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-22T14:13:06.000Z",
+                    "channelId": "UCGy7ryPn8o05dZvCoPQqO1A",
+                    "title": "Musique de la Gr\u00e8ce antique",
+                    "description": "Musique de la Gr\u00e8ce antique (CD Harmonia Mundi) Atrium Musicae de Mandrid - Gregorio Paniagua 1. Anakrousis. Orestes Stasimo 3'03 2. Fragmenrs ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/a1z0zaGDzlQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/a1z0zaGDzlQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/a1z0zaGDzlQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "MadMaxOnlyMusic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ancient Roman ": [
@@ -120,7 +358,41 @@
             "artist": "Musica Romana",
             "song": "Symphonia Panica",
             "year": "(750 BC - 450 AD)",
-            "url": "https://www.youtube.com/results?search_query=Musica%20Romana-Symphonia%20Panica"
+            "url": "https://www.youtube.com/results?search_query=Musica%20Romana-Symphonia%20Panica",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_RSd9hFgbM4tSm1K2bLgd9AzVHM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "X83IYWmcEFg"
+                },
+                "snippet": {
+                    "publishedAt": "2009-10-19T17:48:39.000Z",
+                    "channelId": "UC7us6AHelbH5qYHZv38ADdw",
+                    "title": "Ancient Roman Music - Musica Romana I",
+                    "description": "Tracks \"XVII\" and \"Cave Carminem\" from Symphonia Panica album. Musica Romana is a well-known, internationally-acclaimed music ensemble dedicated to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/X83IYWmcEFg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/X83IYWmcEFg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/X83IYWmcEFg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Aemilius Paulus",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Biblical Psalms ": [
@@ -130,7 +402,41 @@
             "artist": "Suzanne Ha\u00efk Vantoura",
             "song": "La Musique De La Bible R\u00e9v\u00e9l\u00e9e",
             "year": "(900 BC - 500 BC)",
-            "url": "https://www.youtube.com/results?search_query=Suzanne%20Ha%C3%AFk%20Vantoura-La%20Musique%20De%20La%20Bible%20R%C3%A9v%C3%A9l%C3%A9e"
+            "url": "https://www.youtube.com/results?search_query=Suzanne%20Ha%C3%AFk%20Vantoura-La%20Musique%20De%20La%20Bible%20R%C3%A9v%C3%A9l%C3%A9e",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/nnJJviRIuZ4opQwMoC9PBv2p57M\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WRJ0osUNqBY"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-26T16:28:31.000Z",
+                    "channelId": "UCSPifQADBSKLT8qspsCltXw",
+                    "title": "La Musique de la Bible Rev\u00e9l\u00e9e -Psaume 23-L\u2019\u00c9ternel est mon berger ***Madaba",
+                    "description": "La Musique de la Bible Rev\u00e9l\u00e9e - Psaume 23 \u201cL'\u00c9ternel est mon berger\u201d Adolphe Attia - Suzanne Ha\u00efk Vantoura - ***Madaba, Mosaico Mappa della Terra Santa ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WRJ0osUNqBY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WRJ0osUNqBY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WRJ0osUNqBY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "argesarge2",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Byzantine Chant ": [
@@ -140,7 +446,41 @@
             "artist": "Marcel P\u00e9r\u00e8s",
             "song": "Chants de l'Eglise de Rome P\u00e9riode Byzantine",
             "year": "(600 AD - 800 AD)",
-            "url": "https://www.youtube.com/results?search_query=Marcel%20P%C3%A9r%C3%A8s-Chants%20de%20l%26%23x27%3BEglise%20de%20Rome%20P%C3%A9riode%20Byzantine"
+            "url": "https://www.youtube.com/results?search_query=Marcel%20P%C3%A9r%C3%A8s-Chants%20de%20l%26%23x27%3BEglise%20de%20Rome%20P%C3%A9riode%20Byzantine",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/uZMdnd9B-TOxC3eDsarTI3KgSNY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GoWy1V6GSyE"
+                },
+                "snippet": {
+                    "publishedAt": "2019-04-18T16:37:32.000Z",
+                    "channelId": "UCo_YG0sXXjObCQWhVfKiMjw",
+                    "title": "Chants de l&#39;\u00c9glise de Rome des VIIe et VIIIe si\u00e8cles: p\u00e9riode byzantine",
+                    "description": "1. Alleluia Alleluia. O pimenon ton israhil prochese, odigon osi probaton ten iosiph. O cathimenon epy ton cherubin emphanithi enantio effrem cem beniamin ce ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GoWy1V6GSyE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GoWy1V6GSyE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GoWy1V6GSyE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Federico Valentini",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Akan ": [
@@ -150,7 +490,41 @@
             "artist": "Various",
             "song": "The Baoule of the Ivory Coast",
             "year": "(1956)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Baoule%20of%20the%20Ivory%20Coast"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Baoule%20of%20the%20Ivory%20Coast",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/FPbzL9QZo2MQJyh_uZ9JToujoTk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "44lHRO3I8ws"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-07T06:08:28.000Z",
+                    "channelId": "UC5HlSf1XMeObrxeer3LdmKw",
+                    "title": "Baule ethnic group ivory coast, West Africa (Part of the Akan people)",
+                    "description": "Patreon https://www.patreon.com/AfricNetwork?... Twitter https://twitter.com/AfricNetwork facebook https://www.facebook.com/Africnetwork... The Baule (Baoule ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/44lHRO3I8ws/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/44lHRO3I8ws/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/44lHRO3I8ws/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Afric Network",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Dagomba ": [
@@ -160,7 +534,41 @@
             "artist": "Various",
             "song": "Music of the Dagomba From Ghana",
             "year": "(1978)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Dagomba%20From%20Ghana"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Dagomba%20From%20Ghana",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/R2YvZYTMLfMoGR88yv7kRb_gh-c\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLN1MHhtcmPKCZOp_8lO0GfIwNNS6SndgJ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-19T22:52:26.000Z",
+                    "channelId": "UCb9FpJ-W6XMMoIIGaWL-v6g",
+                    "title": "Proud Dagomba",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Tamale70s",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ewe ": [
@@ -170,7 +578,41 @@
             "artist": "Various",
             "song": "Ewe Music of Ghana",
             "year": "(1969)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ewe%20Music%20of%20Ghana"
+            "url": "https://www.youtube.com/results?search_query=Various-Ewe%20Music%20of%20Ghana",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/hlb3v2glf2x6aKJ85m-jH4nXycE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "HEPxLSKeMZU"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-18T14:04:28.000Z",
+                    "channelId": "UCUIP_9MhifJPY8pUXXicJLQ",
+                    "title": "Adzida Madzi - Ewe Music (Agbadza Hawo)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "EWE MUSIC WEST AFRICA",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Zinli ": [
@@ -180,7 +622,41 @@
             "artist": "Gouton Tosse",
             "song": "Gouton Tosse et son groupe folklorique de Lotin_gbedjewin Benin",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Gouton%20Tosse-Gouton%20Tosse%20et%20son%20groupe%20folklorique%20de%20Lotin_gbedjewin%20Benin"
+            "url": "https://www.youtube.com/results?search_query=Gouton%20Tosse-Gouton%20Tosse%20et%20son%20groupe%20folklorique%20de%20Lotin_gbedjewin%20Benin",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/PbVXvtA9Mh9QPCBUjhCc0y8IDcM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pzJGNYZnPBQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-02-04T05:14:14.000Z",
+                    "channelId": "UCQ1Ze3_Iv5krrEPF3-fbY4Q",
+                    "title": "BENIN - GOUTON TOSSE - Min mon nonvo",
+                    "description": "Zinli rythm from Avrankou , Benin West africa.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Frere Kandevie",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tchinkoum\u00e9 ": [
@@ -190,7 +666,8 @@
             "artist": "Sezonmon Alosse",
             "song": "Sezonmon Alosse",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Sezonmon%20Alosse-Sezonmon%20Alosse"
+            "url": "https://www.youtube.com/results?search_query=Sezonmon%20Alosse-Sezonmon%20Alosse",
+            "enriched": true
         }
     ],
     "Gumbe ": [
