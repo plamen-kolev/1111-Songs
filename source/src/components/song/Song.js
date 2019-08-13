@@ -3,7 +3,7 @@ import Iframe from './Iframe';
 import IframeSubstitute from './IframeSubstitute';
 
 export default function (props) {
-    const isEnriched = props.enriched
+    const isEnriched = props.enriched && props.youtube
     const title = isEnriched ? props.youtube.snippet.title : `${props.artist} - ${props.song}`
 
     return (

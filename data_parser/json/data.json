@@ -677,7 +677,41 @@
             "artist": "Super Mama Djombo",
             "song": "Super Mama Djombo",
             "year": "(2003)",
-            "url": "https://www.youtube.com/results?search_query=Super%20Mama%20Djombo-Super%20Mama%20Djombo"
+            "url": "https://www.youtube.com/results?search_query=Super%20Mama%20Djombo-Super%20Mama%20Djombo",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/e3lBp4bF29pHUF-iNb1hhIUQ7q0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ww4mEwTQAf0"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-25T01:43:02.000Z",
+                    "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                    "title": "Super Mama Djombo - Camban\u00e7a Djombo",
+                    "description": "Morceau 1 du LP Na Camban\u00e7a.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "R\u00e9tros World Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Highlife ": [
@@ -687,7 +721,41 @@
             "artist": "E.T. Mensah",
             "song": "Day by Day - Classic Highlife",
             "year": "(1950-1969)",
-            "url": "https://www.youtube.com/results?search_query=E.T.%20Mensah-Day%20by%20Day%20-%20Classic%20Highlife"
+            "url": "https://www.youtube.com/results?search_query=E.T.%20Mensah-Day%20by%20Day%20-%20Classic%20Highlife",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6hGEarLjXyBjwIXcX1Nv6Usn0y0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "5IyRIEVTAis"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-03T01:36:44.000Z",
+                    "channelId": "UCj06bK_bN--0eKmLwZ8RrmA",
+                    "title": "E T Mensah:  01 - Day By Day",
+                    "description": "The second volume of vintage E.T. Mensah material from the RetroAfric label, Day By Day includes more fine highlife and calypso numbers from the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5IyRIEVTAis/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5IyRIEVTAis/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5IyRIEVTAis/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "YourHighlifeMusic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kabye Folk ": [
@@ -697,7 +765,41 @@
             "artist": "Various",
             "song": "Togo - Musique Kabiye",
             "year": "(1960)",
-            "url": "https://www.youtube.com/results?search_query=Various-Togo%20-%20Musique%20Kabiye"
+            "url": "https://www.youtube.com/results?search_query=Various-Togo%20-%20Musique%20Kabiye",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/h90Q8zb_GYIVREBJmHqT8iOvAbI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "hUf6ldxMKW8"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-16T05:27:06.000Z",
+                    "channelId": "UCGfgxbqLyw8TgDwI-3dVNBg",
+                    "title": "TOGO: Musique populaire - Kabye Tchimou et Soo Compil_2",
+                    "description": "Musique populaire dancante Kabye Tchimou, Soo, Kamou. Belle musique pour des occasions heureuses. Belle compilation pour le Jogging pourquoi pas?",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Rorodrigue",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mande ": [
@@ -707,7 +809,41 @@
             "artist": "Various",
             "song": "In Griot Time - String Music From Mali",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-In%20Griot%20Time%20-%20String%20Music%20From%20Mali"
+            "url": "https://www.youtube.com/results?search_query=Various-In%20Griot%20Time%20-%20String%20Music%20From%20Mali",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/AJBshxyKyu8O9S60Cw-F6ylQ5nE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ExgmQPDer8k"
+                },
+                "snippet": {
+                    "publishedAt": "2017-06-09T09:21:26.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 In Griot Time: String Music From Mali : African Griot Folk World Music Compilation Bands",
+                    "description": "Label:Stern's Africa Country:Germany Released:2000 Buy Amzn (USA) : https://amzn.to/2HJ9hKK (affiliate) Buy Amzn (UK) : https://amzn.to/2vHmVJJ (affiliate) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ExgmQPDer8k/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ExgmQPDer8k/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ExgmQPDer8k/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Songhai ": [
@@ -717,7 +853,41 @@
             "artist": "Various",
             "song": "Folk Music of The Sahel - Volume 1",
             "year": "(N/A)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20The%20Sahel%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20The%20Sahel%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/5S0Q9nXuZ5Y7OisKoZBqYro7ZJs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Gd5ivKIKRYQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-12T15:01:33.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various - Choubi Choubi! Vol.2 Folk And Pop Songs From Iraq Rock World Album Compilation Arabic",
+                    "description": "Label:Sublime Frequencies    Series:Folk And Pop Sounds From Iraq \u2013 Vol. 2 Format:2 \u00d7 Vinyl, LP, Compilation Country:US Released:Nov 2013 You can visit my ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Gd5ivKIKRYQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Gd5ivKIKRYQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Gd5ivKIKRYQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Wassoulou ": [
@@ -727,7 +897,41 @@
             "artist": "Various",
             "song": "The Wassoulou Sound - Women of Mali",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Wassoulou%20Sound%20-%20Women%20of%20Mali"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Wassoulou%20Sound%20-%20Women%20of%20Mali",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/P9vjVG6sKAoo3HNr8toZhUdmvDM\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLp1TCftlArnJD-LkdM5qsLS5rmTrr_Xqf"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-07T07:29:39.000Z",
+                    "channelId": "UCljTmtK5i0PU9uw-8mI3K-A",
+                    "title": "The Wassoulou Sound : Women of Mali, Vol.1 (Album audio)",
+                    "description": "\u00c9COUTEZ l'album entier sur YouTube : http://bit.ly/2AqTrOn \u00c9COUTEZ / T\u00c9L\u00c9CHARGEZ l'album \"Women of Mali, Vol.1\" : http://smarturl.it/scnw7e REGARDEZ ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/IzP5muacxs8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/IzP5muacxs8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/IzP5muacxs8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Syllart Records",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Wolof ": [
@@ -737,7 +941,41 @@
             "artist": "Various",
             "song": "Wolof Music of Senegal and the Gambia",
             "year": "(1955)",
-            "url": "https://www.youtube.com/results?search_query=Various-Wolof%20Music%20of%20Senegal%20and%20the%20Gambia"
+            "url": "https://www.youtube.com/results?search_query=Various-Wolof%20Music%20of%20Senegal%20and%20the%20Gambia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/n9bNd08TtHz-0VSahVLtAJsegW4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "tnEsD_x1x88"
+                },
+                "snippet": {
+                    "publishedAt": "2008-04-01T06:58:04.000Z",
+                    "channelId": "UCK_XVAtMjC1j8EIZraauWpQ",
+                    "title": "Wolof singing and drumming - GAMBIA",
+                    "description": "Traditional wolof singing and drumming by Group Rakaju of the Gambia. A onegambia promotion (onegambia.com) production.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tnEsD_x1x88/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tnEsD_x1x88/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tnEsD_x1x88/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "platini64",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mbalax ": [
@@ -747,7 +985,41 @@
             "artist": "Various",
             "song": "African Pearls S\u00e9n\u00e9gal 70 - Musical Effervescence",
             "year": "(2008)",
-            "url": "https://www.youtube.com/results?search_query=Various-African%20Pearls%20S%C3%A9n%C3%A9gal%2070%20-%20Musical%20Effervescence"
+            "url": "https://www.youtube.com/results?search_query=Various-African%20Pearls%20S%C3%A9n%C3%A9gal%2070%20-%20Musical%20Effervescence",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/SJCz6jYOop4ktpl8VJRwfPXLp1k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "nU4ekUZx1iM"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-28T16:34:27.000Z",
+                    "channelId": "UCxc6Bn1n03SmABKu2OLFCzg",
+                    "title": "Super Diamono de Dakar  - Maaduleen",
+                    "description": "VA - African Pearls - S\u00e9n\u00e9gal 70: Musical Effervescence C3 - Super Diamono de Dakar - Maaduleen Discograph (6157396) - 2010 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "prop4g",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tassu ": [
@@ -757,7 +1029,41 @@
             "artist": "Aby Ngana Diop",
             "song": "Liital",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Aby%20Ngana%20Diop-Liital"
+            "url": "https://www.youtube.com/results?search_query=Aby%20Ngana%20Diop-Liital",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6g3xMAFlTallMXaLPiPsMTepvcg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "sMXM6Aa-6yM"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-10T20:30:37.000Z",
+                    "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                    "title": "Aby Ngana Diop - Liital",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/sMXM6Aa-6yM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/sMXM6Aa-6yM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/sMXM6Aa-6yM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "R\u00e9tros World Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Zouglou ": [
@@ -767,7 +1073,41 @@
             "artist": "Syst\u00e8me Gazeur",
             "song": "Ambiance facile",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Syst%C3%A8me%20Gazeur-Ambiance%20facile"
+            "url": "https://www.youtube.com/results?search_query=Syst%C3%A8me%20Gazeur-Ambiance%20facile",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/3XS69ulFNpCiJtF_hV_jveMcGwE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WIlWneFdQ18"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-27T00:36:49.000Z",
+                    "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                    "title": "System Gazeur - Anangotche",
+                    "description": "Morceau 2 de la cassette Ambiance Facile.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WIlWneFdQ18/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WIlWneFdQ18/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WIlWneFdQ18/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "R\u00e9tros World Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Yoruba ": [
@@ -777,7 +1117,41 @@
             "artist": "Various",
             "song": "Drums of the Yoruba of Nigeria",
             "year": "(1956)",
-            "url": "https://www.youtube.com/results?search_query=Various-Drums%20of%20the%20Yoruba%20of%20Nigeria"
+            "url": "https://www.youtube.com/results?search_query=Various-Drums%20of%20the%20Yoruba%20of%20Nigeria",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/otuNJX2gsrLtsLzPVYXcstXITug\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "PVDK8iqp38o"
+                },
+                "snippet": {
+                    "publishedAt": "2008-07-07T03:23:17.000Z",
+                    "channelId": "UC4AALGIyPgU7zxRJZGp9u4A",
+                    "title": "Yor\u00f9b\u00e1 B\u00e0t\u00e1 Ensemble Drums for \u00d2r\u00ecs\u00e0, volume 1",
+                    "description": "\u00c0y\u00e0n\u00c0gal\u00fa of \u00c8r\u00ecn-\u00d2sun drum for \u00d2r\u00ecs\u00e0 \u00c8s\u00f9, S\u00e0ng\u00f3, Ob\u00e0t\u00e1l\u00e1, and \u00d2sun. Featuring L\u00e0m\u00edd\u00ec \u00c0y\u00e1nk\u00fanl\u00e9 on \u00ecy\u00e1\u00e0l\u00f9. This is a straight-up drumming archive so that we ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/PVDK8iqp38o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/PVDK8iqp38o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/PVDK8iqp38o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Debbie Klein",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Apala ": [
@@ -787,7 +1161,41 @@
             "artist": "Haruna Ishola and His Apala Group",
             "song": "Apala Messenger",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Haruna%20Ishola%20and%20His%20Apala%20Group-Apala%20Messenger"
+            "url": "https://www.youtube.com/results?search_query=Haruna%20Ishola%20and%20His%20Apala%20Group-Apala%20Messenger",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0o7J1v1S78D1PKHZfA71LdQA2_0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "8sXLle7S6lc"
+                },
+                "snippet": {
+                    "publishedAt": "2009-03-16T20:36:39.000Z",
+                    "channelId": "UCOsgXR77sq50aBV_gc5N2NQ",
+                    "title": "Alhadji Haruna Ishola and His Apala Group ~ SRPS 26 ~ side one (part a)",
+                    "description": "song: Ire Owo pelu Omo dakun tomi wa / Dandurogo Orin ko se binu da artist: Alhadji Haruna Ishola and His Apala Group album: SRPS ~ 26 If you would like to ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8sXLle7S6lc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8sXLle7S6lc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8sXLle7S6lc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "groovemonzter",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Fuji ": [
@@ -797,7 +1205,41 @@
             "artist": "Alhaji Sikiru Ayinde Barrister & His Fuji Group",
             "song": "Volume 6",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Alhaji%20Sikiru%20Ayinde%20Barrister%20%26amp%3B%20His%20Fuji%20Group-Volume%206"
+            "url": "https://www.youtube.com/results?search_query=Alhaji%20Sikiru%20Ayinde%20Barrister%20%26amp%3B%20His%20Fuji%20Group-Volume%206",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ZwiKkHrHwVGkn4huaODgvnD156Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "z4r4Iee2GtI"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-08T04:33:23.000Z",
+                    "channelId": "UCJqb4NO1cLYZ6dIPivmMlgw",
+                    "title": "Dr Sikiru Ayinde Barrister Ajuwe juwe Vol. 9 (Complete Album)",
+                    "description": "[A] Ajuwe Juwe / Ejeka Sope Foluwa / Kinni Soo Mi / Oluyole Series / Itan A Ya Ma San / Alhaji Buari Oloto [B] Wan Yarabi Ansuruni / Ayinde Mo Gbodu De / Oba ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/z4r4Iee2GtI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/z4r4Iee2GtI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/z4r4Iee2GtI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Brent Swanson",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "J\u00f9j\u00fa ": [
@@ -807,7 +1249,41 @@
             "artist": "Various",
             "song": "Juju Roots",
             "year": "(1930-1959)",
-            "url": "https://www.youtube.com/results?search_query=Various-Juju%20Roots"
+            "url": "https://www.youtube.com/results?search_query=Various-Juju%20Roots",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/DG3lRkOuVLT48dgPdcxzQCe8GD0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "2eL1qRLUxAU"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-20T15:48:25.000Z",
+                    "channelId": "UCXJNh7o2KgiWUjluyh63IBA",
+                    "title": "Juju Blood - Field Marshall (Urban Roots)",
+                    "description": "Juju Blood - Field Marshall Natural High Music Presents: Urban Roots Natural High Music 2015 Natural High Music Presents: Urban Roots, 14 different artists ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2eL1qRLUxAU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2eL1qRLUxAU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2eL1qRLUxAU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Natural High",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Waka ": [
@@ -817,7 +1293,41 @@
             "artist": "Batile Alake",
             "song": "Waka Queen",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Batile%20Alake-Waka%20Queen"
+            "url": "https://www.youtube.com/results?search_query=Batile%20Alake-Waka%20Queen",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/kNYZldYz51KNyRIjIqwlA4GfmCI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "p-N0tx6nXvI"
+                },
+                "snippet": {
+                    "publishedAt": "2012-06-06T11:47:14.000Z",
+                    "channelId": "UCTksmY1-4VHOlwmjtFrFcvw",
+                    "title": "VOL.1  - Alhaja Batile Alake",
+                    "description": "Batile Alake-Vol.1 waka music.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "EgbaAlake",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ambasse bey ": [
@@ -827,7 +1337,41 @@
             "artist": "Eboa Lottin",
             "song": "The Best of - Volume 1",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Eboa%20Lottin-The%20Best%20of%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Eboa%20Lottin-The%20Best%20of%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/T7nT5hisCuD7rLkCmgNU0-mACjs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ynua1XuH1-s"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-25T02:42:04.000Z",
+                    "channelId": "UCsdwqO-fUiTulowCZ10emPA",
+                    "title": "EBOA LOTIN *** BEST OF EBOA LOTIN",
+                    "description": "African Music.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sarbaty sarbatty",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Assiko ": [
@@ -837,7 +1381,41 @@
             "artist": "Jean Bikoko et son ensemble",
             "song": "Nyemb Longa Jean",
             "year": "(1969)",
-            "url": "https://www.youtube.com/results?search_query=Jean%20Bikoko%20et%20son%20ensemble-Nyemb%20Longa%20Jean"
+            "url": "https://www.youtube.com/results?search_query=Jean%20Bikoko%20et%20son%20ensemble-Nyemb%20Longa%20Jean",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/PAIrFdekzNmw3IhvppStzEx6dZM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "e6DwtoW442w"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-27T23:53:10.000Z",
+                    "channelId": "UCkVgJNmZbPT8N2OBgM6kUWQ",
+                    "title": "Jean Bikoko - om me ndondok a docta (Parade - les disques samson MS305)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/e6DwtoW442w/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/e6DwtoW442w/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/e6DwtoW442w/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "RealC38",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bikutsi ": [
@@ -847,7 +1425,41 @@
             "artist": "Francis Bebey",
             "song": "Akwaaba",
             "year": "(1984)",
-            "url": "https://www.youtube.com/results?search_query=Francis%20Bebey-Akwaaba"
+            "url": "https://www.youtube.com/results?search_query=Francis%20Bebey-Akwaaba",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/u0kRA48i2NfdasgJukVNf5x-smY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RDaUJ8N4Gk4"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-30T17:24:29.000Z",
+                    "channelId": "UCaBKZAJ-Z-yZMTJi_MavwJw",
+                    "title": "Francis Bebey - Akwaaba: Music For Sanza (1985)",
+                    "description": "Francis Bebey - Akwaaba: Music For Sanza (1985) 1. Akwaaba 00:00 2. Bissau 05:56 3. Binta Madiallo 09:37 4. Ngoma Likembe 16:24 5. Tumu Pakara 21:38 6.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Santiago Bogacz",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kalindula ": [
@@ -857,7 +1469,41 @@
             "artist": "Various",
             "song": "Zambiance!",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Various-Zambiance%21"
+            "url": "https://www.youtube.com/results?search_query=Various-Zambiance%21",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/G83vDASRn_7P9u_ju3_UV9xpge4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GWjUGtg2fOk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-14T11:54:03.000Z",
+                    "channelId": "UCFdSvuyHZwNlQva_WMX5-zA",
+                    "title": "ZAMBIANCE \u2013 VARIOUS MUSIC FROM ZAMBIA [1989 FULL ALBUM]",
+                    "description": "Setlist 01 Kambowa (Shalawambe) 0:00 02 Icupo Cha Kulala Pa Mpapa (Shalawambe) 4:25 03 Mao (2x2) 8:56 (Amayenge) 04 Itumba 14:40 (Alfred Chisala ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GWjUGtg2fOk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GWjUGtg2fOk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GWjUGtg2fOk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Marvin Mulenga",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kizomba ": [
@@ -867,7 +1513,41 @@
             "artist": "Semba Tropical",
             "song": "Angola",
             "year": "(1985)",
-            "url": "https://www.youtube.com/results?search_query=Semba%20Tropical-Angola"
+            "url": "https://www.youtube.com/results?search_query=Semba%20Tropical-Angola",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Zo8UI5yA61PAadV-lCv3LJY3Syo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "nfeLWFSO6QU"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-28T19:20:27.000Z",
+                    "channelId": "UCGRJYSayS45xbYqDSHFafqA",
+                    "title": "Semba Tropical Angola - 1983 (Remastered version)",
+                    "description": "Angola \"Semba Tropical\" LP - 1983. (Restored and Remastered dec.2014)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/nfeLWFSO6QU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/nfeLWFSO6QU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/nfeLWFSO6QU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "angolawarvideo",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kuduro ": [
@@ -877,7 +1557,41 @@
             "artist": "Fr\u00e9d\u00e9ric Galliano",
             "song": "Kuduro Sound System",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Fr%C3%A9d%C3%A9ric%20Galliano-Kuduro%20Sound%20System"
+            "url": "https://www.youtube.com/results?search_query=Fr%C3%A9d%C3%A9ric%20Galliano-Kuduro%20Sound%20System",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/BmSM1lsoWaZHKvispAD1PL5w2NQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "dsZRQ0C-hJg"
+                },
+                "snippet": {
+                    "publishedAt": "2011-07-04T20:13:26.000Z",
+                    "channelId": "UCWjRqkViXV6QKVX8pd0XRfQ",
+                    "title": "Fr\u00e9d\u00e9ric Galliano Kuduro Sound System : 1,2,3 Sempre tabater !",
+                    "description": "Fr\u00e9d\u00e9ric Galliano Kuduro Sound System : 1, 2, 3 sempre tabater (Frikyiwa, 2011)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dsZRQ0C-hJg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dsZRQ0C-hJg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dsZRQ0C-hJg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "kudurosoundsystem",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Makossa ": [
@@ -887,7 +1601,41 @@
             "artist": "Various",
             "song": "Pop Makossa - The Invasive Dance Beat of Cameroon",
             "year": "(1976-1984)",
-            "url": "https://www.youtube.com/results?search_query=Various-Pop%20Makossa%20-%20The%20Invasive%20Dance%20Beat%20of%20Cameroon"
+            "url": "https://www.youtube.com/results?search_query=Various-Pop%20Makossa%20-%20The%20Invasive%20Dance%20Beat%20of%20Cameroon",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XrsMjbpm9fB7UGEyPcF-GclFAcc\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLjfHkXa2IYghNP3KV0S67lk7-Qbbpy5cj"
+                },
+                "snippet": {
+                    "publishedAt": "2017-06-07T08:31:41.000Z",
+                    "channelId": "UChwsdJhw39wrCg1upk2fSZg",
+                    "title": "Analog Africa N\u00b023: Pop Makossa - The Invasive Dance Beat of Cameroon 1976-1984",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "AnalogAfrica",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mbenga_Mbuti ": [
@@ -897,7 +1645,41 @@
             "artist": "Various",
             "song": "Mbuti Pygmies of the Ituri Rainforest",
             "year": "(1992)",
-            "url": "https://www.youtube.com/results?search_query=Various-Mbuti%20Pygmies%20of%20the%20Ituri%20Rainforest"
+            "url": "https://www.youtube.com/results?search_query=Various-Mbuti%20Pygmies%20of%20the%20Ituri%20Rainforest",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/dse__l_c-eT9muYxxj1KgN1Q2AM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-X5cD6jd914"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-28T21:59:25.000Z",
+                    "channelId": "UCpDhU3WHn-sGsWSUsDSXkBg",
+                    "title": "Mbuti Pygmies of the Rainforest",
+                    "description": "A classic (old) documentary which looks at the traditional lifestyle of a hunter gatherer society - the Mbuti Pygmies. Deep in the Itiri Rainforest (Congo), Sangoo ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-X5cD6jd914/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-X5cD6jd914/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-X5cD6jd914/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Michael Skinner",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Semba ": [
@@ -907,7 +1689,41 @@
             "artist": "Various",
             "song": "Angola 60's",
             "year": "(1956-1970)",
-            "url": "https://www.youtube.com/results?search_query=Various-Angola%2060%26%23x27%3Bs"
+            "url": "https://www.youtube.com/results?search_query=Various-Angola%2060%26%23x27%3Bs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/EIUGfdTgf8-P-TZ3AF3OljKtIc8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "EZsWSSvwxAg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-26T10:17:44.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Angola 60&#39;s 1956-1970 Folk*World*Afrobeat Full Album Music Compilation",
+                    "description": "Label:Buda Musique Country:France Released:? You can buy it here : http://amzn.to/2AkpDDA Follow on Facebook : https://www.facebook.com/sunnyboy66/ ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Soukous ": [
@@ -917,7 +1733,41 @@
             "artist": "Diblo Dibala With Loketo",
             "song": "Super Soukous",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Diblo%20Dibala%20With%20Loketo-Super%20Soukous"
+            "url": "https://www.youtube.com/results?search_query=Diblo%20Dibala%20With%20Loketo-Super%20Soukous",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/lNYxf4_DrNftmAEPukqyUWnCH1c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "hN8VFoMk6LU"
+                },
+                "snippet": {
+                    "publishedAt": "2017-05-13T01:36:21.000Z",
+                    "channelId": "UCSFsnJhX8SZfLjowGBgqAAQ",
+                    "title": "Diblo Dibala, Loketo, Kanda Bongo Man: Super K (1987 audio\ud83c\udfb6)",
+                    "description": "Featuring the complete \"Super K/Amour et Souvenir\" (1987) Original LP. The year is 1987, Kanda and Diblo partnered on the \"Sai-Liza\" (1987) album, Diblo ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Shaddy Raddy",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Famo ": [
@@ -927,7 +1777,41 @@
             "artist": "Manka Le Phallang",
             "song": "Mokhosi",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Manka%20Le%20Phallang-Mokhosi"
+            "url": "https://www.youtube.com/results?search_query=Manka%20Le%20Phallang-Mokhosi",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/znb7qkMbgJm4rS60SHMpwIH00K0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "LovwaOAKuio"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-03T00:45:39.000Z",
+                    "channelId": "UCMLJbz_lWV9CuIUG54EhFDQ",
+                    "title": "Manka Le Phallang - Mokhosi",
+                    "description": "Lesotho Music.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LovwaOAKuio/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LovwaOAKuio/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LovwaOAKuio/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Bi Tra",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mbube ": [
@@ -937,7 +1821,41 @@
             "artist": "Ladysmith Black Mambazo",
             "song": "Shaka Zulu",
             "year": "(1987)",
-            "url": "https://www.youtube.com/results?search_query=Ladysmith%20Black%20Mambazo-Shaka%20Zulu"
+            "url": "https://www.youtube.com/results?search_query=Ladysmith%20Black%20Mambazo-Shaka%20Zulu",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/BHkAVamY6j7HDj7lsTVj7tVrYpE\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL947A22061828730F"
+                },
+                "snippet": {
+                    "publishedAt": "2012-05-13T20:58:38.000Z",
+                    "channelId": "UClxqy3S0Y-QpTy07SlolBwA",
+                    "title": "Ladysmith Black Mambazo",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/X2xl2fsdyGM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/X2xl2fsdyGM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/X2xl2fsdyGM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "enginekid88",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Jit ": [
@@ -947,7 +1865,41 @@
             "artist": "The Green Arrows",
             "song": "4-Track Recording Session",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=The%20Green%20Arrows-4-Track%20Recording%20Session"
+            "url": "https://www.youtube.com/results?search_query=The%20Green%20Arrows-4-Track%20Recording%20Session",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/U0cMVEfIyitztoEetxAU9d8GZW4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "oTR1smiNawY"
+                },
+                "snippet": {
+                    "publishedAt": "2012-06-21T19:17:23.000Z",
+                    "channelId": "UCVn5x5T3MXNXPuse-meY3Pw",
+                    "title": "The Green Arrows - Mwana Waenda",
+                    "description": "Pais: Zimbabwe.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oTR1smiNawY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oTR1smiNawY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oTR1smiNawY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Dany F",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nguni Folk ": [
@@ -957,7 +1909,41 @@
             "artist": "The Ngqoko Women's Ensemble",
             "song": "Afrique du Sud - Le chant des femmes Xhosa",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=The%20Ngqoko%20Women%26%23x27%3Bs%20Ensemble-Afrique%20du%20Sud%20-%20Le%20chant%20des%20femmes%20Xhosa"
+            "url": "https://www.youtube.com/results?search_query=The%20Ngqoko%20Women%26%23x27%3Bs%20Ensemble-Afrique%20du%20Sud%20-%20Le%20chant%20des%20femmes%20Xhosa",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/zlhGnfEI4gz1IHRow9jBEOPmo2c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "1KkrEAhFFPE"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-21T14:10:23.000Z",
+                    "channelId": "UCGaK_pcdL5nsPyWfLAZY4WQ",
+                    "title": "Danse umngqungqo: Wavel&#39; uSontonjane",
+                    "description": "Provided to YouTube by The Orchard Enterprises Danse umngqungqo: Wavel' uSontonjane \u00b7 The Ngqoko Women's Ensemble Afrique du Sud: Le chant des ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/1KkrEAhFFPE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/1KkrEAhFFPE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/1KkrEAhFFPE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The Ngqoko Women's Ensemble - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chimurenga ": [
@@ -967,7 +1953,41 @@
             "artist": "Thomas Mapfumo",
             "song": "The Chimurenga Singles",
             "year": "(1976-1980)",
-            "url": "https://www.youtube.com/results?search_query=Thomas%20Mapfumo-The%20Chimurenga%20Singles"
+            "url": "https://www.youtube.com/results?search_query=Thomas%20Mapfumo-The%20Chimurenga%20Singles",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/DG4onEinQl4dFiwfGi2LcOnSB3U\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ISgeA3yZ-ww"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-22T17:21:57.000Z",
+                    "channelId": "UCGXUynvII3-tyDjsZLiODAA",
+                    "title": "thomas mapfumo - the chimurenga singles (1976-1980)",
+                    "description": "https://thomas-mapfumo.com/ 1 chauya chirizevha (charged for silver) 0:00 2 tozvireva kupiko (what we mean) 4:09 3 pfumvu pa ruzevha (push on silver) 8:05 4 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "valuska",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Shona Mbira ": [
@@ -977,7 +1997,41 @@
             "artist": "Various",
             "song": "Africa - Shona Mbira Music",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Various-Africa%20-%20Shona%20Mbira%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Africa%20-%20Shona%20Mbira%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/uWwitHf3ljfkZX3UT8BETGSI9Hc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "wHpGRJKfzAM"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-11T18:11:18.000Z",
+                    "channelId": "UCDZdTfYMd7as8l-6m-HMvVA",
+                    "title": "Zimbabwe: The Soul of Mbira / Traditions of the Shona People",
+                    "description": "This record is for purposes of dissemination and non commercial use. ................................................................................... 1. Nhemamusasa 2. Taireva 3. Nyamaropa.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wHpGRJKfzAM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wHpGRJKfzAM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wHpGRJKfzAM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ronald Grinder",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Khoisan Folk ": [
@@ -987,7 +2041,41 @@
             "artist": "Various",
             "song": "Instrumental Music of the Kalahari San",
             "year": "(1982)",
-            "url": "https://www.youtube.com/results?search_query=Various-Instrumental%20Music%20of%20the%20Kalahari%20San"
+            "url": "https://www.youtube.com/results?search_query=Various-Instrumental%20Music%20of%20the%20Kalahari%20San",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/JZGgU0sTPSfNECCABCXUnHo7cQY\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL6IAxWbWmJqmkOHSCoSSKc06Q6j8ntiw3"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-06T08:41:13.000Z",
+                    "channelId": "UCkxFG8Y58XA1tMLrB5TmMqQ",
+                    "title": "Instrumental Music of the Kalahari San",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Fl23SoEXD34/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Fl23SoEXD34/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Fl23SoEXD34/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Matthias0000",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sotho_Tswana Folk ": [
@@ -997,7 +2085,41 @@
             "artist": "Various",
             "song": "Tswana and Sotho Voices",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-Tswana%20and%20Sotho%20Voices"
+            "url": "https://www.youtube.com/results?search_query=Various-Tswana%20and%20Sotho%20Voices",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/HgnrlIyK5ZadVAVlQhCpEPx1ocw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_ulabng3jDc"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-29T19:41:53.000Z",
+                    "channelId": "UC2Jq-tF8wherx_mdwHwU15Q",
+                    "title": "Tswana and Sotho Voices: Botswana, South Africa and Lesotho",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_ulabng3jDc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_ulabng3jDc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_ulabng3jDc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Guilherme Souza",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mbaqanga ": [
@@ -1007,7 +2129,41 @@
             "artist": "Various",
             "song": "Next Stop...Soweto - Township Sounds From the Golden Age of Mbaqanga",
             "year": "(2010)",
-            "url": "https://www.youtube.com/results?search_query=Various-Next%20Stop...Soweto%20-%20Township%20Sounds%20From%20the%20Golden%20Age%20of%20Mbaqanga"
+            "url": "https://www.youtube.com/results?search_query=Various-Next%20Stop...Soweto%20-%20Township%20Sounds%20From%20the%20Golden%20Age%20of%20Mbaqanga",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/04yMFhIxX7s8Vpd-b0GtK6SaenI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "LAykqLL7eM8"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-28T06:27:43.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Next Stop... Soweto - Township Sounds From The Golden Age Of Mbaqanga African Music",
+                    "description": "Label:Strut Country:Europe Released:2010 Follow on Facebook : https://www.facebook.com/sunnyboy66/ Follow on Twitter : https://twitter.com/sunnyboy_66 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LAykqLL7eM8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LAykqLL7eM8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LAykqLL7eM8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Township Jive ": [
@@ -1017,7 +2173,41 @@
             "artist": "Various",
             "song": "The Kings and Queens of Township Jive",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Kings%20and%20Queens%20of%20Township%20Jive"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Kings%20and%20Queens%20of%20Township%20Jive",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/5Dxw8pKv7NLkJHSWlu0_hbOFtPE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-muRu4pHMSw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-05-12T09:49:58.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "VA \u200e\u2013 The Kings And Queens Of Township Jive (Modern Roots Of The Indestructible Beat Of Soweto) Afro",
+                    "description": "Label:Earthworks    Country:UK & Europe Released:1990 Buy Amzn (USA) : https://amzn.to/2HWxESJ (affiliate) Buy Amzn (UK) : https://amzn.to/2HpGE67 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-muRu4pHMSw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-muRu4pHMSw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-muRu4pHMSw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Comorian ": [
@@ -1027,7 +2217,41 @@
             "artist": "Various",
             "song": "Musiques traditionelles des Comores",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-Musiques%20traditionelles%20des%20Comores"
+            "url": "https://www.youtube.com/results?search_query=Various-Musiques%20traditionelles%20des%20Comores",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/xfV2dXhR3F8-uQScWfY_PJi30Zo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WNcVbP1w_0U"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-07T11:41:09.000Z",
+                    "channelId": "UCdjTkN38JSTeT9ClrL5NBzw",
+                    "title": "Various - Musique Traditionelles des Comores (AFRICAN FOLK)",
+                    "description": "Musique Traditionelles des Comores Various Artists (Baurera, Ajam, Fatouma Mhoma) Comoros (cicra 1990) AFRICAN FOLK/ FOLK DANCE/ GABUSI Tracklist: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WNcVbP1w_0U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WNcVbP1w_0U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WNcVbP1w_0U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Open the Crate",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kidumbak ": [
@@ -1037,7 +2261,41 @@
             "artist": "Makame Faki",
             "song": "Kidumbaki asilia",
             "year": "(2015)",
-            "url": "https://www.youtube.com/results?search_query=Makame%20Faki-Kidumbaki%20asilia"
+            "url": "https://www.youtube.com/results?search_query=Makame%20Faki-Kidumbaki%20asilia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/yDwPffSt6mKZZY0DTjK94xm3iNU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ZZWFhWZbprE"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-12T07:12:37.000Z",
+                    "channelId": "UC_JdIcebBONUfFrFJhlDxjg",
+                    "title": "Makame Faki-The Father of Kidumbak (NYUAD Jterm 2018 Zanzibar)",
+                    "description": "J-term Final Project for class Audiovisual ethnography. Director: Youssef Azzam Cinematographer: Febin Thapa Magar Editor: Adele Bea Ciptse Sound Editor: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ZZWFhWZbprE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ZZWFhWZbprE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ZZWFhWZbprE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Febin Thapa Magar",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Marrabenta ": [
@@ -1047,7 +2305,41 @@
             "artist": "Various",
             "song": "Forgotten Guitars From Mozambique",
             "year": "(1955-1957)",
-            "url": "https://www.youtube.com/results?search_query=Various-Forgotten%20Guitars%20From%20Mozambique"
+            "url": "https://www.youtube.com/results?search_query=Various-Forgotten%20Guitars%20From%20Mozambique",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/FeFg8He0-nbEogOrieLnhDxya-s\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6DIgvxOuwHY"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-06T17:57:08.000Z",
+                    "channelId": "UCmAMQiYW3xrex2oIgpAYb0A",
+                    "title": "Aurelio Kowana - Uta Rungula Wamamane Lekaya",
+                    "description": "Do \u00e1lbum \"Forgotten Guitars From Mozambique\", trabalho de recolha etnogr\u00e1fica realizado entre 1955 e 1957. A maior parte dos m\u00fasicos gravados nesta ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Di\u00f3genes Breton",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ngoma ": [
@@ -1057,7 +2349,41 @@
             "artist": "Various",
             "song": "Music of Tanzania",
             "year": "(1999-2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Tanzania"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Tanzania",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_Yq1XGtc4hpBz3LGiGhtYmsF-CU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ysm-6CkQHpU"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-04T19:14:45.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 The Tanzania Sound : 1960&#39;s Tanzanian Pop Music African Afro Cuban Folk World Compilation",
+                    "description": "Label:Original Music Country:US Released:1993 Buy Amzn (USA) : http://amzn.to/2CvUwEt (affiliate) Buy Amzn (UK) : http://amzn.to/2HrRFjs (affiliate) Follow on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ysm-6CkQHpU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ysm-6CkQHpU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ysm-6CkQHpU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Taarab ": [
@@ -1067,7 +2393,41 @@
             "artist": "Various",
             "song": "Zanzibara - Volume 1 - Ikhwani Safaa Musical Club",
             "year": "(1905-2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-Zanzibara%20-%20Volume%201%20-%20Ikhwani%20Safaa%20Musical%20Club"
+            "url": "https://www.youtube.com/results?search_query=Various-Zanzibara%20-%20Volume%201%20-%20Ikhwani%20Safaa%20Musical%20Club",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/w_wHsC7lDyKYUdRU3oGZvihSFrk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "osB0R0Q8Yzo"
+                },
+                "snippet": {
+                    "publishedAt": "2007-12-16T13:23:37.000Z",
+                    "channelId": "UCQYDOJoBGqbEZXmGDY7UJRA",
+                    "title": "860118 Zanzibara #01",
+                    "description": "1905-2005 Cent ans de taarab \u00e0 Zanzibar La collection ZANZIBARA est consacr\u00e9e aux musiques populaires swahili de la c\u00f4te orientale de l'Afrique (Tanzanie, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "budamusique",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Batuque ": [
@@ -1077,7 +2437,8 @@
             "artist": "Various",
             "song": "Cape_Verde - Batuco From Santiago Island",
             "year": "(2003)",
-            "url": "https://www.youtube.com/results?search_query=Various-Cape_Verde%20-%20Batuco%20From%20Santiago%20Island"
+            "url": "https://www.youtube.com/results?search_query=Various-Cape_Verde%20-%20Batuco%20From%20Santiago%20Island",
+            "enriched": true
         }
     ],
     "Morna ": [
@@ -1087,7 +2448,41 @@
             "artist": "Ces\u00e1ria \u00c9vora",
             "song": "Cesaria",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Ces%C3%A1ria%20%C3%89vora-Cesaria"
+            "url": "https://www.youtube.com/results?search_query=Ces%C3%A1ria%20%C3%89vora-Cesaria",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/oF6gribREmDz9qUs_1hTZIAbXNg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "oWYKTiqPvYA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-09-17T13:39:18.000Z",
+                    "channelId": "UCU9uEAXVuoBCUvhCjwsooBA",
+                    "title": "Cesaria Evora Live D&#39;amor 2004 (Complete Concert)",
+                    "description": "Live At the Grand Rex, Paris April 2004, Cesaria Evora performes: Nutridinha, Isola, Vaquinha Mansa, Velocidade, Cretcheu Di Ceu, Bia d'Lulutcha, Lua Nha ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oWYKTiqPvYA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oWYKTiqPvYA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oWYKTiqPvYA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "alcom34",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Malagasy Folk ": [
@@ -1097,7 +2492,41 @@
             "artist": "Various",
             "song": "The Music of Madagascar - Classic Traditional Recordings of the 1930s",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Madagascar%20-%20Classic%20Traditional%20Recordings%20of%20the%201930s"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Madagascar%20-%20Classic%20Traditional%20Recordings%20of%20the%201930s",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/eckOC5fIPuwHeIhpCXU9jlcWgJA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "aqNkhZw3ndE"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-28T10:09:36.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Valiha Madagascar : 60s Madagascar Music Songs Folk World Country Traditional Oldies",
+                    "description": "Label:Ocora Format:Vinyl, LP Country:France Released:1963 Tracklist A1 \u2013Merina Musique Merina 00:00 A2 \u2013Merina Musique Merina 02:21 A3 \u2013Merina ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "S\u00e9ga ": [
@@ -1107,7 +2536,41 @@
             "artist": "Georges Fourcade",
             "song": "Le barde cr\u00e9ole",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Georges%20Fourcade-Le%20barde%20cr%C3%A9ole"
+            "url": "https://www.youtube.com/results?search_query=Georges%20Fourcade-Le%20barde%20cr%C3%A9ole",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0KvSBIXPSfSb8yyl5fYHQQsjo5s\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLdv8TqPNtHV_ZGbI1IG-PyzDFiZwx5wRB"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-18T07:25:41.000Z",
+                    "channelId": "UCuyO-UkTII7qpMa04N9vo3Q",
+                    "title": "Top Tracks - Georges Fourcade",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Georges Fourcade - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Maloya ": [
@@ -1117,7 +2580,41 @@
             "artist": "Firmin Viry",
             "song": "\u00cele de la R\u00e9union - Maloya",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Firmin%20Viry-%C3%8Ele%20de%20la%20R%C3%A9union%20-%20Maloya"
+            "url": "https://www.youtube.com/results?search_query=Firmin%20Viry-%C3%8Ele%20de%20la%20R%C3%A9union%20-%20Maloya",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/jmxwLpTMBf08yuBvC5hJDMAgaoQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ee7Yr-to9uI"
+                },
+                "snippet": {
+                    "publishedAt": "2010-06-04T23:44:04.000Z",
+                    "channelId": "UCHyX7a3vJC_Qz6uw86_KaMw",
+                    "title": "Caf\u00e9 Grill\u00e9 - Firmin Viry (974 Ile de la R\u00e9union)",
+                    "description": "Maloya traditionnel de l'Ile de la R\u00e9union ! Le Maloya est au patrimoine immat\u00e9riel de l'Unesco...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ee7Yr-to9uI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ee7Yr-to9uI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ee7Yr-to9uI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "mru95",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Berber ": [
@@ -1127,7 +2624,41 @@
             "artist": "Various",
             "song": "Music of Morocco",
             "year": "(1972)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Morocco"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Morocco",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/del7j-rYP-sBXYZHaXfkEqCGFEc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "mvRQtbqLPK8"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-30T13:21:46.000Z",
+                    "channelId": "UCaTAK8sh7rBkVXPyXdHCPLg",
+                    "title": "Music of Morocco : Chillout &amp; Traditional Music [1]",
+                    "description": "Music of Morocco : Chillout & Traditional Music Musique du Maroc : Chillout & Musique traditionnelle \u0645\u0648\u0633\u064a\u0642\u0649 \u0645\u063a\u0631\u0628\u064a\u0629 \u0647\u0627\u062f\u0626\u0629 M\u00fasica de Marreucos Let's make this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/mvRQtbqLPK8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/mvRQtbqLPK8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/mvRQtbqLPK8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Hatim Belhouari",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tuareg ": [
@@ -1137,7 +2668,41 @@
             "artist": "Various",
             "song": "Folk Music of the Sahara - Among the Tuareg of Libya",
             "year": "(2004)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Sahara%20-%20Among%20the%20Tuareg%20of%20Libya"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Sahara%20-%20Among%20the%20Tuareg%20of%20Libya",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/3Vi4eRxjv2TkykHaAA2QU7qdBy0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K6Upp1RKTnU"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-19T10:28:38.000Z",
+                    "channelId": "UC8W-HIdlQHSce-GrCghkSAA",
+                    "title": "Tuareg Libya",
+                    "description": "Photography Sasi Harib music by Tamikrest.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K6Upp1RKTnU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K6Upp1RKTnU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K6Upp1RKTnU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Sasi Harib",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sahrawi ": [
@@ -1147,7 +2712,41 @@
             "artist": "Various",
             "song": "Sahrauis - The Music of the Western Sahara",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sahrauis%20-%20The%20Music%20of%20the%20Western%20Sahara"
+            "url": "https://www.youtube.com/results?search_query=Various-Sahrauis%20-%20The%20Music%20of%20the%20Western%20Sahara",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/qkSmnJMgbsOnkh6Jwy5y_CgVgaM\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLA9A94420D519E37F"
+                },
+                "snippet": {
+                    "publishedAt": "2012-08-09T00:02:01.000Z",
+                    "channelId": "UCxmFNKV3EeuMyvptqbTsKvQ",
+                    "title": "Western Sahara Music",
+                    "description": "Western Sahara, or Sahara Occidental, was long a Spanish colony on the coast of West Africa. The Bafour and Serrer peoples have lived there for centuries.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hdUIrc7isZs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hdUIrc7isZs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hdUIrc7isZs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ericwhollem",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Coptic ": [
@@ -1157,7 +2756,41 @@
             "artist": "Choir of the Institute of Coptic Studies",
             "song": "Egypt - Coptic Orthodox Church Hymns",
             "year": "(2015)",
-            "url": "https://www.youtube.com/results?search_query=Choir%20of%20the%20Institute%20of%20Coptic%20Studies-Egypt%20-%20Coptic%20Orthodox%20Church%20Hymns"
+            "url": "https://www.youtube.com/results?search_query=Choir%20of%20the%20Institute%20of%20Coptic%20Studies-Egypt%20-%20Coptic%20Orthodox%20Church%20Hymns",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/3UiXDtuOjsrySoCPZ8x2C5CCYdc\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL5wSmhPb25V-Ksdz4c0j8VUo7-hgMYhx-"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-27T19:32:10.000Z",
+                    "channelId": "UChEz9iZOfRGOsO5kVczcq_g",
+                    "title": "Popular Coptic Orthodox Church of Alexandria & Hymn videos",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ggUmqxwHcHI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ggUmqxwHcHI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ggUmqxwHcHI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Coptic Orthodox Church of Alexandria - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gnawa ": [
@@ -1167,7 +2800,41 @@
             "artist": "Various",
             "song": "Gnawa Music of Marrakesh - Night Spirit Masters",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Various-Gnawa%20Music%20of%20Marrakesh%20-%20Night%20Spirit%20Masters"
+            "url": "https://www.youtube.com/results?search_query=Various-Gnawa%20Music%20of%20Marrakesh%20-%20Night%20Spirit%20Masters",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/11zzyfOcGC37D7qjdf6Ij-5bE2s\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RpmAOj7PXBw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-06T00:12:36.000Z",
+                    "channelId": "UC8IZ-0Rrbbl6ihYzwh8i6bw",
+                    "title": "Gnawa Music of Marrakesh - Night Spirit Masters (Full Album)",
+                    "description": "Recorded in the Medina of Marrakesh, Morocco. Released via Axiom in 1990. Sit back and enjoy these Moroccan masters at work.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RpmAOj7PXBw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RpmAOj7PXBw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RpmAOj7PXBw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "basscadet",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ethiopian Church ": [
@@ -1177,7 +2844,41 @@
             "artist": "Ethiopian Orthodox Christian Church",
             "song": "'Aqwaqwam - Music and Dance of Heaven",
             "year": "(2003)",
-            "url": "https://www.youtube.com/results?search_query=Ethiopian%20Orthodox%20Christian%20Church-%26%23x27%3BAqwaqwam%20-%20Music%20and%20Dance%20of%20Heaven"
+            "url": "https://www.youtube.com/results?search_query=Ethiopian%20Orthodox%20Christian%20Church-%26%23x27%3BAqwaqwam%20-%20Music%20and%20Dance%20of%20Heaven",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/o_-1VmMETNBPWyQB-p6Id8B2rRI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7EmTcUZVTTo"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-12T04:29:03.000Z",
+                    "channelId": "UCGoNozP_2TZV5hVciGW1y6Q",
+                    "title": "Ethiopian chant | Wikipedia audio article",
+                    "description": "This is an audio version of the Wikipedia Article: Ethiopian chant Listening is a more natural way of learning, when compared to reading. Written language only ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7EmTcUZVTTo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7EmTcUZVTTo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7EmTcUZVTTo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "wikipedia tts",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tigrinya ": [
@@ -1187,7 +2888,41 @@
             "artist": "Various",
             "song": "\u00c9thiopiques 5 - Tigrigna Music",
             "year": "(1970-1975)",
-            "url": "https://www.youtube.com/results?search_query=Various-%C3%89thiopiques%205%20-%20Tigrigna%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-%C3%89thiopiques%205%20-%20Tigrigna%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/KYQcIJabE_7HDn2eAT3l1aLGO3U\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6WDyArkIPQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-17T08:17:12.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Ethiopiques Vol 5: Tigrigna Music 1970-1975 Full Album Compilation",
+                    "description": "Label:Buda Musique    Series:\u00c9thiopiques \u2013 5 Country:France Released:1999 Buy Amazon (USA) : http://amzn.to/2EsbeHs (affiliate) Buy Amazon (UK) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6WDyArkIPQQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6WDyArkIPQQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6WDyArkIPQQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tizita ": [
@@ -1197,7 +2932,41 @@
             "artist": "Various",
             "song": "\u00c9thiopiques 10 - Tezeta - Ethiopian Blues & Ballads",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Various-%C3%89thiopiques%2010%20-%20Tezeta%20-%20Ethiopian%20Blues%20%26amp%3B%20Ballads"
+            "url": "https://www.youtube.com/results?search_query=Various-%C3%89thiopiques%2010%20-%20Tezeta%20-%20Ethiopian%20Blues%20%26amp%3B%20Ballads",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/yypyFmdO2trXxHzF479eKkTuht8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0dwPRHBr2rM"
+                },
+                "snippet": {
+                    "publishedAt": "2016-09-17T14:39:17.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Ethiopiques Vol 10: Tezeta - Ethiopian Blues &amp; Ballads Full Album Music Compilation",
+                    "description": "Label:Buda Musique    Series:\u00c9thiopiques \u2013 10 Country:France Released:05 Feb 2002 Buy Amazon (USA) : http://amzn.to/2FvhTjs (affiliate) Buy Amazon (UK) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0dwPRHBr2rM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0dwPRHBr2rM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0dwPRHBr2rM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nubian ": [
@@ -1207,7 +2976,41 @@
             "artist": "Various",
             "song": "The Music of Islam - Volume 3 - Music of the Nubians",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Islam%20-%20Volume%203%20-%20Music%20of%20the%20Nubians"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Islam%20-%20Volume%203%20-%20Music%20of%20the%20Nubians",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/qgKYcysBW0EDQYJZhKizbKnuxko\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "R-rXbleO08M"
+                },
+                "snippet": {
+                    "publishedAt": "2014-02-22T09:45:08.000Z",
+                    "channelId": "UCUoe5_S29VmWQdO1R-4QCAg",
+                    "title": "The Music of Islam, Vol. 3: Music of the Nubians, Aswan, Egypt",
+                    "description": "\u0b9c\u06e9\u06de\u06e9\u0b9c\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25ad\u25cb Artists: Aswan Troupe for Folkloric Arts - Ensemble Fawzy, Fawzy - Conductor Album: The Music...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/R-rXbleO08M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/R-rXbleO08M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/R-rXbleO08M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Al Thi'b",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Qaraami ": [
@@ -1217,7 +3020,41 @@
             "artist": "Various",
             "song": "Sweet as Broken Dates - Lost Somali Tapes From the Horn of Africa",
             "year": "(2017)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sweet%20as%20Broken%20Dates%20-%20Lost%20Somali%20Tapes%20From%20the%20Horn%20of%20Africa"
+            "url": "https://www.youtube.com/results?search_query=Various-Sweet%20as%20Broken%20Dates%20-%20Lost%20Somali%20Tapes%20From%20the%20Horn%20of%20Africa",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/MXtCESNyztyTuLc7lqR7rsTgMXs\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL7BeA-6eQypb2XMPzs0eVCD7Jk_mZ9AhT"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-05T20:09:53.000Z",
+                    "channelId": "UCNX9miWwqbJ0QHqPEOxDJew",
+                    "title": "Various Artists - Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
+                    "description": "Buy the Album: https://ostinato-records.lnk.to/sweetasbrokendates Taken from Various Artists \u00ab Sweet as Broken Dates: Lost Somali Tapes from the Horn of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ostinato Records",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Anasheed ": [
@@ -1227,7 +3064,41 @@
             "artist": "Sami Yusuf",
             "song": "Barakah",
             "year": "(2016)",
-            "url": "https://www.youtube.com/results?search_query=Sami%20Yusuf-Barakah"
+            "url": "https://www.youtube.com/results?search_query=Sami%20Yusuf-Barakah",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Sw6wS3dg1WOaUghfVvxwNlhesaQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ho9Pd9TMN-M"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-20T15:58:56.000Z",
+                    "channelId": "UCVstJXLi_pX4IbFSkwQnkmg",
+                    "title": "Sami Yusuf - Barakah (Bereket)",
+                    "description": "RUHAN\u0130 M\u00dcZ\u0130\u011e\u0130N TEK ADRES\u0130 = (SAM\u0130 YUSUF) SAM\u0130 YUSUF -- BARAKAH [BARAKAH(2016)]",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ho9Pd9TMN-M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ho9Pd9TMN-M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ho9Pd9TMN-M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ahmet YETK\u0130N",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabic Classical ": [
@@ -1237,7 +3108,41 @@
             "artist": "Various",
             "song": "The Music of Isl\u0101m, Volume 1 - Al_Q\u0101hir",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Isl%C4%81m%2C%20Volume%201%20-%20Al_Q%C4%81hir"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Isl%C4%81m%2C%20Volume%201%20-%20Al_Q%C4%81hir",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/crEW12hjWsieMPIy-bj5u-pGqpU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "r2JBE7VC42U"
+                },
+                "snippet": {
+                    "publishedAt": "2008-11-17T13:26:45.000Z",
+                    "channelId": "UCv_MNBw_-tu8yIAHRKsTw6w",
+                    "title": "Salafi Wahhabi Najdi Nashid Nasheed",
+                    "description": "According to us Salafis/Ahle Hadith/ Wahhabis/Najdis, it is kufr, shirk and bida to recite nashids praising the Prophet (pbuh), Sahaba, Ahl al Bait or Awliya but it is ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/r2JBE7VC42U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/r2JBE7VC42U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/r2JBE7VC42U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "binbaaznajdi",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Al_Maqam Al_Iraqi ": [
@@ -1247,7 +3152,41 @@
             "artist": "Y\u00fbsuf Omar",
             "song": "Iraqi Maq\u00e2m - Baghdad Tradition",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Y%C3%BBsuf%20Omar-Iraqi%20Maq%C3%A2m%20-%20Baghdad%20Tradition"
+            "url": "https://www.youtube.com/results?search_query=Y%C3%BBsuf%20Omar-Iraqi%20Maq%C3%A2m%20-%20Baghdad%20Tradition",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/aOQmH4eKHPoMm_7iiGeuTYbRxgo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "XEKW3JWlGBo"
+                },
+                "snippet": {
+                    "publishedAt": "2009-06-07T00:26:30.000Z",
+                    "channelId": "UCffs-gWxrirFBjcue-fhSjw",
+                    "title": "\u064a\u0648\u0633\u0641 \u0639\u0645\u0631 - \u062f\u0632\u0646\u064a \u0648\u0627\u0641\u0647\u0645 \u0645\u0631\u0627\u0645\u064a - \u062a\u0631\u0627\u062b \u0639\u0631\u0627\u0642\u064a Dizzani - Yusuf Omar",
+                    "description": "\u0628\u0633\u062a\u0647 \u0628\u063a\u062f\u0627\u062f\u064a\u0629 \u0642\u062f\u064a\u0645\u0629 \"\u062f\u0632\u0646\u064a \u0648\u0627\u0639\u0631\u0641 \u0645\u0631\u0627\u0645\u064a\" (\u0627\u0644\u062d\u0627\u0646 \u0627\u0644\u0645\u0644\u0627 \u0639\u062b\u0645\u0627\u0646 \u0627\u0644\u0645\u0648\u0635\u0644\u064a) \u0645\u0646 \u0646\u063a\u0645 \u0627\u0644\u0628\u064a\u0627\u062a \u0648\u0627\u064a\u0642\u0627\u0639 \u0633\u0646\u0643\u064e\u064a\u0646 \u0633\u0645\u0627\u0639\u064a \u0664/\u0666. \u0645\u0646...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/XEKW3JWlGBo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/XEKW3JWlGBo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/XEKW3JWlGBo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Iraqi Maqam",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Andalusian Classical ": [
@@ -1257,7 +3196,41 @@
             "artist": "Gregorio Paniagua",
             "song": "Musique arabo_andalouse",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Gregorio%20Paniagua-Musique%20arabo_andalouse"
+            "url": "https://www.youtube.com/results?search_query=Gregorio%20Paniagua-Musique%20arabo_andalouse",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/lyE_R3sZtLzy2lXJI950US-vIT0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0ol5vTkyd6g"
+                },
+                "snippet": {
+                    "publishedAt": "2012-06-27T20:17:33.000Z",
+                    "channelId": "UCTpBagHN19rSdWA-xh9olcA",
+                    "title": "Music of Al-Andalus - Musique Arabo-Andalouse - Atrium Musicae de Madrid",
+                    "description": "Movements in the Nouba musical form of Al-Andalus (Moorish/Arabic Spain, 8th-15th centuries), performed by Atrium Musicae of Madrid under the direction of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0ol5vTkyd6g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0ol5vTkyd6g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0ol5vTkyd6g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Japeter2000",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Traditional Arabic Pop ": [
@@ -1267,7 +3240,41 @@
             "artist": "Umm Kulthum",
             "song": "Oum Kaltsoum - Volume 1",
             "year": "(1926)",
-            "url": "https://www.youtube.com/results?search_query=Umm%20Kulthum-Oum%20Kaltsoum%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Umm%20Kulthum-Oum%20Kaltsoum%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/EfuT5Cn6vhB10PYgD7AfWqELn0Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "58_wPaOh7M4"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-28T23:12:50.000Z",
+                    "channelId": "UCGdDAO30Ko4A-eQzLN1JbkQ",
+                    "title": "Al Nil",
+                    "description": "Provided to YouTube by Believe SAS Al Nil \u00b7 Oum Kalthoum Diva of Arabia Vol. 1 \u2117 JB Production Released on: 2018-04-12 Author: Shawsky Author: Soumbati ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/58_wPaOh7M4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/58_wPaOh7M4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/58_wPaOh7M4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Umm Kulthum - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabic Pop ": [
@@ -1277,7 +3284,41 @@
             "artist": "Various",
             "song": "Choubi Choubi! Folk & Pop Sounds From Iraq",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-Choubi%20Choubi%21%20Folk%20%26amp%3B%20Pop%20Sounds%20From%20Iraq"
+            "url": "https://www.youtube.com/results?search_query=Various-Choubi%20Choubi%21%20Folk%20%26amp%3B%20Pop%20Sounds%20From%20Iraq",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0BTUcjGX7mpfH5U2wDk2p1rwue0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_8WAUQHesrc"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-12T15:01:20.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Vaious  - Choubi Choubi! Folk And Pop Songs From Iraq Rock Folk Album Compilation Arabic",
+                    "description": "Label:Sublime Frequencies    Series:Folk And Pop Sounds From Iraq \u2013 Vol. 1 Format:2 \u00d7 Vinyl, LP,Vinyl, 7\", 33 \u2153 RPM Compilation, Limited Edition, Reissue, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_8WAUQHesrc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_8WAUQHesrc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_8WAUQHesrc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Azerbaijani Traditional ": [
@@ -1287,7 +3328,41 @@
             "artist": "Alim Qasimov",
             "song": "Anthology of The Mu\u011fam of Azerbaijan - Volume 1",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Alim%20Qasimov-Anthology%20of%20The%20Mu%C4%9Fam%20of%20Azerbaijan%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Alim%20Qasimov-Anthology%20of%20The%20Mu%C4%9Fam%20of%20Azerbaijan%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ie0DjpGtRi38Y82HGSG_bMNSGCo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "R5g3UISawi8"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-07T11:48:30.000Z",
+                    "channelId": "UCPDpf0pp8GZul1kHi7PJgbg",
+                    "title": "Mugam chargah",
+                    "description": "Provided to YouTube by Believe SAS Mugam chargah \u00b7 Alem Kassimov, Elkh\u00e2n Mansurov, Malik Mansurov Mugam d'Azerba\u00efdjan : Anthologie du Mugam vol.1 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/R5g3UISawi8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/R5g3UISawi8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/R5g3UISawi8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Alem Kassimov - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Balochi Traditional ": [
@@ -1297,7 +3372,41 @@
             "artist": "The Baluchi Ensemble of Karachi",
             "song": "Love Songs and Trance Hymns",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=The%20Baluchi%20Ensemble%20of%20Karachi-Love%20Songs%20and%20Trance%20Hymns"
+            "url": "https://www.youtube.com/results?search_query=The%20Baluchi%20Ensemble%20of%20Karachi-Love%20Songs%20and%20Trance%20Hymns",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/KjkHEwV4P7PIvpqC7uBlcGwe5Mk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_YnjQ3MjuPg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-10-05T13:01:06.000Z",
+                    "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+                    "title": "Ya Qurban, Khumariyaan, Coke Studio Season 11, Episode 7",
+                    "description": "YaQurban, a Pashto song, is the perfect reflection of Pakhtun music by Khumariyaan. Rubab, in conversation with percussion assembles a distinctive beat ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_YnjQ3MjuPg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_YnjQ3MjuPg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_YnjQ3MjuPg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Coke Studio",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ghazal ": [
@@ -1307,7 +3416,41 @@
             "artist": "Mahwash",
             "song": "Ghazals Afghans",
             "year": "(2007)",
-            "url": "https://www.youtube.com/results?search_query=Mahwash-Ghazals%20Afghans"
+            "url": "https://www.youtube.com/results?search_query=Mahwash-Ghazals%20Afghans",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/FCBJnhmYt8oCSsJ3x5a3yQbgfAA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ywB2GlRumyg"
+                },
+                "snippet": {
+                    "publishedAt": "2013-05-30T21:56:30.000Z",
+                    "channelId": "UCyJzpu7o-jMJW9fl8O1eBlg",
+                    "title": "Khuye Atashin [An Impassioned Nature] - Ghazals Afghans",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ywB2GlRumyg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ywB2GlRumyg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ywB2GlRumyg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "bassil othman",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Iranian Folk ": [
@@ -1317,7 +3460,41 @@
             "artist": "Ghulam Hossein Ghafari & Zulfaqar 'Askarian",
             "song": "Chaharbaiti I - Folk Music of Khorasan",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Ghulam%20Hossein%20Ghafari%20%26amp%3B%20Zulfaqar%20%26%23x27%3BAskarian-Chaharbaiti%20I%20-%20Folk%20Music%20of%20Khorasan"
+            "url": "https://www.youtube.com/results?search_query=Ghulam%20Hossein%20Ghafari%20%26amp%3B%20Zulfaqar%20%26%23x27%3BAskarian-Chaharbaiti%20I%20-%20Folk%20Music%20of%20Khorasan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ZfGrKTSGLWrxsVZirhFLA8iMoso\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "VAHVMr68W9E"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-10T06:10:06.000Z",
+                    "channelId": "UC_8VlfZfcEhuQrg5lWVXXtw",
+                    "title": "Ghulam Hossein Ghafari &amp; Zulfaqar &#39;Askarian - Chaharbaiti I: Folk Music of Khorasan, Track 1",
+                    "description": "Released on cassette in 1975. \u0645\u0648\u0633\u06cc\u0642\u06cc \u0645\u062d\u0644\u06cc \u062e\u0631\u0627\u0633\u0627\u0646 \u2014 \u0686\u0647\u0627\u0631 \ufe91\u0640\u06cc\u0640\u0640\u062a \u06f1. \u063a\u0644\u0627\u0645 \u062d\u0633\u06cc\u0646 \u063a\u0641\u0627\u0631\u06cc , \u0630\u0648\u0627\u0644\u0641\u0642\u0627\u0631 \u0639\u0633\u06a9\u0631\u06cc\u0627\u0646.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VAHVMr68W9E/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VAHVMr68W9E/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VAHVMr68W9E/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Will Dudarov",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kurdish Folk ": [
@@ -1327,7 +3504,8 @@
             "artist": "Ali Akbar Moradi",
             "song": "Kurdish Music From Iran - Mystical Odes and Secular Music",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Ali%20Akbar%20Moradi-Kurdish%20Music%20From%20Iran%20-%20Mystical%20Odes%20and%20Secular%20Music"
+            "url": "https://www.youtube.com/results?search_query=Ali%20Akbar%20Moradi-Kurdish%20Music%20From%20Iran%20-%20Mystical%20Odes%20and%20Secular%20Music",
+            "enriched": true
         }
     ],
     "Moorish ": [
@@ -1337,7 +3515,41 @@
             "artist": "Khalifa Ould Eide & Dimi Mint Abba",
             "song": "Moorish Music From Mauritania",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Khalifa%20Ould%20Eide%20%26amp%3B%20Dimi%20Mint%20Abba-Moorish%20Music%20From%20Mauritania"
+            "url": "https://www.youtube.com/results?search_query=Khalifa%20Ould%20Eide%20%26amp%3B%20Dimi%20Mint%20Abba-Moorish%20Music%20From%20Mauritania",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/vUqo75FeDqIRNGbQxLX-80UIo70\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_FdpyLuYR7k"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-19T09:00:05.000Z",
+                    "channelId": "UCZIable1V1TzHJFG8xGiGHQ",
+                    "title": "Khalifa Ould Eide &amp; Dimi Mint Abba \u200e\u2013 Hassaniya Song for Dancing (Lableyda Wigsar) [Moorish Music]",
+                    "description": "Album : Moorish Music From Mauritania ( 1990 ) \"Hassaniya song to accompany dance with words and rhythm to encourage the dancer\" \"This is the first quality ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_FdpyLuYR7k/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_FdpyLuYR7k/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_FdpyLuYR7k/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SudenUni",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pashto Folk ": [
@@ -1347,7 +3559,8 @@
             "artist": "Various",
             "song": "Tea House Music of Afghanistan",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Various-Tea%20House%20Music%20of%20Afghanistan"
+            "url": "https://www.youtube.com/results?search_query=Various-Tea%20House%20Music%20of%20Afghanistan",
+            "enriched": true
         }
     ],
     "Persian Classical ": [
@@ -1357,7 +3570,8 @@
             "artist": "Mojtab\u00e2 Mirz\u00e2deh",
             "song": "Iranian Violin Improvising",
             "year": "(2007)",
-            "url": "https://www.youtube.com/results?search_query=Mojtab%C3%A2%20Mirz%C3%A2deh-Iranian%20Violin%20Improvising"
+            "url": "https://www.youtube.com/results?search_query=Mojtab%C3%A2%20Mirz%C3%A2deh-Iranian%20Violin%20Improvising",
+            "enriched": true
         }
     ],
     "Tajik Traditional ": [
@@ -1367,7 +3581,8 @@
             "artist": "Abduvali Abdurashidov",
             "song": "Tadjikistan - Chants et musiques classiques",
             "year": "(2013)",
-            "url": "https://www.youtube.com/results?search_query=Abduvali%20Abdurashidov-Tadjikistan%20-%20Chants%20et%20musiques%20classiques"
+            "url": "https://www.youtube.com/results?search_query=Abduvali%20Abdurashidov-Tadjikistan%20-%20Chants%20et%20musiques%20classiques",
+            "enriched": true
         }
     ],
     "Turkish Classical ": [
@@ -1377,7 +3592,8 @@
             "artist": "Hesp\u00e8rion XXI",
             "song": "Istanbul - Dimitrie Cantemir",
             "year": "(1673-1723)",
-            "url": "https://www.youtube.com/results?search_query=Hesp%C3%A8rion%20XXI-Istanbul%20-%20Dimitrie%20Cantemir"
+            "url": "https://www.youtube.com/results?search_query=Hesp%C3%A8rion%20XXI-Istanbul%20-%20Dimitrie%20Cantemir",
+            "enriched": true
         }
     ],
     "Turkish Sufi ": [
@@ -1387,7 +3603,8 @@
             "artist": "Kudsi Erguner & S\u00fcleyman Erguner",
             "song": "Sufi Music of Turkey",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Kudsi%20Erguner%20%26amp%3B%20S%C3%BCleyman%20Erguner-Sufi%20Music%20of%20Turkey"
+            "url": "https://www.youtube.com/results?search_query=Kudsi%20Erguner%20%26amp%3B%20S%C3%BCleyman%20Erguner-Sufi%20Music%20of%20Turkey",
+            "enriched": true
         }
     ],
     "Turkmen Traditional ": [
@@ -1397,7 +3614,8 @@
             "artist": "Various",
             "song": "Turkmenistan - Songs of Bakhshi Women",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Turkmenistan%20-%20Songs%20of%20Bakhshi%20Women"
+            "url": "https://www.youtube.com/results?search_query=Various-Turkmenistan%20-%20Songs%20of%20Bakhshi%20Women",
+            "enriched": true
         }
     ],
     "Uyghur Traditional ": [
@@ -1407,7 +3625,8 @@
             "artist": "The Abdulaziz Hashimov Group",
             "song": "Music of the Uighurs - Traditions of Ili & Kashgar",
             "year": "(2003)",
-            "url": "https://www.youtube.com/results?search_query=The%20Abdulaziz%20Hashimov%20Group-Music%20of%20the%20Uighurs%20-%20Traditions%20of%20Ili%20%26amp%3B%20Kashgar"
+            "url": "https://www.youtube.com/results?search_query=The%20Abdulaziz%20Hashimov%20Group-Music%20of%20the%20Uighurs%20-%20Traditions%20of%20Ili%20%26amp%3B%20Kashgar",
+            "enriched": true
         }
     ],
     "Uzbek Traditional ": [
@@ -1417,7 +3636,8 @@
             "artist": "Munadjat Yulchieva",
             "song": "World Network Volume 38 - Uzbekistan - A Haunting Voice",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Munadjat%20Yulchieva-World%20Network%20Volume%2038%20-%20Uzbekistan%20-%20A%20Haunting%20Voice"
+            "url": "https://www.youtube.com/results?search_query=Munadjat%20Yulchieva-World%20Network%20Volume%2038%20-%20Uzbekistan%20-%20A%20Haunting%20Voice",
+            "enriched": true
         }
     ],
     "Turkish Folk ": [
@@ -1427,7 +3647,8 @@
             "artist": "Various",
             "song": "Folk and Traditional Music of Turkey",
             "year": "(1953)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20and%20Traditional%20Music%20of%20Turkey"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20and%20Traditional%20Music%20of%20Turkey",
+            "enriched": true
         }
     ],
     "Turkish ": [
@@ -1437,7 +3658,8 @@
             "artist": "Various",
             "song": "Homegrown Istanbul - Volume 1",
             "year": "(2007)",
-            "url": "https://www.youtube.com/results?search_query=Various-Homegrown%20Istanbul%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Various-Homegrown%20Istanbul%20-%20Volume%201",
+            "enriched": true
         }
     ],
     "Karadeniz Folk ": [
@@ -1447,7 +3669,8 @@
             "artist": "Emin Ya\u011fc\u0131",
             "song": "Tulum - A Sound from the Black Sea",
             "year": "(2011)",
-            "url": "https://www.youtube.com/results?search_query=Emin%20Ya%C4%9Fc%C4%B1-Tulum%20-%20A%20Sound%20from%20the%20Black%20Sea"
+            "url": "https://www.youtube.com/results?search_query=Emin%20Ya%C4%9Fc%C4%B1-Tulum%20-%20A%20Sound%20from%20the%20Black%20Sea",
+            "enriched": true
         }
     ],
     "Zeybek ": [
