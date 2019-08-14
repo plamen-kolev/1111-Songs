@@ -5,7 +5,6 @@ import Song from "./components/song/Song";
 import Grid from '@material-ui/core/Grid';
 import {useStyles} from './utils/cssUtils';
 import LazyLoad from 'react-lazyload';
-import red from '@material-ui/core/colors/red';
 
 function App() {
 
@@ -21,7 +20,7 @@ function App() {
           <LazyLoad offset={0} height={100} placeholder={<Loading />}>
           {Object.keys(data).map(key => {
             return ( data[key].map(song => (
-                <Grid item xs={6} sm={3} md={2} lg={1}>
+                <Grid item xs={6} sm={3} md={2}>
                   <LazyLoad once={true}>
                     <Song boxShadow={10} {...song}/>
                   </LazyLoad>
