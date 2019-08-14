@@ -1,7 +1,7 @@
 import React from 'react';
 import Iframe from './Iframe';
 import IframeSubstitute from './IframeSubstitute';
-import { Typography, Divider } from '@material-ui/core';
+import { Typography } from '@material-ui/core';
 import {useStyles} from '../../utils/cssUtils';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
@@ -14,15 +14,16 @@ export default function (props) {
     return (
         <Card className={classes.card}>
             <CardContent>
-                <Typography className={classes.title} style={{minHeight: '100px', fontSize: '14px'}} color="textSecondary" gutterBottom>
+                <Typography className={classes.title} style={{minHeight: '80px', fontSize: '12px'}} color="textSecondary" gutterBottom>
                     {title}
-                                        {/* {isEnriched && <img alt={props.youtube.title} src={props.youtube.snippet.thumbnails.default.url}/>} */}
                     {/* <a href={props.url}>{title}</a> */}
                     {/* {isEnriched ? <Iframe {...props.youtube}/> : <IframeSubstitute />} */}
+                    
                 </Typography>
             </CardContent>
             <CardActions>
-                <Typography style={{fontSize: '10px'}} size="small">{props.genre}</Typography>
+                <Typography style={{fontSize: '10px'}}><a rel="noopener noreferrer" target="_blank" href={props.url}><i class="material-icons">open_in_browser</i></a></Typography>
+                <Typography style={{fontSize: '10px'}}>{props.genre}</Typography>
             </CardActions>
         </Card>
 

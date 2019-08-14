@@ -20,7 +20,7 @@ function App() {
           {Object.keys(data).map(key => {
             return ( data[key].map(song => (
               <LazyLoad offset={100} height={500} key={key} placeholder={<Loading />}>
-                <Grid item xs={3}>
+                <Grid item xs={2}>
                   <LazyLoad once={true}>
                     <Song {...song}/>
                   </LazyLoad>
