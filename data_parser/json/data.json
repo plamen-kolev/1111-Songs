@@ -3680,7 +3680,41 @@
             "artist": "Various",
             "song": "Efe ve Zeybek",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Various-Efe%20ve%20Zeybek"
+            "url": "https://www.youtube.com/results?search_query=Various-Efe%20ve%20Zeybek",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/7SfDFDUnvbxCKpW2iZKjW2bGLtI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "qp0Fm_wWMqQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-10-14T21:15:29.000Z",
+                    "channelId": "UCs3lhwLFFgUB5ChjvrtcMbw",
+                    "title": "B\u00d6YLE OYNAR EFE - ZEYBEK",
+                    "description": "Derler ki...K\u0131l\u0131c\u0131 keskin yapan y\u00fcrektir.... Derler ki...T\u00fcrk\u00fcn mayas\u0131, Asalet , Cesaret ve Adalet le yo\u011furulmu\u015ftur.... 57.ALAY.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qp0Fm_wWMqQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qp0Fm_wWMqQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qp0Fm_wWMqQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "57.ALAY",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Uzun Hava ": [
@@ -3690,7 +3724,41 @@
             "artist": "As\u0131m Kuzuluk",
             "song": "Amik Ve Barak Uzun Havalar\u0131",
             "year": "(2004)",
-            "url": "https://www.youtube.com/results?search_query=As%C4%B1m%20Kuzuluk-Amik%20Ve%20Barak%20Uzun%20Havalar%C4%B1"
+            "url": "https://www.youtube.com/results?search_query=As%C4%B1m%20Kuzuluk-Amik%20Ve%20Barak%20Uzun%20Havalar%C4%B1",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/eUgT5HARh_C8qJT8s1tb-98sbm4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "bPsGsu5nQ0A"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-29T12:33:41.000Z",
+                    "channelId": "UC_WpMKM2lC43y3engDpb9jw",
+                    "title": "As\u0131m Kuzuluk -  Benim Yarim (Kilisli K\u0131z) [ Amik ve Barak Uzun Havalar\u0131 \u00a9 2004 Kalan M\u00fczik ]",
+                    "description": "Amik ve Barak Uzun Havalar\u0131 \u00a9 2004 Kalan M\u00fczik iTunes'tan Sat\u0131n Almak \u0130\u00e7in http://geni.us/amikvebarak.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bPsGsu5nQ0A/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bPsGsu5nQ0A/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bPsGsu5nQ0A/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Kalan M\u00fczik",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ottoman Military ": [
@@ -3700,7 +3768,41 @@
             "artist": "Various",
             "song": "Turkish Military Band Music of Ottoman Empire",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Various-Turkish%20Military%20Band%20Music%20of%20Ottoman%20Empire"
+            "url": "https://www.youtube.com/results?search_query=Various-Turkish%20Military%20Band%20Music%20of%20Ottoman%20Empire",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/IC8cH3GljtsMyDnDtwTxjyvfoFA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_w1bUpaOf7E"
+                },
+                "snippet": {
+                    "publishedAt": "2014-01-15T14:26:54.000Z",
+                    "channelId": "UCg3IDU1BYKu6SJ66ZuTkCqA",
+                    "title": "Oldest Military Band Of the World - ATTACK MARCH",
+                    "description": "Mehter Band since 1300s. Anciently from Hun (Xun, Kun, Khun, Qun) Turks and medieval G\u00f6kt\u00fcrk Empire of AD 500s. Succession of Turks (some great T\u00fcrkish ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_w1bUpaOf7E/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_w1bUpaOf7E/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_w1bUpaOf7E/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Karaus",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kanto ": [
@@ -3710,7 +3812,8 @@
             "artist": "Various",
             "song": "Kantolar",
             "year": "(1905-1945)",
-            "url": "https://www.youtube.com/results?search_query=Various-Kantolar"
+            "url": "https://www.youtube.com/results?search_query=Various-Kantolar",
+            "enriched": true
         }
     ],
     "\u00d6zg\u00fcn M\u00fczik ": [
@@ -3720,7 +3823,41 @@
             "artist": "Z\u00fclf\u00fc Livaneli",
             "song": "Chants Revolutionnaires Turcs",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Z%C3%BClf%C3%BC%20Livaneli-Chants%20Revolutionnaires%20Turcs"
+            "url": "https://www.youtube.com/results?search_query=Z%C3%BClf%C3%BC%20Livaneli-Chants%20Revolutionnaires%20Turcs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Wj4vWQMFkUcLAhOiyfDmJx5hE3o\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLv839CEfotN7KleuWDGmenzUqBGEn1ERJ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-03T12:36:33.000Z",
+                    "channelId": "UCSQ3k5kCYxQEu3THFOIGk8g",
+                    "title": "Zulfu Livaneli - Chants Revolutionnaires Turcs",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/SakrDkz6CBY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/SakrDkz6CBY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/SakrDkz6CBY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "a.y.",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabesque ": [
@@ -3730,7 +3867,41 @@
             "artist": "Orhan Gencebay",
             "song": "Orhan Gencebay",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Orhan%20Gencebay-Orhan%20Gencebay"
+            "url": "https://www.youtube.com/results?search_query=Orhan%20Gencebay-Orhan%20Gencebay",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/B2U7N8QzJeGV0_mwT3teAsjAndw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "2hetiQwNW5Y"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-21T17:05:17.000Z",
+                    "channelId": "UCvmRzwmo-glFjk0WJq9Nm0w",
+                    "title": "ORHAN GENCEBAY&#39;IN EN \u0130Y\u0130 30 \u015eARKISI (orjinal)",
+                    "description": "0:00 ay\u015fen 5:39 bats\u0131n bu d\u00fcnya 11:14 ben do\u011farken \u00f6lm\u00fc\u015f\u00fcm 15:39 ben topraktan bir can\u0131m 22:08 beni b\u00f6yle sev 27:23 bir teselli ver 31:49 b\u0131rak\u0131nda ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2hetiQwNW5Y/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2hetiQwNW5Y/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2hetiQwNW5Y/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "gramofon",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Fantezi ": [
@@ -3740,7 +3911,41 @@
             "artist": "Y\u0131ld\u0131z Tilbe",
             "song": "Delikanl\u0131m",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Y%C4%B1ld%C4%B1z%20Tilbe-Delikanl%C4%B1m"
+            "url": "https://www.youtube.com/results?search_query=Y%C4%B1ld%C4%B1z%20Tilbe-Delikanl%C4%B1m",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ob6P9PVvB8dbovr3hftza4r1zk4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_mr6-q6Rpx4"
+                },
+                "snippet": {
+                    "publishedAt": "2008-03-05T21:06:47.000Z",
+                    "channelId": "UCOOCvoAXwAIFSRNYosckFEA",
+                    "title": "y\u0131ld\u0131z tilbe delikanl\u0131m",
+                    "description": "deilkanl\u0131m.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_mr6-q6Rpx4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_mr6-q6Rpx4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_mr6-q6Rpx4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ugur1love",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabic Folk ": [
@@ -3750,7 +3955,41 @@
             "artist": "Various",
             "song": "Give Me Love - Songs of the Brokenhearted - Baghdad",
             "year": "(1925-1929)",
-            "url": "https://www.youtube.com/results?search_query=Various-Give%20Me%20Love%20-%20Songs%20of%20the%20Brokenhearted%20-%20Baghdad"
+            "url": "https://www.youtube.com/results?search_query=Various-Give%20Me%20Love%20-%20Songs%20of%20the%20Brokenhearted%20-%20Baghdad",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/V53WMZ4t_hppIhkr_RIEvhwVMaY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "PzstB813PkA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-05-26T21:42:14.000Z",
+                    "channelId": "UCVasNt8I7FE0bHpz7M1dmJw",
+                    "title": "Fergetak Lilyon - Give Me Love: Songs Of The Brokenhearted - Baghdad, 1925-1929",
+                    "description": "Give Me Love: Songs Of The Brokenhearted - Baghdad, 1925-1929.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/PzstB813PkA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/PzstB813PkA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/PzstB813PkA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Alexandre Gwaz",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabic ": [
@@ -3760,7 +3999,41 @@
             "artist": "Various",
             "song": "Qat, Coffee & Qambus - Raw 45s From Yemen",
             "year": "(2012)",
-            "url": "https://www.youtube.com/results?search_query=Various-Qat%2C%20Coffee%20%26amp%3B%20Qambus%20-%20Raw%2045s%20From%20Yemen"
+            "url": "https://www.youtube.com/results?search_query=Various-Qat%2C%20Coffee%20%26amp%3B%20Qambus%20-%20Raw%2045s%20From%20Yemen",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/mF-KQ3JYEoZFiPjHzla2cBiVv64\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "QaniSmDnfRE"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-21T17:47:25.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Qat, Coffee &amp; Qambus: Raw 45s From Yemen : Folk, World, Country Music Collection Arabic",
+                    "description": "Label:Dust-to-Digital    Country:US Released:2013 Tracklist 1 \u2013Fatimah Al-Zaelaeyah Ya Mun Dakhal Bahr Al-Hawa (Hey, Who Enters The Sea Of Passion?)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/QaniSmDnfRE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/QaniSmDnfRE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/QaniSmDnfRE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Traditional Ra\u00ef ": [
@@ -3770,7 +4043,41 @@
             "artist": "Various",
             "song": "1970's Algerian Proto_Rai Underground",
             "year": "(2008)",
-            "url": "https://www.youtube.com/results?search_query=Various-1970%26%23x27%3Bs%20Algerian%20Proto_Rai%20Underground"
+            "url": "https://www.youtube.com/results?search_query=Various-1970%26%23x27%3Bs%20Algerian%20Proto_Rai%20Underground",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/OytEVCUVMFnv0J1BAA4dLHR4g6g\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WOhOgrNuA4Y"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-02T08:45:08.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 1970&#39;s Algerian Proto-Rai Underground Pop*Folk Music Compilation African",
+                    "description": "Label: Sublime Frequencies    Country:US Released:14 Oct 2008 You can buy it here : http://amzn.to/2jIn9uw (affiliate) or here : http://amzn.to/2iCCglA (affiliate) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WOhOgrNuA4Y/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WOhOgrNuA4Y/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WOhOgrNuA4Y/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Arabic Bellydance ": [
@@ -3780,7 +4087,41 @@
             "artist": "Mohammed El_Bakkar and His Oriental Ensemble",
             "song": "Port Said - Music of the Middle East",
             "year": "(1957)",
-            "url": "https://www.youtube.com/results?search_query=Mohammed%20El_Bakkar%20and%20His%20Oriental%20Ensemble-Port%20Said%20-%20Music%20of%20the%20Middle%20East"
+            "url": "https://www.youtube.com/results?search_query=Mohammed%20El_Bakkar%20and%20His%20Oriental%20Ensemble-Port%20Said%20-%20Music%20of%20the%20Middle%20East",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/zu8d2S8rxI1_3FqlVUo2hsBMmbA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WxJ-I1wp3Yc"
+                },
+                "snippet": {
+                    "publishedAt": "2015-06-15T10:45:56.000Z",
+                    "channelId": "UCkq54qoZlRzzOYUt1l-hvNg",
+                    "title": "Mohammed El-Bakkar - Port Said,Music Of The Middle East [FULL ALBUM] (Audio Fidelity 5833) 1957",
+                    "description": "1.PORT SAID (PORT SAID) 2.SAUDA SAUDA (DARK EYES) 3.BINT IL GERAN (GIRL NEXT DOOR) 4.BANAT ISKANDARIA (GIRLS OF ALEXANDRIA) 5.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WxJ-I1wp3Yc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WxJ-I1wp3Yc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WxJ-I1wp3Yc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "NIGHT BEAT RECORDS",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Dabke ": [
@@ -3790,7 +4131,41 @@
             "artist": "Various",
             "song": "Dabke \u2013 Sounds of the Syrian Houran",
             "year": "(2012)",
-            "url": "https://www.youtube.com/results?search_query=Various-Dabke%20%E2%80%93%20Sounds%20of%20the%20Syrian%20Houran"
+            "url": "https://www.youtube.com/results?search_query=Various-Dabke%20%E2%80%93%20Sounds%20of%20the%20Syrian%20Houran",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/AUnaLl3Exs5ELhFZoXvPIMWeghs\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLWkrJW0zArcaEFyk63rH5o9SCKtlDHz3K"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-09T15:56:36.000Z",
+                    "channelId": "UC8QAi7EGzZSepMg-uWVsPkg",
+                    "title": "Dabke \u2013 Sounds of the Syrian Houran",
+                    "description": "Sham Palace, 2012.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7fAMw-2cPDw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7fAMw-2cPDw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7fAMw-2cPDw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "gffgfggftyrhghgg",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cantillation ": [
@@ -3800,7 +4175,41 @@
             "artist": "Various",
             "song": "Mysteries of the Sabbath - Classical Cantorial Recordings",
             "year": "(1907-1947)",
-            "url": "https://www.youtube.com/results?search_query=Various-Mysteries%20of%20the%20Sabbath%20-%20Classical%20Cantorial%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Various-Mysteries%20of%20the%20Sabbath%20-%20Classical%20Cantorial%20Recordings",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/-BfOGVALv4By2NO5iqnG37DW5kQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jfnoO5SO514"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-29T03:55:36.000Z",
+                    "channelId": "UCbTsdTGL-HWyvrJ7SIjAz6A",
+                    "title": "Bar&#39;chu (Rafii) - Celebrating the Music of Sinai Temple With Cantor Feldman &amp; Friends",
+                    "description": "Bar'chu Composed by Jacqueline Rafii PRODUCED BY Cantor Marcus Feldman and Daniel Raijman VOCALS Cantorial Soloist Jacqueline Rafii Chloe ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jfnoO5SO514/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jfnoO5SO514/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jfnoO5SO514/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Cantor Marcus Feldman",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Klezmer ": [
@@ -3810,7 +4219,41 @@
             "artist": "Various",
             "song": "Klezmer Music - Early Yiddish Instrumental Music - The First Recordings",
             "year": "(1908-1927)",
-            "url": "https://www.youtube.com/results?search_query=Various-Klezmer%20Music%20-%20Early%20Yiddish%20Instrumental%20Music%20-%20The%20First%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Various-Klezmer%20Music%20-%20Early%20Yiddish%20Instrumental%20Music%20-%20The%20First%20Recordings",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/WK5xn0CJ0hi2LmBfJGEWHNQ7a6Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ayg23P-Yj-M"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-18T06:03:51.000Z",
+                    "channelId": "UC9A2NhJ3VPQdItk6Hjm40Qw",
+                    "title": "Klezmer    Early Yiddish Instrumental Music 1908 1927",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ayg23P-Yj-M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ayg23P-Yj-M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ayg23P-Yj-M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "mightysmeagol",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mizrahi ": [
@@ -3820,7 +4263,41 @@
             "artist": "Various",
             "song": "Music of the Oriental Jews",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Oriental%20Jews"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Oriental%20Jews",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/vonp4ilOjZHF76Pf1ybsnRaxeOI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "v2ZgNZzwIxY"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-26T06:49:09.000Z",
+                    "channelId": "UCh0a2MJE-hbqnCcj-Dlpgwg",
+                    "title": "Oriental Mizrachit Hits Medley  - Jewish Wedding Music",
+                    "description": "Jewish Wedding Music - Jewish dancing Taken from the album: \"MAZAL TOV - Happy Jewish Wedding Party\" Download the Song/Album from iTine: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/v2ZgNZzwIxY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/v2ZgNZzwIxY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/v2ZgNZzwIxY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The Soul of Jewish Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sephardic ": [
@@ -3830,7 +4307,41 @@
             "artist": "Ensemble Accentus",
             "song": "Sephardic Romances - Traditional Jewish Music From Spain",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Ensemble%20Accentus-Sephardic%20Romances%20-%20Traditional%20Jewish%20Music%20From%20Spain"
+            "url": "https://www.youtube.com/results?search_query=Ensemble%20Accentus-Sephardic%20Romances%20-%20Traditional%20Jewish%20Music%20From%20Spain",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_WxGvs0WJ3G9NIn5Al8yXJzF_jU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "83owrYnOr8I"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-18T20:17:16.000Z",
+                    "channelId": "UCo_nA_sWdnt1BEqgJnyCXqQ",
+                    "title": "&quot;Se Verias: If You Would See&quot; - Sephardic Romances: Traditional Jewish Music from Spain",
+                    "description": "Sephardic Romances: Traditional Jewish Music from Spain \"Se Verias: If You Would See\" http://www.naxos.com/catalogue/item.asp?item_code=8.553617.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/83owrYnOr8I/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/83owrYnOr8I/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/83owrYnOr8I/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Tim Miller",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Israeli Folk ": [
@@ -3840,7 +4351,41 @@
             "artist": "Various",
             "song": "Holiday in Israel",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Various-Holiday%20in%20Israel"
+            "url": "https://www.youtube.com/results?search_query=Various-Holiday%20in%20Israel",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/srpv6FM5RfehGizwLbnmQXnhEro\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "tQul8qNRwXs"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-01T15:30:02.000Z",
+                    "channelId": "UCVGh7YdcpUiPYn5aLYRXc2Q",
+                    "title": "Things to do in Israel | Top Attractions Travel Guide",
+                    "description": "When you think of traveling to Israel visiting religious sites in Jerusalem or basing yourself in Tel Aviv may initially come to mind. However, when exploring Israel ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tQul8qNRwXs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tQul8qNRwXs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tQul8qNRwXs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Nomadic Samuel - Travel Channel",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Armenian Folk ": [
@@ -3850,7 +4395,41 @@
             "artist": "Djivan Gasparyan",
             "song": "World Network - Volume 47 - Armenia - Heavenly Duduk",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Djivan%20Gasparyan-World%20Network%20-%20Volume%2047%20-%20Armenia%20-%20Heavenly%20Duduk"
+            "url": "https://www.youtube.com/results?search_query=Djivan%20Gasparyan-World%20Network%20-%20Volume%2047%20-%20Armenia%20-%20Heavenly%20Duduk",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6kiCqM4YjgaXrdCCU5fcUKfsfzo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "tA2YDXZRmOI"
+                },
+                "snippet": {
+                    "publishedAt": "2010-06-16T00:29:35.000Z",
+                    "channelId": "UCadpimTvb5xOO7Xid03fFFg",
+                    "title": "djivan gasparyan-heavenly duduk",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tA2YDXZRmOI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tA2YDXZRmOI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tA2YDXZRmOI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Yboacan",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Armenian ": [
@@ -3860,7 +4439,41 @@
             "artist": "Zabelle Panosian",
             "song": "I Am Servant of Your Voice",
             "year": "(1917)",
-            "url": "https://www.youtube.com/results?search_query=Zabelle%20Panosian-I%20Am%20Servant%20of%20Your%20Voice"
+            "url": "https://www.youtube.com/results?search_query=Zabelle%20Panosian-I%20Am%20Servant%20of%20Your%20Voice",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/8jR0kFqzyQ76kvXirs3jrTO0zW0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "8x8GIzAeZZc"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-21T17:33:47.000Z",
+                    "channelId": "UCoJObd-9SEQX7QpNE-Opzrg",
+                    "title": "Zabelle Panosian - Tzain dour ov dzovag (Call to the sea)",
+                    "description": "from \"I am servant of your voice: April\u200b-\u200bMay, 1917\" comp. (2017) || No copyright infringement intended. Copyright belongs to the Record Label/Company and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8x8GIzAeZZc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8x8GIzAeZZc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8x8GIzAeZZc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The3erkalo",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Armenian Church ": [
@@ -3870,7 +4483,41 @@
             "artist": "Lusine Zakarian",
             "song": "Armenian Medieval Spiritual Music",
             "year": "(1969-1980)",
-            "url": "https://www.youtube.com/results?search_query=Lusine%20Zakarian-Armenian%20Medieval%20Spiritual%20Music"
+            "url": "https://www.youtube.com/results?search_query=Lusine%20Zakarian-Armenian%20Medieval%20Spiritual%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Yh79a88HO4eyXEKIAJLjkrFXrg0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "G4x6mUEJhoM"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-31T14:20:30.000Z",
+                    "channelId": "UCPqlkHOgywWsFfrBE5DlCSg",
+                    "title": "Lusine Zakarian - Armenian Medieval Spiritual Music (1995)",
+                    "description": "Tracklist: 1. Sourb-Sourb [Holy-Holy] (XI-XIII) 0:00 2. Haroutian Meghedi [Ressurrection Melody] 4:50 3. Aravot Louso [Morning of Light] (XII) 10:18 4. Ur Es Mair ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/G4x6mUEJhoM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/G4x6mUEJhoM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/G4x6mUEJhoM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Pedro N\u00f3brega",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 103,
@@ -3878,7 +4525,41 @@
             "artist": "Sharakan Early Music Ensemble",
             "song": "The Music of Armenia - Volume 2 - Sharakan_Medieval Music",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Sharakan%20Early%20Music%20Ensemble-The%20Music%20of%20Armenia%20-%20Volume%202%20-%20Sharakan_Medieval%20Music"
+            "url": "https://www.youtube.com/results?search_query=Sharakan%20Early%20Music%20Ensemble-The%20Music%20of%20Armenia%20-%20Volume%202%20-%20Sharakan_Medieval%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/S15ztmg_KICJjtEzY4pOuB5ljwQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "C60TmZBUjQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-26T21:18:37.000Z",
+                    "channelId": "UCZaOt8QyoWAzehhjsPco42A",
+                    "title": "Grigor Narekatsy &#39;&#39;Havoun, havoun (About the bird)&#39;&#39;The Music of Armenia Vol. 2, Medieval Music",
+                    "description": "The Music of Armenia, Volume Two: Sharakan spans fifteen centuries of Armenian music, and Komitas' presence can be deeply felt in some of the arrangements ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/C60TmZBUjQQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/C60TmZBUjQQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/C60TmZBUjQQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Giorgos Konstantinidis",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Rabiz ": [
@@ -3888,7 +4569,41 @@
             "artist": "Harout Pamboukjian",
             "song": "Armenian Series Greatest Hits",
             "year": "(1978)",
-            "url": "https://www.youtube.com/results?search_query=Harout%20Pamboukjian-Armenian%20Series%20Greatest%20Hits"
+            "url": "https://www.youtube.com/results?search_query=Harout%20Pamboukjian-Armenian%20Series%20Greatest%20Hits",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ofF32WqCiD6Xs5E1D8rA59jhdzE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "VzbEl7jdqxM"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-12T19:53:44.000Z",
+                    "channelId": "UChyYpbLeZMgCv5Q8NOa8pJQ",
+                    "title": "Harout Pamboukjian Greatest Hits Record",
+                    "description": "Harout pamboukjian greatest hits vinyl record side 1 pressed in 1978 played on RCA Victrola entertainment center from 1967.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VzbEl7jdqxM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VzbEl7jdqxM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VzbEl7jdqxM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "KAR P",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Avar Folk ": [
@@ -3898,7 +4613,41 @@
             "artist": "Various",
             "song": "Ay Lazzat - Oh Pleasure - Songs and Melodies From Dagestan",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ay%20Lazzat%20-%20Oh%20Pleasure%20-%20Songs%20and%20Melodies%20From%20Dagestan"
+            "url": "https://www.youtube.com/results?search_query=Various-Ay%20Lazzat%20-%20Oh%20Pleasure%20-%20Songs%20and%20Melodies%20From%20Dagestan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_SPRK-Dy15jpqG6cg8Qh3sL-YZw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "wfz9YW4SqV0"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-11T16:38:15.000Z",
+                    "channelId": "UCaSzZX_tOEaNFS09qdv2Pbw",
+                    "title": "Ay Lazzat (Oh Pleasure)",
+                    "description": "Provided to YouTube by The Orchard Enterprises Ay Lazzat (Oh Pleasure) \u00b7 Ay Lazzat \u00b7 Traditional \u00b7 Ay Lazzat Oh Pleasure - Songs and Melodies from ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wfz9YW4SqV0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wfz9YW4SqV0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wfz9YW4SqV0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ay Lazzat - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chechen Folk ": [
@@ -3952,7 +4701,41 @@
             "artist": "Ensemble Circassien de Jordanie",
             "song": "Circassia - Musique Tcherkesse",
             "year": "(2011)",
-            "url": "https://www.youtube.com/results?search_query=Ensemble%20Circassien%20de%20Jordanie-Circassia%20-%20Musique%20Tcherkesse"
+            "url": "https://www.youtube.com/results?search_query=Ensemble%20Circassien%20de%20Jordanie-Circassia%20-%20Musique%20Tcherkesse",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/C113S0-rVTgIr9dSc998Am3p3o0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "5e8146ISPtA"
+                },
+                "snippet": {
+                    "publishedAt": "2013-09-02T23:02:49.000Z",
+                    "channelId": "UC10O42ewudaNNDtJNHJZBlg",
+                    "title": "Ensemble Circassien de Jordanie - Tlaparisa",
+                    "description": "Album: Musique Tcherkesse.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5e8146ISPtA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5e8146ISPtA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5e8146ISPtA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Caucasian side",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Georgian Folk ": [
@@ -3962,7 +4745,41 @@
             "artist": "The Rustavi Choir",
             "song": "Georgian Voices",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=The%20Rustavi%20Choir-Georgian%20Voices"
+            "url": "https://www.youtube.com/results?search_query=The%20Rustavi%20Choir-Georgian%20Voices",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/fLGLtnoJCgw37p4WTJmzTa9Hm7k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "gBgbKdukn44"
+                },
+                "snippet": {
+                    "publishedAt": "2009-11-05T20:57:27.000Z",
+                    "channelId": "UCYq4LikLw2-tOjdIm7i9CDw",
+                    "title": "Chakrulo - Rustavi Choir",
+                    "description": "The latest video of legendary Chakrulo took in September.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gBgbKdukn44/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gBgbKdukn44/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gBgbKdukn44/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "7gnza7pi",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ossetian Folk ": [
@@ -3972,7 +4789,41 @@
             "artist": "Bulat Gazdanov",
             "song": "Ossetian Melodies - Bulat Gazdanov Plays Harmonica",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Bulat%20Gazdanov-Ossetian%20Melodies%20-%20Bulat%20Gazdanov%20Plays%20Harmonica"
+            "url": "https://www.youtube.com/results?search_query=Bulat%20Gazdanov-Ossetian%20Melodies%20-%20Bulat%20Gazdanov%20Plays%20Harmonica",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/tYckyGfpl3u7r78EoJz3GP-CJjo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "dPUWAf3BmGs"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-10T21:13:11.000Z",
+                    "channelId": "UCYBayZqQLKAOzUy71PCk6aw",
+                    "title": "Ossetian melodies-Bulat Gazdanov plays harmonica (1977)",
+                    "description": "Alb\u00fcm\u00fc indirmek i\u00e7in: http://kavkazmusic.blogspot.com.tr.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dPUWAf3BmGs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dPUWAf3BmGs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dPUWAf3BmGs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Nartkun",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Carnatic Classical ": [
@@ -3982,7 +4833,41 @@
             "artist": "L. Subramaniam",
             "song": "Une anthologie de la musique classique de l'Inde du Sud - Volume 1",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sJiBG6sUj9-apQK0qObafLBryqU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Oc8EAbw811o"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-29T13:47:08.000Z",
+                    "channelId": "UCDNDUSE8tdr63AYeY2YbOgg",
+                    "title": "L. Subramanim, V. Kamalakara Rao: Ragam Et Tanam (excerpt)",
+                    "description": "From Ocora Records \"Inde Du Sud, une anthologie de la musique classique, vol. 4\"",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "kittenfood777",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 111,
@@ -3990,7 +4875,41 @@
             "artist": "L. Subramaniam",
             "song": "Une anthologie de la musique classique de l'Inde du Sud - Volume 2",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%202"
+            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%202",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sJiBG6sUj9-apQK0qObafLBryqU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Oc8EAbw811o"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-29T13:47:08.000Z",
+                    "channelId": "UCDNDUSE8tdr63AYeY2YbOgg",
+                    "title": "L. Subramanim, V. Kamalakara Rao: Ragam Et Tanam (excerpt)",
+                    "description": "From Ocora Records \"Inde Du Sud, une anthologie de la musique classique, vol. 4\"",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "kittenfood777",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 112,
@@ -3998,7 +4917,8 @@
             "artist": "L. Subramaniam",
             "song": "Une anthologie de la musique classique de l'Inde du Sud - Volume 3",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%203"
+            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%203",
+            "enriched": true
         },
         {
             "unique_id": 113,
@@ -4006,7 +4926,41 @@
             "artist": "L. Subramaniam",
             "song": "Une anthologie de la musique classique de l'Inde du Sud - Volume 4",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%204"
+            "url": "https://www.youtube.com/results?search_query=L.%20Subramaniam-Une%20anthologie%20de%20la%20musique%20classique%20de%20l%26%23x27%3BInde%20du%20Sud%20-%20Volume%204",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sJiBG6sUj9-apQK0qObafLBryqU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Oc8EAbw811o"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-29T13:47:08.000Z",
+                    "channelId": "UCDNDUSE8tdr63AYeY2YbOgg",
+                    "title": "L. Subramanim, V. Kamalakara Rao: Ragam Et Tanam (excerpt)",
+                    "description": "From Ocora Records \"Inde Du Sud, une anthologie de la musique classique, vol. 4\"",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Oc8EAbw811o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "kittenfood777",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 114,
@@ -4014,7 +4968,41 @@
             "artist": "Lalgudi G. Jayaraman",
             "song": "Violin Virtuoso",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Lalgudi%20G.%20Jayaraman-Violin%20Virtuoso"
+            "url": "https://www.youtube.com/results?search_query=Lalgudi%20G.%20Jayaraman-Violin%20Virtuoso",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/evVeBJR4kjkqCH6r3N10WtbKF1Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "uDuLDbNMaU4"
+                },
+                "snippet": {
+                    "publishedAt": "2016-03-04T21:10:00.000Z",
+                    "channelId": "UCLXmDv3XcXIyignkZIcy5vw",
+                    "title": "Shri LALGUDI G.JAYARAMAN Violin",
+                    "description": "Indian art Festival in San Francisco California 10-6-1985 organized by Consulate General of India excuse the video quality for being Wavey due to a bad VHS ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uDuLDbNMaU4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uDuLDbNMaU4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uDuLDbNMaU4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Basant Bahar",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hindustani Classical ": [
@@ -4024,7 +5012,41 @@
             "artist": "Ravi Shankar",
             "song": "Music of India - Three Classical R\u0101gas",
             "year": "(1956)",
-            "url": "https://www.youtube.com/results?search_query=Ravi%20Shankar-Music%20of%20India%20-%20Three%20Classical%20R%C4%81gas"
+            "url": "https://www.youtube.com/results?search_query=Ravi%20Shankar-Music%20of%20India%20-%20Three%20Classical%20R%C4%81gas",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/wJqlkihkCcZr1ukjaoKh5L5h6hk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "krT_hGvEvhg"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-23T19:00:03.000Z",
+                    "channelId": "UChu6I4fYWUAiQdWr-3YIb5w",
+                    "title": "Ravi Shankar - Three Ragas (Remastered) (Full Album)",
+                    "description": "Ravi Shankar - Three Ragas (Remastered) (Full Album) --------------------------------- Tip: click on the time and listen your favorite song Track list: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/krT_hGvEvhg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/krT_hGvEvhg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/krT_hGvEvhg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Begarmundi records",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Dhrupad ": [
@@ -4034,7 +5056,41 @@
             "artist": "Pandit Pran Nath",
             "song": "Midnight - Raga Malkauns",
             "year": "(1971-1976)",
-            "url": "https://www.youtube.com/results?search_query=Pandit%20Pran%20Nath-Midnight%20-%20Raga%20Malkauns"
+            "url": "https://www.youtube.com/results?search_query=Pandit%20Pran%20Nath-Midnight%20-%20Raga%20Malkauns",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/gHUcntGdHKLhhsc21BEfyrLlnYI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "cFYdnSXtgrc"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-15T06:11:16.000Z",
+                    "channelId": "UCWec80NqEPGYgEz1C4kGPEA",
+                    "title": "Pandit Pran Nath - 21 VIII 76 NYC Raga Malkauns",
+                    "description": "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cFYdnSXtgrc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cFYdnSXtgrc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cFYdnSXtgrc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u904e\u9177\u306a\u30ce\u30a4\u30ba\u30e0\u30fc\u30d6\u30e1\u30f3\u30c8",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Khyal ": [
@@ -4044,7 +5100,41 @@
             "artist": "Khansahib Abdul Karim Khan",
             "song": "Khansahib Abdul Karim Khan",
             "year": "(1934-1935)",
-            "url": "https://www.youtube.com/results?search_query=Khansahib%20Abdul%20Karim%20Khan-Khansahib%20Abdul%20Karim%20Khan"
+            "url": "https://www.youtube.com/results?search_query=Khansahib%20Abdul%20Karim%20Khan-Khansahib%20Abdul%20Karim%20Khan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/wY756pixSVoHvPcDNbJmYZQzCSY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "FYxo-iKle_g"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-20T21:36:19.000Z",
+                    "channelId": "UCstboWE73itJeVBJ90vGKAw",
+                    "title": "Raag Jhinjhoti by KhanSahib Ustad Abdul Karim Khan Sb",
+                    "description": "http://www.facebook.com/video/video.php?v=1554663030781 A Traditional Bandish in Raag Jhinjhoti Lyrics: Paiyaa Bin Naheen Aawat Chain Kaa se Kahoon ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/FYxo-iKle_g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/FYxo-iKle_g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/FYxo-iKle_g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Syed Wajid",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Qawwali ": [
@@ -4054,7 +5144,8 @@
             "artist": "Nusrat Fateh Ali Khan",
             "song": "Shahen_Shah",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Nusrat%20Fateh%20Ali%20Khan-Shahen_Shah"
+            "url": "https://www.youtube.com/results?search_query=Nusrat%20Fateh%20Ali%20Khan-Shahen_Shah",
+            "enriched": true
         }
     ],
     "Thumri ": [
@@ -4064,7 +5155,41 @@
             "artist": "Various",
             "song": "Immortal Thumris",
             "year": "(1981)",
-            "url": "https://www.youtube.com/results?search_query=Various-Immortal%20Thumris"
+            "url": "https://www.youtube.com/results?search_query=Various-Immortal%20Thumris",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/GigWpQ8F-xb4skXTtBx1NCGbco4\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLkOYaAS4eEv52usHtAVgKrxgUWlla7lAZ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-27T02:41:27.000Z",
+                    "channelId": "UCwJefkkVrAC67SXe_vzQHwg",
+                    "title": "Thumri immortal",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LN044JlAM-g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LN044JlAM-g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LN044JlAM-g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Siddhartha Bhattacharyya",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Newa Folk ": [
@@ -4074,7 +5199,41 @@
             "artist": "Nath Family",
             "song": "Sounds of the Indian Snake Charmer",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Nath%20Family-Sounds%20of%20the%20Indian%20Snake%20Charmer"
+            "url": "https://www.youtube.com/results?search_query=Nath%20Family-Sounds%20of%20the%20Indian%20Snake%20Charmer",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/pA_lAh2To9nMtnG-RVPX6Dzx-Zs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K0Mjf3jj6e8"
+                },
+                "snippet": {
+                    "publishedAt": "2010-08-02T20:19:26.000Z",
+                    "channelId": "UClcvuoPhYQ4aM5FYYyjxvIw",
+                    "title": "1of 4 sounds of the indian snake charmer by nath family",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K0Mjf3jj6e8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K0Mjf3jj6e8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K0Mjf3jj6e8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "trojan lol",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bengali Folk ": [
@@ -4084,7 +5243,41 @@
             "artist": "Various",
             "song": "Bangladesh - Ritual Mouth_Organs of The Murung",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Various-Bangladesh%20-%20Ritual%20Mouth_Organs%20of%20The%20Murung"
+            "url": "https://www.youtube.com/results?search_query=Various-Bangladesh%20-%20Ritual%20Mouth_Organs%20of%20The%20Murung",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iIkmKR6tCt-4fpYzi4-qZwEeqo8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jIMdz4HLG50"
+                },
+                "snippet": {
+                    "publishedAt": "2011-03-02T09:12:52.000Z",
+                    "channelId": "UCgBQJBgqTdAnTgSkRhUgTNQ",
+                    "title": "Chimbuck Murung - Dance For The Sacrifice",
+                    "description": "Ritual Mouth Organs Of The Murung, Bangladesh.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jIMdz4HLG50/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jIMdz4HLG50/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jIMdz4HLG50/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "overdosejapan",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Malayali Folk ": [
@@ -4094,7 +5287,41 @@
             "artist": "Various",
             "song": "India - Ritual Percussion of Kerala - Vol. 1 - Kshetram Vadyam",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Various-India%20-%20Ritual%20Percussion%20of%20Kerala%20-%20Vol.%201%20-%20Kshetram%20Vadyam"
+            "url": "https://www.youtube.com/results?search_query=Various-India%20-%20Ritual%20Percussion%20of%20Kerala%20-%20Vol.%201%20-%20Kshetram%20Vadyam",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_LsooyoknYPwh3D22GD1RbJofKw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "zT0YHPVOvS4"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-17T13:47:27.000Z",
+                    "channelId": "UCFlGYslr5NUjLEebotNnw4w",
+                    "title": "Chenda melam percussion ritual drummers in Kerala, India  (HD)",
+                    "description": "http://WorldStreetMusic.com : Chenda melam percussion drummers are playing in Hindu temple festival in Kerala (India). Chenda is cylindrical percussion ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zT0YHPVOvS4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zT0YHPVOvS4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zT0YHPVOvS4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "World Street Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sri Lankan Folk ": [
@@ -4104,7 +5331,41 @@
             "artist": "Various",
             "song": "Sri Lanka - Ceylan",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sri%20Lanka%20-%20Ceylan"
+            "url": "https://www.youtube.com/results?search_query=Various-Sri%20Lanka%20-%20Ceylan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/I5M-ge2f6H6vX0vxN3BFFLDOpZc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "EvFVOHFMquk"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-24T09:25:44.000Z",
+                    "channelId": "UCZAENaOaceQUMd84GDc26EA",
+                    "title": "History of British Ceylon Tea Documentary",
+                    "description": "A personal journey into the history of tea and Britain's involvement with Sri Lanka. I trace my own ancestry to the days of the British Empire, when my family were ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/EvFVOHFMquk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/EvFVOHFMquk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/EvFVOHFMquk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Survive the Jive",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kirtan ": [
@@ -4114,7 +5375,41 @@
             "artist": "Various",
             "song": "Shabad - Devotional Music of the Sikhs",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-Shabad%20-%20Devotional%20Music%20of%20the%20Sikhs"
+            "url": "https://www.youtube.com/results?search_query=Various-Shabad%20-%20Devotional%20Music%20of%20the%20Sikhs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/PPkkKA3NJWO6oErT4pfWqn4SASI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "VI2-xb4RZMo"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-23T12:00:08.000Z",
+                    "channelId": "UChvQCuoJiOPu_IhazFmCRxw",
+                    "title": "Guru Ji Da Singh | Lakhwinder Singh | Gurbani Shabad Kirtan | Sikh Devotional Songs",
+                    "description": "Please Like the videos & share them. Subscribe US At:- http://www.youtube.com/subscription_center?add_user=Sikhratnavali Like US At: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VI2-xb4RZMo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VI2-xb4RZMo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VI2-xb4RZMo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SikhRatnavali",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Baila ": [
@@ -4124,7 +5419,41 @@
             "artist": "Wally Bastian",
             "song": "King of Sri Lankan Baila",
             "year": "(2004)",
-            "url": "https://www.youtube.com/results?search_query=Wally%20Bastian-King%20of%20Sri%20Lankan%20Baila"
+            "url": "https://www.youtube.com/results?search_query=Wally%20Bastian-King%20of%20Sri%20Lankan%20Baila",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/kJF22kJBOxNv9TEZH4ymkQ-AkFs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "MWj8mvmAbAQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-22T15:47:28.000Z",
+                    "channelId": "UCw4E0BKI2hMnqIXMALDTS6g",
+                    "title": "Non stop songs by Wally Bastian (King of Baila)",
+                    "description": "Govi pelpatha,hai hui babi achchige,irine josephine,kisi vehesak nobala,kusa paba,le kiri kara powala,ratak watinawa etc.....",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/MWj8mvmAbAQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/MWj8mvmAbAQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/MWj8mvmAbAQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Aparna Gamage",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bhangra ": [
@@ -4134,7 +5463,41 @@
             "artist": "Various",
             "song": "The Rough Guide to Bhangra",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Bhangra"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Bhangra",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/id6XsK5Vuj_ThPUv3iqVRI8qdvw\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLtb2MJQtgphAK_RuTIeWeV2HKifA0ZMbv"
+                },
+                "snippet": {
+                    "publishedAt": "2014-03-10T09:51:54.000Z",
+                    "channelId": "UCYXMSy2gS7Zn8G1XVs28EdQ",
+                    "title": "The Rough guide to Bhangra",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yiOzfqi6rqo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yiOzfqi6rqo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yiOzfqi6rqo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "WiQuedNL",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Filmi ": [
