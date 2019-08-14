@@ -5,6 +5,7 @@ import Song from "./components/song/Song";
 import Grid from '@material-ui/core/Grid';
 import {useStyles} from './utils/cssUtils';
 import LazyLoad from 'react-lazyload';
+import red from '@material-ui/core/colors/red';
 
 function App() {
 
@@ -17,17 +18,17 @@ function App() {
     <div className="App container">
       <div className={classes.root}>
         <Grid	MuiPaper-root container spacing={2}>
+          <LazyLoad offset={0} height={100} placeholder={<Loading />}>
           {Object.keys(data).map(key => {
             return ( data[key].map(song => (
-              <LazyLoad offset={100} height={500} key={key} placeholder={<Loading />}>
-                <Grid item xs={2}>
+                <Grid item xs={6} sm={3} md={2} lg={1}>
                   <LazyLoad once={true}>
-                    <Song {...song}/>
+                    <Song boxShadow={10} {...song}/>
                   </LazyLoad>
                 </Grid>
-              </LazyLoad>
             )))
           })}
+          </LazyLoad>
         </Grid>
       </div> 
     </div>
