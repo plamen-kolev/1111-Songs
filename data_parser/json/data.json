@@ -5507,7 +5507,41 @@
             "artist": "Various",
             "song": "Bombshell Baby of Bombay - Volume 2",
             "year": "(1959-1972)",
-            "url": "https://www.youtube.com/results?search_query=Various-Bombshell%20Baby%20of%20Bombay%20-%20Volume%202"
+            "url": "https://www.youtube.com/results?search_query=Various-Bombshell%20Baby%20of%20Bombay%20-%20Volume%202",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/riOElvCfrw8dSK3yb6KXUlSVZms\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WSVGt_mLsoQ"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-31T13:55:21.000Z",
+                    "channelId": "UCUX9kIB78O5TpVkXTpB6qgg",
+                    "title": "MACKY 2 - FAVOR | Zed Stylo 2017 | Zambian Music Videos",
+                    "description": "Email : zedstylo@gmail.com Whatsapp :+260954850587 Twitter : https://twitter.com/Trekordz Facebook : https://www.facebook.com/ZEDSTYLO ***NO ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WSVGt_mLsoQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WSVGt_mLsoQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WSVGt_mLsoQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ZED STYLO",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pop Ghazal ": [
@@ -5517,7 +5551,41 @@
             "artist": "Ahmad Zahir",
             "song": "Afghan Music - Volume 1 - Dilak am",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=Ahmad%20Zahir-Afghan%20Music%20-%20Volume%201%20-%20Dilak%20am"
+            "url": "https://www.youtube.com/results?search_query=Ahmad%20Zahir-Afghan%20Music%20-%20Volume%201%20-%20Dilak%20am",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/SmWpShuVrNbq4_bN65Amq2jix6Y\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Fo1jVC9RwXs"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-15T04:28:40.000Z",
+                    "channelId": "UCaH4Y1MdP-AJ7ef1ES5omEA",
+                    "title": "amrullah singh pir e haq nasir",
+                    "description": "please subcribe my chennel for all farsi songs you wanna hear farsi ahmad zahir songs list ahmad zahir youtube ahmad zahir death ahmad zahir songs mp3 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Fo1jVC9RwXs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Fo1jVC9RwXs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Fo1jVC9RwXs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ghazan sadaT",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Rigsar ": [
@@ -5527,7 +5595,41 @@
             "artist": "Suresh Moktan & Lhamo Dukpa",
             "song": "New Waves",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Suresh%20Moktan%20%26amp%3B%20Lhamo%20Dukpa-New%20Waves"
+            "url": "https://www.youtube.com/results?search_query=Suresh%20Moktan%20%26amp%3B%20Lhamo%20Dukpa-New%20Waves",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/pwM9PCGmNbiMcekaRVAUYf5UMEA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "xb82_4jVTBM"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-21T16:00:18.000Z",
+                    "channelId": "UCwrjf5G_PpgVCE20mEGmA4Q",
+                    "title": "Lhamo Dukpa - Baza Guru (Meditational)",
+                    "description": "'Sitting on top of the mountain, watching sunrise at Bartshan Monastery, the far east side of Bhutan. Lhamo was sleeping while I was taking pictures. That night ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/xb82_4jVTBM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/xb82_4jVTBM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/xb82_4jVTBM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "leonardo soundweaver",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Altai Traditional ": [
@@ -5537,7 +5639,41 @@
             "artist": "Various",
             "song": "Sib\u00e9rie 10 - Le chant des montagnes d'or",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%2010%20-%20Le%20chant%20des%20montagnes%20d%26%23x27%3Bor"
+            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%2010%20-%20Le%20chant%20des%20montagnes%20d%26%23x27%3Bor",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/pWzo7O_7C9cEsfTGcRqzLK6DHSY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "2GEfOtLpGpw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-30T20:25:45.000Z",
+                    "channelId": "UCYr0nfS0YKKCPnKwjemAoxw",
+                    "title": "All Aound In the Ta\u00efga",
+                    "description": "Provided to YouTube by Believe SAS All Aound In the Ta\u00efga \u00b7 Altaiens Sib\u00e9rie 10 : le chant des montagnes d'or (The Song of the Golden Mountains) \u2117 Buda ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2GEfOtLpGpw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2GEfOtLpGpw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2GEfOtLpGpw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Altaiens - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bashkir Folk ": [
@@ -5547,7 +5683,41 @@
             "artist": "Various",
             "song": "Ural - Traditional Music of Bashkortostan",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ural%20-%20Traditional%20Music%20of%20Bashkortostan"
+            "url": "https://www.youtube.com/results?search_query=Various-Ural%20-%20Traditional%20Music%20of%20Bashkortostan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6Ep_6dzNoaiBUEz6McTENxw3rGI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ScErZ5uXJjQ"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-01T20:41:31.000Z",
+                    "channelId": "UCMB9jTQmua0fjEp8_G9hCkw",
+                    "title": "Bashkir folk song: &quot;Uralym&quot; - Bashkir State Ensemble (\u0410\u0441-\u0421\u0430\u043b\u044f\u043c)",
+                    "description": "\u0411\u0430\u0448\u043a\u0438\u0440\u0441\u043a\u0438\u0439 \u043a\u043b\u0438\u043f \u043d\u0430 \u043f\u0435\u0441\u043d\u044e: \"\u0423\u0440\u0430\u043b\u044b\u043c\" (\"my Ural\") - Ural Batyr, the Sumerian (Shumer).",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ScErZ5uXJjQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ScErZ5uXJjQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ScErZ5uXJjQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u2723 \u1d40\u1d4a\u1d51\u1d3f\u1da4 \u2022 Spirit of the Steppe \u2723",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Buryat Folk ": [
@@ -5557,7 +5727,41 @@
             "artist": "Badma Khanda",
             "song": "Mongolian Music from Buryatia",
             "year": "(2008)",
-            "url": "https://www.youtube.com/results?search_query=Badma%20Khanda-Mongolian%20Music%20from%20Buryatia"
+            "url": "https://www.youtube.com/results?search_query=Badma%20Khanda-Mongolian%20Music%20from%20Buryatia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/MZiI2Fs1v9KeSf4Hf_Iosst_s0M\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "sS4ZR_5lN4Y"
+                },
+                "snippet": {
+                    "publishedAt": "2011-04-19T17:21:26.000Z",
+                    "channelId": "UClaMZeEr4lfjrIMB5PySIZg",
+                    "title": "Photographs of Northern Mongolia and Buryatia",
+                    "description": "photographs by Oleg Shubarov http://www.panoramio.com/user/936739 music by SEDAA and BADMA KHANDA.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/sS4ZR_5lN4Y/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/sS4ZR_5lN4Y/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/sS4ZR_5lN4Y/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "goldnmoon",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chuvash Folk ": [
@@ -5567,7 +5771,41 @@
             "artist": "Various",
             "song": "\u0427\u0443\u0432\u0430\u0449\u0441\u043a\u0438\u0435 \u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438 \u0438 \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u043b\u043e\u0434\u0438\u0438",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Various-%D0%A7%D1%83%D0%B2%D0%B0%D1%89%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BD%D0%B8%20%D0%B8%20%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D0%B8"
+            "url": "https://www.youtube.com/results?search_query=Various-%D0%A7%D1%83%D0%B2%D0%B0%D1%89%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%81%D0%BD%D0%B8%20%D0%B8%20%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D0%B8",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_e1rJRR-suXrpZJL74Mw-2F9tCk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "vVclTMXNEww"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-07T16:49:40.000Z",
+                    "channelId": "UCDCZl39LcMZcAYGjx-Hdudw",
+                    "title": "\u0427\u0443\u0432\u0430\u0448\u0438\u044f - \u043f\u0435\u0441\u043d\u044f \u043c\u043e\u044f (1979 \u0433) - \u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0438\u0435 \u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438",
+                    "description": "\u0427\u0443\u0432\u0430\u0448\u0438\u044f - \u043f\u0435\u0441\u043d\u044f \u043c\u043e\u044f (1979 \u0433) - \u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0438\u0435 \u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438. \u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0438\u0435 \u0445\u043e\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438. \u0427\u0103\u0432\u0430\u0448 \u00e7\u0430\u0432\u0440\u0430 \u044e\u0440\u0103. \u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043b...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vVclTMXNEww/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vVclTMXNEww/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vVclTMXNEww/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kalmyk Traditional ": [
@@ -5577,7 +5815,8 @@
             "artist": "Various",
             "song": "\u041a\u0430\u043b\u043c\u044b\u0446\u043a\u0438\u0439 \u0433\u0435\u0440\u043e\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044d\u043f\u043e\u0441 \u0414\u0436\u0430\u043d\u0433\u0430\u0440 (Kalmyk Heroic Epos Jangar)",
             "year": "(1987)",
-            "url": "https://www.youtube.com/results?search_query=Various-%D0%9A%D0%B0%D0%BB%D0%BC%D1%8B%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D0%BF%D0%BE%D1%81%20%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%20%28Kalmyk%20Heroic%20Epos%20Jangar%29"
+            "url": "https://www.youtube.com/results?search_query=Various-%D0%9A%D0%B0%D0%BB%D0%BC%D1%8B%D1%86%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8D%D0%BF%D0%BE%D1%81%20%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%20%28Kalmyk%20Heroic%20Epos%20Jangar%29",
+            "enriched": true
         }
     ],
     "Karakalpak Traditional ": [
@@ -5587,7 +5826,41 @@
             "artist": "Various",
             "song": "Karakalpakistan - La voix des anc\u00eatres",
             "year": "(2008)",
-            "url": "https://www.youtube.com/results?search_query=Various-Karakalpakistan%20-%20La%20voix%20des%20anc%C3%AAtres"
+            "url": "https://www.youtube.com/results?search_query=Various-Karakalpakistan%20-%20La%20voix%20des%20anc%C3%AAtres",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/CV3ZVIiRtp4qtQ7VRtSgi-G-m1Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "vYP91UT8Da4"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-30T21:31:38.000Z",
+                    "channelId": "UC9FNG4Riv0OcsK7ItVXSa7g",
+                    "title": "Edige 2",
+                    "description": "Provided to YouTube by Believe SAS Edige 2 \u00b7 Baxti\u00efar Esemuratov Karakalpakistan, la voix des anc\u00eatres \u2117 Fr\u00e9d\u00e9ric L\u00e9otar Released on: 2008-10-22 Author: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vYP91UT8Da4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vYP91UT8Da4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vYP91UT8Da4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kazakh Traditional ": [
@@ -5597,7 +5870,41 @@
             "artist": "Various",
             "song": "Songs from the Steppes - Kazakh Music Today",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-Songs%20from%20the%20Steppes%20-%20Kazakh%20Music%20Today"
+            "url": "https://www.youtube.com/results?search_query=Various-Songs%20from%20the%20Steppes%20-%20Kazakh%20Music%20Today",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/hug2Q-76SKgt96NC7zplsrsq_oY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0uXI6njl7_g"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-28T03:02:31.000Z",
+                    "channelId": "UC2Jq-tF8wherx_mdwHwU15Q",
+                    "title": "Songs from the Steppes: Kazakh Music Today",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0uXI6njl7_g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0uXI6njl7_g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0uXI6njl7_g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Guilherme Souza",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Khakas Traditional ": [
@@ -5607,7 +5914,41 @@
             "artist": "Ailanys",
             "song": "Through Ages' Arrow",
             "year": "(2004)",
-            "url": "https://www.youtube.com/results?search_query=Ailanys-Through%20Ages%26%23x27%3B%20Arrow"
+            "url": "https://www.youtube.com/results?search_query=Ailanys-Through%20Ages%26%23x27%3B%20Arrow",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/56hDM-o04nhA0gC3J0XmqlJBKDs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "VljO7YOKz0s"
+                },
+                "snippet": {
+                    "publishedAt": "2010-02-11T10:30:53.000Z",
+                    "channelId": "UCXZ29zCW36cu33_yrMf4LwA",
+                    "title": "\u0410\u0439\u043b\u0430\u043d\u044b\u0441 - &quot;\u0410\u0439\u0434\u044b\u043c&quot; / Ailanys - &quot;Aidim&quot;",
+                    "description": "\u041c\u0443\u0437\u044b\u043a\u0430: \u0410\u0439\u043b\u0430\u043d\u044b\u0441 - \"\u0410\u0439\u0434\u044b\u043c\" / Music: Ailanys - \"Aidim\" (\"Aidym\"). \u0410\u043b\u044c\u0431\u043e\u043c / Album: \"Through Ages' Arrow\". \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f, \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VljO7YOKz0s/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VljO7YOKz0s/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VljO7YOKz0s/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CENOZOICMAN",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kyrgyz Traditional ": [
@@ -5617,7 +5958,41 @@
             "artist": "Tengir_Too",
             "song": "Music of Central Asia - Volume 1 - Mountain Music From Kyrgyzstan",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Tengir_Too-Music%20of%20Central%20Asia%20-%20Volume%201%20-%20Mountain%20Music%20From%20Kyrgyzstan"
+            "url": "https://www.youtube.com/results?search_query=Tengir_Too-Music%20of%20Central%20Asia%20-%20Volume%201%20-%20Mountain%20Music%20From%20Kyrgyzstan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/nRis1_VSWK4OsyYuINmpRKTAhoY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "YbJv6TgsYwE"
+                },
+                "snippet": {
+                    "publishedAt": "2017-06-02T00:30:53.000Z",
+                    "channelId": "UC7lGyJ1uPNcvTVeAHlsFY2w",
+                    "title": "Music of Central Asia Vol. 1 - Tengir-Too Mountain Music Of Kyrgyzstan (Part I)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YbJv6TgsYwE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YbJv6TgsYwE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YbJv6TgsYwE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Mefiz - Tofel Radio",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sakha Traditional ": [
@@ -5627,7 +6002,41 @@
             "artist": "Various",
             "song": "Sib\u00e9rie 6 - Sakhalin \u2013 Vocal and Instrumental Music",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%206%20-%20Sakhalin%20%E2%80%93%20Vocal%20and%20Instrumental%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%206%20-%20Sakhalin%20%E2%80%93%20Vocal%20and%20Instrumental%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/xv1XCi79stmtfE_U2ohDW-IqId8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Du37058gBO8"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-21T06:53:38.000Z",
+                    "channelId": "UCFw4M1BJYYdN1YtS8SzlDzg",
+                    "title": "\u3010K\u3011Russia Travel-Yuzhno Sakhalinsk[\ub7ec\uc2dc\uc544 \uc5ec\ud589-\uc720\uc988\ub178\uc0ac\ud560\ub9b0\uc2a4\ud06c]\uc5d0\ud2b8\ub178\uc2a4 \uc608\uc220\ud559\uad50/Sakhalin/Etnos/Childrens Art School",
+                    "description": "KBS \uac78\uc5b4\uc11c \uc138\uacc4\uc18d\uc73c\ub85c PD\ub4e4\uc774 \uc9c1\uc811 \ub9cc\ub4e0 \ud574\uc678\uc5ec\ud589\uc804\ubb38 \uc720\ud22c\ube0c \ucc44\ub110 \u3010Everywhere, K\u3011 \u25a1 The Travels of Nearly Everywhere! 10000 of HD world travel video clips.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Du37058gBO8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Du37058gBO8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Du37058gBO8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\uac78\uc5b4\uc11c \uc138\uacc4\uc18d\uc73c\ub85c",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mongolian Traditional ": [
@@ -5637,7 +6046,41 @@
             "artist": "Various",
             "song": "Jargalant Altai - X\u00f6\u00f6mii",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-Jargalant%20Altai%20-%20X%C3%B6%C3%B6mii"
+            "url": "https://www.youtube.com/results?search_query=Various-Jargalant%20Altai%20-%20X%C3%B6%C3%B6mii",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0gPopc8CdAiYPZjdaLSkw_7rlaI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "qKvRsFPj_nU"
+                },
+                "snippet": {
+                    "publishedAt": "2015-02-21T18:29:15.000Z",
+                    "channelId": "UCQ8cSXTLcq4vS2-nF-rBEqQ",
+                    "title": "The Five Main X\u00f6\u00f6mii Types",
+                    "description": "Provided to YouTube by The Orchard Enterprises The Five Main X\u00f6\u00f6mii Types \u00b7 Traditional \u00b7 Dashdorj Tserendavaa Jargalant Altai: X\u00f6\u00f6mii and Other Vocal and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qKvRsFPj_nU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qKvRsFPj_nU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qKvRsFPj_nU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mongolian Throat Singing ": [
@@ -5647,7 +6090,41 @@
             "artist": "Tserendavaa & Tsogtgerel",
             "song": "X\u00f6\u00f6mij O",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Tserendavaa%20%26amp%3B%20Tsogtgerel-X%C3%B6%C3%B6mij%20O"
+            "url": "https://www.youtube.com/results?search_query=Tserendavaa%20%26amp%3B%20Tsogtgerel-X%C3%B6%C3%B6mij%20O",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/wofte2LwwLKu5QNMr7l5lsmNkeU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "lv_EMpZmnR8"
+                },
+                "snippet": {
+                    "publishedAt": "2015-06-29T05:32:32.000Z",
+                    "channelId": "UCsJv6cORlwqNORBcbkoqNhg",
+                    "title": "Concerto di Tsogtgerel Tserendava e Ganzorig Nergui a Cagliari 29/06/2015",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lv_EMpZmnR8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lv_EMpZmnR8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lv_EMpZmnR8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Nicola Melis",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tuvan Throat Singing ": [
@@ -5657,7 +6134,41 @@
             "artist": "Various",
             "song": "Throat Songs and Folk Tunes From Tuva",
             "year": "(2007)",
-            "url": "https://www.youtube.com/results?search_query=Various-Throat%20Songs%20and%20Folk%20Tunes%20From%20Tuva"
+            "url": "https://www.youtube.com/results?search_query=Various-Throat%20Songs%20and%20Folk%20Tunes%20From%20Tuva",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/fuoK70gjlL65J_oUATZb5FNrRZ4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "q3Y8mtQl7pk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-04T10:54:10.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Melodii Tuvi: Throat Songs And Folk Tunes From Tuva 60s Soviet Folk Music Collection",
+                    "description": "Label:Dust-to-Digital Country:US Released:20 Nov 2007 Various   \u2013 \u041f\u0435\u0441\u043d\u0438 \u0418 \u0418\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u041c\u0435\u043b\u043e\u0434\u0438\u0438 \u0422\u0443\u0432\u044b Traditional Tuvan music with throat singing ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/q3Y8mtQl7pk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/q3Y8mtQl7pk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/q3Y8mtQl7pk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mongolian Long Song ": [
@@ -5667,7 +6178,41 @@
             "artist": "Namdziliin Norovbanzad",
             "song": "Mongolian Songs",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Namdziliin%20Norovbanzad-Mongolian%20Songs"
+            "url": "https://www.youtube.com/results?search_query=Namdziliin%20Norovbanzad-Mongolian%20Songs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Z7NRipHL3LwExfjy0nYSd2FNNrQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "AXPsTtYcaWE"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-22T09:02:26.000Z",
+                    "channelId": "UCgtIHivdWcG5zsilIYyJ0Lw",
+                    "title": "Namdziliin Norovbanzad - Bayasgalant Saalichin",
+                    "description": "Artiste : Namdziliin Norovbanzad Album : Urtiin Duu.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/AXPsTtYcaWE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/AXPsTtYcaWE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/AXPsTtYcaWE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Volfonizbro",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bogino Duu ": [
@@ -5677,7 +6222,41 @@
             "artist": "J. Nansalmaa",
             "song": "Mongolian Traditional Songs",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=J.%20Nansalmaa-Mongolian%20Traditional%20Songs"
+            "url": "https://www.youtube.com/results?search_query=J.%20Nansalmaa-Mongolian%20Traditional%20Songs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/13QF-9GeM5lSdZBBqCZam_4_9Mc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "SpAnPSIhBTw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-14T18:30:17.000Z",
+                    "channelId": "UC2Wfh8VuywpPvgfJCqL_Zlg",
+                    "title": "\u0416. \u041d\u0430\u043d\u0441\u0430\u043b\u043c\u0430\u0430",
+                    "description": "Source: http://lolaradio.blogspot.com/2013/09/nansalmas-traditional-songs-mongolia-en.html J. Nansalmaa Mongolia.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/SpAnPSIhBTw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/SpAnPSIhBTw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/SpAnPSIhBTw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "varietyizspice",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tatar Folk ": [
@@ -5687,7 +6266,41 @@
             "artist": "Various",
             "song": "Music of the Tatar People",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Tatar%20People"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Tatar%20People",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/dAP3G_EH_LVt5mVCwUVocZBPp-4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K_O4BrwHWH4"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-01T16:57:44.000Z",
+                    "channelId": "UC4gNHCugaKSSCpaI2hL2Jmg",
+                    "title": "Tatar Folk Music - Cicha &amp; Pa\u0142yga - Tatarska / Tatar Album",
+                    "description": "Tatarstan is an autonomous republic within Russia, where the largest ethnic group are the Tatars. Their traditional music is a mixture of Turkic and Finno-Ugric ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K_O4BrwHWH4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K_O4BrwHWH4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K_O4BrwHWH4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Traditional Music Channel",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Samoyedic Traditional ": [
@@ -5697,7 +6310,41 @@
             "artist": "Various",
             "song": "Sib\u00e9rie 1 - Shamanic and Narrative Songs of Siberian Arctic",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%201%20-%20Shamanic%20and%20Narrative%20Songs%20of%20Siberian%20Arctic"
+            "url": "https://www.youtube.com/results?search_query=Various-Sib%C3%A9rie%201%20-%20Shamanic%20and%20Narrative%20Songs%20of%20Siberian%20Arctic",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/aaAql-TW32pUGkMObE35K0g4JNo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7H9hxWmUZus"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-08T16:00:01.000Z",
+                    "channelId": "UC9UgF5IEGmtK1cgk7kiW6uQ",
+                    "title": "Siberie Shamanic And Narrative Songs Of Siberian Arctic - Le Fils Du Renne Femelle",
+                    "description": "In rossian Siberia! The name of this shaman - Nganasan, he is very powerful, can invoke snow, storms, ice down the ocean! Everyone is afraid of him! Nganasan ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7H9hxWmUZus/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7H9hxWmUZus/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7H9hxWmUZus/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CAPTAIN MUSIC",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ainu Folk ": [
@@ -5707,7 +6354,41 @@
             "artist": "Various",
             "song": "Ainu Songs (Chants des ainou)",
             "year": "(1993)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ainu%20Songs%20%28Chants%20des%20ainou%29"
+            "url": "https://www.youtube.com/results?search_query=Various-Ainu%20Songs%20%28Chants%20des%20ainou%29",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/pz12H7fD10BonJy-LAnt1dLBprE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "kPwv0IweoQY"
+                },
+                "snippet": {
+                    "publishedAt": "2009-10-15T07:59:23.000Z",
+                    "channelId": "UCXR9Wqgc1x9prQgtJG1gnkQ",
+                    "title": "Hokkaido Spirits From Ainu: Ainu Music &amp; Sound - BEKANBE UK",
+                    "description": "http://www.discoverysound.com/en/DFSD640/ BEKANBE UK The natural sounds produced in Hokkaido are rich, warm, and delicate, but they can evoke power ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/kPwv0IweoQY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/kPwv0IweoQY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/kPwv0IweoQY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "DiscoverySound",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tibetan Traditional ": [
@@ -5717,7 +6398,41 @@
             "artist": "Monks of the Dip Tse Chok Ling Monastery",
             "song": "Ritual Music of Tibetan Buddhism",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Monks%20of%20the%20Dip%20Tse%20Chok%20Ling%20Monastery-Ritual%20Music%20of%20Tibetan%20Buddhism"
+            "url": "https://www.youtube.com/results?search_query=Monks%20of%20the%20Dip%20Tse%20Chok%20Ling%20Monastery-Ritual%20Music%20of%20Tibetan%20Buddhism",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/2hWrgD7mONE6E6e3_ybE96kWk3k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "wovXWpI7CQs"
+                },
+                "snippet": {
+                    "publishedAt": "2012-04-14T10:58:45.000Z",
+                    "channelId": "UCMRyQBQOTB_hq2AUL8FY5xQ",
+                    "title": "Monks of the Dip Tse Chok Ling Monastery - Ritual Music of Tibetan Buddhism",
+                    "description": "Monks of the Dip Tse Chok Ling Monastery. Sacred Ceremonies- Ritual Music of Tibetan Buddhism. 1.Ten Tha (Like Clouds). 2.Dham-Chen Choegyal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wovXWpI7CQs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wovXWpI7CQs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wovXWpI7CQs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Classical Music goturhjem2",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Zhabdro Gorgom ": [
@@ -5727,7 +6442,41 @@
             "artist": "Sonam Dorji",
             "song": "Music From the Mountains of Bhutan",
             "year": "(2014)",
-            "url": "https://www.youtube.com/results?search_query=Sonam%20Dorji-Music%20From%20the%20Mountains%20of%20Bhutan"
+            "url": "https://www.youtube.com/results?search_query=Sonam%20Dorji-Music%20From%20the%20Mountains%20of%20Bhutan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XzG3xMY28WxMvegzIEpww0zAblY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "bDc_dJjYbzw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-01T14:02:35.000Z",
+                    "channelId": "UC7i6WqtuKR2HKxPRYMLplMg",
+                    "title": "Dungai Nanggo Nigma (Kheng Sonam Dorji)",
+                    "description": "\"Dungai Nanggo Nigma\" (The Orphan's Song) performed by singer, songwriter and Drangyen (Bhutanese lute) player Kheng Sonam Dorji. Taken from the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bDc_dJjYbzw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bDc_dJjYbzw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bDc_dJjYbzw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Gammaldans",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chinese Folk ": [
@@ -5737,7 +6486,41 @@
             "artist": "Various",
             "song": "Phases of the Moon - Traditional Chinese Music",
             "year": "(1981)",
-            "url": "https://www.youtube.com/results?search_query=Various-Phases%20of%20the%20Moon%20-%20Traditional%20Chinese%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Phases%20of%20the%20Moon%20-%20Traditional%20Chinese%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/wKysXy46n7cro7B2cjsg6E1gd28\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLF3Jj9DF-Tjzp_6LVHwGcXSQKtifhIfQX"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-23T16:14:11.000Z",
+                    "channelId": "UCc5K6yXNTdNQ51kQo0J79ww",
+                    "title": "Phases of the moon, Chinese traditional music",
+                    "description": "Hello fans of traditional music, I've collected a series of tracks from the same artist into a playlist, there was originally part of an hour long video containing all of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lFPsCCOgqw0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lFPsCCOgqw0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lFPsCCOgqw0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Trash Rat",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Jiangnan Sizhu ": [
@@ -5747,7 +6530,41 @@
             "artist": "Traditional Ensemble of ...",
             "song": "The Autumn Moon Over the Han Palace",
             "year": "(1988)",
-            "url": "https://www.youtube.com/results?search_query=Traditional%20Ensemble%20of%20...-The%20Autumn%20Moon%20Over%20the%20Han%20Palace"
+            "url": "https://www.youtube.com/results?search_query=Traditional%20Ensemble%20of%20...-The%20Autumn%20Moon%20Over%20the%20Han%20Palace",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4tR8VN9vOUYTBI9YDARn5drnQ40\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "fFfGuXYguXk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-09-16T13:47:12.000Z",
+                    "channelId": "UCXnkBt5P7kHaoyA11iGQQ0A",
+                    "title": "Autumn Moon over the Han Palace, Erhu Solo by Wenqing Zhao",
+                    "description": "The composition of Autumn Moon Over Han Palace is one of ten best ancient Chinese music pieces, which reassembled by Wu Wanqing (1847-1926).",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/fFfGuXYguXk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/fFfGuXYguXk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/fFfGuXYguXk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Wenqing Zhao",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Guoyue ": [
@@ -5767,7 +6584,41 @@
             "artist": "Various",
             "song": "Shanghai Nights",
             "year": "(1992)",
-            "url": "https://www.youtube.com/results?search_query=Various-Shanghai%20Nights"
+            "url": "https://www.youtube.com/results?search_query=Various-Shanghai%20Nights",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sLUSVaXQsELCMv_2v0vibpWs43k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0el39Qudo-0"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-09T08:58:04.000Z",
+                    "channelId": "UCE_sVWJk5u8h-Vae46P8D8A",
+                    "title": "Saib - Shanghai Nights",
+                    "description": "S u p p o r t . S a i b  // http://shop.coldbusted.org/album/around-the-world https://saibeats.bandcamp.com/ https://soundcloud.com/saib_eats ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0el39Qudo-0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0el39Qudo-0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0el39Qudo-0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Le Cyclone",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mandopop ": [
@@ -5777,7 +6628,41 @@
             "artist": "Teresa Teng",
             "song": "\u9127\u9e97\u541b\u4e4b\u6b4c\u7b2c\u4e00\u96c6 - \u9cf3\u967d\u82b1\u9f13",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=Teresa%20Teng-%E9%84%A7%E9%BA%97%E5%90%9B%E4%B9%8B%E6%AD%8C%E7%AC%AC%E4%B8%80%E9%9B%86%20-%20%E9%B3%B3%E9%99%BD%E8%8A%B1%E9%BC%93"
+            "url": "https://www.youtube.com/results?search_query=Teresa%20Teng-%E9%84%A7%E9%BA%97%E5%90%9B%E4%B9%8B%E6%AD%8C%E7%AC%AC%E4%B8%80%E9%9B%86%20-%20%E9%B3%B3%E9%99%BD%E8%8A%B1%E9%BC%93",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/x9nH47WZGJ5P2ZKleMFexwo8J3E\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "U5pmxsSZVEY"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-05T08:15:30.000Z",
+                    "channelId": "UCTvSxezLeXBEq1adZUbZNRg",
+                    "title": "\u9cf3\u967d\u82b1\u9f13 1967 \u9127\u9e97\u541b\u4e4b\u6b4c\u7b2c\u4e00\u96c6",
+                    "description": "\u66f2\u4f5a\u540d\u8a5e\u9ece\u9326\u5de6\u624b\u947c\u53f3\u624b\u9f13\u624b\u62ff\u8457\u947c\u9f13\u4f86\u5531\u6b4c\u5225\u7684\u6b4c\u5152\u6211\u4e5f\u4e0d\u6703\u5531\u55ae\u6703\u5531\u500b\u9cf3\u967d\u6b4c\u9cf3\u9cf3\u967d\u9f13\u554a\u54bf\u5440\u54ce\u55b2\u5f97\u5152\u943a\u943a\u98c4\u4e00\u98c4\u5f97\u5152\u943a\u943a\u98c4\u4e00\u98c4...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/U5pmxsSZVEY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/U5pmxsSZVEY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/U5pmxsSZVEY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Pho Run",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Yayue ": [
@@ -5787,7 +6672,41 @@
             "artist": "Various",
             "song": "Dance Music of Imperial Palace",
             "year": "(Yayue)",
-            "url": "https://www.youtube.com/results?search_query=Various-Dance%20Music%20of%20Imperial%20Palace"
+            "url": "https://www.youtube.com/results?search_query=Various-Dance%20Music%20of%20Imperial%20Palace",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/gb9gHJkmKFms7jXCQtEmesYOFcU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ZbjdlmFvGnE"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-29T17:44:05.000Z",
+                    "channelId": "UC2Jq-tF8wherx_mdwHwU15Q",
+                    "title": "Chinese Ancient Music: Dance Music of Imperial Palace",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ZbjdlmFvGnE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ZbjdlmFvGnE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ZbjdlmFvGnE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Guilherme Souza",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Peking Opera ": [
@@ -5797,7 +6716,41 @@
             "artist": "Various",
             "song": "The Ruse of the Empty City - A Traditional Peking Opera",
             "year": "(1960)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Ruse%20of%20the%20Empty%20City%20-%20A%20Traditional%20Peking%20Opera"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Ruse%20of%20the%20Empty%20City%20-%20A%20Traditional%20Peking%20Opera",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/vQTt5vkPRMTywyyJB0Fy8eMf9Uo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "1XRsYga80tc"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-30T12:17:55.000Z",
+                    "channelId": "UClhKf5ff3Q7BBtcNaU7Q2lQ",
+                    "title": "Ma Su, Chu Ko Liang, Executioners",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings Ma Su, Chu Ko Liang, Executioners \u00b7 n/a The Ruse of the Empty City: A Traditional Peking Opera ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/1XRsYga80tc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/1XRsYga80tc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/1XRsYga80tc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cantonese Opera ": [
@@ -5807,7 +6760,41 @@
             "artist": "Hong Kong Golden Voices",
             "song": "\u5510\u5bae\u6068\u53f2 (Tang Kung Han Si)",
             "year": "(1958)",
-            "url": "https://www.youtube.com/results?search_query=Hong%20Kong%20Golden%20Voices-%E5%94%90%E5%AE%AE%E6%81%A8%E5%8F%B2%20%28Tang%20Kung%20Han%20Si%29"
+            "url": "https://www.youtube.com/results?search_query=Hong%20Kong%20Golden%20Voices-%E5%94%90%E5%AE%AE%E6%81%A8%E5%8F%B2%20%28Tang%20Kung%20Han%20Si%29",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Pnxh7LGE04Vep1QKsbLUGxPf1QU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "MfkMUTa8gxg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-22T15:39:03.000Z",
+                    "channelId": "UCMv0W0l-UkNlPgx9hBreaTQ",
+                    "title": "Hong Kong Golden Voices - \u5510\u5bae\u6068\u53f2 Tang Kung Han Si",
+                    "description": "Yang and Mui Fight for the Emperor's Love (part 4). I own nothing.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/MfkMUTa8gxg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/MfkMUTa8gxg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/MfkMUTa8gxg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "pluto veins",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Shaoxing Opera ": [
@@ -5817,7 +6804,8 @@
             "artist": "Yuan Xuefen",
             "song": "\u8d8a\u97f5\u534e\u7ae0\u8881\u96ea\u82ac",
             "year": "(2010)",
-            "url": "https://www.youtube.com/results?search_query=Yuan%20Xuefen-%E8%B6%8A%E9%9F%B5%E5%8D%8E%E7%AB%A0%E8%A2%81%E9%9B%AA%E8%8A%AC"
+            "url": "https://www.youtube.com/results?search_query=Yuan%20Xuefen-%E8%B6%8A%E9%9F%B5%E5%8D%8E%E7%AB%A0%E8%A2%81%E9%9B%AA%E8%8A%AC",
+            "enriched": true
         }
     ],
     "Baisha Xiyue ": [
@@ -5827,7 +6815,8 @@
             "artist": "Yasuhiro Morinaga",
             "song": "Naxi - Qilin Dance (Yunnan, China)",
             "year": "(2014)",
-            "url": "https://www.youtube.com/results?search_query=Yasuhiro%20Morinaga-Naxi%20-%20Qilin%20Dance%20%28Yunnan%2C%20China%29"
+            "url": "https://www.youtube.com/results?search_query=Yasuhiro%20Morinaga-Naxi%20-%20Qilin%20Dance%20%28Yunnan%2C%20China%29",
+            "enriched": true
         }
     ],
     "Min'y\u014d ": [
@@ -5837,7 +6826,41 @@
             "artist": "Katsumasa Takasago",
             "song": "Flower Dance - Japanese Folk Melodies",
             "year": "(1969)",
-            "url": "https://www.youtube.com/results?search_query=Katsumasa%20Takasago-Flower%20Dance%20-%20Japanese%20Folk%20Melodies"
+            "url": "https://www.youtube.com/results?search_query=Katsumasa%20Takasago-Flower%20Dance%20-%20Japanese%20Folk%20Melodies",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/y1LiCXlvG4AlXyZuyhZN0MdhMFI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "l7bBCGKzyUE"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-31T15:18:10.000Z",
+                    "channelId": "UC3ZVeYqdyW4lJk6ptoifMag",
+                    "title": "Flower Dance: Japanese Folk Melodies - Kojo No Tsuki",
+                    "description": "Noday.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/l7bBCGKzyUE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/l7bBCGKzyUE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/l7bBCGKzyUE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Matthew Saul",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Amami Shimauta ": [
@@ -5847,7 +6870,41 @@
             "artist": "Various",
             "song": "Folk Music of the Amami Islands",
             "year": "(1954)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Amami%20Islands"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Amami%20Islands",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/rdTKKMnsy-ja4rYpaBqi7LcGYo8\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLnOSH5j1sQh9sgFzMO5gS81yypueiTyzy"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-29T06:32:22.000Z",
+                    "channelId": "UCxmFNKV3EeuMyvptqbTsKvQ",
+                    "title": "Amami Islands Folk Music",
+                    "description": "The Amami Islands are an archipelago off the southern coast of Japan.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zlKx4BboSlw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zlKx4BboSlw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zlKx4BboSlw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ericwhollem",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Heikyoku ": [
@@ -5857,7 +6914,41 @@
             "artist": "Junko Ueda",
             "song": "Japon - l'\u00e9pop\u00e9e des Heike",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Junko%20Ueda-Japon%20-%20l%26%23x27%3B%C3%A9pop%C3%A9e%20des%20Heike"
+            "url": "https://www.youtube.com/results?search_query=Junko%20Ueda-Japon%20-%20l%26%23x27%3B%C3%A9pop%C3%A9e%20des%20Heike",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/NTBslmeBoFs2mmvv91TEVHJ_3Sk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "YIkvlVeIsqE"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-22T20:17:02.000Z",
+                    "channelId": "UC14Da_3mWjBgNIYZY0k3awQ",
+                    "title": "Junko Ueda - l&#39;Epop\u00e9e des Heike",
+                    "description": "Junko Ueda, joueuse de biwa de renom, joue ici trois parties de l'\u00e9pop\u00e9e des Heike. Cette pi\u00e8ce musicale, compos\u00e9e vers 1200 et interpr\u00e9t\u00e9e uniquement au ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YIkvlVeIsqE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YIkvlVeIsqE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YIkvlVeIsqE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ma\u00eetre Jean-Jacques",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kagura ": [
@@ -5867,7 +6958,41 @@
             "artist": "Various",
             "song": "Kagura - Japanese Shinto Ritual Music",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Various-Kagura%20-%20Japanese%20Shinto%20Ritual%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Kagura%20-%20Japanese%20Shinto%20Ritual%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/EvVY_80Dn8vuAvsYu5U33gKWSGU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GQDDCWby5Ys"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-24T19:11:11.000Z",
+                    "channelId": "UCgYLBJrhb8p6rBfYu3apUsg",
+                    "title": "The Sacred Music of Mikagura: a brief look at an ancient ritual | \u5fa1\u795e\u697d\u89e3\u8aac\u30fb\u88c5\u675f\u697d\u5668\u89e3\u8aac",
+                    "description": "Mikagura is a form of Japanese ceremonial music and dance which originated in rituals first conducted more than 1000 years ago by Shinto shrine priests for the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GQDDCWby5Ys/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GQDDCWby5Ys/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GQDDCWby5Ys/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Portland Japanese Garden",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Taiko ": [
@@ -5877,7 +7002,41 @@
             "artist": "Kodo",
             "song": "The Best of Kodo",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Kodo-The%20Best%20of%20Kodo"
+            "url": "https://www.youtube.com/results?search_query=Kodo-The%20Best%20of%20Kodo",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XcMa-c-KkG0A4XGJTRnsiqrtBsY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Y2e1pVlSpW8"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-18T02:42:13.000Z",
+                    "channelId": "UCeyxXzWiHWFV_1tbaHLA9UQ",
+                    "title": "Kodo - Heartbeat Drummers of Japan (1985) FULL ALBUM",
+                    "description": "\"This authentic Japanese Taiko-drum ensemble sometimes adds modern and/or Western touches to their thunderous drumming repertoire.\" . *Kodo / Heartbeat ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sabiacorteza",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tsugaru Shamisen ": [
@@ -5887,7 +7046,41 @@
             "artist": "Takahashi Chikuzan",
             "song": "Tsugaru Shamisen",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Takahashi%20Chikuzan-Tsugaru%20Shamisen"
+            "url": "https://www.youtube.com/results?search_query=Takahashi%20Chikuzan-Tsugaru%20Shamisen",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/LaLv82XWdB-CiaqtgCVPjW51HK8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "8HTNaqEMOgk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-08T02:18:12.000Z",
+                    "channelId": "UCeyxXzWiHWFV_1tbaHLA9UQ",
+                    "title": "\u300c1973 - \u9ad8\u6a4b\u7af9\u5c71 - \u6d25\u8efd\u4e09\u5473\u7dda\u300d(Takahashi Chikuzan/Tsugaru Shamisen) -FULL ALBUM-",
+                    "description": "enjoy the beauty-folk music of Japan. (0:00:00) 01. \u6d25\u8efd\u4e09\u5473\u7dda\u7d44\u66f2 [Tsugaru-Shamisen Suits] (4:46:22) 02. \u6d25\u8efd\u3058\u3087\u3093\u304b\u3089\u7bc0 [Tsugaru jonkara bushi] (7:32:37) 03.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sabiacorteza",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ry\u016bk\u014dka ": [
@@ -5897,7 +7090,8 @@
             "artist": "Various",
             "song": "\u9752\u6625\u6b4c\u5e74\u9451 \u6226\u524d\u7de8\u2460 \u662d\u548c3\u5e74\u301c8\u5e74",
             "year": "(1928-1933)",
-            "url": "https://www.youtube.com/results?search_query=Various-%E9%9D%92%E6%98%A5%E6%AD%8C%E5%B9%B4%E9%91%91%20%E6%88%A6%E5%89%8D%E7%B7%A8%E2%91%A0%20%E6%98%AD%E5%92%8C3%E5%B9%B4%E3%80%9C8%E5%B9%B4"
+            "url": "https://www.youtube.com/results?search_query=Various-%E9%9D%92%E6%98%A5%E6%AD%8C%E5%B9%B4%E9%91%91%20%E6%88%A6%E5%89%8D%E7%B7%A8%E2%91%A0%20%E6%98%AD%E5%92%8C3%E5%B9%B4%E3%80%9C8%E5%B9%B4",
+            "enriched": true
         }
     ],
     "Enka ": [
@@ -5907,7 +7101,41 @@
             "artist": "Various",
             "song": "\u65e5\u672c\u6f14\u6b4c - Japan's Oldies",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Various-%E6%97%A5%E6%9C%AC%E6%BC%94%E6%AD%8C%20-%20Japan%26%23x27%3Bs%20Oldies"
+            "url": "https://www.youtube.com/results?search_query=Various-%E6%97%A5%E6%9C%AC%E6%BC%94%E6%AD%8C%20-%20Japan%26%23x27%3Bs%20Oldies",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/jgfV0DQqAKoEAC1ArhTPXH4MnJg\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLp7pAH9am84PycFTTTEsOsIUL5Ny8leRq"
+                },
+                "snippet": {
+                    "publishedAt": "2015-04-23T15:31:17.000Z",
+                    "channelId": "UCherX1xNGQP_YW79szV4QVg",
+                    "title": "Japanese Enka Songs",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Pure Listening Pleasure",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kay\u014dkyoku ": [
@@ -5917,7 +7145,8 @@
             "artist": "Noriko Awaya",
             "song": "Mes ch\u00e8res chansons - Victor Recordings",
             "year": "(1951-1959)",
-            "url": "https://www.youtube.com/results?search_query=Noriko%20Awaya-Mes%20ch%C3%A8res%20chansons%20-%20Victor%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Noriko%20Awaya-Mes%20ch%C3%A8res%20chansons%20-%20Victor%20Recordings",
+            "enriched": true
         }
     ],
     "Mood Kay\u014d ": [
@@ -5927,7 +7156,41 @@
             "artist": "Various",
             "song": "Japanese Retro Hits - Volume 2 - The Fifties",
             "year": "(1951-1953)",
-            "url": "https://www.youtube.com/results?search_query=Various-Japanese%20Retro%20Hits%20-%20Volume%202%20-%20The%20Fifties"
+            "url": "https://www.youtube.com/results?search_query=Various-Japanese%20Retro%20Hits%20-%20Volume%202%20-%20The%20Fifties",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/F4QdKhTjq-HhuNeCb9IdnZLgBsI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Pl3hmTntqms"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-21T16:37:59.000Z",
+                    "channelId": "UCySoHrYAhxBOZReX_9QsYPA",
+                    "title": "Vintage Japanese Music Mixtape 60&#39;s 70&#39;s 80&#39;s",
+                    "description": "1 Shibuya Elegy / Minoru Shibuya 2 Maruyama Hanamachi Haha No Machi / Eiji Miyoshi 3 Dogenzaka Blues / Nobuko Kuga 4 Shibuya Blues / Berb Satake 5 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Pl3hmTntqms/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Pl3hmTntqms/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Pl3hmTntqms/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SynthNes",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Japanese Classical ": [
@@ -5937,7 +7200,41 @@
             "artist": "Ensemble Nipponia",
             "song": "Japan - Traditional Vocal & Instrumental Music",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Ensemble%20Nipponia-Japan%20-%20Traditional%20Vocal%20%26amp%3B%20Instrumental%20Music"
+            "url": "https://www.youtube.com/results?search_query=Ensemble%20Nipponia-Japan%20-%20Traditional%20Vocal%20%26amp%3B%20Instrumental%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Eecg8Vi_s7PUULoxsSeRSrfEJiQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "4emogJU_pdA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-10T00:36:38.000Z",
+                    "channelId": "UCZgmxqY8V8GAisSPqEJ0yfg",
+                    "title": "Soloists Of The Ensemble Nipponia \u200e\u2013 Japan (Traditional Vocal &amp; Instrumental Music) [Full Album]",
+                    "description": "0:00 | Kumoi Jishi (shakuhachi) 5:43 | Ozatsuma (shamisen) 8:30 | Ogi no Mato ('The Folding Fan as a Target') (voice, biwa) 19:14 | Edo Lullaby (shakuhachi, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/4emogJU_pdA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/4emogJU_pdA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/4emogJU_pdA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "coconuts",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gagaku ": [
@@ -5947,7 +7244,41 @@
             "artist": "Tokyo Gakuso",
             "song": "Gagaku - Court Music of Japan",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Tokyo%20Gakuso-Gagaku%20-%20Court%20Music%20of%20Japan"
+            "url": "https://www.youtube.com/results?search_query=Tokyo%20Gakuso-Gagaku%20-%20Court%20Music%20of%20Japan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/tDKnCGrBn67olC01mX8EVRlmDho\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "nQU8AdluxtI"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-17T00:32:37.000Z",
+                    "channelId": "UCuCbmLlgVYbuSJtXsRZpT-g",
+                    "title": "Gagaku | Court Music of Japan [1981, album]",
+                    "description": "https://www.discogs.com/Tokyo-Gakuso-Gagaku-Court-Music-Of-Japan/release/1090269 - 01 \u842c\u6b73\u697d \u51fa\u624b\uff08\u5e73\u8abf\u3005\u5b50\uff09MANZAIRAKU DERUTE 00:00 02 \u842c\u6b73\u697d ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/nQU8AdluxtI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/nQU8AdluxtI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/nQU8AdluxtI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Harari",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "J\u014druri ": [
@@ -5957,7 +7288,8 @@
             "artist": "Various",
             "song": "Koten Geino Best Selection - Meijin, Meikyoku, Mei Enso - Gidayu",
             "year": "(2014)",
-            "url": "https://www.youtube.com/results?search_query=Various-Koten%20Geino%20Best%20Selection%20-%20Meijin%2C%20Meikyoku%2C%20Mei%20Enso%20-%20Gidayu"
+            "url": "https://www.youtube.com/results?search_query=Various-Koten%20Geino%20Best%20Selection%20-%20Meijin%2C%20Meikyoku%2C%20Mei%20Enso%20-%20Gidayu",
+            "enriched": true
         }
     ],
     "Nagauta ": [
@@ -5967,7 +7299,41 @@
             "artist": "The Azuma Kabuki Musicians",
             "song": "Nagauta Music and Original Music and Arangements From Older Classics",
             "year": "(1954)",
-            "url": "https://www.youtube.com/results?search_query=The%20Azuma%20Kabuki%20Musicians-Nagauta%20Music%20and%20Original%20Music%20and%20Arangements%20From%20Older%20Classics"
+            "url": "https://www.youtube.com/results?search_query=The%20Azuma%20Kabuki%20Musicians-Nagauta%20Music%20and%20Original%20Music%20and%20Arangements%20From%20Older%20Classics",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/yIeFJIR9nzbY7-sZfE40lynnLh8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "JC8mSAlU5-4"
+                },
+                "snippet": {
+                    "publishedAt": "2011-10-27T03:41:49.000Z",
+                    "channelId": "UCmO_07mvXue17SnQyCVJtpw",
+                    "title": "Azuma Kabuki Musicians Nagauta Music 1954 (with liner notes)",
+                    "description": "Mono Columbia LP. Sol Hurok with the co-operation of H.I.H. Prince Takamatsu and the Japanese Ministry of Foreign Affairs presents the Azuma Kabuki ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/JC8mSAlU5-4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/JC8mSAlU5-4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/JC8mSAlU5-4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "vinyhilist",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Noh ": [
@@ -5977,7 +7343,41 @@
             "artist": "The Kyoto Nohgaku Kai",
             "song": "Japanese Noh Music",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=The%20Kyoto%20Nohgaku%20Kai-Japanese%20Noh%20Music"
+            "url": "https://www.youtube.com/results?search_query=The%20Kyoto%20Nohgaku%20Kai-Japanese%20Noh%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/mN5pkIzUjPv44-i8ifYvLu082mk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "eu9MT7WiWP4"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-06T20:10:18.000Z",
+                    "channelId": "UCTdk8oVdKsn4bfq64O4A6HA",
+                    "title": "The Kyoto Nohgaku Kai \u200e\u2013 Japanese Noh Music - Full Album",
+                    "description": "https://www.discogs.com/The-Kyoto-Nohgaku-Kai-Japanese-Noh-Music/release/2803012 1 Deha 2 Nakairiraigyo 3 Jonomai 4 Otokomai 5 Sagariha 6 Kammai ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/eu9MT7WiWP4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/eu9MT7WiWP4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/eu9MT7WiWP4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u03a4\u03bf \u03c6\u03b9\u03bb\u03af \u03c4\u03b7\u03c2 \u03a0\u03b5\u03c4\u03b1\u03bb\u03bf\u03cd\u03b4\u03b1\u03c2",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Shomyo ": [
@@ -5987,7 +7387,41 @@
             "artist": "Various",
             "song": "Zen, Goeika & Shomyo Chants",
             "year": "(1963)",
-            "url": "https://www.youtube.com/results?search_query=Various-Zen%2C%20Goeika%20%26amp%3B%20Shomyo%20Chants"
+            "url": "https://www.youtube.com/results?search_query=Various-Zen%2C%20Goeika%20%26amp%3B%20Shomyo%20Chants",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iHKNQqajP55obGaDYx-2CK4q-wg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "AH_kMrL2j5M"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-29T15:10:40.000Z",
+                    "channelId": "UCGLzHJlQ8DXbN5GjYhC2iwA",
+                    "title": "Goeika, Shomyo Chants",
+                    "description": "Zen, Goeika, Shomyo Chants.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/AH_kMrL2j5M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/AH_kMrL2j5M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/AH_kMrL2j5M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Kizen Aikido Club Aikido",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Jiuta ": [
