@@ -12,7 +12,8 @@ for key in jsonToEnrich:
     for songIndex in range(0, len(jsonToEnrich[key])):
         try:
             jsonToEnrich[key][songIndex] = enrichSong(jsonToEnrich[key][songIndex])
-        except:
+        except Exception as e:
+            print(e)
             jsonToEnrich[key][songIndex]['enriched'] = True
         with open('json/data.json', 'w') as outfile:
             json.dump(jsonToEnrich, outfile, indent=4)

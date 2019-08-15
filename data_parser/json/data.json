@@ -7431,7 +7431,41 @@
             "artist": "Master Musicians of the Ikuta School",
             "song": "Japanese Koto Consort",
             "year": "(1968)",
-            "url": "https://www.youtube.com/results?search_query=Master%20Musicians%20of%20the%20Ikuta%20School-Japanese%20Koto%20Consort"
+            "url": "https://www.youtube.com/results?search_query=Master%20Musicians%20of%20the%20Ikuta%20School-Japanese%20Koto%20Consort",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/90BbNyvw1flyfOyQbWsyZdcQ4IA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ZU0oM5gSsgA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-08-16T06:51:36.000Z",
+                    "channelId": "UCMePB5lC-wvTEIuXgtzYyVw",
+                    "title": "Master Musicians Of Ikuta Ryu \u200e\u2013 Japanese Treasures   Koto, Shamisen, Shakuhachi   \u2013 LLST 7",
+                    "description": "DISCLAIMER* NO COPYRIGHT INFRINGEMENT INTENDED. I DO NOT OWN THE RIGHTS TO MUSIC IN THIS VIDEO. I DO NOT MONETIZE THIS VIDEO.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ZU0oM5gSsgA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ZU0oM5gSsgA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ZU0oM5gSsgA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "INVIGORATION",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Soukyoku ": [
@@ -7441,7 +7475,41 @@
             "artist": "Koto Ensemble of the Ikuta School",
             "song": "Japanese Koto Orchestra",
             "year": "(1993)",
-            "url": "https://www.youtube.com/results?search_query=Koto%20Ensemble%20of%20the%20Ikuta%20School-Japanese%20Koto%20Orchestra"
+            "url": "https://www.youtube.com/results?search_query=Koto%20Ensemble%20of%20the%20Ikuta%20School-Japanese%20Koto%20Orchestra",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/vts4NkaZgWGBC6Qa69s3UKIC2e4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "kKEW0jbll98"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-14T17:37:33.000Z",
+                    "channelId": "UC9qsnfVRVEn6oFVvpstD8CQ",
+                    "title": "Koto Ensemble Of The Ikuta School - Otone No Nagare Ni Sote",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/kKEW0jbll98/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/kKEW0jbll98/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/kKEW0jbll98/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Nigh Turs",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Danmono ": [
@@ -7451,7 +7519,41 @@
             "artist": "Kimio Eto",
             "song": "Koto Music",
             "year": "(1959)",
-            "url": "https://www.youtube.com/results?search_query=Kimio%20Eto-Koto%20Music"
+            "url": "https://www.youtube.com/results?search_query=Kimio%20Eto-Koto%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/C-z23aCAO-q5ocPvK5TOB8_PWYg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "uorVoWL0CuM"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-26T05:18:25.000Z",
+                    "channelId": "UCPn90bFxk7WnLBBJ2fKOUlw",
+                    "title": "Kimio Eto  - Koto Music",
+                    "description": "It must have been Christmas of 1967 when I first saw the strange and slightly frightening cover of Kimio Eto's Koto Music recording. It was a present from my Mom ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uorVoWL0CuM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uorVoWL0CuM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uorVoWL0CuM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Dana Patchick",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kumiuta ": [
@@ -7461,7 +7563,41 @@
             "artist": "Namino Torii",
             "song": "Koto Kumiuta",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Namino%20Torii-Koto%20Kumiuta"
+            "url": "https://www.youtube.com/results?search_query=Namino%20Torii-Koto%20Kumiuta",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/9LACz4GTCzvc7eIuFam2PN9jUJs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "iPEsncAQmZ8"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-18T21:07:47.000Z",
+                    "channelId": "UCO7YapUHOYXbJcsyR3Xbzow",
+                    "title": "Omoigawa (River of memory)",
+                    "description": "Provided to YouTube by o2digitale Omoigawa (River of memory) \u00b7 Namino Torii Koto Kumiuta - Song Cycles by Master Composers of 17th & 18th Century ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/iPEsncAQmZ8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/iPEsncAQmZ8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/iPEsncAQmZ8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Namino Torii - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Korean Folk ": [
@@ -7471,7 +7607,41 @@
             "artist": "Kim Suk Chul Ensemble",
             "song": "The Shamans of the Eastern Seaboard",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Kim%20Suk%20Chul%20Ensemble-The%20Shamans%20of%20the%20Eastern%20Seaboard"
+            "url": "https://www.youtube.com/results?search_query=Kim%20Suk%20Chul%20Ensemble-The%20Shamans%20of%20the%20Eastern%20Seaboard",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/GcAi6c6y5RyNT8dN1VPQxWRQJLk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "FX4rbMMM-N4"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-01T12:45:54.000Z",
+                    "channelId": "UCYudfNesy980ESiCumDhXog",
+                    "title": "Kim Suk Chul Ensemble - Shamanistic Ceremony",
+                    "description": "Filmed about 20 years ago, on the eastern seaboard of South Korea, an intoxicating shamanistic ceremony featuring Kim Suk Chul Ensemble. Kim Suk Chul ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/FX4rbMMM-N4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/FX4rbMMM-N4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/FX4rbMMM-N4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Far Side Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sinawi ": [
@@ -7481,7 +7651,41 @@
             "artist": "Various",
             "song": "Sinawi Music of Korea",
             "year": "(1992)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sinawi%20Music%20of%20Korea"
+            "url": "https://www.youtube.com/results?search_query=Various-Sinawi%20Music%20of%20Korea",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/k-jB3T4wt5dHhQyrWp0pglgs2VI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "d5gS55156us"
+                },
+                "snippet": {
+                    "publishedAt": "2011-06-20T19:09:08.000Z",
+                    "channelId": "UCHtyMBPkWbYTE6AMvbr7z4A",
+                    "title": "Sinawi Music of Korea - Piri-Sinawi",
+                    "description": "Personnel: Piri -- Pak Pomhun Ching -- No Jongak Janggu -- Chang Dokhwa.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/d5gS55156us/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/d5gS55156us/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/d5gS55156us/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jerkicus",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Korean Classical ": [
@@ -7491,7 +7695,41 @@
             "artist": "Seoul Ensemble of Traditional Music",
             "song": "Korea - Seoul Ensemble of Traditional Music",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Seoul%20Ensemble%20of%20Traditional%20Music-Korea%20-%20Seoul%20Ensemble%20of%20Traditional%20Music"
+            "url": "https://www.youtube.com/results?search_query=Seoul%20Ensemble%20of%20Traditional%20Music-Korea%20-%20Seoul%20Ensemble%20of%20Traditional%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/pVjdPfXMG83AyF-cYTCmqlWeFK8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "kEYNR3R3rbw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-08-16T22:27:24.000Z",
+                    "channelId": "UC6LKR6yw-sHzVouhf6T2FYg",
+                    "title": "Korean Traditional Music Group Ensemble SINAWI Performance",
+                    "description": "August 7, 2013 - Korean sinawi music originally accompanied propitiatory rites presided over by a female shaman, or mudang. The word sinawi is also ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/kEYNR3R3rbw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/kEYNR3R3rbw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/kEYNR3R3rbw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The Korea Society",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Aak ": [
@@ -7501,7 +7739,41 @@
             "artist": "National Classical ...",
             "song": "Aak - Ancient Music of the Korean Royal Court",
             "year": "(2007)",
-            "url": "https://www.youtube.com/results?search_query=National%20Classical%20...-Aak%20-%20Ancient%20Music%20of%20the%20Korean%20Royal%20Court"
+            "url": "https://www.youtube.com/results?search_query=National%20Classical%20...-Aak%20-%20Ancient%20Music%20of%20the%20Korean%20Royal%20Court",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/kfgkqZKJAmZGQsxFJPi_SlKlMA4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "vJdmThHkhIs"
+                },
+                "snippet": {
+                    "publishedAt": "2011-07-02T01:43:57.000Z",
+                    "channelId": "UCVh8bfCyTsHqMDuCc4pKppA",
+                    "title": "Ch&#39;on Pei Hi Mun (Royal Ancestor&#39;s Music) - Ah-Ahk (Korean Court Music)",
+                    "description": "Robert Garfias Archive Within the repertoire of the Korean Court musicians is a large body of songs known as the Royal Ancestor's Music. Modelled after the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vJdmThHkhIs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vJdmThHkhIs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vJdmThHkhIs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Sanatal\u0131k",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Trot ": [
@@ -7511,7 +7783,41 @@
             "artist": "Various",
             "song": "\uc720\uc131\uae30\ub85c \ub4e3\ub358 \uac00\uc694\uc0ac - \ubd88\uba78\uc758 \uba85\uac00\uc218",
             "year": "(1925-1945)",
-            "url": "https://www.youtube.com/results?search_query=Various-%EC%9C%A0%EC%84%B1%EA%B8%B0%EB%A1%9C%20%EB%93%A3%EB%8D%98%20%EA%B0%80%EC%9A%94%EC%82%AC%20-%20%EB%B6%88%EB%A9%B8%EC%9D%98%20%EB%AA%85%EA%B0%80%EC%88%98"
+            "url": "https://www.youtube.com/results?search_query=Various-%EC%9C%A0%EC%84%B1%EA%B8%B0%EB%A1%9C%20%EB%93%A3%EB%8D%98%20%EA%B0%80%EC%9A%94%EC%82%AC%20-%20%EB%B6%88%EB%A9%B8%EC%9D%98%20%EB%AA%85%EA%B0%80%EC%88%98",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/tMGe7uZqpnOa4gUSoM0Xnsqva7s\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-l4KegUNNfc"
+                },
+                "snippet": {
+                    "publishedAt": "2017-12-12T01:41:16.000Z",
+                    "channelId": "UCaqouA5CPzxoMUTvz0OGe6A",
+                    "title": "\ubd81\uacbd\uc544\uac00\uc528",
+                    "description": "Provided to YouTube by OGAM \ubd81\uacbd\uc544\uac00\uc528 \u00b7 Various Artists \uc720\uc131\uae30\ub85c \ub4e3\ub358 \ubd88\uba78\uc758 \uba85\uac00\uc218-\ubc31\ub09c\uc544, \ubbf8\uc4f0\ucf54\ub9ac\uc544, \uc625\uc7a0\ud654 \ud3b8 \u2117 \uc624\uac10\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8 Released on:...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-l4KegUNNfc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-l4KegUNNfc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-l4KegUNNfc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Vietnamese Folk ": [
@@ -7521,7 +7827,41 @@
             "artist": "Various",
             "song": "Music Of Viet Nam",
             "year": "(1965)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20Of%20Viet%20Nam"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20Of%20Viet%20Nam",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4B9xqn9H7ctacmyIrCjKAz_pYbU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "CsX3RWl5heA"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-12T12:44:39.000Z",
+                    "channelId": "UCSgNbbWlQJr_1pNyfl-p6OQ",
+                    "title": "Best Rock Songs Vietnam War Music Best Rock, music Of All Time 60s and 70s",
+                    "description": "Best Rock Songs Vietnam War Music Best Rock, music Of All Time 60s and 70s Rock World conflicts. https://www.instagram.com/satiriches/ - my friend from ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/CsX3RWl5heA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/CsX3RWl5heA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/CsX3RWl5heA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jora Killgrave",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 186,
@@ -7529,7 +7869,41 @@
             "artist": "Phong Nguyen",
             "song": "From Rice Paddies and Temple Yards - Traditional Music of Vietnam",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Phong%20Nguyen-From%20Rice%20Paddies%20and%20Temple%20Yards%20-%20Traditional%20Music%20of%20Vietnam"
+            "url": "https://www.youtube.com/results?search_query=Phong%20Nguyen-From%20Rice%20Paddies%20and%20Temple%20Yards%20-%20Traditional%20Music%20of%20Vietnam",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_9FLYf5l8L-OweoaV0WR2REQaNo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "DzlY24oVD3A"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-13T19:47:36.000Z",
+                    "channelId": "UC_8VlfZfcEhuQrg5lWVXXtw",
+                    "title": "Phong Thuy\u1ebft Nguy\u1ec5n &amp; Chorus - C\u00f2 L\u00e3",
+                    "description": "Track 4 off of From Rice Paddies and Temple Yards: Traditional Music of Vietnam (1990) published by World Music Press. Recorded at Trax Recording in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Will Dudarov",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Vietnamese Classical ": [
@@ -7539,7 +7913,41 @@
             "artist": "Various",
             "song": "Traditional Music of Vietnam - Instrumental, Art Songs, Poetry",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Various-Traditional%20Music%20of%20Vietnam%20-%20Instrumental%2C%20Art%20Songs%2C%20Poetry"
+            "url": "https://www.youtube.com/results?search_query=Various-Traditional%20Music%20of%20Vietnam%20-%20Instrumental%2C%20Art%20Songs%2C%20Poetry",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/CdXqJvzDcE83QBoSZ3ZDBs62Pg8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_15CDPlvPrc"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-04T12:57:02.000Z",
+                    "channelId": "UCa4nINbc9KDclJ2JQoTrjRg",
+                    "title": "&quot;War Poetry&quot; Raw Oldschool HipHop Beat",
+                    "description": "Get this Beat here: https://bsta.rs/8eo931 Instagram: http://instagram.com/bluntedbeatz Listen to Blunted on Spotify: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_15CDPlvPrc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_15CDPlvPrc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_15CDPlvPrc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "BluntedBeatz",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 188,
@@ -7547,7 +7955,41 @@
             "artist": "Dr. Phong Nguyen",
             "song": "Instrumental Music of Vietnam - Dan Tranh",
             "year": "(1983)",
-            "url": "https://www.youtube.com/results?search_query=Dr.%20Phong%20Nguyen-Instrumental%20Music%20of%20Vietnam%20-%20Dan%20Tranh"
+            "url": "https://www.youtube.com/results?search_query=Dr.%20Phong%20Nguyen-Instrumental%20Music%20of%20Vietnam%20-%20Dan%20Tranh",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/_9FLYf5l8L-OweoaV0WR2REQaNo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "DzlY24oVD3A"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-13T19:47:36.000Z",
+                    "channelId": "UC_8VlfZfcEhuQrg5lWVXXtw",
+                    "title": "Phong Thuy\u1ebft Nguy\u1ec5n &amp; Chorus - C\u00f2 L\u00e3",
+                    "description": "Track 4 off of From Rice Paddies and Temple Yards: Traditional Music of Vietnam (1990) published by World Music Press. Recorded at Trax Recording in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/DzlY24oVD3A/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Will Dudarov",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nh\u1ea1c v\u00e0ng ": [
@@ -7557,7 +7999,41 @@
             "artist": "Various",
             "song": "Saigon Supersound - Volume 1",
             "year": "(1965-1975)",
-            "url": "https://www.youtube.com/results?search_query=Various-Saigon%20Supersound%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Various-Saigon%20Supersound%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/fSLvQsAIrO4EGXClbh7oMtP5NzM\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLbmvs54Lax6GOANj4UDPCYZ20k0FeTS2H"
+                },
+                "snippet": {
+                    "publishedAt": "2017-04-25T14:30:07.000Z",
+                    "channelId": "UC_fA8_PLdnRsqnuZyn3zs9Q",
+                    "title": "Saigon Supersound Vol. 1",
+                    "description": "complete album track-listing of Saigon Supersound Vol. 1 in this playlist.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LdN-3vj4c3M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LdN-3vj4c3M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LdN-3vj4c3M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Saigon Supersound",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Dangdut ": [
@@ -7567,7 +8043,41 @@
             "artist": "Various",
             "song": "Indonesia Pop Nostalgia",
             "year": "(2012)",
-            "url": "https://www.youtube.com/results?search_query=Various-Indonesia%20Pop%20Nostalgia"
+            "url": "https://www.youtube.com/results?search_query=Various-Indonesia%20Pop%20Nostalgia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iAQWZ_Ai1PF3g6mHDSpxRRfa7Jo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "8uR68frkBgU"
+                },
+                "snippet": {
+                    "publishedAt": "2018-07-30T06:59:24.000Z",
+                    "channelId": "UChep--r1RYxcBoEn0qODheQ",
+                    "title": "20 POP NOSTALGIA LEGENDARIS",
+                    "description": "20 POP NOSTALGIA LEGENDARIS Copyright \u00a9 2018 (Sound Recording Right) Purnama Suara Persada - All rights reserved. ARTIS : 1. THE MERCY'S 2.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8uR68frkBgU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8uR68frkBgU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8uR68frkBgU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Purnama Records",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Jaipongan ": [
@@ -7577,7 +8087,41 @@
             "artist": "Itoh Masyitoh & Rineka Swara",
             "song": "Naon Margina",
             "year": "(1980)",
-            "url": "https://www.youtube.com/results?search_query=Itoh%20Masyitoh%20%26amp%3B%20Rineka%20Swara-Naon%20Margina"
+            "url": "https://www.youtube.com/results?search_query=Itoh%20Masyitoh%20%26amp%3B%20Rineka%20Swara-Naon%20Margina",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/CHyytFMfJNRe8H4KZHJqfCWEGoQ\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLWkrJW0zArcaO4F2aSBgD5oXhNiemSM96"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-13T11:30:11.000Z",
+                    "channelId": "UC8QAi7EGzZSepMg-uWVsPkg",
+                    "title": "Itoh Masyitoh and Group Rineka Swara - Naon Margina",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/xS4sGx1AlMc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/xS4sGx1AlMc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/xS4sGx1AlMc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "gffgfggftyrhghgg",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kliningan ": [
@@ -7587,7 +8131,41 @@
             "artist": "Various",
             "song": "Kliningan & ketuk tilu",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-Kliningan%20%26amp%3B%20ketuk%20tilu"
+            "url": "https://www.youtube.com/results?search_query=Various-Kliningan%20%26amp%3B%20ketuk%20tilu",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Nx45t1amE5LPoybDc1DFQlXn3I4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "afZpwsPyS7Q"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-05T00:51:59.000Z",
+                    "channelId": "UCK_5CBBg3g5_qZU4ViZ-Baw",
+                    "title": "JAIPONG KLININGAN SENI SUNDA SEKAR PAKUAN   KETUK TILU &amp; KLININGAN",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "musik 60an",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mono ": [
@@ -7597,7 +8175,41 @@
             "artist": "Various",
             "song": "Princess Nicotine",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Various-Princess%20Nicotine"
+            "url": "https://www.youtube.com/results?search_query=Various-Princess%20Nicotine",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/W-2HmhGd3ejXybglvI9bT3fkw2o\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "zlvQOGDGmi0"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-27T20:50:56.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Princess Nicotine: Folk And Pop Sounds Of Myanmar (Burma) Vol 1 Folk Music Compilation",
+                    "description": "Label:Sublime Frequencies    Format:Vinyl, LP, Compilation, Limited Edition, Reissue Country:US Released:2011 You can buy it here : http://amzn.to/2kfbljK ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zlvQOGDGmi0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zlvQOGDGmi0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zlvQOGDGmi0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Qasidah Modern ": [
@@ -7607,7 +8219,41 @@
             "artist": "Nasida Ria",
             "song": "Moslem Songs Top Hit's - Nasida Ria - Volume 9",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Nasida%20Ria-Moslem%20Songs%20Top%20Hit%26%23x27%3Bs%20-%20Nasida%20Ria%20-%20Volume%209"
+            "url": "https://www.youtube.com/results?search_query=Nasida%20Ria-Moslem%20Songs%20Top%20Hit%26%23x27%3Bs%20-%20Nasida%20Ria%20-%20Volume%209",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/gv-WWT9Q_dvHXxB-YubKrYzjz_g\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ekp9HJJn7pY"
+                },
+                "snippet": {
+                    "publishedAt": "2015-03-06T15:54:42.000Z",
+                    "channelId": "UCyUt_XrmABTi8krsyiHgmoQ",
+                    "title": "Nasida Ria Full Album Terbaik Sepanjang Masa",
+                    "description": "Nasida ria full album terbaik sepanjang masa buat teman teman muslim silahkan di nikmati lagu rohani nostalgia 1. Nasida Ria - tahun 2000 2. Nasida Ria ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ekp9HJJn7pY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ekp9HJJn7pY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ekp9HJJn7pY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "BSM",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Southeast Asian Folk ": [
@@ -7617,7 +8263,41 @@
             "artist": "Various",
             "song": "Street Music of Java",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Various-Street%20Music%20of%20Java"
+            "url": "https://www.youtube.com/results?search_query=Various-Street%20Music%20of%20Java",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/VB_HXYbkMpf9HfmoiPpxTLBxKKE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "4PRNQn9mnwc"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-19T13:20:31.000Z",
+                    "channelId": "UCN_S7GxiLqOqF1ra0dKK-RA",
+                    "title": "street music of java - asoi",
+                    "description": "beautiful kronkong from indonesia http://tapewrecks.blogspot.co.uk/2011/08/street-music-of-java.html.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/4PRNQn9mnwc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/4PRNQn9mnwc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/4PRNQn9mnwc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "themathematicalbrain",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Keroncong ": [
@@ -7627,7 +8307,41 @@
             "artist": "Various",
             "song": "Kroncong - Early Indonesian Pop Music - Volume 1",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Various-Kroncong%20-%20Early%20Indonesian%20Pop%20Music%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Various-Kroncong%20-%20Early%20Indonesian%20Pop%20Music%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/rTl13Z59AYTkxjDnRvMBV5-Jk_o\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "gm7Wi7meP-I"
+                },
+                "snippet": {
+                    "publishedAt": "2018-03-09T10:49:54.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various \u200e\u2013 Kroncong: Early Indonesian Pop Music Vol.1: 50s 60s Asian Folk Country World Music Bands",
+                    "description": "Label:Rice Records Format:, Compilation, Remastered Country:Japan Released:2006 Follow on Facebook : https://www.facebook.com/sunnyboy66/ Follow on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gm7Wi7meP-I/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gm7Wi7meP-I/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gm7Wi7meP-I/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Luk Thung ": [
@@ -7637,7 +8351,41 @@
             "artist": "Various",
             "song": "The Sound of Siam - Leftfield Luk Thung, Jazz & Molam in Thailand",
             "year": "(1964-1975)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Sound%20of%20Siam%20-%20Leftfield%20Luk%20Thung%2C%20Jazz%20%26amp%3B%20Molam%20in%20Thailand"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Sound%20of%20Siam%20-%20Leftfield%20Luk%20Thung%2C%20Jazz%20%26amp%3B%20Molam%20in%20Thailand",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/YK1qIcaEKRqxKGFNwrFMkXcOREw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "fOk2L0PgBPs"
+                },
+                "snippet": {
+                    "publishedAt": "2016-05-26T09:31:17.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various - The Sound Of Siam: Leftfield Luk Thung, Jazz &amp; Molam In Thailand 1964-75 Full Compilation",
+                    "description": "Label:Soundway    Format:2 \u00d7 Vinyl, LP, Compilation Country:UK Released:29 Nov 2010 Follow on Facebook : https://www.facebook.com/sunnyboy66/ Follow ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/fOk2L0PgBPs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/fOk2L0PgBPs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/fOk2L0PgBPs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hill Tribe ": [
@@ -7647,7 +8395,41 @@
             "artist": "Various",
             "song": "Ethnic Minority Music of Southern China",
             "year": "(2013)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ethnic%20Minority%20Music%20of%20Southern%20China"
+            "url": "https://www.youtube.com/results?search_query=Various-Ethnic%20Minority%20Music%20of%20Southern%20China",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/cArPa4q6igr9ZgKcxkqddzN83MY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-HAA3Kh7M1M"
+                },
+                "snippet": {
+                    "publishedAt": "2013-07-31T08:31:38.000Z",
+                    "channelId": "UCXT98N1gVYV6tzZhJaJjEFQ",
+                    "title": "Ethnic Minority Music Of Southern China - Do Djui Atsei",
+                    "description": "Sublime Frequencies   -- sf081cd - uploaded via http://www.mp32u.net/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-HAA3Kh7M1M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-HAA3Kh7M1M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-HAA3Kh7M1M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "FightMalcovich",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hmong Folk ": [
@@ -7657,7 +8439,41 @@
             "artist": "Th\u00e9\u00e2tre National du Viet_Nam",
             "song": "Vi\u00eatnam - Musique et chants de Hmong",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Th%C3%A9%C3%A2tre%20National%20du%20Viet_Nam-Vi%C3%AAtnam%20-%20Musique%20et%20chants%20de%20Hmong"
+            "url": "https://www.youtube.com/results?search_query=Th%C3%A9%C3%A2tre%20National%20du%20Viet_Nam-Vi%C3%AAtnam%20-%20Musique%20et%20chants%20de%20Hmong",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/RZbBy7zRRb8AonHOAVBrAi292rc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "poFOYfI0Dgo"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-22T21:07:16.000Z",
+                    "channelId": "UC8KRHcFQBLrMBeHhcrMqH7A",
+                    "title": "Th\u00e9\u00e2tre National du Viet-Nam - Leaf Song",
+                    "description": "from \"Vi\u00eatnam: Musique et chants de Hmong\" (Disques VDE-GALLO, 1999)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/poFOYfI0Dgo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/poFOYfI0Dgo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/poFOYfI0Dgo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "strugatsky",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gamelan Jawa ": [
@@ -7667,7 +8483,41 @@
             "artist": "K.R.T. Wasitodiningrat",
             "song": "Javanese Court Gamelan From the Pura Paku Alaman, Jogyakarta",
             "year": "(1971)",
-            "url": "https://www.youtube.com/results?search_query=K.R.T.%20Wasitodiningrat-Javanese%20Court%20Gamelan%20From%20the%20Pura%20Paku%20Alaman%2C%20Jogyakarta"
+            "url": "https://www.youtube.com/results?search_query=K.R.T.%20Wasitodiningrat-Javanese%20Court%20Gamelan%20From%20the%20Pura%20Paku%20Alaman%2C%20Jogyakarta",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Ag9RDXxi_4qh4ChYuSam8qJ7X-E\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "_u-JI48m3GQ"
+                },
+                "snippet": {
+                    "publishedAt": "2015-09-19T03:48:02.000Z",
+                    "channelId": "UCPnBQJS7bMaL5FZBXdBz5fw",
+                    "title": "K.R.T. Wasitodipuro: The Court Music of Central Java (1978 KPFA Audio Recording)",
+                    "description": "The Court Music of Central Java, directed by K.R.T. Wasitodipuro. Recorded and broadcast live by KPFA on March 8, 1978, performed on a gamelan in Hertz ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/_u-JI48m3GQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/_u-JI48m3GQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/_u-JI48m3GQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Andrea Johnson",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gamelan ": [
@@ -7677,7 +8527,41 @@
             "artist": "Various",
             "song": "Music From the Morning of the World - The Balinese Gamelan",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20Morning%20of%20the%20World%20-%20The%20Balinese%20Gamelan"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20Morning%20of%20the%20World%20-%20The%20Balinese%20Gamelan",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Oq1AITffVGqyr1ft_xWlemNwHy4\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLIJuixnczIyISAesfVXRjAR3P4mEVKtqo"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-06T00:08:35.000Z",
+                    "channelId": "UCMOeoIPOT6TeSgLPDxkxAPg",
+                    "title": "Playlist  - The Balinese Gamelan  - Music From The Morning Of The World",
+                    "description": "GAMELAN: \u00e9 o tradicional conjunto de m\u00fasica de JAVA e BALI na Indon\u00e9sia , composta predominantemente por instrumentos de percuss\u00e3o . Os instrumentos ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3dtF9v7MNtM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3dtF9v7MNtM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3dtF9v7MNtM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jarina Furquim",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gamelan Gong Kebyar ": [
@@ -7687,7 +8571,41 @@
             "artist": "Various",
             "song": "Golden Rain",
             "year": "(1969)",
-            "url": "https://www.youtube.com/results?search_query=Various-Golden%20Rain"
+            "url": "https://www.youtube.com/results?search_query=Various-Golden%20Rain",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/KQWNz9maJDKO_lAHNW1PteFgIEU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "AO67MnZaAvQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-09-13T23:24:36.000Z",
+                    "channelId": "UCHTpNVrTqvVqzyXxaM5GtAg",
+                    "title": "Chemistry experiment 41 - Golden rain",
+                    "description": "Lead(II) nitrate and potassium iodide react forming yellow lead(II) iodide. Hazards: - Lead nitrate is very poisonous.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/AO67MnZaAvQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/AO67MnZaAvQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/AO67MnZaAvQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "koen2all",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kulintang ": [
@@ -7697,7 +8615,41 @@
             "artist": "Various",
             "song": "Music of the Magindanao in the Philippines - Volumes 1 & 2",
             "year": "(1955)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Magindanao%20in%20the%20Philippines%20-%20Volumes%201%20%26amp%3B%202"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Magindanao%20in%20the%20Philippines%20-%20Volumes%201%20%26amp%3B%202",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/-EcQoPXAA_eTQzkpAELLVlf-eh4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "F1nVovc4skk"
+                },
+                "snippet": {
+                    "publishedAt": "2010-02-12T18:25:32.000Z",
+                    "channelId": "UCId7LxOVRorradiC_WyCG6g",
+                    "title": "PHILIPPINE GEOGRAPHY- YOYOY VILLAME (with Lyrics)",
+                    "description": "PHILIPPINE GEOGRAPHY- YOYOY VILLAME (with Lyrics)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/F1nVovc4skk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/F1nVovc4skk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/F1nVovc4skk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "msyrima",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Piphat ": [
@@ -7707,7 +8659,8 @@
             "artist": "Fong Naam",
             "song": "Siamese Classical Music - Volume 1 - The Piphat Ensemble Before 1400 A.D.",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=Fong%20Naam-Siamese%20Classical%20Music%20-%20Volume%201%20-%20The%20Piphat%20Ensemble%20Before%201400%20A.D."
+            "url": "https://www.youtube.com/results?search_query=Fong%20Naam-Siamese%20Classical%20Music%20-%20Volume%201%20-%20The%20Piphat%20Ensemble%20Before%201400%20A.D.",
+            "enriched": true
         }
     ],
     "Burmese Classical ": [
@@ -7717,7 +8670,41 @@
             "artist": "Sein Chit Ti",
             "song": "New Arrangements for Hsaing Ensemble",
             "year": "(1987)",
-            "url": "https://www.youtube.com/results?search_query=Sein%20Chit%20Ti-New%20Arrangements%20for%20Hsaing%20Ensemble"
+            "url": "https://www.youtube.com/results?search_query=Sein%20Chit%20Ti-New%20Arrangements%20for%20Hsaing%20Ensemble",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/K6mWMzMfNpWvQApYIlAmZRS-wT8\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLWkrJW0zArcagJGz2Yrob9iGU_M5cv1jx"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-09T16:37:02.000Z",
+                    "channelId": "UC8QAi7EGzZSepMg-uWVsPkg",
+                    "title": "Sein Chit Ti - New Arrangements for Hsaing Ensemble",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/9wBfq4ApTtU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/9wBfq4ApTtU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/9wBfq4ApTtU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "gffgfggftyrhghgg",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Caklempong ": [
@@ -7727,7 +8714,41 @@
             "artist": "Various",
             "song": "Music of Indonesia - Volume 12 - Gongs and Vocal Music From Sumatra",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Indonesia%20-%20Volume%2012%20-%20Gongs%20and%20Vocal%20Music%20From%20Sumatra"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Indonesia%20-%20Volume%2012%20-%20Gongs%20and%20Vocal%20Music%20From%20Sumatra",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XMIOwpIgt-jGWqiEh58NMZgWZXs\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "HqGpaEg9oxM"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-19T12:45:30.000Z",
+                    "channelId": "UCg6JiSXUCjvxl7ftIjcwo_Q",
+                    "title": "Tabuh Kenilu Sawik",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings Tabuh Kenilu Sawik \u00b7 Group from Labuhan Maringgai Music of Indonesia, Vol. 12: Gongs and Vocal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/HqGpaEg9oxM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/HqGpaEg9oxM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/HqGpaEg9oxM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Saluang Klasik ": [
@@ -7737,7 +8758,41 @@
             "artist": "Various",
             "song": "Music of Indonesia - Volume 6 - Night Music of West Sumatra",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Indonesia%20-%20Volume%206%20-%20Night%20Music%20of%20West%20Sumatra"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Indonesia%20-%20Volume%206%20-%20Night%20Music%20of%20West%20Sumatra",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XTVag25G4wbApfgk2Er5IcHJ5YE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "O_jeJRKK1Rg"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-19T13:04:07.000Z",
+                    "channelId": "UCobfPkLDKh6xJaSVRap9kdQ",
+                    "title": "Padang Magek",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings Padang Magek \u00b7 Sawir Sutan Mudo, Nurasni, and Zaidir SK Music of Indonesia, Vol. 6: Night Music ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/O_jeJRKK1Rg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/O_jeJRKK1Rg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/O_jeJRKK1Rg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Thai Classical ": [
@@ -7747,7 +8802,41 @@
             "artist": "Khana Udom Silapin na Chiang Mai",
             "song": "Funeral Music of Chiang Mai",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Khana%20Udom%20Silapin%20na%20Chiang%20Mai-Funeral%20Music%20of%20Chiang%20Mai"
+            "url": "https://www.youtube.com/results?search_query=Khana%20Udom%20Silapin%20na%20Chiang%20Mai-Funeral%20Music%20of%20Chiang%20Mai",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/e06W-7rozQVXKChDzO20VKRkFn8\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLH4GHpv6SsBsOPe_vNFC-S4MM-kgrfNKd"
+                },
+                "snippet": {
+                    "publishedAt": "2018-10-07T19:58:45.000Z",
+                    "channelId": "UCjaC68OwkMExL02VL_PV4ZA",
+                    "title": "Funeral Music of Chiang Mai (\u0e04\u0e13\u0e30 \u0e2d\u0e38\u0e14\u0e21\u0e28\u0e34\u0e25\u0e1b\u0e4c \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lEYy8B8Xf-o/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lEYy8B8Xf-o/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lEYy8B8Xf-o/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Mashu",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pinpeat ": [
@@ -7757,7 +8846,41 @@
             "artist": "Sam_Ang Sam Ensemble",
             "song": "Echoes from the Palace - Court Music from Cambodia",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Sam_Ang%20Sam%20Ensemble-Echoes%20from%20the%20Palace%20-%20Court%20Music%20from%20Cambodia"
+            "url": "https://www.youtube.com/results?search_query=Sam_Ang%20Sam%20Ensemble-Echoes%20from%20the%20Palace%20-%20Court%20Music%20from%20Cambodia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4DAySfP-ga-Ymuhw0iFR4ZjYj4w\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "1MNfEe1T7_k"
+                },
+                "snippet": {
+                    "publishedAt": "2016-10-18T09:48:44.000Z",
+                    "channelId": "UCcKz-huAG3r60TGWt_7dHIA",
+                    "title": "Neary Chea Chuor - Sam Ang Sam Ensemble",
+                    "description": "Echoes from the Palace; Music from the Cambodian Court.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/1MNfEe1T7_k/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/1MNfEe1T7_k/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/1MNfEe1T7_k/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jesseth",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Polynesian ": [
@@ -7767,7 +8890,41 @@
             "artist": "Various",
             "song": "Island Music of the South Pacific",
             "year": "(1981)",
-            "url": "https://www.youtube.com/results?search_query=Various-Island%20Music%20of%20the%20South%20Pacific"
+            "url": "https://www.youtube.com/results?search_query=Various-Island%20Music%20of%20the%20South%20Pacific",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/a1GeQpGyNAtzv-tM74NOTupofE0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "5KfYBSIvkqo"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-26T14:33:54.000Z",
+                    "channelId": "UCPhBwxMLJ5Y6CtnBRWNSWHg",
+                    "title": "Putumayo Presents - South Pacific Islands",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5KfYBSIvkqo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5KfYBSIvkqo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5KfYBSIvkqo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Strack Vinil",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Te P\u016boro M\u0101ori ": [
@@ -7777,7 +8934,41 @@
             "artist": "Ana Hato & Deane Waretini",
             "song": "The Great Songs of Ana Hato and Deane Waretini",
             "year": "(1926)",
-            "url": "https://www.youtube.com/results?search_query=Ana%20Hato%20%26amp%3B%20Deane%20Waretini-The%20Great%20Songs%20of%20Ana%20Hato%20and%20Deane%20Waretini"
+            "url": "https://www.youtube.com/results?search_query=Ana%20Hato%20%26amp%3B%20Deane%20Waretini-The%20Great%20Songs%20of%20Ana%20Hato%20and%20Deane%20Waretini",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/qvyybf05qIndouoMWN8_fXZgPyk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "XR13FysmzdQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-12T20:09:55.000Z",
+                    "channelId": "UCBjpPpNAfrojC1PnMR0l5Iw",
+                    "title": "The Great Songs of Ana Hato and Deane Waretini (1926/1963)",
+                    "description": "A very beautiful record, which is missing from YouTube. I own nothing, my only purpose is to share good music. Tracklist: 00:00 - Home Little Maori, Home 02:54 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/XR13FysmzdQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/XR13FysmzdQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/XR13FysmzdQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Lucas",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hawaiian ": [
@@ -7787,7 +8978,41 @@
             "artist": "Sam Moore",
             "song": "Moooohieee! Musical Saw and Hawaiian Guitar Soli Recorded in Early 1920s",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Sam%20Moore-Moooohieee%21%20Musical%20Saw%20and%20Hawaiian%20Guitar%20Soli%20Recorded%20in%20Early%201920s"
+            "url": "https://www.youtube.com/results?search_query=Sam%20Moore-Moooohieee%21%20Musical%20Saw%20and%20Hawaiian%20Guitar%20Soli%20Recorded%20in%20Early%201920s",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/EIwd8xTXH9gJvycPSf-rtDMCwS8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "5Sw7qoGuOK4"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-01T16:30:12.000Z",
+                    "channelId": "UCwh98V5dZWiTt5yGuIhHfkA",
+                    "title": "Sam Moore - My Old Hawaiian Home",
+                    "description": "Moooohieee! Musical Saw and Hawaiian Guitar Soli Recorded in Early 1920s / 2002.12.10 / Japan.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5Sw7qoGuOK4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5Sw7qoGuOK4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5Sw7qoGuOK4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "teotihuacan",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Himene tarava ": [
@@ -7797,7 +9022,41 @@
             "artist": "Various",
             "song": "Himene - Polyphonies polyn\u00e9siennes",
             "year": "(1997)",
-            "url": "https://www.youtube.com/results?search_query=Various-Himene%20-%20Polyphonies%20polyn%C3%A9siennes"
+            "url": "https://www.youtube.com/results?search_query=Various-Himene%20-%20Polyphonies%20polyn%C3%A9siennes",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/-xmYkIe2V6xvxUtWQAaDm7wRysQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "i8bFZTXSGeI"
+                },
+                "snippet": {
+                    "publishedAt": "2014-05-11T20:53:20.000Z",
+                    "channelId": "UCaqouA5CPzxoMUTvz0OGe6A",
+                    "title": "Himene Papara",
+                    "description": "Provided to YouTube by Ingrooves Himene Papara \u00b7 Tahiti Tiurai Tarava Group Pupu Himene no Porinetia: Polyphonies de Polyn\u00e9sie \u2117 2010 Manuiti Records ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/i8bFZTXSGeI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/i8bFZTXSGeI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/i8bFZTXSGeI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Samoan ": [
@@ -7807,7 +9066,41 @@
             "artist": "Various",
             "song": "Music of Oceania - Samoan Songs - A Historical Collection",
             "year": "(1910-1969)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Oceania%20-%20Samoan%20Songs%20-%20A%20Historical%20Collection"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20Oceania%20-%20Samoan%20Songs%20-%20A%20Historical%20Collection",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/zgptGZ8HMTRhKxLj3kZL0hOGvMQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "oFm82XNlVkc"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-22T17:10:51.000Z",
+                    "channelId": "UCi1tnWHLkiJRuGevAV-g1eA",
+                    "title": "Polynesian Traditional Music",
+                    "description": "Fear Inspiring. Here is a list of books that I recommend that you should read in order to broaden your cultural horizons: Pacific Worlds: A History of Seas, Peoples ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oFm82XNlVkc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oFm82XNlVkc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oFm82XNlVkc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The Culture Society",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Indigenous Australian ": [
@@ -7817,7 +9110,41 @@
             "artist": "Various",
             "song": "Tribal Music of Australia",
             "year": "(1953)",
-            "url": "https://www.youtube.com/results?search_query=Various-Tribal%20Music%20of%20Australia"
+            "url": "https://www.youtube.com/results?search_query=Various-Tribal%20Music%20of%20Australia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/OmoWPD2jAO88NQVGvcaMabQV8Ag\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "mOITXkzoeVA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-17T13:42:42.000Z",
+                    "channelId": "UCi1tnWHLkiJRuGevAV-g1eA",
+                    "title": "Australian Traditional Music - Tribal War Didgeridoo",
+                    "description": "Here is a list of books that I recommend that you should read in order to broaden your cultural horizons: The Mardudjara Aborigines: Living the Dream in ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/mOITXkzoeVA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/mOITXkzoeVA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/mOITXkzoeVA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The Culture Society",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Papuan Traditional ": [
@@ -7827,7 +9154,41 @@
             "artist": "Various",
             "song": "Sacred Flute Music From New Guinea - Madang - Windim Mabu",
             "year": "(2016)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sacred%20Flute%20Music%20From%20New%20Guinea%20-%20Madang%20-%20Windim%20Mabu"
+            "url": "https://www.youtube.com/results?search_query=Various-Sacred%20Flute%20Music%20From%20New%20Guinea%20-%20Madang%20-%20Windim%20Mabu",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/vYJkhCK6bP72gSy7pZTGSHB9JX8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "scgXg19zGBA"
+                },
+                "snippet": {
+                    "publishedAt": "2016-04-24T01:08:11.000Z",
+                    "channelId": "UC24wK4WS_fglx_uYmIiLALQ",
+                    "title": "01 Ragnar Johnson &amp; Jessica Mayer - Ravi [Ideologic Organ]",
+                    "description": "Download: http://ks.kud.li/soma024 Subscribe: http://sb.kud.li/UC24wK4WS_fglx_uYmIiLALQ Official stream from Ideologic Organ. Distributed by Kudos Records.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/scgXg19zGBA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/scgXg19zGBA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/scgXg19zGBA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "EditionsMego",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Austronesian Traditional ": [
@@ -7837,7 +9198,41 @@
             "artist": "Various",
             "song": "Vocal Polyphonies of Taiwan Aborigines",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=Various-Vocal%20Polyphonies%20of%20Taiwan%20Aborigines"
+            "url": "https://www.youtube.com/results?search_query=Various-Vocal%20Polyphonies%20of%20Taiwan%20Aborigines",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/POy0LAnEH2H3FMcokm2Gl43sDMQ\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLnOSH5j1sQh9jlc5gWYAhmIqh7L_ZjBfr"
+                },
+                "snippet": {
+                    "publishedAt": "2019-06-18T00:12:04.000Z",
+                    "channelId": "UCxmFNKV3EeuMyvptqbTsKvQ",
+                    "title": "Taiwan Indigenous Musical Styles",
+                    "description": "Taiwan or Formosa has as many as sixteen different indigenous ethnic groups. The music of these peoples, of course, has undergone changes in modern times, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-ewel1r2yY0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-ewel1r2yY0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-ewel1r2yY0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ericwhollem",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gondang ": [
@@ -7847,7 +9242,41 @@
             "artist": "Various",
             "song": "Sumatra - Musiques De Batak Karo, Toba, Simalungun",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sumatra%20-%20Musiques%20De%20Batak%20Karo%2C%20Toba%2C%20Simalungun"
+            "url": "https://www.youtube.com/results?search_query=Various-Sumatra%20-%20Musiques%20De%20Batak%20Karo%2C%20Toba%2C%20Simalungun",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6OE5h9KPJtRUmd22xuZu_97yFhc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "lQS6E5TrpSk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-22T17:01:14.000Z",
+                    "channelId": "UCL4RZTUZ7jd5kFrm23AVj6Q",
+                    "title": "Batak karo. gendang sarunei.",
+                    "description": "Provided to YouTube by Believe SAS Batak karo. gendang sarunei. \u00b7 Various Artists Sumatra. musiques des batak. batak music. \u2117 MCM Released on: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lQS6E5TrpSk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lQS6E5TrpSk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lQS6E5TrpSk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pakacaping ": [
@@ -7857,7 +9286,41 @@
             "artist": "Various",
             "song": "A Visit to Borneo - Exotic Music of the Dusun, Murut and Bajau Tribes",
             "year": "(1961)",
-            "url": "https://www.youtube.com/results?search_query=Various-A%20Visit%20to%20Borneo%20-%20Exotic%20Music%20of%20the%20Dusun%2C%20Murut%20and%20Bajau%20Tribes"
+            "url": "https://www.youtube.com/results?search_query=Various-A%20Visit%20to%20Borneo%20-%20Exotic%20Music%20of%20the%20Dusun%2C%20Murut%20and%20Bajau%20Tribes",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/NVjtUB9V9DoiD6obzFB6pOXAG58\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pjnxHU8z7oA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-26T23:04:37.000Z",
+                    "channelId": "UCqfdxk8AjdmtbK9qgA7CHBQ",
+                    "title": "&quot;A Visit To Borneo: exotic music from the Dusun, Murut and Bajau Tribes&quot; [full album vinyl rip]",
+                    "description": "Despite the exoticizing presentation, there is some excellent music on this record. Beautiful solo singing and harmonies, as well as an overview of a number of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pjnxHU8z7oA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pjnxHU8z7oA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pjnxHU8z7oA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Archive of Southeast Asian Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Inuit ": [
@@ -7867,7 +9330,41 @@
             "artist": "Various",
             "song": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0430\u044f \u0438 \u044d\u0441\u043a\u0438\u043c\u043e\u0441\u0441\u043a\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430 (Chukchi and Eskimo Music)",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Various-%D0%A7%D1%83%D0%BA%D0%BE%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B8%20%D1%8D%D1%81%D0%BA%D0%B8%D0%BC%D0%BE%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%28Chukchi%20and%20Eskimo%20Music%29"
+            "url": "https://www.youtube.com/results?search_query=Various-%D0%A7%D1%83%D0%BA%D0%BE%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B8%20%D1%8D%D1%81%D0%BA%D0%B8%D0%BC%D0%BE%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%28Chukchi%20and%20Eskimo%20Music%29",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/S7LUuau947rFDNRDeyiUvcWJ6ms\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "qsw7vI_R6X8"
+                },
+                "snippet": {
+                    "publishedAt": "2012-05-11T04:05:36.000Z",
+                    "channelId": "UC8xLCJERuC8Lw5WcIkGHRCQ",
+                    "title": "Ergyron - Chukchi Lullaby",
+                    "description": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u042d\u0440\u0433\u044b\u0440\u043e\u043d. \u00ab\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0430\u044f \u043a\u043e\u043b\u044b\u0431\u0435\u043b\u044c\u043d\u0430\u044f\u00bb \u0438\u0437 \u0430\u043b\u044c\u0431\u043e\u043c\u0430 \u00ab\u042d\u0440\u0433\u044b\u0440\u043e\u043d: \u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0435 \u0438 \u044d\u0441\u043a\u0438\u043c\u043e\u0441\u0441\u043a\u0438\u0435 \u043f\u0435\u0441\u043d\u0438\u00bb. \u0410\u0432\u0442\u043e\u0440 \u043c\u0443\u0437\u044b\u043a...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qsw7vI_R6X8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qsw7vI_R6X8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qsw7vI_R6X8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "rlkitterman",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Native American ": [
@@ -7877,7 +9374,41 @@
             "artist": "Various",
             "song": "An Historical Album of Blackfoot Indian Music",
             "year": "(1979)",
-            "url": "https://www.youtube.com/results?search_query=Various-An%20Historical%20Album%20of%20Blackfoot%20Indian%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-An%20Historical%20Album%20of%20Blackfoot%20Indian%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/voc5Kng__gBWS31ZaRJLhC_wmK8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GTJlFtYc_nI"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-15T15:36:38.000Z",
+                    "channelId": "UCInQna0Uous_Iirsfzr_i5w",
+                    "title": "An Historical Album of Blackfoot Indian Music",
+                    "description": "Various Artists An Historical Album of Blackfoot Indian Music 1979.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sr0vtk",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 222,
@@ -7885,7 +9416,41 @@
             "artist": "Various",
             "song": "Music of the Sioux and the Navajo",
             "year": "(1949)",
-            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Sioux%20and%20the%20Navajo"
+            "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Sioux%20and%20the%20Navajo",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/GGVT5IicGOBH07N0_w1EbDqhqoY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "x1uJidwo77s"
+                },
+                "snippet": {
+                    "publishedAt": "2009-05-18T11:30:18.000Z",
+                    "channelId": "UCJyPg4g9nqECNhm-ITINAQg",
+                    "title": "Navajo Healing Song By The Navajo &amp; The Sioux",
+                    "description": "Beautifull Healing Song Sung by The Navajo And The Sioux, All Navajo Pics. \"Traditional peyote chants with drum and rattle accompaniment are followed by ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/x1uJidwo77s/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/x1uJidwo77s/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/x1uJidwo77s/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "helen1434",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 223,
@@ -7893,7 +9458,41 @@
             "artist": "Various",
             "song": "Yaqui Dances - The Pascola Music of the Yaqui Indians of Northern Mexico",
             "year": "(1957)",
-            "url": "https://www.youtube.com/results?search_query=Various-Yaqui%20Dances%20-%20The%20Pascola%20Music%20of%20the%20Yaqui%20Indians%20of%20Northern%20Mexico"
+            "url": "https://www.youtube.com/results?search_query=Various-Yaqui%20Dances%20-%20The%20Pascola%20Music%20of%20the%20Yaqui%20Indians%20of%20Northern%20Mexico",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/BrzclhX7fWRYYugMiQiPaHUD_04\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "QdtmYqiwIUo"
+                },
+                "snippet": {
+                    "publishedAt": "2017-12-07T22:18:14.000Z",
+                    "channelId": "UCD26FNVb2uBtlJvXQ2XJ46g",
+                    "title": "The Toad Ceremonies Of The Yaqui Tribe",
+                    "description": "This video is only available for viewing in the United States, Canada & the UK due to copyright!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Indigenous Americans",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 224,
@@ -7901,7 +9500,41 @@
             "artist": "Xavier Quijas Yxayotl",
             "song": "Aztec Dances",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Xavier%20Quijas%20Yxayotl-Aztec%20Dances"
+            "url": "https://www.youtube.com/results?search_query=Xavier%20Quijas%20Yxayotl-Aztec%20Dances",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/JyLJSjJRDj9LUl5i51GDgpvpOP4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "y8_WD8OHEEI"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-04T22:14:43.000Z",
+                    "channelId": "UCDcPFv8VQQauaaPVJ2JrNGw",
+                    "title": "Xavier Quijas Yxayotl - Tezcatlipoca y Fuego (to the Smoking Mirror and Fire Serpent)",
+                    "description": "Xavier Quijas Yxayotl - Aztec Dances - Tezcatlipoca y Fuego (to the Smoking Mirror and Fire Serpent)",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "dante6202",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 225,
@@ -7909,7 +9542,41 @@
             "artist": "Various",
             "song": "Modern Mayan - The Indian Music of Chiapas, Mexico - Volume 1",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Various-Modern%20Mayan%20-%20The%20Indian%20Music%20of%20Chiapas%2C%20Mexico%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Various-Modern%20Mayan%20-%20The%20Indian%20Music%20of%20Chiapas%2C%20Mexico%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/QcUUrHEVz2vKpBY1h03J1zN8t4A\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Wjx3UDrqmWM"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-30T13:04:07.000Z",
+                    "channelId": "UCASvsDeDbHNAwXtHGyEoI6A",
+                    "title": "Song of Peace, Chalchiuitan",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings Song of Peace, Chalchiuitan \u00b7 Chalchiuitan violinist, guitarist, singers Modern Mayan: The Indian ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 226,
@@ -7917,7 +9584,41 @@
             "artist": "Ayllu Sulca",
             "song": "Music of the Incas",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Ayllu%20Sulca-Music%20of%20the%20Incas"
+            "url": "https://www.youtube.com/results?search_query=Ayllu%20Sulca-Music%20of%20the%20Incas",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iYjVFods2LY_j_ME5Su_4tzCmmo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "tH2aDs6L66Q"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-18T22:59:44.000Z",
+                    "channelId": "UCPUC1Af30C0pN5VXePrycgw",
+                    "title": "Ayllu Sulca - Music of the Incas (Full Album)",
+                    "description": "Released in 1976. 01. Carnavales Ayacuchanos 0:00 02. Utuscuruscha 3:07 03. Condorkunka 6:12 04. No Me Llames por Mi Nombre 11:09 05. Caramelita de ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Gaf Respih",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 227,
@@ -7925,7 +9626,41 @@
             "artist": "Yaki Kandru",
             "song": "Music From the Tropical Rainforest & Other Magic Places",
             "year": "(1982)",
-            "url": "https://www.youtube.com/results?search_query=Yaki%20Kandru-Music%20From%20the%20Tropical%20Rainforest%20%26amp%3B%20Other%20Magic%20Places"
+            "url": "https://www.youtube.com/results?search_query=Yaki%20Kandru-Music%20From%20the%20Tropical%20Rainforest%20%26amp%3B%20Other%20Magic%20Places",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/9sONYC5GpZk2KDG7rNQcmoLtaLA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jMG6JKdd22g"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-08T23:03:43.000Z",
+                    "channelId": "UCwx0SjVcN9uI4soQEu7FLaA",
+                    "title": "Canto De Mujeres De Los Suya",
+                    "description": "Provided to YouTube by Believe SAS Canto De Mujeres De Los Suya \u00b7 Yaki Kandru Colombia - Music From The Tropical Rainforest And Other Magic Places ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jMG6JKdd22g/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jMG6JKdd22g/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jMG6JKdd22g/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Yaki Kandru - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 228,
@@ -7933,7 +9668,41 @@
             "artist": "Luzmila Carpio",
             "song": "Cantos Quechua_Aymaras de Los Andes",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Luzmila%20Carpio-Cantos%20Quechua_Aymaras%20de%20Los%20Andes"
+            "url": "https://www.youtube.com/results?search_query=Luzmila%20Carpio-Cantos%20Quechua_Aymaras%20de%20Los%20Andes",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/W6fKwDWBBYdSizNQi-wdB3GS2qI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0YmrbLsFlVY"
+                },
+                "snippet": {
+                    "publishedAt": "2015-08-28T17:35:35.000Z",
+                    "channelId": "UCfQGFh8iS0KahR-RwZlOFdw",
+                    "title": "Warmip Kawsaynin",
+                    "description": "Provided to YouTube by BWSCD, Inc. Warmip Kawsaynin \u00b7 Luzmila Carpio Yuyay Jap'ina Tapes \u2117 2015 Squirrel Thing Recordings Released on: 2015-08-07 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Luzmila Carpio - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mapuche ": [
@@ -7943,7 +9712,8 @@
             "artist": "Aflaiai",
             "song": "Newentu Amul_lai\u00f1 Tai\u00f1 Kimn, Katai\u00f1 Rakidhuam",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Aflaiai-Newentu%20Amul_lai%C3%B1%20Tai%C3%B1%20Kimn%2C%20Katai%C3%B1%20Rakidhuam"
+            "url": "https://www.youtube.com/results?search_query=Aflaiai-Newentu%20Amul_lai%C3%B1%20Tai%C3%B1%20Kimn%2C%20Katai%C3%B1%20Rakidhuam",
+            "enriched": true
         }
     ],
     "Belarusian Folk ": [
@@ -7953,7 +9723,8 @@
             "artist": "Various",
             "song": "\u0422\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e \u041f\u043e\u043e\u0437\u0435\u0440\u044c\u044f - \u0412\u0435\u0447\u0435\u0440\u0438\u043d\u043e\u0447\u043d\u0430\u044f \u043c\u0443\u0437\u044b\u043a\u0430",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Various-%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D0%9F%D0%BE%D0%BE%D0%B7%D0%B5%D1%80%D1%8C%D1%8F%20-%20%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0"
+            "url": "https://www.youtube.com/results?search_query=Various-%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D0%9F%D0%BE%D0%BE%D0%B7%D0%B5%D1%80%D1%8C%D1%8F%20-%20%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0",
+            "enriched": true
         }
     ],
     "Croatian Folk ": [
@@ -7963,7 +9734,41 @@
             "artist": "Various",
             "song": "Ethno Ambient Live - Archaic Songs From Croatia",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ethno%20Ambient%20Live%20-%20Archaic%20Songs%20From%20Croatia"
+            "url": "https://www.youtube.com/results?search_query=Various-Ethno%20Ambient%20Live%20-%20Archaic%20Songs%20From%20Croatia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Bi1MuGFAn8XjoczbIPfHdbnS7P4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RhHwS64I6QI"
+                },
+                "snippet": {
+                    "publishedAt": "2016-01-20T12:01:12.000Z",
+                    "channelId": "UC3P94H6rDb1pv0KFnpkkWrQ",
+                    "title": "Damjans - Maybe Not Fast (Official Audio)",
+                    "description": "Band members: Marko First \u2013 sopela, violin, ocarina Andreas Marinello \u2013 sopran sax, tenor sax Damjan Grbac \u2013 doublebass Ton\u010di Grabu\u0161i\u0107 \u2013 drums, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RhHwS64I6QI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RhHwS64I6QI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RhHwS64I6QI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "MENART",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Czech Folk ": [
@@ -7973,7 +9778,41 @@
             "artist": "Various",
             "song": "Musique folklorique du monde - Boh\u00e8me",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Various-Musique%20folklorique%20du%20monde%20-%20Boh%C3%A8me"
+            "url": "https://www.youtube.com/results?search_query=Various-Musique%20folklorique%20du%20monde%20-%20Boh%C3%A8me",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/xaB7gUM-dflsjfFZXaDi4v9wiN8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Z1uvnuQkmUU"
+                },
+                "snippet": {
+                    "publishedAt": "2013-09-11T12:38:12.000Z",
+                    "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                    "title": "Best Opera Arias: Turandot, La Traviata, Rigoletto, Cavalleria Rusticana, La Boheme, Aida, Norma...",
+                    "description": "Buy the MP3 album on the Official Halidon Music Store: http://bit.ly/15QImFj Listen to \u201dThe Best of Opera\u201d on Spotify: https://spoti.fi/2Rsfj3K Stream the album ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Z1uvnuQkmUU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Z1uvnuQkmUU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Z1uvnuQkmUU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "HALIDONMUSIC",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Moravian Folk ": [
@@ -7983,7 +9822,41 @@
             "artist": "Hradi\u0161\u0165an a Ji\u0159\u00ed Pavlica",
             "song": "Zbojn\u00e9 P\u00edsn\u011b Moravsk\u00e9",
             "year": "(1986)",
-            "url": "https://www.youtube.com/results?search_query=Hradi%C5%A1%C5%A5an%20a%20Ji%C5%99%C3%AD%20Pavlica-Zbojn%C3%A9%20P%C3%ADsn%C4%9B%20Moravsk%C3%A9"
+            "url": "https://www.youtube.com/results?search_query=Hradi%C5%A1%C5%A5an%20a%20Ji%C5%99%C3%AD%20Pavlica-Zbojn%C3%A9%20P%C3%ADsn%C4%9B%20Moravsk%C3%A9",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iE3vXGp-wvLJgZEsoYnukbgAkpI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GwgnVS4b-cs"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-27T17:12:50.000Z",
+                    "channelId": "UCZIable1V1TzHJFG8xGiGHQ",
+                    "title": "Hradi\u0161\u0165an a Ji\u0159\u00ed Pavlica  \u2013 Zbojnick\u00fd tanec [ Moravian Folk Music ]",
+                    "description": "Hradi\u0161\u0165an Folk Ensemble \u2013 An Outlaw Dance Album : Zbojn\u00e9 P\u00edsn\u011b Moravsk\u00e9 (Moravian Outlaw Songs) (1986) Bagpipes \u2013 Otakar Pokorn\u00fd, Petr Vyhl\u00edd Clarinet, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GwgnVS4b-cs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GwgnVS4b-cs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GwgnVS4b-cs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SudenUni",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Polish Folk ": [
@@ -7993,7 +9866,41 @@
             "artist": "Various",
             "song": "Ostatni wiejscy muzykanci",
             "year": "(1980-1997)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ostatni%20wiejscy%20muzykanci"
+            "url": "https://www.youtube.com/results?search_query=Various-Ostatni%20wiejscy%20muzykanci",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/NgyPEQ1Fc6grmOhDod24NnPhA7Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "X3ct6NPQ4Wg"
+                },
+                "snippet": {
+                    "publishedAt": "2014-01-29T08:56:34.000Z",
+                    "channelId": "UCwyPBWnDp7JEgbLVnlvAmPQ",
+                    "title": "Ostatni wiejscy muzykanci",
+                    "description": "Nagrania, filmy, fotografie pochodz\u0105 z Archiwum Muzyki Wiejskiej fundacji Muzyka Odnaleziona. Archiwum jest tworzone od 1980 roku przez Andrzeja ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/X3ct6NPQ4Wg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/X3ct6NPQ4Wg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/X3ct6NPQ4Wg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "muzykaodnaleziona",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Russian Folk ": [
@@ -8003,7 +9910,41 @@
             "artist": "Balalaika_Ensemble Wolga",
             "song": "Russian Folk Songs",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Balalaika_Ensemble%20Wolga-Russian%20Folk%20Songs"
+            "url": "https://www.youtube.com/results?search_query=Balalaika_Ensemble%20Wolga-Russian%20Folk%20Songs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/b6zkNKjvxfJjbK1lme1uao493Tk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "lurw8k_-URw"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-18T19:29:55.000Z",
+                    "channelId": "UCYPcQJl6XojafoMmVpoc12g",
+                    "title": "Balalaika Ensemble Wolga   Best Of Russian Folk Songs   Krassnyi Sarafan",
+                    "description": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0421\u0430\u0440\u0430\u0444\u0430\u043d / The Red Sarafan.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lurw8k_-URw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lurw8k_-URw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lurw8k_-URw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u05e8\u05d7\u05dc \u05e4\u05e8\u05d5\u05de\u05df \u05e7\u05d5\u05de\u05dc\u05d5\u05e9",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Slovak Folk ": [
@@ -8013,7 +9954,41 @@
             "artist": "Various",
             "song": "Slovakia - Music From Polana",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-Slovakia%20-%20Music%20From%20Polana"
+            "url": "https://www.youtube.com/results?search_query=Various-Slovakia%20-%20Music%20From%20Polana",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/eVwjc0J8dnq1vKYxRu35BW76G3k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "c4klqvcXG8Y"
+                },
+                "snippet": {
+                    "publishedAt": "2013-05-29T15:41:17.000Z",
+                    "channelId": "UC9vqaHZ7YHV2tjf7ihehRlA",
+                    "title": "Hanka Servick\u00e1 - Po\u013eana po\u013eana (Slovak/Rusyn Folk Song)",
+                    "description": "CD: \u0160pivanky Servickej Hanky English: Meadow, Meadow Ruthenian song from Eastern Slovakia. Photo: unknown.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/c4klqvcXG8Y/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/c4klqvcXG8Y/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/c4klqvcXG8Y/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "DokuDoki",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Slovenian Folk ": [
@@ -8023,7 +9998,41 @@
             "artist": "Slavko Avsenik und seine Original Oberkrainer",
             "song": "Ein Feuerwerk der Musik",
             "year": "(1986)",
-            "url": "https://www.youtube.com/results?search_query=Slavko%20Avsenik%20und%20seine%20Original%20Oberkrainer-Ein%20Feuerwerk%20der%20Musik"
+            "url": "https://www.youtube.com/results?search_query=Slavko%20Avsenik%20und%20seine%20Original%20Oberkrainer-Ein%20Feuerwerk%20der%20Musik",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/H-hQiPmcx_friOyrl-LSKURsZh4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "4GMzb-89XKI"
+                },
+                "snippet": {
+                    "publishedAt": "2019-05-05T09:13:01.000Z",
+                    "channelId": "UC4qrhtoB9ulNmpgEoJBPWVw",
+                    "title": "Ein Feuerwerk der Musik | Slavko Avsenik &amp; seine Original Oberkrainer",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/4GMzb-89XKI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/4GMzb-89XKI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/4GMzb-89XKI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Musik aus der Heimat",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ukrainian Folk ": [
@@ -8033,7 +10042,41 @@
             "artist": "Various",
             "song": "Ukrainian Village Music - Historic Recordings",
             "year": "(1928-1933)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ukrainian%20Village%20Music%20-%20Historic%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Various-Ukrainian%20Village%20Music%20-%20Historic%20Recordings",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/LYH3Ma-qeYK_yDrUKzmc82Rk7eU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "FTeG-LEvSvw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-30T12:38:44.000Z",
+                    "channelId": "UC55V69aW9X1aHFpjCWRL_iQ",
+                    "title": "Huculka (Dance)",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings Huculka (Dance) \u00b7 Carpatho Ukrainian Village Orchestra Music of the Ukraine \u2117 2004 Smithsonian ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/FTeG-LEvSvw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/FTeG-LEvSvw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/FTeG-LEvSvw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Slavic Folk ": [
@@ -8043,7 +10086,41 @@
             "artist": "Various",
             "song": "Folk Songs of Yugoslavia - Recordings",
             "year": "(1955-1960)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Songs%20of%20Yugoslavia%20-%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Songs%20of%20Yugoslavia%20-%20Recordings",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Vof9Pi2vxK8TgvGOvqUoOE9IknY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "HWdmpQ6xtRA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-09-16T19:38:09.000Z",
+                    "channelId": "UCw3xPYZfJexwxH75z_d3Nbg",
+                    "title": "Yugoslav Folk Music (Lyrichord LP LLST 7189)",
+                    "description": "No copyright implied or held: copyright remains with the original performers and record label. This album features folk music recorded in Yugoslavia in the 1960s ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/HWdmpQ6xtRA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/HWdmpQ6xtRA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/HWdmpQ6xtRA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "dirtminers",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Albanian Folk ": [
@@ -8053,7 +10130,41 @@
             "artist": "Various",
             "song": "Albanie - Polyphonies vocales et instrumentales",
             "year": "(1988)",
-            "url": "https://www.youtube.com/results?search_query=Various-Albanie%20-%20Polyphonies%20vocales%20et%20instrumentales"
+            "url": "https://www.youtube.com/results?search_query=Various-Albanie%20-%20Polyphonies%20vocales%20et%20instrumentales",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/aZ3jSzQBu_OSM4oa3oeDFdvK65U\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLnJDCrKyKvbZHKkkzXej3nEvbg8jd3Qk-"
+                },
+                "snippet": {
+                    "publishedAt": "2018-04-26T18:03:40.000Z",
+                    "channelId": "UCtNG7opN-3YhhXQ3hlEcZmA",
+                    "title": "Albanie: Polyphonies vocales et instrumentales",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "vch",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bulgarian Folk ": [
@@ -8063,7 +10174,41 @@
             "artist": "Ensemble of the Bulgarian Republic",
             "song": "Philip Koutev - Music of Bulgaria",
             "year": "(1955)",
-            "url": "https://www.youtube.com/results?search_query=Ensemble%20of%20the%20Bulgarian%20Republic-Philip%20Koutev%20-%20Music%20of%20Bulgaria"
+            "url": "https://www.youtube.com/results?search_query=Ensemble%20of%20the%20Bulgarian%20Republic-Philip%20Koutev%20-%20Music%20of%20Bulgaria",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/SZdMlz1MAL1exorSxLP-y5kpx88\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ZcfJWWDuU_0"
+                },
+                "snippet": {
+                    "publishedAt": "2014-04-29T23:36:59.000Z",
+                    "channelId": "UCNTr1K-s0zsRPvQnUN9Zp2w",
+                    "title": "Philip Koutev National Folk Ensemble - Bulgarian Polyphony, Vol.1",
+                    "description": "Track Listing: 1. Jsnale E Diber Jana 2. Prituri Se Planinata 3. Pilentze Pee 4. Stoyan Ide Ot Grad Zarigrad 5. Shopsko Horo 6. Dilmano, Dilbero 7. Lachko ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ZcfJWWDuU_0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ZcfJWWDuU_0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ZcfJWWDuU_0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "paweu",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Macedonian Folk ": [
@@ -8073,7 +10218,41 @@
             "artist": "Goran Ivanovic",
             "song": "Fareed Haque - Macedonian Blues - Laments and Dances",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Goran%20Ivanovic-Fareed%20Haque%20-%20Macedonian%20Blues%20-%20Laments%20and%20Dances"
+            "url": "https://www.youtube.com/results?search_query=Goran%20Ivanovic-Fareed%20Haque%20-%20Macedonian%20Blues%20-%20Laments%20and%20Dances",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4hutqda9Ee-SMUoMVko0w0xL2_Y\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "rjPh3ALMwQs"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-21T00:47:19.000Z",
+                    "channelId": "UCXH20-_jFGEkbPy_kC8k51A",
+                    "title": "Macedonian Blues: Saddest of All",
+                    "description": "Saddest of All by Goran Ivanovic & Fareed Haque Macedonian Blues: Laments and Dances.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/rjPh3ALMwQs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/rjPh3ALMwQs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/rjPh3ALMwQs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "anyuseraccount",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sevdalinka ": [
@@ -8083,7 +10262,41 @@
             "artist": "Various",
             "song": "Bosno moja divna, mila",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Various-Bosno%20moja%20divna%2C%20mila"
+            "url": "https://www.youtube.com/results?search_query=Various-Bosno%20moja%20divna%2C%20mila",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/eY9gX_6ZIvJdMcA8OTsfRR7dU-c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "yWX2X_HAt2I"
+                },
+                "snippet": {
+                    "publishedAt": "2013-03-11T18:14:16.000Z",
+                    "channelId": "UCbQVPzEGNc0Clg1-BTISvsg",
+                    "title": "Safet Isovic - Bosno moja divna mila",
+                    "description": "Bosno moja, ljepa mila, lijepa, gizdava Aaaaaaaaaaa u tebi je Sarajevo Seher sevdaha....",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yWX2X_HAt2I/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yWX2X_HAt2I/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yWX2X_HAt2I/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "boy007bosanac",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Balkan Brass Band ": [
@@ -8093,7 +10306,41 @@
             "artist": "Fanfare Cioc\u0103rlia",
             "song": "Iag Bari",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Fanfare%20Cioc%C4%83rlia-Iag%20Bari"
+            "url": "https://www.youtube.com/results?search_query=Fanfare%20Cioc%C4%83rlia-Iag%20Bari",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/BKX2RvE0dgBWBaWkJSr-P2i9ESo\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "YR20RvETfPs"
+                },
+                "snippet": {
+                    "publishedAt": "2012-01-12T15:58:57.000Z",
+                    "channelId": "UC5iv0ZF_KVKla1tPOCTfYMw",
+                    "title": "Iag Bari (The Big Longing) - Fanfare Ciocarlia",
+                    "description": "From the Album Iag Bari, The Gypsy Horns from the Mountains Beyond.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YR20RvETfPs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YR20RvETfPs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YR20RvETfPs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "shoegazevolt",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Balkan Pop_Folk ": [
@@ -8103,7 +10350,41 @@
             "artist": "Goran Bregovi\u0107",
             "song": "P.S.",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Goran%20Bregovi%C4%87-P.S."
+            "url": "https://www.youtube.com/results?search_query=Goran%20Bregovi%C4%87-P.S.",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sY41082tHutIIwqS8849xCDA_tI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "FE-lGmIMkcI"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-06T02:55:15.000Z",
+                    "channelId": "UCDgRRBbetxxaMXjiNGQUMiQ",
+                    "title": "Goran Bregovic   P.S.  (full album)",
+                    "description": "Compilaci\u00f3n.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/FE-lGmIMkcI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/FE-lGmIMkcI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/FE-lGmIMkcI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "wawirochi",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Musika popullore ": [
@@ -8113,7 +10394,41 @@
             "artist": "Tefta Tashko Ko\u00e7o",
             "song": "Tefta Tashko Ko\u00e7o",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Tefta%20Tashko%20Ko%C3%A7o-Tefta%20Tashko%20Ko%C3%A7o"
+            "url": "https://www.youtube.com/results?search_query=Tefta%20Tashko%20Ko%C3%A7o-Tefta%20Tashko%20Ko%C3%A7o",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/lHdk0vYmUIl4vBWpIiN-6nGPIfA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "TeJZ0B5b-L8"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-24T07:15:48.000Z",
+                    "channelId": "UCMjlF9Pg1c-urGMygiRPWlQ",
+                    "title": "Tefta Tashko Ko\u00e7o~The best ( M\u00eb t\u00eb mirat )",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/TeJZ0B5b-L8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/TeJZ0B5b-L8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/TeJZ0B5b-L8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ervin Jano",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Turbo_Folk ": [
@@ -8123,7 +10438,35 @@
             "artist": "Balkan Beat Box",
             "song": "Balkan Beat Box",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Balkan%20Beat%20Box-Balkan%20Beat%20Box"
+            "url": "https://www.youtube.com/results?search_query=Balkan%20Beat%20Box-Balkan%20Beat%20Box",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/H2JzJlnN_MCfhCAs4UhtQFfWsJM\"",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCAIXISJz6NGAYzo-P-BGZ4g"
+                },
+                "snippet": {
+                    "publishedAt": "2010-03-11T13:23:42.000Z",
+                    "channelId": "UCAIXISJz6NGAYzo-P-BGZ4g",
+                    "title": "Balkan Beat Box",
+                    "description": "Shout it Out, the new album from Balkan Beat Box is out now! Order here http://smarturl.it/ShoutItOutDirect http://balkanbeatbox.com ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-B7jVk2QUUvY/AAAAAAAAAAI/AAAAAAAAAAA/D5bJhE9GOSg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-B7jVk2QUUvY/AAAAAAAAAAI/AAAAAAAAAAA/D5bJhE9GOSg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-B7jVk2QUUvY/AAAAAAAAAAI/AAAAAAAAAAA/D5bJhE9GOSg/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        }
+                    },
+                    "channelTitle": "Balkan Beat Box",
+                    "liveBroadcastContent": "upcoming"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chalga ": [
@@ -8133,7 +10476,8 @@
             "artist": "No Comment",
             "song": "cuper \u0431\u0435\u0437 \u043ao\u043c\u0435\u043d\u043c\u0430\u0440",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=No%20Comment-cuper%20%D0%B1%D0%B5%D0%B7%20%D0%BAo%D0%BC%D0%B5%D0%BD%D0%BC%D0%B0%D1%80"
+            "url": "https://www.youtube.com/results?search_query=No%20Comment-cuper%20%D0%B1%D0%B5%D0%B7%20%D0%BAo%D0%BC%D0%B5%D0%BD%D0%BC%D0%B0%D1%80",
+            "enriched": true
         }
     ],
     "Manele ": [
@@ -8143,7 +10487,8 @@
             "artist": "Adrian Copilul Minune & Costi (Ex_Valahia)",
             "song": "F\u0103r\u0103 concuren\u0163\u0103",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Adrian%20Copilul%20Minune%20%26amp%3B%20Costi%20%28Ex_Valahia%29-F%C4%83r%C4%83%20concuren%C5%A3%C4%83"
+            "url": "https://www.youtube.com/results?search_query=Adrian%20Copilul%20Minune%20%26amp%3B%20Costi%20%28Ex_Valahia%29-F%C4%83r%C4%83%20concuren%C5%A3%C4%83",
+            "enriched": true,
         }
     ],
     "Dimotika ": [
@@ -8153,7 +10498,41 @@
             "artist": "Georgia Mittaki",
             "song": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7 \u0393\u03b5\u03c9\u03c1\u03b3\u03af\u03b1 \u039c\u03b7\u03c4\u03c4\u03ac\u03ba\u03b7 \u039d\u03bf 2",
             "year": "(NA)",
-            "url": "https://www.youtube.com/results?search_query=Georgia%20Mittaki-%CE%94%CE%B7%CE%BC%CE%BF%CF%84%CE%B9%CE%BA%CE%AC%20%CE%BC%CE%B5%20%CF%84%CE%B7%20%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%B1%20%CE%9C%CE%B7%CF%84%CF%84%CE%AC%CE%BA%CE%B7%20%CE%9D%CE%BF%202"
+            "url": "https://www.youtube.com/results?search_query=Georgia%20Mittaki-%CE%94%CE%B7%CE%BC%CE%BF%CF%84%CE%B9%CE%BA%CE%AC%20%CE%BC%CE%B5%20%CF%84%CE%B7%20%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%B1%20%CE%9C%CE%B7%CF%84%CF%84%CE%AC%CE%BA%CE%B7%20%CE%9D%CE%BF%202",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Oalg0u_OmB_OjK_UAGHbbl_KKeE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jFuEej4angw"
+                },
+                "snippet": {
+                    "publishedAt": "2014-01-23T13:38:55.000Z",
+                    "channelId": "UCo9buOGo1F6LgLHBKKzQVDQ",
+                    "title": "Afta Ta Matia Ta Glyka",
+                    "description": "Provided to YouTube by The Orchard Enterprises Afta Ta Matia Ta Glyka \u00b7 Georgia Mittaki Vlaha Paei Gia Ti Stani (1953 - 62 Authentic Recordings), Vol. 2 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jFuEej4angw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jFuEej4angw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jFuEej4angw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Georgia Mittaki - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Kritika ": [
@@ -8163,7 +10542,41 @@
             "artist": "Nikos Xilouris, Christodoulos Halaris & Tania Tsanaklidou",
             "song": "\u0395\u03c1\u03c9\u03c4\u03cc\u03ba\u03c1\u03b9\u03c4\u03bf\u03c2",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Nikos%20Xilouris%2C%20Christodoulos%20Halaris%20%26amp%3B%20Tania%20Tsanaklidou-%CE%95%CF%81%CF%89%CF%84%CF%8C%CE%BA%CF%81%CE%B9%CF%84%CE%BF%CF%82"
+            "url": "https://www.youtube.com/results?search_query=Nikos%20Xilouris%2C%20Christodoulos%20Halaris%20%26amp%3B%20Tania%20Tsanaklidou-%CE%95%CF%81%CF%89%CF%84%CF%8C%CE%BA%CF%81%CE%B9%CF%84%CE%BF%CF%82",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/FvOKOiM5N_-qVOXLNXqSuv6P6gk\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "In9W-a_GNpI"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-20T13:49:32.000Z",
+                    "channelId": "UC-Y76t8zzg1s-K9UW1iIMWw",
+                    "title": "\u0395\u03c1\u03c9\u03c4\u03bf\u03ba\u03c1\u03b9\u03c4\u03cc\u03c2 \u039d\u03af\u03ba\u03bf\u03c2 \u039e\u03c5\u03bb\u03bf\u03cd\u03c1\u03b7\u03c2 \u03a4\u03ac\u03bd\u03b9\u03b1 \u03a4\u03c3\u03b1\u03bd\u03b1\u03ba\u03bb\u03af\u03b4\u03bf\u03c5 FULL CD",
+                    "description": "\u0395\u03c1\u03c9\u03c4\u03bf\u03ba\u03c1\u03b9\u03c4\u03cc\u03c2 \u039d\u03af\u03ba\u03bf\u03c2 \u039e\u03c5\u03bb\u03bf\u03cd\u03c1\u03b7\u03c2 \u03a4\u03ac\u03bd\u03b9\u03b1 \u03a4\u03c3\u03b1\u03bd\u03b1\u03ba\u03bb\u03af\u03b4\u03bf\u03c5 \u0395\u03af\u03b4\u03bf\u03c2: \u039a\u03c1\u03b7\u03c4\u03b9\u03ba\u03ac (\u03b1\u03c5\u03b8\u03b5\u03bd\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b4\u03af\u03c3\u03ba\u03bf\u03c2) _ \u039d\u03ad\u03b1 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1 \u03c3\u03c4\u03bf Facebook,...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/In9W-a_GNpI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/In9W-a_GNpI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/In9W-a_GNpI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Doremi Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nisiotika Aigaiou ": [
@@ -8173,7 +10586,41 @@
             "artist": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u039a\u03bf\u03bd\u03b9\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 & \u0395\u03b9\u03c1\u03ae\u03bd\u03b7 \u039a\u03bf\u03bd\u03b9\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5\u2013\u039b\u03b5\u03b3\u03ac\u03ba\u03b7",
             "song": "\u0391\u03b8\u03ac\u03bd\u03b1\u03c4\u03b1 \u03bd\u03b7\u03c3\u03b9\u03ce\u03c4\u03b9\u03ba\u03b1 \u039d\u03bf 1",
             "year": "(1978)",
-            "url": "https://www.youtube.com/results?search_query=%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82%20%CE%9A%CE%BF%CE%BD%CE%B9%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%26amp%3B%20%CE%95%CE%B9%CF%81%CE%AE%CE%BD%CE%B7%20%CE%9A%CE%BF%CE%BD%CE%B9%CF%84%CE%BF%CF%80%CE%BF%CF%8D%CE%BB%CE%BF%CF%85%E2%80%93%CE%9B%CE%B5%CE%B3%CE%AC%CE%BA%CE%B7-%CE%91%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%B1%20%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1%20%CE%9D%CE%BF%201"
+            "url": "https://www.youtube.com/results?search_query=%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82%20%CE%9A%CE%BF%CE%BD%CE%B9%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%26amp%3B%20%CE%95%CE%B9%CF%81%CE%AE%CE%BD%CE%B7%20%CE%9A%CE%BF%CE%BD%CE%B9%CF%84%CE%BF%CF%80%CE%BF%CF%8D%CE%BB%CE%BF%CF%85%E2%80%93%CE%9B%CE%B5%CE%B3%CE%AC%CE%BA%CE%B7-%CE%91%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%B1%20%CE%BD%CE%B7%CF%83%CE%B9%CF%8E%CF%84%CE%B9%CE%BA%CE%B1%20%CE%9D%CE%BF%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0zaooT2jYNMdRItihqnadjrz-ok\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "PKv7WlAuJfg"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-13T03:42:00.000Z",
+                    "channelId": "UChek7VFx6Id34QTFqN58zDg",
+                    "title": "\u03a9\u03a1\u0391\u0399\u0391 \u03a0\u039f\u03a5 &#39;\u039d\u0391\u0399 \u03a4\u0397\u039d \u0391\u03a5\u0393\u0397 ~ \u0395\u0399\u03a1\u0397\u039d\u0397 \u039a\u039f\u039d\u0399\u03a4\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a5 \u039b\u0395\u0393\u0391\u039a\u0397",
+                    "description": "\u039a\u03c5\u03ba\u03bb\u03b1\u03b4\u03af\u03c4\u03b9\u03ba\u03bf \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9 \u03c4\u03b7\u03c2 \u03b1\u03b3\u03ac\u03c0\u03b7\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03ad\u03c1\u03bf\u03c7\u03b7 \u03c6\u03c9\u03bd\u03ae \u03c4\u03b7\u03c2 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7\u03c2 \u039a\u03bf\u03bd\u03b9\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5. \u03a0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b1\u03b6\u03af \u03bc\u03b5...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/PKv7WlAuJfg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/PKv7WlAuJfg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/PKv7WlAuJfg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3 \u03a3\u03a0\u03a5\u03a1\u039f\u03a5",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Nisiotika Ioniou ": [
@@ -8183,7 +10630,8 @@
             "artist": "Various",
             "song": "\u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03c4\u03c9\u03bd \u0395\u03c0\u03c4\u03b1\u03bd\u03ae\u03c3\u03c9\u03bd - Songs of the Ionian Islands - Volume 15",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Various-%CE%A4%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1%20%CF%84%CF%89%CE%BD%20%CE%95%CF%80%CF%84%CE%B1%CE%BD%CE%AE%CF%83%CF%89%CE%BD%20-%20Songs%20of%20the%20Ionian%20Islands%20-%20Volume%2015"
+            "url": "https://www.youtube.com/results?search_query=Various-%CE%A4%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1%20%CF%84%CF%89%CE%BD%20%CE%95%CF%80%CF%84%CE%B1%CE%BD%CE%AE%CF%83%CF%89%CE%BD%20-%20Songs%20of%20the%20Ionian%20Islands%20-%20Volume%2015",
+            "enriched": true
         }
     ],
     "Rembetika ": [
@@ -8193,7 +10641,41 @@
             "artist": "Various",
             "song": "Rembetika - Songs of the Greek Underground",
             "year": "(1925-1947)",
-            "url": "https://www.youtube.com/results?search_query=Various-Rembetika%20-%20Songs%20of%20the%20Greek%20Underground"
+            "url": "https://www.youtube.com/results?search_query=Various-Rembetika%20-%20Songs%20of%20the%20Greek%20Underground",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Otp4e2opeTxRvcurW27FGyuZ9fg\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLB9AB10FA37CE02BD"
+                },
+                "snippet": {
+                    "publishedAt": "2012-04-11T14:08:19.000Z",
+                    "channelId": "UCPcN9xGSH_zhZO6RT8t08vA",
+                    "title": "Rembetika Songs Of The Greek Underground 1925 - 1947",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/92HKvq2AmQM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/92HKvq2AmQM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/92HKvq2AmQM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "julimox",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Laika ": [
@@ -8203,7 +10685,41 @@
             "artist": "Vassilis Tsitsanis",
             "song": "\u03a4\u03c3\u03b9\u03c4\u03c3\u03ac\u03bd\u03b7\u03c2 [T\u03b1 \u03ba\u03bb\u03b5\u03b9\u03b4\u03b9\u03ac]",
             "year": "(1966)",
-            "url": "https://www.youtube.com/results?search_query=Vassilis%20Tsitsanis-%CE%A4%CF%83%CE%B9%CF%84%CF%83%CE%AC%CE%BD%CE%B7%CF%82%20%5BT%CE%B1%20%CE%BA%CE%BB%CE%B5%CE%B9%CE%B4%CE%B9%CE%AC%5D"
+            "url": "https://www.youtube.com/results?search_query=Vassilis%20Tsitsanis-%CE%A4%CF%83%CE%B9%CF%84%CF%83%CE%AC%CE%BD%CE%B7%CF%82%20%5BT%CE%B1%20%CE%BA%CE%BB%CE%B5%CE%B9%CE%B4%CE%B9%CE%AC%5D",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/4SXzWhIb56wMvai1guVvcyMxhgU\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLCA25965176A791F6"
+                },
+                "snippet": {
+                    "publishedAt": "2011-01-23T20:41:20.000Z",
+                    "channelId": "UCjpN3R3iuWnXNqiDaJpzRNQ",
+                    "title": "\u03a4\u03a3\u0399\u03a4\u03a3\u0391\u039d\u0397\u03a3 - \u03a4\u0391 \u039a\u039b\u0395\u0399\u0394\u0399\u0391 (1968)",
+                    "description": "\u039c\u03c0\u03bf\u03c5\u03b6\u03bf\u03cd\u03ba\u03b9: \u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u03a0\u03b1\u03c0\u03b1\u03b4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 & \u039b\u03ac\u03ba\u03b7\u03c2 \u039a\u03b1\u03c1\u03bd\u03ad\u03b6\u03b7\u03c2.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yudjSlocCyA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yudjSlocCyA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yudjSlocCyA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u0395\u03bb\u03ad\u03bd\u03b7 \u039c\u03c0\u03ad\u03b7",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Entechna ": [
