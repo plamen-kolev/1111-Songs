@@ -6574,7 +6574,8 @@
             "artist": "Song and Dance Ensemble of Shensi Province",
             "song": "Five Revolutionary Folk Songs",
             "year": "(1969)",
-            "url": "https://www.youtube.com/results?search_query=Song%20and%20Dance%20Ensemble%20of%20Shensi%20Province-Five%20Revolutionary%20Folk%20Songs"
+            "url": "https://www.youtube.com/results?search_query=Song%20and%20Dance%20Ensemble%20of%20Shensi%20Province-Five%20Revolutionary%20Folk%20Songs",
+            "enriched": true
         }
     ],
     "Shidaiqu ": [
@@ -10488,7 +10489,7 @@
             "song": "F\u0103r\u0103 concuren\u0163\u0103",
             "year": "(2000)",
             "url": "https://www.youtube.com/results?search_query=Adrian%20Copilul%20Minune%20%26amp%3B%20Costi%20%28Ex_Valahia%29-F%C4%83r%C4%83%20concuren%C5%A3%C4%83",
-            "enriched": true,
+            "enriched": true
         }
     ],
     "Dimotika ": [
@@ -10729,7 +10730,41 @@
             "artist": "Manos Hadjidakis",
             "song": "\u03a4\u03bf \u03c7\u03b1\u03bc\u03cc\u03b3\u03b5\u03bb\u03bf \u03c4\u03b7\u03c2 \u03a4\u03b6\u03bf\u03ba\u03cc\u03bd\u03c4\u03b1\u03c2",
             "year": "(1965)",
-            "url": "https://www.youtube.com/results?search_query=Manos%20Hadjidakis-%CE%A4%CE%BF%20%CF%87%CE%B1%CE%BC%CF%8C%CE%B3%CE%B5%CE%BB%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%A4%CE%B6%CE%BF%CE%BA%CF%8C%CE%BD%CF%84%CE%B1%CF%82"
+            "url": "https://www.youtube.com/results?search_query=Manos%20Hadjidakis-%CE%A4%CE%BF%20%CF%87%CE%B1%CE%BC%CF%8C%CE%B3%CE%B5%CE%BB%CE%BF%20%CF%84%CE%B7%CF%82%20%CE%A4%CE%B6%CE%BF%CE%BA%CF%8C%CE%BD%CF%84%CE%B1%CF%82",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/UqMhLAJt1h7QQZGjv-WJXdRs42w\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "OV69C4E2yLw"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-27T04:12:05.000Z",
+                    "channelId": "UCrABhcAbloGzQJg8EG1L9Ig",
+                    "title": "\u039c\u03ac\u03bd\u03bf\u03c2 \u03a7\u03b1\u03c4\u03b6\u03b9\u03b4\u03ac\u03ba\u03b9\u03c2 - \u03a4\u03bf \u03a7\u03b1\u03bc\u03cc\u03b3\u03b5\u03bb\u03bf \u03a4\u03b7\u03c2 \u03a4\u03b6\u03bf\u03ba\u03cc\u03bd\u03c4\u03b1\u03c2  [50th Anniversary Edition] | Full Album",
+                    "description": "\u039a\u03ac\u03bd\u03b5 Subscribe \u03c3\u03c4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03b7\u03c2 Minos EMI \u03ba\u03b1\u03b9 \u03ac\u03ba\u03bf\u03c5\u03c3\u03b5 \u03c0\u03c1\u03ce\u03c4\u03bf\u03c2 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03bf\u03c5 \u03ba\u03b1\u03bb\u03bb\u03b9\u03c4\u03b5\u03c7\u03bd\u03ce\u03bd!...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/OV69C4E2yLw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/OV69C4E2yLw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/OV69C4E2yLw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Minos EMI",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Neo Kyma ": [
@@ -10739,7 +10774,41 @@
             "artist": "Dionysis Savvopoulos",
             "song": "\u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc",
             "year": "(1966)",
-            "url": "https://www.youtube.com/results?search_query=Dionysis%20Savvopoulos-%CE%A6%CE%BF%CF%81%CF%84%CE%B7%CE%B3%CF%8C"
+            "url": "https://www.youtube.com/results?search_query=Dionysis%20Savvopoulos-%CE%A6%CE%BF%CF%81%CF%84%CE%B7%CE%B3%CF%8C",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/wgMhkuEvYP01mM-5rXWEbQJuZ2w\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLw3Mt4FUg5YTpqRgAR3NWwHiiRwhkIRS7"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-09T11:37:10.000Z",
+                    "channelId": "UChMcgwcwdDdAS7nFrksaL9w",
+                    "title": "\u0394\u03b9\u03bf\u03bd\u03cd\u03c3\u03b7\u03c2 \u03a3\u03b1\u03b2\u03b2\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - \u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc",
+                    "description": "Youtube Subscribe: https://goo.gl/814dsM \u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b4\u03af\u03c3\u03ba\u03bf \u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc \u03c3\u03c4\u03b1: iTunes: https://apple.co/2lJIm5o Google Play: http://bit.ly/2lJed68 YouTube Playlist: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/KG_wcVawj9M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/KG_wcVawj9M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/KG_wcVawj9M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Entechna Laika ": [
@@ -10749,7 +10818,41 @@
             "artist": "Manos Loizos, Giannis Negrepontis & Maria Farantouri",
             "song": "\u03a4\u03b1 \u03bd\u03ad\u03b3\u03c1\u03b9\u03ba\u03b1",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Manos%20Loizos%2C%20Giannis%20Negrepontis%20%26amp%3B%20Maria%20Farantouri-%CE%A4%CE%B1%20%CE%BD%CE%AD%CE%B3%CF%81%CE%B9%CE%BA%CE%B1"
+            "url": "https://www.youtube.com/results?search_query=Manos%20Loizos%2C%20Giannis%20Negrepontis%20%26amp%3B%20Maria%20Farantouri-%CE%A4%CE%B1%20%CE%BD%CE%AD%CE%B3%CF%81%CE%B9%CE%BA%CE%B1",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7zAdstmcdjHGoxeWeq23X_6vZmc\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLySQyUUf85I_beQRZOJapPlqk3gzWHUCF"
+                },
+                "snippet": {
+                    "publishedAt": "2013-01-07T03:22:36.000Z",
+                    "channelId": "UC41eLTBYYpeyEZLZJpNGeCA",
+                    "title": "\u03a4\u03b1 \u039d\u03ad\u03b3\u03c1\u03b9\u03ba\u03b1",
+                    "description": "\u039c\u0391\u039d\u039f\u03a3 \u039b\u039f\u0399\u0396\u039f\u03a3 \u0393\u0399\u0391\u039d\u039d\u0397\u03a3 \u039d\u0395\u0393\u03a1\u0395\u03a0\u039f\u039d\u03a4\u0397\u03a3 \u039c\u0391\u03a1\u0399\u0391 \u03a6\u0391\u03a1\u0391\u039d\u03a4\u039f\u03a5\u03a1\u0397 \"\u03a4\u0391 \u039d\u0395\u0393\u03a1\u0399\u039a\u0391\" 1975 1. \u0395\u0399\u03a3\u0391\u0393\u03a9\u0393\u0397:\u039a\u0399 \u0391\u039d'\u03a3\u03a5 \u039b\u0395\u03a5\u039a\u039f\u03a3 \u039d\u0395\u0393\u03a1\u039f\u03a3...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NXG7V08kh_M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NXG7V08kh_M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NXG7V08kh_M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Manolis Rasoulis",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 259,
@@ -10757,7 +10860,41 @@
             "artist": "Mariza Koch",
             "song": "\u039a\u03b1\u03b9 \u03b4\u03c5\u03cc \u03b6\u03c5\u03b3\u03b9\u03ad\u03c2 \u03c0\u03b1\u03b9\u03c7\u03bd\u03af\u03b4\u03b9\u03b1",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Mariza%20Koch-%CE%9A%CE%B1%CE%B9%20%CE%B4%CF%85%CF%8C%20%CE%B6%CF%85%CE%B3%CE%B9%CE%AD%CF%82%20%CF%80%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9%CE%B1"
+            "url": "https://www.youtube.com/results?search_query=Mariza%20Koch-%CE%9A%CE%B1%CE%B9%20%CE%B4%CF%85%CF%8C%20%CE%B6%CF%85%CE%B3%CE%B9%CE%AD%CF%82%20%CF%80%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9%CE%B1",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/bODw1FEK4HPmBOAE8_0v-SMAs9U\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RFqbLg0qet4"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-29T06:24:02.000Z",
+                    "channelId": "UCeCF09v9DGN6kep3YSyxH3Q",
+                    "title": "\u039c\u0391\u03a1\u0399\u0396\u0391 \u039a\u03a9\u03a7  -- \u03a4A \u039a\u0391\u039d\u039f\u039d\u0399\u0391 \u03a4\u039f\u03a5 \u0391\u0392\u0395\u03a1\u03a9\u03a6",
+                    "description": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03cc \u03bb\u03b1\u03ca\u03ba\u03cc \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9 \u03c3\u03b5 \u03b4\u03b9\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u039c\u03b1\u03c1\u03af\u03b6\u03b1 \u039a\u03c9\u03c7, --\u03c3\u03c5\u03bd\u03bf\u03b4\u03b5\u03af\u03b1 \u03c6\u03c9\u03bd\u03ae\u03c2: \u0394.\u03a3\u03b9\u03b4\u03ad\u03c1\u03b7\u03c2, --\u03b1\u03c0\u03cc \u03c4\u03bf L.P \"\u0397 \u039c\u0391\u03a1\u0399\u0396\u0391...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RFqbLg0qet4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RFqbLg0qet4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RFqbLg0qet4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "van ric",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Romanian Folk ": [
@@ -10767,7 +10904,41 @@
             "artist": "Various",
             "song": "Folk Music of Rumania",
             "year": "(1951)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20Rumania"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20Rumania",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/hZY54XQSyb_yJci32I6O-d7de4c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "gEyGcpgCnxo"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-17T13:11:56.000Z",
+                    "channelId": "UCTPyGB7W5MoEYND8FT7GiUg",
+                    "title": "folk music of romania",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gEyGcpgCnxo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gEyGcpgCnxo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gEyGcpgCnxo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "FOLK LOVERS",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Colinde ": [
@@ -10777,7 +10948,41 @@
             "artist": "Ansamblul Folcloric \u201e\u0162ara Vrancei\u201d",
             "song": "Asta_i datina la noi",
             "year": "(2006)",
-            "url": "https://www.youtube.com/results?search_query=Ansamblul%20Folcloric%20%E2%80%9E%C5%A2ara%20Vrancei%E2%80%9D-Asta_i%20datina%20la%20noi"
+            "url": "https://www.youtube.com/results?search_query=Ansamblul%20Folcloric%20%E2%80%9E%C5%A2ara%20Vrancei%E2%80%9D-Asta_i%20datina%20la%20noi",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/y7Cj7nYf__wSKq6MCB5hNNPuu4E\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "q9wrV75hn68"
+                },
+                "snippet": {
+                    "publishedAt": "2016-07-01T10:28:42.000Z",
+                    "channelId": "UC6YwoH6z_iwRQ2h2jCC3aIA",
+                    "title": "Ansamblul Folcloric \u021aara Vrancei Rom\u00e2nia - Asta-i sara bun\u0103",
+                    "description": "Ansamblul Folcloric \u021aara Vrancei Rom\u00e2nia - Asta-i sara bun\u0103 A\u0219a-i datina la noi.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/q9wrV75hn68/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/q9wrV75hn68/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/q9wrV75hn68/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Electrecord",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Doina ": [
@@ -10787,7 +10992,41 @@
             "artist": "Gheorghe Zamfir & Marcel Cellier",
             "song": "Flauto di Pan e Organo",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Gheorghe%20Zamfir%20%26amp%3B%20Marcel%20Cellier-Flauto%20di%20Pan%20e%20Organo"
+            "url": "https://www.youtube.com/results?search_query=Gheorghe%20Zamfir%20%26amp%3B%20Marcel%20Cellier-Flauto%20di%20Pan%20e%20Organo",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Q7I6MGSPooRVmlDoTWR-muN1QuM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "M6ctoS4tjtk"
+                },
+                "snippet": {
+                    "publishedAt": "2007-10-20T21:11:07.000Z",
+                    "channelId": "UCamVjXmPgc68M6qIDxBt0tA",
+                    "title": "Flute de Pan et Orgue - Popa et Eliot",
+                    "description": "Doina Din Ardeal - Folklore Roumain - Bas\u00e9 sur le disque de Zamfir et Cellier. Marian Popa et St\u00e9phane ELIOT. St Pierre D'arene - Nice.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/M6ctoS4tjtk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/M6ctoS4tjtk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/M6ctoS4tjtk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "stephane Eliot",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "L\u0103ut\u0103reasc\u0103 ": [
@@ -10797,7 +11036,41 @@
             "artist": "Taraf de Ha\u00efdouks",
             "song": "Taraf De Ha\u00efdouks",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Taraf%20de%20Ha%C3%AFdouks-Taraf%20De%20Ha%C3%AFdouks"
+            "url": "https://www.youtube.com/results?search_query=Taraf%20de%20Ha%C3%AFdouks-Taraf%20De%20Ha%C3%AFdouks",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/wZXWM8mGIZU0gJToMFNk-v0QlMw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pT4IufMeyYA"
+                },
+                "snippet": {
+                    "publishedAt": "2012-04-20T13:02:48.000Z",
+                    "channelId": "UCpuqplA3124iYIO3kibJrnQ",
+                    "title": "Taraf De Haidouks - Balkan Gypsy Folk  Music",
+                    "description": "Perfect Gypsy band!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pT4IufMeyYA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pT4IufMeyYA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pT4IufMeyYA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Pavel Levin",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Roman\u0163e ": [
@@ -10807,7 +11080,41 @@
             "artist": "Ioana Radu",
             "song": "Volume 1",
             "year": "(1995)",
-            "url": "https://www.youtube.com/results?search_query=Ioana%20Radu-Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Ioana%20Radu-Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/IVBXH90OcXMJc96RNSSyxDm6_Ss\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLJ2I_U9XF3oARQxk8HdnOOWsicXEyIScH"
+                },
+                "snippet": {
+                    "publishedAt": "2016-11-06T13:42:30.000Z",
+                    "channelId": "UC6YwoH6z_iwRQ2h2jCC3aIA",
+                    "title": "Ioana Radu, vol. 1",
+                    "description": "Ioana Radu, vol. 1.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Electrecord",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Hungarian Folk ": [
@@ -10817,7 +11124,41 @@
             "artist": "Various",
             "song": "The Rough Guide to Hungarian Music",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Hungarian%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Hungarian%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/LJ8M4xfu3SaxgjcyvAfPX-x3REs\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLxqRACvfJv3A8Dc0c7jPZ-fkyOhkGdnEx"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-24T22:39:06.000Z",
+                    "channelId": "UC4n2l_Mww4eDTGwFV6YXxWg",
+                    "title": "Rough guide to Hungarian gypsies",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Vobaoge Queenston",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Estonian Folk ": [
@@ -10827,7 +11168,41 @@
             "artist": "Strand... Rand",
             "song": "Folk Chorales and Songs From the West Coast of Estonia",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Strand...%20Rand-Folk%20Chorales%20and%20Songs%20From%20the%20West%20Coast%20of%20Estonia"
+            "url": "https://www.youtube.com/results?search_query=Strand...%20Rand-Folk%20Chorales%20and%20Songs%20From%20the%20West%20Coast%20of%20Estonia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jMj2kQQVIH3S554Cq21KoQiVp6w\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "fCzz9s4k-rQ"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-06T17:53:36.000Z",
+                    "channelId": "UCY0ljSox_ontkG4lZ2gi4yw",
+                    "title": "Age of Deceit (2) -  Hive Mind Reptile Eyes Hypnotism Cults World Stage - Multi - Language",
+                    "description": "An information packed documentary ranging from topics to the Upside Down Cross to Alister Crowley to The Beatles to Sigil Trances to Archetypal Symbolic ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Free Truth Productions",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Latvian Folk ": [
@@ -10837,7 +11212,41 @@
             "artist": "Various",
             "song": "Beyond the River - Seasonal Songs of Latvia",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Various-Beyond%20the%20River%20-%20Seasonal%20Songs%20of%20Latvia"
+            "url": "https://www.youtube.com/results?search_query=Various-Beyond%20the%20River%20-%20Seasonal%20Songs%20of%20Latvia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/SsbzDXrJNNa3c0JD_eOykGmV5zw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pFhoLbwu8Z4"
+                },
+                "snippet": {
+                    "publishedAt": "2018-10-22T14:10:58.000Z",
+                    "channelId": "UCMEC8HFF35atlHGcVPhRKXw",
+                    "title": "Various \u200e\u2013 Beyond The River \u2014 Seasonal Songs Of Latvia : Folk Nordic Traditional Country Music Bands",
+                    "description": "Label:Hemisphere   \u2013 493 341-2 Format:CD, Compilation Country:Europe Released:1998 Amzn (USA) : https://amzn.to/2yuVAJE (affiliate) Amzn (UK) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pFhoLbwu8Z4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pFhoLbwu8Z4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pFhoLbwu8Z4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66 II",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Lithuanian Folk ": [
@@ -10847,7 +11256,41 @@
             "artist": "Various",
             "song": "Folk Music of the Lithuanian SSR",
             "year": "(1937-1984)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Lithuanian%20SSR"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20the%20Lithuanian%20SSR",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CqHAOop5KwGZoD1ImLnsjtGVH_Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "LsUTHicCx1s"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-08T00:56:16.000Z",
+                    "channelId": "UC9p8SC0dZ908ipV8mCBoVgg",
+                    "title": "Georgia S.S.R. - Western Georgia Humorous Song",
+                    "description": "Provided to YouTube by The Orchard Enterprises Georgia S.S.R. - Western Georgia Humorous Song \u00b7 Unspecified Folk Music of the U.S.S.R. \u2117 2004 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LsUTHicCx1s/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LsUTHicCx1s/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LsUTHicCx1s/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Polka ": [
@@ -10857,7 +11300,41 @@
             "artist": "Various",
             "song": "Texas_Czech Bohemian_Moravian Bands - Historic Recordings",
             "year": "(1929-1959)",
-            "url": "https://www.youtube.com/results?search_query=Various-Texas_Czech%20Bohemian_Moravian%20Bands%20-%20Historic%20Recordings"
+            "url": "https://www.youtube.com/results?search_query=Various-Texas_Czech%20Bohemian_Moravian%20Bands%20-%20Historic%20Recordings",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WcQR7scgKmm0UJiVADZs8VNSyVA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "bL5mhzipBuQ"
+                },
+                "snippet": {
+                    "publishedAt": "2011-03-03T16:36:16.000Z",
+                    "channelId": "UC7DIaALLp7qFG_IFv8aVr1A",
+                    "title": "Texas Czech Bohemian Moravian Bands - Circling Pigeons Waltz",
+                    "description": "\"The Patek Family Orchestra of Shiner, Texas\" \"Historic Recordings 1929 - 1959\" Do hunt down and pay the totally worth it cents to purchase this tune!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bL5mhzipBuQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bL5mhzipBuQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bL5mhzipBuQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "salsburysteakjr",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Spanish Folk ": [
@@ -10867,7 +11344,41 @@
             "artist": "Various",
             "song": "The Rough Guide to the Music of Spain",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20Spain"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20Spain",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YRhpd59_osTW8Ov1dHUP8gcoqyg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "sJyb46A7EYE"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-17T18:21:30.000Z",
+                    "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                    "title": "Various - The Rough Guide To Peru Rare Groove : 60&#39;s - 70&#39;s Salsa Cumbia Mambo Latin Rock Music",
+                    "description": "Label: World Music Network Released : 2016 Buy Amzn (USA) : http://amzn.to/2F5r1vv (affiliate) Buy Amzn (UK) : http://amzn.to/2t2wQbt (affiliate) Follow on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/sJyb46A7EYE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/sJyb46A7EYE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/sJyb46A7EYE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "sunnyboy66",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Andalusian Folk ": [
@@ -10877,7 +11388,41 @@
             "artist": "Various",
             "song": "The Living Tradition - Portrait of Andalusia",
             "year": "(1968)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Living%20Tradition%20-%20Portrait%20of%20Andalusia"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Living%20Tradition%20-%20Portrait%20of%20Andalusia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/g_oyLx_rbsS5bqmjXuq1sekqGEg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "p_9YKT49Wew"
+                },
+                "snippet": {
+                    "publishedAt": "2011-12-15T21:04:53.000Z",
+                    "channelId": "UC1q364ePcVPbnZG5mH9CEDg",
+                    "title": "Andalusia - where passion begins",
+                    "description": "Photo-reportage expresses the spirit of Andalusia - the most southern part of Spain. Pictures were taken on the traditional black and white film with old Minolta ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/p_9YKT49Wew/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/p_9YKT49Wew/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/p_9YKT49Wew/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Ekoturystyka Atitlan",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Aragonese Folk ": [
@@ -10887,7 +11432,41 @@
             "artist": "Various",
             "song": "The Spanish Recordings - Aragon & Valencia",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Spanish%20Recordings%20-%20Aragon%20%26amp%3B%20Valencia"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Spanish%20Recordings%20-%20Aragon%20%26amp%3B%20Valencia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WgSk1kt3AB4boW-W78t_3IMkJOI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "GhX5wNMAZtA"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-29T22:09:18.000Z",
+                    "channelId": "UCMfvBb-t3ZTuYIEQm19HKcw",
+                    "title": "Lomax the Songhunter - Jose Iranzo Sings a Spanish Folk Song 2/4 - POV | PBS",
+                    "description": "In this additional scene from Lomax the Songhunter, filmmaker Rogier Kappers meets Jose Iranzo in Northern Spain, a shepherd originally recorded by Lomax ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/GhX5wNMAZtA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/GhX5wNMAZtA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/GhX5wNMAZtA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "POV",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Catalan Folk ": [
@@ -10897,7 +11476,41 @@
             "artist": "La Capella Reial de Catalunya",
             "song": "Can\u00e7ons de la Catalunya mil\u00b7len\u00e0ria",
             "year": "(1991)",
-            "url": "https://www.youtube.com/results?search_query=La%20Capella%20Reial%20de%20Catalunya-Can%C3%A7ons%20de%20la%20Catalunya%20mil%C2%B7len%C3%A0ria"
+            "url": "https://www.youtube.com/results?search_query=La%20Capella%20Reial%20de%20Catalunya-Can%C3%A7ons%20de%20la%20Catalunya%20mil%C2%B7len%C3%A0ria",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7uWgmfe7vzGIM7XYJIijXluEZLY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "wN-ZiAfVzmc"
+                },
+                "snippet": {
+                    "publishedAt": "2015-01-24T14:14:21.000Z",
+                    "channelId": "UCULm3jROXEj83hMZCFllrcw",
+                    "title": "Els Segadors",
+                    "description": "Provided to YouTube by The Orchard Enterprises Els Segadors \u00b7 Anonymous \u00b7 Jordi Savall Can\u00e7ons De La Catalunya Millenaria \u2117 2009 Alia Vox Released on: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wN-ZiAfVzmc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wN-ZiAfVzmc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wN-ZiAfVzmc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jordi Savall - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Galician Folk ": [
@@ -10907,7 +11520,41 @@
             "artist": "Various",
             "song": "The Spanish Recordings - Galicia",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Spanish%20Recordings%20-%20Galicia"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Spanish%20Recordings%20-%20Galicia",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/I1fK4GrmLDO4YstXbZpFKtwWGcQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "u2gUQsDGfbg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-08-28T01:18:16.000Z",
+                    "channelId": "UCGzW98Y_lqyka1-x10uimMw",
+                    "title": "ALAN LOMAX. The Spanish recordings. GALICIA. 1\u00aa parte.",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/u2gUQsDGfbg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/u2gUQsDGfbg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/u2gUQsDGfbg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "nefertuyo",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Canci\u00f3n mel\u00f3dica ": [
@@ -10917,7 +11564,41 @@
             "artist": "Gloria Lasso",
             "song": "Los Ep's Originales",
             "year": "(1997)",
-            "url": "https://www.youtube.com/results?search_query=Gloria%20Lasso-Los%20Ep%26%23x27%3Bs%20Originales"
+            "url": "https://www.youtube.com/results?search_query=Gloria%20Lasso-Los%20Ep%26%23x27%3Bs%20Originales",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/C-GasJgPKhAUJa0XbjSduQzbpng\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0FqomeepHvY"
+                },
+                "snippet": {
+                    "publishedAt": "2012-11-30T12:34:08.000Z",
+                    "channelId": "UCPDzzc_du-9hCEFYRZfywhA",
+                    "title": "Gloria Lasso - Coraz\u00f3n De Mel\u00f3n (VintageMusic.es)",
+                    "description": "Gloria Lasso, (Espa\u00f1a, Villafranca del Panad\u00e9s, 25 de noviembre de 1922 - M\u00e9xico, Cuernavaca, 4 de diciembre de 2005), nacida c\u00f3mo Rosa Mar\u00eda Coscolin i ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0FqomeepHvY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0FqomeepHvY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0FqomeepHvY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "VintageMusicFm",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cupl\u00e9 ": [
@@ -10927,7 +11608,41 @@
             "artist": "Sara Montiel",
             "song": "La Violetera - Las Mas Bellas Canciones",
             "year": "(1957-1967)",
-            "url": "https://www.youtube.com/results?search_query=Sara%20Montiel-La%20Violetera%20-%20Las%20Mas%20Bellas%20Canciones"
+            "url": "https://www.youtube.com/results?search_query=Sara%20Montiel-La%20Violetera%20-%20Las%20Mas%20Bellas%20Canciones",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uCOiky-z_IbAUksHCKpOuKdjwBE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "I1Rll1KKSB8"
+                },
+                "snippet": {
+                    "publishedAt": "2014-07-08T23:51:10.000Z",
+                    "channelId": "UCJxUae-awfdrtRPx_-6fOIA",
+                    "title": "Sara Montiel - La violetera (1958) HD",
+                    "description": "Sara Montiel (also known as Sarita Montiel or Sarit\u00edsima) was a Spanish singer and actress. She was a much-loved and internationally known name in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/I1Rll1KKSB8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/I1Rll1KKSB8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/I1Rll1KKSB8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Evenstar - OLDIES",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Copla ": [
@@ -10937,7 +11652,41 @@
             "artist": "Concha Piquer",
             "song": "30 \u00e9xitos - Versiones originales",
             "year": "(2005)",
-            "url": "https://www.youtube.com/results?search_query=Concha%20Piquer-30%20%C3%A9xitos%20-%20Versiones%20originales"
+            "url": "https://www.youtube.com/results?search_query=Concha%20Piquer-30%20%C3%A9xitos%20-%20Versiones%20originales",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pJtDtdWOj_sgbNwjW5q-QenMqbE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "O0GFDrJ4A0U"
+                },
+                "snippet": {
+                    "publishedAt": "2018-06-08T04:14:11.000Z",
+                    "channelId": "UCZUG4Dj2En-FNvgjNqOdFvQ",
+                    "title": "Concha Piquer",
+                    "description": "Concha Piquer \u00b7 Conchita Piquer 30 Exitos Conchita Piquer (30 Exitos Versiones Originales) \u2117 Rise International Music Released on: 2012-11-06 Music ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Conchita Piquer - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sevillanas ": [
@@ -10947,7 +11696,41 @@
             "artist": "Gente del Pueblo",
             "song": "Sevillanas Democraticas",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=Gente%20del%20Pueblo-Sevillanas%20Democraticas"
+            "url": "https://www.youtube.com/results?search_query=Gente%20del%20Pueblo-Sevillanas%20Democraticas",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/0UYgrTY9jkyegmd8qMgWj5kEGQI\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLyPNVHZFoWEFUUZAmJJwzocTBr46duYXo"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-21T05:50:28.000Z",
+                    "channelId": "UCsn62lPY6XuagjBxyiYVMkw",
+                    "title": "Top Tracks - Gente del Pueblo",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yudTs930aMU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yudTs930aMU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yudTs930aMU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Gente del Pueblo - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tonada ": [
@@ -10957,7 +11740,41 @@
             "artist": "Sim\u00f3n D\u00edaz",
             "song": "Tonadas",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Sim%C3%B3n%20D%C3%ADaz-Tonadas"
+            "url": "https://www.youtube.com/results?search_query=Sim%C3%B3n%20D%C3%ADaz-Tonadas",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8umyDkPinvtNSIynA0Z2YhYYe8g\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "L_M7mofsAfI"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-08T10:58:10.000Z",
+                    "channelId": "UCpDfxKtFyQqng38etvQ5OhA",
+                    "title": "Las Tonadas de Sim\u00f3n - Sim\u00f3n D\u00edaz (2013) Album",
+                    "description": "Canciones \u2193 1. Sabana 00:00 2. Tonada del Cabestrero 03:29 3. El Loco Juan Carabina 07:09 4. Mi Querencia 10:04 5. Tonada de las Espigas 14:25 6.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/L_M7mofsAfI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/L_M7mofsAfI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/L_M7mofsAfI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Guayaba Play",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Flamenco ": [
@@ -10967,7 +11784,41 @@
             "artist": "Various",
             "song": "Early Cante Flamenco - Classic Recordings from the 1930's",
             "year": "(1990)",
-            "url": "https://www.youtube.com/results?search_query=Various-Early%20Cante%20Flamenco%20-%20Classic%20Recordings%20from%20the%201930%26%23x27%3Bs"
+            "url": "https://www.youtube.com/results?search_query=Various-Early%20Cante%20Flamenco%20-%20Classic%20Recordings%20from%20the%201930%26%23x27%3Bs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/T58AyPSlphSnZj4AULzGmU96kgQ\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL924E59FD288DAF64"
+                },
+                "snippet": {
+                    "publishedAt": "2011-06-19T15:59:59.000Z",
+                    "channelId": "UCNlm-MoxMaQhYGMP-7WhZdA",
+                    "title": "Early Cante Flamenco",
+                    "description": "Ripped from \"Early Cante Flanco (Classic Recordings Of The 1930's & 40's Volume 2) on Folklyric/Arhoolie Records.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wqijutU_xh8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wqijutU_xh8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wqijutU_xh8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "jemmyjoemusic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 281,
@@ -10975,7 +11826,41 @@
             "artist": "Paco de Luc\u00eda",
             "song": "Fuente y caudal",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Paco%20de%20Luc%C3%ADa-Fuente%20y%20caudal"
+            "url": "https://www.youtube.com/results?search_query=Paco%20de%20Luc%C3%ADa-Fuente%20y%20caudal",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WpDwoz4T4GT5cPkF9wS5ehTgY9Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ySA_QYVWj9k"
+                },
+                "snippet": {
+                    "publishedAt": "2014-02-19T15:10:13.000Z",
+                    "channelId": "UCE2WDDFCuqPUkAZ73EJ-s0Q",
+                    "title": "Paco De Luc\u00eda    Fuente Y Caudal",
+                    "description": "Paco De Luc\u00eda Fuente Y Caudal.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ahmed lamarti",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Flamenco Pop ": [
@@ -10985,7 +11870,41 @@
             "artist": "Rosa Morena",
             "song": "Rosa Morena",
             "year": "(1971)",
-            "url": "https://www.youtube.com/results?search_query=Rosa%20Morena-Rosa%20Morena"
+            "url": "https://www.youtube.com/results?search_query=Rosa%20Morena-Rosa%20Morena",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/i_rEPhPDI0vCkPbRC8W_h3Oz9bI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-flS_aUW9bE"
+                },
+                "snippet": {
+                    "publishedAt": "2013-11-02T08:54:15.000Z",
+                    "channelId": "UCZPJhDyBv3k67pa79dH63fw",
+                    "title": "Jo\u00e3o Gilberto - Rosa Morena",
+                    "description": "Faixa 8 - Chega de Saudade - 1959 \"Rosa Morena\" (Dorival Caymmi) Rosa, Morena! Onde vais Morena Rosa? Com essa rosa no cabelo E esse andar de ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-flS_aUW9bE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-flS_aUW9bE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-flS_aUW9bE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jo\u00e3o Gilberto",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Flamenco nuevo ": [
@@ -10995,7 +11914,41 @@
             "artist": "Lole y Manuel",
             "song": "Nuevo d\u00eda",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Lole%20y%20Manuel-Nuevo%20d%C3%ADa"
+            "url": "https://www.youtube.com/results?search_query=Lole%20y%20Manuel-Nuevo%20d%C3%ADa",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/zQrg6l_VhUmV0OEKpUTyZm60tsM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RqSgU0uCnlk"
+                },
+                "snippet": {
+                    "publishedAt": "2008-11-05T18:52:11.000Z",
+                    "channelId": "UCh0H23k4B9WjJ9eAopmoQeQ",
+                    "title": "Lole y Manuel - Nuevo D\u00eda",
+                    "description": "La primera canci\u00f3n del primer y gran disco de Lole y Manuel, de mismo t\u00edtulo, \"Nuevo D\u00eda\" El sol, joven y fuerte, ha vencido a la luna, que se aleja impotente, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "mzapa",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Rumba catalana ": [
@@ -11005,7 +11958,41 @@
             "artist": "Various",
             "song": "Gipsy Rhumba - The Original Rhythm of Gipsy Rhumba in Spain",
             "year": "(1965-1974)",
-            "url": "https://www.youtube.com/results?search_query=Various-Gipsy%20Rhumba%20-%20The%20Original%20Rhythm%20of%20Gipsy%20Rhumba%20in%20Spain"
+            "url": "https://www.youtube.com/results?search_query=Various-Gipsy%20Rhumba%20-%20The%20Original%20Rhythm%20of%20Gipsy%20Rhumba%20in%20Spain",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vGIx0MzqmckYBYEEHwYuNjbARHs\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLcRv8MMrMijNP8DX7nLeDE2h5JvEJQPlC"
+                },
+                "snippet": {
+                    "publishedAt": "2014-04-24T11:45:37.000Z",
+                    "channelId": "UC94z6RpE5d_9tCrhGXCt_ow",
+                    "title": "Gipsy Rhumba: The Original Rhythm of Gipsy Rhumba in Spain 1965-1974",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/JXoCAGKjltg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/JXoCAGKjltg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/JXoCAGKjltg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Orange Milonga",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Portuguese Folk ": [
@@ -11015,7 +12002,41 @@
             "artist": "Various",
             "song": "Songs and Dances of Portugal (research by Michel Giacometti)",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Portugal%20%28research%20by%20Michel%20Giacometti%29"
+            "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Portugal%20%28research%20by%20Michel%20Giacometti%29",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/W9Jl3zws2ub2iQbBpb6lNtmRAYY\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLu5nesfz0xy4lorUZQs3ctfyYv4RfnuXK"
+                },
+                "snippet": {
+                    "publishedAt": "2019-03-31T16:37:47.000Z",
+                    "channelId": "UCCazEwtP_nbQEUEOt3f4eHQ",
+                    "title": "Abril 2019",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "HelderAMN",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Fado ": [
@@ -11025,7 +12046,41 @@
             "artist": "Various",
             "song": "Fados From Portugal - Volume 1 - Fado de Lisboa",
             "year": "(1928-1936)",
-            "url": "https://www.youtube.com/results?search_query=Various-Fados%20From%20Portugal%20-%20Volume%201%20-%20Fado%20de%20Lisboa"
+            "url": "https://www.youtube.com/results?search_query=Various-Fados%20From%20Portugal%20-%20Volume%201%20-%20Fado%20de%20Lisboa",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/_epH3EL2f4snXyX4i_8d5LpZY4E\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "xhjYTK3vZoA"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-28T09:14:31.000Z",
+                    "channelId": "UCSnVNR81sNWsn9jQlpKZLug",
+                    "title": "Roberta Miranda - Tudo Isto \u00e9 Fado (2001) - CD Completo",
+                    "description": "Roberta Miranda - Tudo Isto \u00e9 Fado (2001 - Universal Music) 1- Pot-Pourri: Poema O Fado da Ilus\u00e3o / Estranha forma de Vida 2- S\u00f3 n\u00f3s Dois 3- Ai Mouraria 4- ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/xhjYTK3vZoA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/xhjYTK3vZoA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/xhjYTK3vZoA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "George Helms",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cante alentejano ": [
@@ -11035,7 +12090,41 @@
             "artist": "Os Ganh\u00f5es de Castro Verde",
             "song": "Terra - Antologia Polifonias alentejanas",
             "year": "(1972-2006)",
-            "url": "https://www.youtube.com/results?search_query=Os%20Ganh%C3%B5es%20de%20Castro%20Verde-Terra%20-%20Antologia%20Polifonias%20alentejanas"
+            "url": "https://www.youtube.com/results?search_query=Os%20Ganh%C3%B5es%20de%20Castro%20Verde-Terra%20-%20Antologia%20Polifonias%20alentejanas",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8QqhqrHzjlIchYlrbMsB3dAb-H4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "05BYPUy7290"
+                },
+                "snippet": {
+                    "publishedAt": "2013-02-02T15:42:44.000Z",
+                    "channelId": "UCh5tYA07B0Uur5Mo1gbPmYQ",
+                    "title": "Ganh\u00f5es de Castro Verde - &quot;Terra (Antologia 1972-2006)&quot; Polifonias alentejanas, parte I (2007)",
+                    "description": "uma edi\u00e7\u00e3o fundamental para a hist\u00f3ria do movimento coral, ou orfe\u00f3nico, do Baixo Alentejo. Esta antologia de mais de 30 anos de trabalho editorial de \"Os ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/05BYPUy7290/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/05BYPUy7290/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/05BYPUy7290/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "DoTempoDosSonhos",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tr\u00e1s_os_Montes Folk ": [
@@ -11045,7 +12134,41 @@
             "artist": "Various",
             "song": "Tr\u00e1s_os_Montes - Chants du bl\u00e9 et cornemuses de berger",
             "year": "(1980)",
-            "url": "https://www.youtube.com/results?search_query=Various-Tr%C3%A1s_os_Montes%20-%20Chants%20du%20bl%C3%A9%20et%20cornemuses%20de%20berger"
+            "url": "https://www.youtube.com/results?search_query=Various-Tr%C3%A1s_os_Montes%20-%20Chants%20du%20bl%C3%A9%20et%20cornemuses%20de%20berger",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/v3aKawfsBCUytljdviA-UgHlp8c\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K9_cQxqOCTI"
+                },
+                "snippet": {
+                    "publishedAt": "2016-06-08T14:58:02.000Z",
+                    "channelId": "UCICQ38oq2VLwbpRatSn_5PQ",
+                    "title": "Portugal -  Traditional music - Tr\u00e1s-os-Montes -  Ocora",
+                    "description": "PORTUGAL Tr\u00e1s-os-Montes Chants du ble et Cornemuses de Berger Harvest Songs And The Shepherds's Bagpipe track 13- A Fonte Do Salgueirinho - Ocora, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K9_cQxqOCTI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K9_cQxqOCTI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K9_cQxqOCTI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "eris eride",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pimba ": [
@@ -11055,7 +12178,41 @@
             "artist": "Quim Barreiros",
             "song": "Folclore algarvio",
             "year": "(1973)",
-            "url": "https://www.youtube.com/results?search_query=Quim%20Barreiros-Folclore%20algarvio"
+            "url": "https://www.youtube.com/results?search_query=Quim%20Barreiros-Folclore%20algarvio",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/KoMECbGmPmY4BJLepjU7y_Dw2cw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "JM71LLQ0D1Q"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-03T20:00:00.000Z",
+                    "channelId": "UCkCZtoggL-OUom9FKXS_sbQ",
+                    "title": "Sonho Algarvio",
+                    "description": "Provided to YouTube by The Orchard Enterprises Sonho Algarvio \u00b7 Quim Barreiros Folclore Portugal - Algarve \u2117 2017 E.M.B. Released on: 2018-05-04 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Quim Barreiros - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Celtic Folk ": [
@@ -11065,7 +12222,41 @@
             "artist": "Various",
             "song": "Classic Celtic Music From Smithsonian Folkways",
             "year": "(2013)",
-            "url": "https://www.youtube.com/results?search_query=Various-Classic%20Celtic%20Music%20From%20Smithsonian%20Folkways"
+            "url": "https://www.youtube.com/results?search_query=Various-Classic%20Celtic%20Music%20From%20Smithsonian%20Folkways",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ylVz8KrcBTs6ZG-kP7O8mTtFpgI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ACD9NP4D_pU"
+                },
+                "snippet": {
+                    "publishedAt": "2014-12-29T12:10:02.000Z",
+                    "channelId": "UCqZmqbsMUzzElsLBXTz5mEw",
+                    "title": "Ballads and Songs of the Blue Ridge Mountains",
+                    "description": "This is an amazing and rare look into the traditional folk music of America. From the Smithsonian Folkways description: \"Stemming from a want to preserve the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ACD9NP4D_pU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ACD9NP4D_pU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ACD9NP4D_pU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Spyes23",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Breton Folk ": [
@@ -11075,7 +12266,41 @@
             "artist": "Various",
             "song": "Ils se meurent nos oiseaux",
             "year": "(1978)",
-            "url": "https://www.youtube.com/results?search_query=Various-Ils%20se%20meurent%20nos%20oiseaux"
+            "url": "https://www.youtube.com/results?search_query=Various-Ils%20se%20meurent%20nos%20oiseaux",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/-xQokbCgnhFwMFqCFiRKo1nauPM\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "NUCXWdOOzmk"
+                },
+                "snippet": {
+                    "publishedAt": "2017-07-23T20:11:03.000Z",
+                    "channelId": "UCMbbjWY-BLff8PcT_uGVVXQ",
+                    "title": "Glenmor - Ils se meurent nos oiseaux",
+                    "description": "Buy on iTunes: https://itunes.apple.com/album/id1109130999 Taken from Glenmor \u00ab Dix ans d\u00e9j\u00e0... Que le vent porte et pose \u00bb Extrait de Glenmor \u00ab Dix ans ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Coop Breizh Musik",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Breton Celtic Folk ": [
@@ -11085,7 +12310,41 @@
             "artist": "Alan Stivell",
             "song": "Renaissance de la harpe celtique",
             "year": "(1971)",
-            "url": "https://www.youtube.com/results?search_query=Alan%20Stivell-Renaissance%20de%20la%20harpe%20celtique"
+            "url": "https://www.youtube.com/results?search_query=Alan%20Stivell-Renaissance%20de%20la%20harpe%20celtique",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/J2z9FOYkETchXtoy3eVgZCTRO5w\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL2478ADA126CE7577"
+                },
+                "snippet": {
+                    "publishedAt": "2009-11-15T11:44:33.000Z",
+                    "channelId": "UC2mzSws2-SGlF0-G4MGMfQg",
+                    "title": "Alan Stivell Renaissance of the Celtic Harp",
+                    "description": "Alan Stivell Renaissance of the Celtic Harp.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NPyWwh3viqE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NPyWwh3viqE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NPyWwh3viqE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Svanelicorne",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bagad ": [
@@ -11095,7 +12354,41 @@
             "artist": "Bagad Kemper",
             "song": "Kejadenn",
             "year": "(1993)",
-            "url": "https://www.youtube.com/results?search_query=Bagad%20Kemper-Kejadenn"
+            "url": "https://www.youtube.com/results?search_query=Bagad%20Kemper-Kejadenn",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/np7Sc9HW-QUXuflJIDkE82VP1UI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "9AKkf6gXGDM"
+                },
+                "snippet": {
+                    "publishedAt": "2015-07-01T22:55:53.000Z",
+                    "channelId": "UCBxVqAukVEuueft-lltlblA",
+                    "title": "Lip ar maout - Bagad Kemper",
+                    "description": "Ensemble instrumental de musiques Bretonne. 1 - Suite d'airs \u00e0 danser du pays de l'Oust et du li\u00e9 2 - Suite Gallo-Vannetaise 3 - Bellahouston Park Set 4 - Chal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/9AKkf6gXGDM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/9AKkf6gXGDM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/9AKkf6gXGDM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Bzh Sparfell",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cornish Folk ": [
@@ -11105,7 +12398,41 @@
             "artist": "Various",
             "song": "Sounds Like West Cornwall",
             "year": "(1970)",
-            "url": "https://www.youtube.com/results?search_query=Various-Sounds%20Like%20West%20Cornwall"
+            "url": "https://www.youtube.com/results?search_query=Various-Sounds%20Like%20West%20Cornwall",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QvXvnlLEolbxk4dANUnyF27nCeg\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ahznvtDunEw"
+                },
+                "snippet": {
+                    "publishedAt": "2017-01-05T08:12:31.000Z",
+                    "channelId": "UC0Hg2Ks00kCekyjZG_LxOmg",
+                    "title": "British Accents: West Country",
+                    "description": "This series focusses on different accents from the United Kingdom. Many thanks to Tom for providing him fabulous WEST COUNTRY accent. Useful links below: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ahznvtDunEw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ahznvtDunEw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ahznvtDunEw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "English Like A Native",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Irish Folk ": [
@@ -11115,7 +12442,41 @@
             "artist": "Various",
             "song": "The Rough Guide To Irish Folk",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20To%20Irish%20Folk"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20To%20Irish%20Folk",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/6xfQAE6XMyiBdJjG0K_7LDiR8Xs\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL3s_YM0f1ZA0OHCEaa1wF6M_T_wPZXlv7"
+                },
+                "snippet": {
+                    "publishedAt": "2013-04-20T05:56:27.000Z",
+                    "channelId": "UCmJvzBXN3gUVbd-1PTIx0Bg",
+                    "title": "The rough Guide - irish folk",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Orglm0h4zs0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Orglm0h4zs0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Orglm0h4zs0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Georgina Eley",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Sean_n\u00f3s ": [
@@ -11125,7 +12486,41 @@
             "artist": "Sorcha N\u00ed Ghuairim",
             "song": "Traditional Irish Songs",
             "year": "(1945)",
-            "url": "https://www.youtube.com/results?search_query=Sorcha%20N%C3%AD%20Ghuairim-Traditional%20Irish%20Songs"
+            "url": "https://www.youtube.com/results?search_query=Sorcha%20N%C3%AD%20Ghuairim-Traditional%20Irish%20Songs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/5muRU4ajnr28M5SKQyRGvnU9baE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "5a62hlBAAuk"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-07T20:30:23.000Z",
+                    "channelId": "UCYgMWrU4VhwuVQl0KF2LDew",
+                    "title": "An Draighnean Donn (The Brown Thorn Bush)",
+                    "description": "Provided to YouTube by The Orchard Enterprises An Draighnean Donn (The Brown Thorn Bush) \u00b7 Sorcha N\u00ed Ghuairim Irish Traditional Songs \u2117 2004 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/5a62hlBAAuk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/5a62hlBAAuk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/5a62hlBAAuk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Sorcha N\u00ed Ghuairim - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Manx Folk ": [
@@ -11135,7 +12530,41 @@
             "artist": "Various",
             "song": "The Best That's In",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20That%26%23x27%3Bs%20In"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20That%26%23x27%3Bs%20In",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/MMfURuaJRnqOL2VmYJuewFzy6ic\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7PCkvCPvDXk"
+                },
+                "snippet": {
+                    "publishedAt": "2014-06-11T14:00:07.000Z",
+                    "channelId": "UCf3cbfAXgPFL6OywH7JwOzA",
+                    "title": "Meghan Trainor - All About That Bass (Official Music Video)",
+                    "description": "Meghan Trainor's official music video for 'All About That Bass'. Click to listen to Meghan Trainor on Spotify: http://smarturl.it/MegTSpotify?IQid=M... As featured on ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "MeghanTrainorVEVO",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Newfoundland Folk ": [
@@ -11145,7 +12574,41 @@
             "artist": "Alan Mills",
             "song": "Folk Songs of Newfoundland",
             "year": "(1953)",
-            "url": "https://www.youtube.com/results?search_query=Alan%20Mills-Folk%20Songs%20of%20Newfoundland"
+            "url": "https://www.youtube.com/results?search_query=Alan%20Mills-Folk%20Songs%20of%20Newfoundland",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QRudUXTlRhLpddfVuxmiYLeR_Hw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "8ugI5cbfQZU"
+                },
+                "snippet": {
+                    "publishedAt": "2017-02-21T20:00:56.000Z",
+                    "channelId": "UCMePB5lC-wvTEIuXgtzYyVw",
+                    "title": "Folk Songs Of Newfoundland Sung by Alan Mills Accompanied by Guitar (195?)",
+                    "description": "DISCLAIMER* NO COPYRIGHT INFRINGEMENT INTENDED. I DO NOT OWN THE RIGHTS TO MUSIC IN THIS VIDEO. I DO NOT MONETIZE THIS VIDEO.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/8ugI5cbfQZU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/8ugI5cbfQZU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/8ugI5cbfQZU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "INVIGORATION",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Welsh Folk ": [
@@ -11155,7 +12618,41 @@
             "artist": "Meredydd Evans",
             "song": "Welsh Folk_Songs",
             "year": "(1954)",
-            "url": "https://www.youtube.com/results?search_query=Meredydd%20Evans-Welsh%20Folk_Songs"
+            "url": "https://www.youtube.com/results?search_query=Meredydd%20Evans-Welsh%20Folk_Songs",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/GDhnpAGKMgVGcegctMzwISv_dR4\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ogDIc0242KI"
+                },
+                "snippet": {
+                    "publishedAt": "2009-06-19T15:29:33.000Z",
+                    "channelId": "UCWgEWXnFFFeoXMJ766CfDLw",
+                    "title": "Meredydd Evans: Welsh Folk Songs",
+                    "description": "Click here to hear samples and purchase music from \"Welsh Folk Songs\" http://folkways.si.edu/albumdetails.aspx?itemid=1200 In 1954, Meredydd Evans ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ogDIc0242KI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ogDIc0242KI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ogDIc0242KI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Smithsonian Folkways",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Scottish Folk ": [
@@ -11165,7 +12662,41 @@
             "artist": "Various",
             "song": "The Rough Guide to Scottish Folk",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Scottish%20Folk"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Scottish%20Folk",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/t9BXRTc4xhBVcs2_aReGe01kVaE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jHR4Feq-CI4"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-17T09:21:52.000Z",
+                    "channelId": "UCE_bm3SURdJzlHAZlVA6eSA",
+                    "title": "The Rough Guide to Scottish Folk - Clan Coco - The Road to Benderloch - Fifteen Stubbies to Warragul",
+                    "description": "Beautiful.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jHR4Feq-CI4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jHR4Feq-CI4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jHR4Feq-CI4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Francisco Alves",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Gaelic Psalm ": [
@@ -11175,7 +12706,41 @@
             "artist": "Various",
             "song": "Scottish Tradition - Volume 6 - Gaelic Psalms From Lewis",
             "year": "(1975)",
-            "url": "https://www.youtube.com/results?search_query=Various-Scottish%20Tradition%20-%20Volume%206%20-%20Gaelic%20Psalms%20From%20Lewis"
+            "url": "https://www.youtube.com/results?search_query=Various-Scottish%20Tradition%20-%20Volume%206%20-%20Gaelic%20Psalms%20From%20Lewis",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vQConYrdDtHQBigf_H1b1k24rWc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "k3MzZgPBL3Q"
+                },
+                "snippet": {
+                    "publishedAt": "2009-09-14T15:40:47.000Z",
+                    "channelId": "UCJ5Msk9dDKF6BMbkyHXN8MQ",
+                    "title": "Gaelic psalms at Back Free Church, Isle Of Lewis- 20/21/oct/2003",
+                    "description": "PC ROM video from Salm Vol1 http://en.wikipedia.org/wiki/Psalms http://www.metafilter.com/68085/Gaelic-Psalm-Singing.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/k3MzZgPBL3Q/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/k3MzZgPBL3Q/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/k3MzZgPBL3Q/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "GREEN M",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pibroch ": [
@@ -11185,7 +12750,41 @@
             "artist": "Pipe Major John A. MacLellan, MBE",
             "song": "Scottish Bagpipe Music",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=Pipe%20Major%20John%20A.%20MacLellan%2C%20MBE-Scottish%20Bagpipe%20Music"
+            "url": "https://www.youtube.com/results?search_query=Pipe%20Major%20John%20A.%20MacLellan%2C%20MBE-Scottish%20Bagpipe%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f2xjOE6mj_uFbfISZMCQ4DmKP7Y\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "BDDvtOqPkHs"
+                },
+                "snippet": {
+                    "publishedAt": "2015-10-26T09:24:41.000Z",
+                    "channelId": "UCMePB5lC-wvTEIuXgtzYyVw",
+                    "title": "Pipe Major J.B. Robertson, M.B.E. \u200e\u2013 Scottish Pipes For Dancing (1958) - Vinyl Album",
+                    "description": "DISCLAIMER* NO COPYRIGHT INFRINGEMENT INTENDED. I DO NOT OWN THE RIGHTS TO MUSIC IN THIS VIDEO. I DO NOT MONETIZE THIS VIDEO.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/BDDvtOqPkHs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/BDDvtOqPkHs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/BDDvtOqPkHs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "INVIGORATION",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Pipe Band ": [
@@ -11195,7 +12794,41 @@
             "artist": "The Pipes and Drums of the Royal Scots Dragoon Guards",
             "song": "Amazing Grace",
             "year": "(1972)",
-            "url": "https://www.youtube.com/results?search_query=The%20Pipes%20and%20Drums%20of%20the%20Royal%20Scots%20Dragoon%20Guards-Amazing%20Grace"
+            "url": "https://www.youtube.com/results?search_query=The%20Pipes%20and%20Drums%20of%20the%20Royal%20Scots%20Dragoon%20Guards-Amazing%20Grace",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uzXdJsHGAH4LooLH4SGow67ootA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jkLXOWimMY8"
+                },
+                "snippet": {
+                    "publishedAt": "2008-09-28T17:57:29.000Z",
+                    "channelId": "UCB3RHs8s-H2r3xMMRmr0VGQ",
+                    "title": "The Royal Scots Dragoon Guards - Amazing Grace",
+                    "description": "The history of the Royal Scots Dragoon Guards is the record of three ancient regiments: The Royal Scots Greys, the 6th Dragoon Guards and the 3rd the Prince ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jkLXOWimMY8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jkLXOWimMY8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jkLXOWimMY8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "stevethrasher",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Shetland and Orkney Islands Folk ": [
@@ -11205,7 +12838,41 @@
             "artist": "Various",
             "song": "Orkney - Traditional Dance Music from Orkney",
             "year": "(2014)",
-            "url": "https://www.youtube.com/results?search_query=Various-Orkney%20-%20Traditional%20Dance%20Music%20from%20Orkney"
+            "url": "https://www.youtube.com/results?search_query=Various-Orkney%20-%20Traditional%20Dance%20Music%20from%20Orkney",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/KYixcNNVLo7qVdGAO_1AOwXIYpU\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLB2BBBCC713E06FF4"
+                },
+                "snippet": {
+                    "publishedAt": "2011-11-14T13:05:00.000Z",
+                    "channelId": "UCxmFNKV3EeuMyvptqbTsKvQ",
+                    "title": "Orkney Island Music",
+                    "description": "The Orkney's, north of Scotland, have a Scandinavian heritage. But the music of today has a largely Scottish flavor. The folks of the Orkneys are referred to as the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NWtDFySQqsg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NWtDFySQqsg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NWtDFySQqsg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ericwhollem",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "English Folk ": [
@@ -11215,7 +12882,41 @@
             "artist": "Tim Hart & Maddy Prior",
             "song": "Folk Songs of Old England - Volume 1",
             "year": "(1968)",
-            "url": "https://www.youtube.com/results?search_query=Tim%20Hart%20%26amp%3B%20Maddy%20Prior-Folk%20Songs%20of%20Old%20England%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Tim%20Hart%20%26amp%3B%20Maddy%20Prior-Folk%20Songs%20of%20Old%20England%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/mpzUp5c1jQux80pdyWYZ6e1YAPM\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLI2cfS3oDM5DcFQJEIE6FlPvOFvJSA4ZI"
+                },
+                "snippet": {
+                    "publishedAt": "2013-12-15T18:32:05.000Z",
+                    "channelId": "UCBGGif7GzKsrGAVS12u9u9A",
+                    "title": "Folk songs of Old England",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Do7epBepl8U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Do7epBepl8U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Do7epBepl8U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "barrydr1",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Music Hall ": [
@@ -11225,7 +12926,41 @@
             "artist": "George Formby",
             "song": "The Best of George Formby",
             "year": "(1996)",
-            "url": "https://www.youtube.com/results?search_query=George%20Formby-The%20Best%20of%20George%20Formby"
+            "url": "https://www.youtube.com/results?search_query=George%20Formby-The%20Best%20of%20George%20Formby",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Q7jT5SODSOANRvUJX47MQM8_7zI\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL-7r-4xUajrTrUtdsYP13tI6G4KcRLcLd"
+                },
+                "snippet": {
+                    "publishedAt": "2015-11-03T15:02:44.000Z",
+                    "channelId": "UCQMYuTelUkhK2SYR63P3lbg",
+                    "title": "George Formby - 80 Greatest Hits - The Very Best Of (One Day Music)",
+                    "description": "Born in Wigan, Lancashire in 1904 George Formby is the famous son of an equally famous father. Throughout the twenties George Jnr appeared in variety and ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "finetunes Pop",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Revue ": [
@@ -11235,7 +12970,41 @@
             "artist": "No\u00ebl Coward",
             "song": "The Compact Coward",
             "year": "(1989)",
-            "url": "https://www.youtube.com/results?search_query=No%C3%ABl%20Coward-The%20Compact%20Coward"
+            "url": "https://www.youtube.com/results?search_query=No%C3%ABl%20Coward-The%20Compact%20Coward",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/rKRZ2H2mwk7QqmsQ4A1XG239Kyw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7w3ibFw0tG8"
+                },
+                "snippet": {
+                    "publishedAt": "2018-11-26T22:19:06.000Z",
+                    "channelId": "UCKLcOVdYDhcjdBOMNZSq9Hg",
+                    "title": "The Vortex by No\u00ebl Coward (1924) | Radio Drama (Stars: Martin Jarvis, Elizabeth Sellars 1975) | Play",
+                    "description": "\ud835\udc77\ud835\udc93\ud835\udc90\ud835\udc91\ud835\udc86\ud835\udc93\ud835\udc95\ud835\udc9a \ud835\udc90\ud835\udc87 \ud835\udc69\ud835\udc69\ud835\udc6a, \ud835\udc82\ud835\udc8f\ud835\udc85 \ud835\udc90\ud835\udc95\ud835\udc89\ud835\udc86\ud835\udc93 \ud835\udc93\ud835\udc86\ud835\udc94\ud835\udc91\ud835\udc86\ud835\udc84\ud835\udc95\ud835\udc8a\ud835\udc97\ud835\udc86 \ud835\udc90\ud835\udc98\ud835\udc8f\ud835\udc86\ud835\udc93\ud835\udc94. The play depicts the sexual vanity...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7w3ibFw0tG8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7w3ibFw0tG8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7w3ibFw0tG8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Jamie Mason",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Northumbrian Folk ": [
@@ -11245,7 +13014,41 @@
             "artist": "Various",
             "song": "Bonny North Tyne - Northumbrian Country Music",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Various-Bonny%20North%20Tyne%20-%20Northumbrian%20Country%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Bonny%20North%20Tyne%20-%20Northumbrian%20Country%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/3xBw2sBCIWDSwtOVMhxGAh6M6i8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "e6HjGRgXUnM"
+                },
+                "snippet": {
+                    "publishedAt": "2016-12-31T16:52:14.000Z",
+                    "channelId": "UCRbSxWfENqQdBSDr9onFrDQ",
+                    "title": "Bonny North Tyne / The Redesdale Hornpipe",
+                    "description": "Provided to YouTube by IDOL Bonny North Tyne / The Redesdale Hornpipe \u00b7 Joe Hutton Bonny North Tyne: Northumbrian Country Music \u2117 Topic Records Ltd.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/e6HjGRgXUnM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/e6HjGRgXUnM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/e6HjGRgXUnM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Various Artists - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Scrumpy and Western ": [
@@ -11255,7 +13058,41 @@
             "artist": "Adge Cutler & The Wurzels",
             "song": "Adge Cutler & The Wurzels",
             "year": "(1967)",
-            "url": "https://www.youtube.com/results?search_query=Adge%20Cutler%20%26amp%3B%20The%20Wurzels-Adge%20Cutler%20%26amp%3B%20The%20Wurzels"
+            "url": "https://www.youtube.com/results?search_query=Adge%20Cutler%20%26amp%3B%20The%20Wurzels-Adge%20Cutler%20%26amp%3B%20The%20Wurzels",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/JRxHxi-WpmSxIpEjZWo6LDveYtc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "bp9yK_k6wCk"
+                },
+                "snippet": {
+                    "publishedAt": "2015-07-30T09:27:17.000Z",
+                    "channelId": "UCyDyT4-oCDZJTub3x0i8Lrw",
+                    "title": "Adge Cutler &amp; The Wurzels    - Drink Up Thy Zider 1967",
+                    "description": "A cider drinker's classic!!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bp9yK_k6wCk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bp9yK_k6wCk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bp9yK_k6wCk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Kevin Delahunty",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Danish Folk ": [
@@ -11265,7 +13102,41 @@
             "artist": "Dan Haugaard",
             "song": "Songs of Denmark",
             "year": "(1957)",
-            "url": "https://www.youtube.com/results?search_query=Dan%20Haugaard-Songs%20of%20Denmark"
+            "url": "https://www.youtube.com/results?search_query=Dan%20Haugaard-Songs%20of%20Denmark",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/AaUJEbDjC34iBfc5r2-6XJ_VotI\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6-OVb0N24qs"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-30T12:23:42.000Z",
+                    "channelId": "UCPBGrYrbRCyalw_OOUzO7vg",
+                    "title": "I Skoven Skulde Vaere Gilde - Animal Folk Song",
+                    "description": "Provided to YouTube by Smithsonian Folkways Recordings I Skoven Skulde Vaere Gilde - Animal Folk Song \u00b7 Dan Haugaard Danish Folk Songs \u2117 2004 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6-OVb0N24qs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6-OVb0N24qs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6-OVb0N24qs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Dan Haugaard - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Finnish Folk ": [
@@ -11275,7 +13146,41 @@
             "artist": "Various",
             "song": "Folk Voices - Finnish Folk Song Through the Ages",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Voices%20-%20Finnish%20Folk%20Song%20Through%20the%20Ages"
+            "url": "https://www.youtube.com/results?search_query=Various-Folk%20Voices%20-%20Finnish%20Folk%20Song%20Through%20the%20Ages",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/stNlixsJ5-6etv42wdX3mU6FVb0\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "oXmdbXxxhDg"
+                },
+                "snippet": {
+                    "publishedAt": "2016-02-23T12:28:41.000Z",
+                    "channelId": "UCkdCS-XyqrKcySMyJHmrsfA",
+                    "title": "Folk Voices - Finnish folk song through the ages (Full album)",
+                    "description": "01. Kuulin \u00e4\u00e4nen 02. Hiien hirven hiihd\u00e4nt\u00e4 03. Rakkauden myrkky kaikki surut tappaa 04. Tellun polska 05. Lehmikutsu 06. Tulen synty -loitsu 07. O Kriste ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/oXmdbXxxhDg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/oXmdbXxxhDg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/oXmdbXxxhDg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Xibsound Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Icelandic Folk ": [
@@ -11285,7 +13190,41 @@
             "artist": "Various",
             "song": "\u00cdslandsklukkur",
             "year": "(1994)",
-            "url": "https://www.youtube.com/results?search_query=Various-%C3%8Dslandsklukkur"
+            "url": "https://www.youtube.com/results?search_query=Various-%C3%8Dslandsklukkur",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/cUOFdsD0eIGKi2Ml2AHM8VvEsvA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "IYbE2coMZPc"
+                },
+                "snippet": {
+                    "publishedAt": "2012-10-26T20:23:00.000Z",
+                    "channelId": "UCGTg0SW-YefpjTODQpL79xQ",
+                    "title": "\u00cdslandsklukkur (Instrumental Icelandic Folk Music)",
+                    "description": "Co-Producer Magnus \u00de\u00f3r Sigmundsson: \"For all those who want to order this CD it comes in two versions -instrumental \"Icelandic folk music\" and with vocals ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/IYbE2coMZPc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/IYbE2coMZPc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/IYbE2coMZPc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Joris Kanters",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Norwegian Folk ": [
@@ -11295,7 +13234,41 @@
             "artist": "Various",
             "song": "Devil's Tune - Ethnic Music From the Twilight Zone",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Various-Devil%26%23x27%3Bs%20Tune%20-%20Ethnic%20Music%20From%20the%20Twilight%20Zone"
+            "url": "https://www.youtube.com/results?search_query=Various-Devil%26%23x27%3Bs%20Tune%20-%20Ethnic%20Music%20From%20the%20Twilight%20Zone",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CH98NcjwM4-XlohJoVqJjn9hiuw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pI32GpCjOQs"
+                },
+                "snippet": {
+                    "publishedAt": "2019-01-13T12:22:13.000Z",
+                    "channelId": "UCmkHwx9pKntcgTpCFoGkZTg",
+                    "title": "Heilo - Soundlogo",
+                    "description": "Provided to YouTube by The Orchard Enterprises Heilo - Soundlogo \u00b7 Diverse Artister Devil's Tune - Ethnic Music from the Twilight Zone \u2117 1998 Grappa ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pI32GpCjOQs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pI32GpCjOQs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pI32GpCjOQs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Diverse artister - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Swedish Folk ": [
@@ -11305,7 +13278,8 @@
             "artist": "Various",
             "song": "Lockl\u00e5tar p\u00e5 horn och pipa - Ancient Swedish Pastoral Music",
             "year": "(1966)",
-            "url": "https://www.youtube.com/results?search_query=Various-Lockl%C3%A5tar%20p%C3%A5%20horn%20och%20pipa%20-%20Ancient%20Swedish%20Pastoral%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Lockl%C3%A5tar%20p%C3%A5%20horn%20och%20pipa%20-%20Ancient%20Swedish%20Pastoral%20Music",
+            "enriched": true
         }
     ],
     "German Folk ": [
@@ -11315,7 +13289,41 @@
             "artist": "Zupfgeigenhansel",
             "song": "Volkslieder aus drei Jahrhunderten",
             "year": "(1978)",
-            "url": "https://www.youtube.com/results?search_query=Zupfgeigenhansel-Volkslieder%20aus%20drei%20Jahrhunderten"
+            "url": "https://www.youtube.com/results?search_query=Zupfgeigenhansel-Volkslieder%20aus%20drei%20Jahrhunderten",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/-lAfvbYyvMEGqUog3yvF2JHCvqk\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLsq37WHm6P3fxoqlsgiQrSdw6a9DkEFD2"
+                },
+                "snippet": {
+                    "publishedAt": "2018-01-21T12:08:05.000Z",
+                    "channelId": "UCVE6AYANvEdrvkGuL9qvABA",
+                    "title": "Zupfgeigenhansel - Volkslieder Aus Drei Jahrhunderten",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Mitchell Freeway",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         },
         {
             "unique_id": 316,
@@ -11323,7 +13331,41 @@
             "artist": "Various",
             "song": "Frisch auf ins weite Feld - Junge Leute machen Volksmusik",
             "year": "(1980)",
-            "url": "https://www.youtube.com/results?search_query=Various-Frisch%20auf%20ins%20weite%20Feld%20-%20Junge%20Leute%20machen%20Volksmusik"
+            "url": "https://www.youtube.com/results?search_query=Various-Frisch%20auf%20ins%20weite%20Feld%20-%20Junge%20Leute%20machen%20Volksmusik",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WiDubTowJ1ZqZDiebJ9Yi7-d8MQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "j1TVUlw4FWk"
+                },
+                "snippet": {
+                    "publishedAt": "2018-05-31T00:34:37.000Z",
+                    "channelId": "UCs7fXFS5Qd4VXDx0afoNE7g",
+                    "title": "Frisch auf ins weite Feld",
+                    "description": "Provided to YouTube by Kontor New Media GmbH Frisch auf ins weite Feld \u00b7 Folkl\u00e4nder Wenn man fragt, wer hat's getan... \u2117 L\u00f6wenzahn/RUM records ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Folkl\u00e4nder - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Dutch Folk ": [
@@ -11333,7 +13375,41 @@
             "artist": "De Perelaar",
             "song": "Nederlandse volksmuziek",
             "year": "(1977)",
-            "url": "https://www.youtube.com/results?search_query=De%20Perelaar-Nederlandse%20volksmuziek"
+            "url": "https://www.youtube.com/results?search_query=De%20Perelaar-Nederlandse%20volksmuziek",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ZnQ4f_Emft8uYtA2rtSXXEKvz4Y\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL7WG3sJMqcodf8qZY7BuUqMtN7_Y8GO2l"
+                },
+                "snippet": {
+                    "publishedAt": "2012-12-23T07:58:45.000Z",
+                    "channelId": "UCoa7OhvrqdtaXnSU50FVL3A",
+                    "title": "Dutch folkmusic and dances",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Folk and Other Music",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Flemish Folk ": [
@@ -11343,7 +13419,41 @@
             "artist": "Various",
             "song": "Flemish Folk Music",
             "year": "(1997)",
-            "url": "https://www.youtube.com/results?search_query=Various-Flemish%20Folk%20Music"
+            "url": "https://www.youtube.com/results?search_query=Various-Flemish%20Folk%20Music",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/r4REs2AfXokxi8EttmqYkJTLI8o\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "alwTYWZz2rI"
+                },
+                "snippet": {
+                    "publishedAt": "2015-07-14T16:15:54.000Z",
+                    "channelId": "UC-IZ02J3rohsmpam86IhvnQ",
+                    "title": "t&#39;Kliekske   Flemish Instrumental folk Music",
+                    "description": "Tracks: 1. Paspie menuet 2. Le carnaval anglais 3. Marche des paysans 4. La turque 5. Onder de lindeboom 6. Le retour de la joije 7. Menuet la solide/Le petit ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/alwTYWZz2rI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/alwTYWZz2rI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/alwTYWZz2rI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "M\u00fasica de M\u00e9xico y El Mundo",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Alpine Folk ": [
@@ -11353,7 +13463,41 @@
             "artist": "Various",
             "song": "The Rough Guide to the Music of the Alps",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20the%20Alps"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20the%20Alps",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/_8XIZQoHGkx4A7zBBV6wFABsDDk\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL3Xocf6KUuMmsXcH7ODEpvv3jDU5i1ue_"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-22T08:31:37.000Z",
+                    "channelId": "UCBQ3KlCyvts6zlg-neLeIfw",
+                    "title": "The Alps, the Rough Guide",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Camila Tisi",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "French Folk ": [
@@ -11363,7 +13507,41 @@
             "artist": "Catherine Perrier",
             "song": "Chansons traditionnelles fran\u00e7aises",
             "year": "(1974)",
-            "url": "https://www.youtube.com/results?search_query=Catherine%20Perrier-Chansons%20traditionnelles%20fran%C3%A7aises"
+            "url": "https://www.youtube.com/results?search_query=Catherine%20Perrier-Chansons%20traditionnelles%20fran%C3%A7aises",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/1BsLNYuKw1KYkBbjmhMgMupZ5Qc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Bxr8Pj2iHMg"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-03T01:16:50.000Z",
+                    "channelId": "UCXSPjlR2AhRsUbMI5SzdqWg",
+                    "title": "Catherine Perrier: Chansons Traditionnelles Fran\u00e7aises (full album / disco completo)",
+                    "description": "Catherine Perrier: Chansons Traditionnelles Fran\u00e7aises Sello: Le Chant du Monde N\u00famero de Cat\u00e1logo: LDX 74 500 Pa\u00eds: Francia A\u00f1o: 1973 M\u00fasicos: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Humberto Luna Tirado",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Occitan Folk ": [
@@ -11373,7 +13551,41 @@
             "artist": "Clemencic Consort",
             "song": "Troubadours",
             "year": "(1998)",
-            "url": "https://www.youtube.com/results?search_query=Clemencic%20Consort-Troubadours"
+            "url": "https://www.youtube.com/results?search_query=Clemencic%20Consort-Troubadours",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tNBaVsyovrre6dhN08KmGDntYTE\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ijqNBpOU5Vs"
+                },
+                "snippet": {
+                    "publishedAt": "2011-02-05T20:27:31.000Z",
+                    "channelId": "UCS21Zs3FX0j1V1pU5J3PyqQ",
+                    "title": "TROUBADOURS - trovadores occitanos - Clemencic Consort.avi",
+                    "description": "Canciones de trovadores occitanos, de los ss. XII y XIII, por Clemencic Consort. Anonyme, fin 12e si\u00e8cle 01 - A l'entrada del temps clar [2:52] voix mixtes, vi\u00e8le, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Caballerito de Arratia",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Auvergnat Folk ": [
@@ -11383,7 +13595,41 @@
             "artist": "Gentiane",
             "song": "Musique d'Auvergne",
             "year": "(1979)",
-            "url": "https://www.youtube.com/results?search_query=Gentiane-Musique%20d%26%23x27%3BAuvergne"
+            "url": "https://www.youtube.com/results?search_query=Gentiane-Musique%20d%26%23x27%3BAuvergne",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vHsosaR5LtUvEcckJSdq3iMFt5k\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "sNlkUAlvTgQ"
+                },
+                "snippet": {
+                    "publishedAt": "2014-08-27T17:40:08.000Z",
+                    "channelId": "UCCGrEpVsDxF6CgqoSDKycLw",
+                    "title": "Gentiane - Mazurka et Brezon valse",
+                    "description": "Due classici dell'Auvergne dal disco \"Musique d'Auvergne\" del gruppo folk Gentiane.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "AlsatianKnight",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Corsican Folk ": [
@@ -11393,7 +13639,35 @@
             "artist": "E Voce di u cumune",
             "song": "Corsica - Chants polyphoniques",
             "year": "(1987)",
-            "url": "https://www.youtube.com/results?search_query=E%20Voce%20di%20u%20cumune-Corsica%20-%20Chants%20polyphoniques"
+            "url": "https://www.youtube.com/results?search_query=E%20Voce%20di%20u%20cumune-Corsica%20-%20Chants%20polyphoniques",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/oWW4LSkEq-I2hrqg7WO9I0AIFH8\"",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCtG0CmMqqyBm7jmZ6XGEzGw"
+                },
+                "snippet": {
+                    "publishedAt": "2013-12-19T09:49:40.000Z",
+                    "channelId": "UCtG0CmMqqyBm7jmZ6XGEzGw",
+                    "title": "E voce di u cumune - Topic",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-8YthTr00c70/AAAAAAAAAAI/AAAAAAAAAAA/z55-br3cw0k/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-8YthTr00c70/AAAAAAAAAAI/AAAAAAAAAAA/z55-br3cw0k/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-8YthTr00c70/AAAAAAAAAAI/AAAAAAAAAAA/z55-br3cw0k/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                        }
+                    },
+                    "channelTitle": "E voce di u cumune - Topic",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Chanson ": [
@@ -11403,7 +13677,41 @@
             "artist": "Various",
             "song": "Caf\u00e9 de Paris - 18 Accordion Classics From the Boulevards of Paris",
             "year": "(1930-1941)",
-            "url": "https://www.youtube.com/results?search_query=Various-Caf%C3%A9%20de%20Paris%20-%2018%20Accordion%20Classics%20From%20the%20Boulevards%20of%20Paris"
+            "url": "https://www.youtube.com/results?search_query=Various-Caf%C3%A9%20de%20Paris%20-%2018%20Accordion%20Classics%20From%20the%20Boulevards%20of%20Paris",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pjhCNmpflvUlcGAFdq6diuRJfBQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WJFChzLkICM"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-19T11:00:06.000Z",
+                    "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                    "title": "Caf\u00e9 de Paris - Classic French Songs",
+                    "description": "Subscribe to our channel: http://bit.ly/YouTubeHalidonMusic Listen to our French Music playlist on Spotify: http://spoti.fi/2nzwGjN Like us on Facebook: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WJFChzLkICM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WJFChzLkICM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WJFChzLkICM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "HALIDONMUSIC",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Italian Folk ": [
@@ -11413,7 +13721,41 @@
             "artist": "Various",
             "song": "The Rough Guide to the Music of Italy",
             "year": "(2000)",
-            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20Italy"
+            "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20Italy",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/_8XIZQoHGkx4A7zBBV6wFABsDDk\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL3Xocf6KUuMmsXcH7ODEpvv3jDU5i1ue_"
+                },
+                "snippet": {
+                    "publishedAt": "2015-05-22T08:31:37.000Z",
+                    "channelId": "UCBQ3KlCyvts6zlg-neLeIfw",
+                    "title": "The Alps, the Rough Guide",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/O6SfYvroeow/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Camila Tisi",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Canzone napoletana ": [
@@ -11423,7 +13765,41 @@
             "artist": "Roberto Murolo",
             "song": "Napoletana - Volume 1",
             "year": "(1200-1894)",
-            "url": "https://www.youtube.com/results?search_query=Roberto%20Murolo-Napoletana%20-%20Volume%201"
+            "url": "https://www.youtube.com/results?search_query=Roberto%20Murolo-Napoletana%20-%20Volume%201",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Ks96ni59zbf-yJkm6YVWM73WzrA\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Rqi3QTW5bvc"
+                },
+                "snippet": {
+                    "publishedAt": "2015-12-12T01:00:00.000Z",
+                    "channelId": "UCZ4Km4regjOVdn3ku5sjRlg",
+                    "title": "Best Classics - Roberto Murolo - Antologia della canzone partenopea napoletana Vol. 4",
+                    "description": "Subscribe Now: bit.ly/DepajaTheBestClassics Best Classics - Roberto Murolo - Antologia della canzone partenopea napoletana Vol. 4 1. Semplicit\u00e0 2.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Rqi3QTW5bvc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Rqi3QTW5bvc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Rqi3QTW5bvc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "The 45 Best Classics",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Cantu a tenore ": [
@@ -11433,7 +13809,41 @@
             "artist": "Ernst Reijseger & Tenore e Cuncordu de Orosei",
             "song": "Colla Voche",
             "year": "(1999)",
-            "url": "https://www.youtube.com/results?search_query=Ernst%20Reijseger%20%26amp%3B%20Tenore%20e%20Cuncordu%20de%20Orosei-Colla%20Voche"
+            "url": "https://www.youtube.com/results?search_query=Ernst%20Reijseger%20%26amp%3B%20Tenore%20e%20Cuncordu%20de%20Orosei-Colla%20Voche",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/h4ehd-JNK_9W0uF2eL4rurB4ZZY\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "3koR3T4eEVc"
+                },
+                "snippet": {
+                    "publishedAt": "2019-07-16T16:01:54.000Z",
+                    "channelId": "UCX7Yd8IcW3z14tnV6GMTqBQ",
+                    "title": "Ernst Reijseger &amp; Tenore E Cuncordu De Orosei - Una Rosa (Voche E&#39; Notte Antica)",
+                    "description": "Colla Voche : https://www.discogs.com/fr/Ernst-Reijseger-Tenore-E-Cuncordu-De-Orosei-Colla-Voche/release/1865099.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3koR3T4eEVc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3koR3T4eEVc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3koR3T4eEVc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Monkey D. Sound",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Basque Folk ": [
@@ -11443,7 +13853,41 @@
             "artist": "Benito Lertxundi",
             "song": "Chants du peuple basque",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Benito%20Lertxundi-Chants%20du%20peuple%20basque"
+            "url": "https://www.youtube.com/results?search_query=Benito%20Lertxundi-Chants%20du%20peuple%20basque",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/6J7c9qsAQc0FIh5zPOaXym2Wz-Q\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "zPk7nPB0iVY"
+                },
+                "snippet": {
+                    "publishedAt": "2011-08-31T20:31:11.000Z",
+                    "channelId": "UCbjfrAuXEbbveLuPuNHZ-jg",
+                    "title": "Herribera - Benito Lertxundi",
+                    "description": "Herribera : Chant Basque arrang\u00e9 par Benito Lertxundi qui vante la beaut\u00e9 du pays au sud de Pampelune. Concert \u00e0 l'\u00e9glise de Sare.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zPk7nPB0iVY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zPk7nPB0iVY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zPk7nPB0iVY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Mendixola",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "G\u0127ana ": [
@@ -11453,7 +13897,41 @@
             "artist": "Various",
             "song": "Malta's Lost Voices - Recordings of Maltese Music From the Early 1930s",
             "year": "(2010)",
-            "url": "https://www.youtube.com/results?search_query=Various-Malta%26%23x27%3Bs%20Lost%20Voices%20-%20Recordings%20of%20Maltese%20Music%20From%20the%20Early%201930s"
+            "url": "https://www.youtube.com/results?search_query=Various-Malta%26%23x27%3Bs%20Lost%20Voices%20-%20Recordings%20of%20Maltese%20Music%20From%20the%20Early%201930s",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jWriJNRUr1ZxOV1_TIINaTmsvgQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WVZcLA5OiUU"
+                },
+                "snippet": {
+                    "publishedAt": "2013-03-21T18:36:35.000Z",
+                    "channelId": "UCf_tB7TKrVVzs1lSn_X8dMw",
+                    "title": "Malta&#39;s Lost Voices- Valletta, 1933.",
+                    "description": "Valletta, 1933 - The context for the music from compilation 'Malta's Lost voices'. the story of music and musicians who made history in making the first records of ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WVZcLA5OiUU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WVZcLA5OiUU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WVZcLA5OiUU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Andrew Alamango",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mexican Folk ": [
@@ -11463,7 +13941,41 @@
             "artist": "Various",
             "song": "Mexico - Fiestas of Chiapas and Oaxaca",
             "year": "(1976)",
-            "url": "https://www.youtube.com/results?search_query=Various-Mexico%20-%20Fiestas%20of%20Chiapas%20and%20Oaxaca"
+            "url": "https://www.youtube.com/results?search_query=Various-Mexico%20-%20Fiestas%20of%20Chiapas%20and%20Oaxaca",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/EZb3oML18KQXi_acJahWC_stnNQ\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "E_35zR1_5Sk"
+                },
+                "snippet": {
+                    "publishedAt": "2014-11-27T10:33:26.000Z",
+                    "channelId": "UC2dGggAcm18hLegRovZt1_Q",
+                    "title": "Fiestas of Chiapas &amp; Oaxaca 1976 Disco completo",
+                    "description": "00:00 01 Son Sventa N'Ahual San Lorenzo (Lol Gomez/Mariano Santis Hern\u00e1ndez/Xun Perez) 02:36 02 El Chinito (Marimba Conjunto Espija de Oro) 05:12 03 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/E_35zR1_5Sk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/E_35zR1_5Sk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/E_35zR1_5Sk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "lucas140267necio",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Canto cardenche ": [
@@ -11473,7 +13985,41 @@
             "artist": "Various",
             "song": "Tradiciones musicales de La Laguna - La canci\u00f3n cardenche",
             "year": "(2002)",
-            "url": "https://www.youtube.com/results?search_query=Various-Tradiciones%20musicales%20de%20La%20Laguna%20-%20La%20canci%C3%B3n%20cardenche"
+            "url": "https://www.youtube.com/results?search_query=Various-Tradiciones%20musicales%20de%20La%20Laguna%20-%20La%20canci%C3%B3n%20cardenche",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/M5DGDxytdld1syGe2rBQgcMuPfw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "lVgq9guCRG4"
+                },
+                "snippet": {
+                    "publishedAt": "2011-05-21T02:00:33.000Z",
+                    "channelId": "UCmKrKw2BSrhZPoSz2W7v_ZA",
+                    "title": "Canto cardenche - No s\u00e9 por qu\u00e9",
+                    "description": "No s\u00e9 por qu\u00e9 a esa mujer la adoro no s\u00e9 por qu\u00e9 yo la adoro con delirio De que la miro se calma mi martirio se calma el fuego y tambi\u00e9n el frenes\u00ed Todos los ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lVgq9guCRG4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lVgq9guCRG4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lVgq9guCRG4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "donbarroco",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Ranchera ": [
@@ -11483,7 +14029,41 @@
             "artist": "Los Centauros and Dora Maria",
             "song": "Mexican Rancheras",
             "year": "(1957)",
-            "url": "https://www.youtube.com/results?search_query=Los%20Centauros%20and%20Dora%20Maria-Mexican%20Rancheras"
+            "url": "https://www.youtube.com/results?search_query=Los%20Centauros%20and%20Dora%20Maria-Mexican%20Rancheras",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/88BnCf0a3qo5G9tQ8lwQo7CrOaw\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Y9qAnNoFxdg"
+                },
+                "snippet": {
+                    "publishedAt": "2013-10-30T19:31:21.000Z",
+                    "channelId": "UCmO_07mvXue17SnQyCVJtpw",
+                    "title": "Los Centauros Dora Maria Rancheras",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "vinyhilist",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Son Jarocho ": [
@@ -11493,7 +14073,41 @@
             "artist": "Tr\u00edo Aguilillas",
             "song": "Sones of Mexico",
             "year": "(1950)",
-            "url": "https://www.youtube.com/results?search_query=Tr%C3%ADo%20Aguilillas-Sones%20of%20Mexico"
+            "url": "https://www.youtube.com/results?search_query=Tr%C3%ADo%20Aguilillas-Sones%20of%20Mexico",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tQeljMRGPN5umX0MOw4uUvXnhyA\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PLNFKCpPexmMt1nFeeq4AWSwywYjc4YtB2"
+                },
+                "snippet": {
+                    "publishedAt": "2018-08-16T22:00:21.000Z",
+                    "channelId": "UCQvlidtgsy-KOq5ayCkIKTQ",
+                    "title": "sones of mexico 1950",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "MajorPrince",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Corrido ": [
@@ -11503,7 +14117,41 @@
             "artist": "Various",
             "song": "Mexican Corridos",
             "year": "(1956)",
-            "url": "https://www.youtube.com/results?search_query=Various-Mexican%20Corridos"
+            "url": "https://www.youtube.com/results?search_query=Various-Mexican%20Corridos",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/XPGxMHsEKjQ63ogCrZU-kFOyJx8\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "seOZFWOa_vE"
+                },
+                "snippet": {
+                    "publishedAt": "2019-02-02T18:54:16.000Z",
+                    "channelId": "UCZBNhxOFuDFBwSkWJ2lB1rQ",
+                    "title": "CORRIDOS PESADOS 2019",
+                    "description": "CORRIDOS PESADOS 2019 UN MIX 2019 DE LAS MEJORES CORRIDOS EN VIDEO MIX HD PARA BAILAR CANTAR Y DIVERTIRTE SUCRIBETE YDALE ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/seOZFWOa_vE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/seOZFWOa_vE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/seOZFWOa_vE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Eldjsantarosa primo",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mexican ": [
@@ -11513,7 +14161,41 @@
             "artist": "Various",
             "song": "Putumayo Presents Mexico",
             "year": "(2001)",
-            "url": "https://www.youtube.com/results?search_query=Various-Putumayo%20Presents%20Mexico"
+            "url": "https://www.youtube.com/results?search_query=Various-Putumayo%20Presents%20Mexico",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/VFGDXd8x6MetEnFKri7-UzLH6SQ\"",
+                "id": {
+                    "kind": "youtube#playlist",
+                    "playlistId": "PL0C17D356039BA792"
+                },
+                "snippet": {
+                    "publishedAt": "2011-09-23T04:41:01.000Z",
+                    "channelId": "UCzrQeb1_8o8nYkR1qjkk7Hg",
+                    "title": "PUTUMAYO-M\u00c9XICO",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ocABeFdKUds/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ocABeFdKUds/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ocABeFdKUds/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "LUIS MANUEL D\u00cdAZ RODR\u00cdGUEZ",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Bandas de viento de M\u00e9xico ": [
@@ -11523,7 +14205,41 @@
             "artist": "Various",
             "song": "La Banda Mixe de Oaxaca, La Tradici\u00f3n musical de un pueblo en la ciudad de Mexico",
             "year": "(2003)",
-            "url": "https://www.youtube.com/results?search_query=Various-La%20Banda%20Mixe%20de%20Oaxaca%2C%20La%20Tradici%C3%B3n%20musical%20de%20un%20pueblo%20en%20la%20ciudad%20de%20Mexico"
+            "url": "https://www.youtube.com/results?search_query=Various-La%20Banda%20Mixe%20de%20Oaxaca%2C%20La%20Tradici%C3%B3n%20musical%20de%20un%20pueblo%20en%20la%20ciudad%20de%20Mexico",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/FH2mTugpYzR_3WppKlsWtfVkIYU\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "lWYqNm4iuyc"
+                },
+                "snippet": {
+                    "publishedAt": "2010-12-26T07:57:00.000Z",
+                    "channelId": "UC2kNU-WyTHI0j2b0ufUtjIw",
+                    "title": "OAXACA OAXACA MEXICO 2010. banda mixe de oaxaca BY DJ FLAKS",
+                    "description": "ESTO ES UNA PROBADITA DE LO QUE ES OAXACA , ESPERO SEA DE SU COMPLETO AGRADO. TIERRA DE COSTUMBRES Y TRADICIONES( jarabe del ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lWYqNm4iuyc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lWYqNm4iuyc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lWYqNm4iuyc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "elcadaver007",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Mariachi ": [
@@ -11533,7 +14249,41 @@
             "artist": "Various",
             "song": "Mariachi Music of Mexico",
             "year": "(1954)",
-            "url": "https://www.youtube.com/results?search_query=Various-Mariachi%20Music%20of%20Mexico"
+            "url": "https://www.youtube.com/results?search_query=Various-Mariachi%20Music%20of%20Mexico",
+            "youtube": {
+                "kind": "youtube#searchResult",
+                "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/y6U9qWZWEBwgsqxFJIQY03mFSMc\"",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "klVe7_2UEQ8"
+                },
+                "snippet": {
+                    "publishedAt": "2011-03-16T19:17:26.000Z",
+                    "channelId": "UCqmtsUdX3Dfj7kbcArfJCBw",
+                    "title": "Best Mariachi Music",
+                    "description": "Mariachi is a genre of music that originated in the State of Jalisco, in Western Mexico. It is an integration of stringed instruments highly influenced by the cultural ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/klVe7_2UEQ8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/klVe7_2UEQ8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/klVe7_2UEQ8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Mihai Constantin Alexandru",
+                    "liveBroadcastContent": "none"
+                }
+            },
+            "enriched": true
         }
     ],
     "Tejano ": [
