@@ -15,15 +15,7 @@ function App() {
   return (
     <div className="App container">
       <div style={{marginBottom: "30px"}}><Iframe {...state.currentSong} ></Iframe></div>
-    
-      <div className="container" style={{
-        "height":"600px",
-        "width":"100%",
-        "overflowY":"scroll",
-        "overflowX":"hidden"
-        }}>
-        <SongWrapper onSongClick={onSongClick} />
-      </div>
+      <SongWrapper onSongClick={onSongClick} />
     </div>
   );
 }
