@@ -1,6 +1,8 @@
 import React from 'react';
 import IframeSubstitute from "./IframeSubstitute";
 
+const height = "220px";
+let iframe
 export default function ({url, youtube, title}) {
     let source;
     if(youtube && youtube.id && youtube.id.kind) {
@@ -15,18 +17,21 @@ export default function ({url, youtube, title}) {
           break;
       }
     }
-    console.log(source)
     if(!source) {
-      console.log("have this")
-      return (<IframeSubstitute url={url}/>)
+      iframe = (<IframeSubstitute  url={url}/>)
+    } else {
+      iframe = (<iframe 
+          title={title}
+          height={height}
+          src={source}
+          frameBorder="0" 
+          allow="autoplay; encrypted-media; picture-in-picture" 
+          allowFullScreen>
+      </iframe>)
     }
-    return (<iframe 
-        title={title}
-        width="100%" 
-        height="150px" 
-        src={source}
-        frameborder="0" 
-        allow="autoplay; encrypted-media; picture-in-picture" 
-        allowfullscreen>
-    </iframe>)
+
+    return (
+      <div style={{width:"100%", height: height,backgroundColor: "#111"}}>
+        {iframe}
+    </div>)
 }

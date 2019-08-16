@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Divider, Icon } from 'semantic-ui-react'
 
-export default function (props) {
+const Song = props => {
     const isEnriched = props.enriched && props.youtube
     const title = isEnriched ? props.youtube.snippet.title : `${props.artist} - ${props.song}`
     
@@ -22,7 +22,7 @@ export default function (props) {
                     </Card.Description>
                 </Card.Content>
         </Card>
-
-          
     );
 }
+
+export default Song;

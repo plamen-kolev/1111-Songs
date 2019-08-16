@@ -7,8 +7,7 @@ const openInNewTab = (url) => {
 }
 
 export default function ({url}) {
-    return (<div width="100%" height="150px" style={{ backgroundColor: '#333', height: '150px', width: '100%'}}>
-        
+    return (<div height="150px">
         { url && <Button onClick={() => openInNewTab(url)} style={{marginTop: "26px"}} variant="contained">
             <h2>Open Youtube</h2>
         </Button>}
