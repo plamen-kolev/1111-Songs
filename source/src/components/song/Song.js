@@ -6,21 +6,20 @@ class Song extends React.Component {
         super(props);
         this.isEnriched = props.enriched && props.youtube
         this.title = this.isEnriched ? props.youtube.snippet.title : `${props.artist} - ${props.song}`
-        
     }
-    
+
     render() {
         return (
-            <Card style={{minHeight: '260px'}} onClick={() => this.props.click(this.props)}>
+            <Card className="song-card" onClick={() => this.props.click(this.props)}>
                 <Card.Content>
-                    <Card.Description style={{minHeight: '140px', fontSize: '1.5em'}}>
+                    <Card.Description className="song-card-title">
                         {this.title}
                     </Card.Description>
                 </Card.Content>
                 <Divider horizontal />
                 <Card.Content>
                     
-                    <Card.Description style={{"fontSize": "1.2em"}}>
+                    <Card.Description className="song-card-meta">
                         {this.isEnriched && <Icon name="sound"/>}
                         {this.props.genre}
                     </Card.Description>

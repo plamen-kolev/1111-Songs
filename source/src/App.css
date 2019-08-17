@@ -23,6 +23,27 @@
   color: #61dafb;
 }
 
+.song-card {
+  min-height: 260px
+}
+
+.song-card-title {
+  min-height: 140px;
+  font-size: 1.5em;
+}
+
+.song-card-meta {
+  font-size: 1.2em;
+}
+
+.iframe-music-player{
+  height: 150px;
+}
+
+.iframe-music-player-button{
+  margin-top: 26px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

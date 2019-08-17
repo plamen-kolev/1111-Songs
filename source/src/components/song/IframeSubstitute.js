@@ -7,12 +7,12 @@ const openInNewTab = (url) => {
 }
 
 export default function ({url}) {
-    return (<div height="150px">
-        { url && <Button onClick={() => openInNewTab(url)} style={{marginTop: "26px"}} variant="contained">
+    return (<div className="iframe-music-player">
+        { url && <Button className="iframe-music-player-button" onClick={() => openInNewTab(url)} variant="contained">
             <h2>Open Youtube</h2>
         </Button>}
 
-        {! url && <Button disabled style={{marginTop: "26px"}} variant="contained">
+        {! url && <Button className="iframe-music-player-button" disabled variant="contained">
             <h2>Click a song</h2>
         </Button>}
         
