@@ -1,13 +1,8 @@
 import React from 'react';
 import { Card, Divider, Icon } from 'semantic-ui-react'
-import { tsPropertySignature } from '@babel/types';
 import { YoutubeInterface } from '../../utils'
-
-export type IframeProps = {
-    url: string,
-    title: string,
-    youtube: YoutubeInterface
-}
+import { IframeProps } from './Iframe';
+import { isModuleDeclaration, isModuleSpecifier } from '@babel/types';
 
 type SongProps = {
     enriched: boolean,
@@ -19,7 +14,7 @@ type SongProps = {
     click(iframeData: IframeProps): void
 }
 
-const Song = ({enriched, youtube, artist, song, click, genre, url}: SongProps) => {
+export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongProps) => {
     const isEnriched = enriched && youtube
     const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`
     
@@ -45,4 +40,3 @@ const Song = ({enriched, youtube, artist, song, click, genre, url}: SongProps) =
         </Card>
     );
 }
-export default Song;

@@ -3,9 +3,9 @@ import * as data from '../../data.json';
 import { getAllSongs } from '../../utils';
 import { Grid } from 'semantic-ui-react'
 import { SongLoading } from './SongLoading'
-import Song from './Song';
+import { Song } from './Song';
 import LazyLoad from 'react-lazyload';
-import { IframeProps } from './Song';
+import { IframeProps } from 'components/song/Iframe';
 import { JsonSong } from '../../utils'
 const songs: JsonSong[] = getAllSongs(data);
 

@@ -1,10 +1,17 @@
 import React from 'react';
 import IframeSubstitute from "./IframeSubstitute";
+import { YoutubeInterface } from '../../utils'
 
 const height = "220px";
 let iframe
 
-export default function ({url, youtube, title}) {
+export type IframeProps = {
+  url: string,
+  title: string,
+  youtube: YoutubeInterface
+}
+
+export default function ({url, youtube, title}: IframeProps) {
     let source;
     if(youtube && youtube.id && youtube.id.kind) {
       switch(youtube.id.kind) {

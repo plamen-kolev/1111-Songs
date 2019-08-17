@@ -1,5 +1,12 @@
+type YoutubeId = {
+  kind: string,
+  playlistId?: string,
+  videoId?: string
+}
+
 export type YoutubeInterface = {
-  snippet: any
+  snippet: any,
+  id: YoutubeId
 }
 
 export type JsonSong = {
