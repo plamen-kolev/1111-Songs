@@ -7,9 +7,9 @@ import Song from './Song';
 import LazyLoad from 'react-lazyload';
 
 const songs = getAllSongs(data);
-console.log(songs.length);
+
 export const SongWrapper = props => {
-    
+    console.log("Unholy rerendering");
     return (
         <Grid grid className="overflow">
             {songs.map(song => (
