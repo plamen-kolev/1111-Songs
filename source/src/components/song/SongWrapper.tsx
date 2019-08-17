@@ -13,8 +13,11 @@ type SongWrapperProps = {
     onSongClick(iframeData: IframeProps): void
 }
 
-export const SongWrapper = (props: SongWrapperProps) => {
-    console.log("Unholy rerendering");
+function areEqual(prevProps: SongWrapperProps, nextProps:SongWrapperProps) {
+    return true;
+}
+
+export const SongWrapper = React.memo((props: SongWrapperProps) => {
     return (
         <Grid grid className="overflow">
             {songs.map(song => (
@@ -26,4 +29,4 @@ export const SongWrapper = (props: SongWrapperProps) => {
             ))}
         </Grid>
     )
-}
+}, areEqual);

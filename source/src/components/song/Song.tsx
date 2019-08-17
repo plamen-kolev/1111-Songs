@@ -2,9 +2,8 @@ import React from 'react';
 import { Card, Divider, Icon } from 'semantic-ui-react'
 import { YoutubeInterface } from '../../utils'
 import { IframeProps } from './Iframe';
-import { isModuleDeclaration, isModuleSpecifier } from '@babel/types';
 
-type SongProps = {
+export type SongProps = {
     enriched: boolean,
     youtube: YoutubeInterface,
     artist: string,
