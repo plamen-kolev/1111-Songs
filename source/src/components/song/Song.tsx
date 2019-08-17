@@ -1,20 +1,17 @@
 import React from 'react';
 import { Card, Divider, Icon } from 'semantic-ui-react'
 import { tsPropertySignature } from '@babel/types';
+import { YoutubeInterface } from '../../utils'
 
-type YoutubeProps = {
-    snippet: any
-}
-
-type IframeProps = {
+export type IframeProps = {
     url: string,
     title: string,
-    youtube: YoutubeProps
+    youtube: YoutubeInterface
 }
 
 type SongProps = {
     enriched: boolean,
-    youtube: YoutubeProps,
+    youtube: YoutubeInterface,
     artist: string,
     song: string,
     url: string,

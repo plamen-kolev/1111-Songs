@@ -3,6 +3,7 @@ import IframeSubstitute from "./IframeSubstitute";
 
 const height = "220px";
 let iframe
+
 export default function ({url, youtube, title}) {
     let source;
     if(youtube && youtube.id && youtube.id.kind) {
