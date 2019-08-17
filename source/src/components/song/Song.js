@@ -10,11 +10,10 @@ class Song extends React.Component {
     }
     
     render() {
-        console.log()
         return (
-            <Card onClick={() => this.props.click(this.props)}>
+            <Card style={{minHeight: '260px'}} onClick={() => this.props.click(this.props)}>
                 <Card.Content>
-                    <Card.Description style={{minHeight: '110px', fontSize: '1.5em'}}>
+                    <Card.Description style={{minHeight: '140px', fontSize: '1.5em'}}>
                         {this.title}
                     </Card.Description>
                 </Card.Content>

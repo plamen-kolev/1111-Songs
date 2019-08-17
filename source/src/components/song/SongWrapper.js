@@ -7,14 +7,14 @@ import Song from './Song';
 import LazyLoad from 'react-lazyload';
 
 const songs = getAllSongs(data);
-
+console.log(songs.length);
 export const SongWrapper = props => {
     
     return (
-        <Grid grid container>
+        <Grid grid className="overflow">
             {songs.map(song => (
                 <Grid.Column key={song.url} mobile={6} tablet={3} computer={3}>
-                    <LazyLoad throttle={100} height={1000} placeholder={<SongLoading />} >
+                    <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading padded/>} >
                         <Song padded click={props.onSongClick} {...song}/>
                     </LazyLoad>
                 </Grid.Column>
