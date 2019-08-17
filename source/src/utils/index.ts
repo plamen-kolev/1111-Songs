@@ -24,7 +24,7 @@ type JsonBlob = {
 } 
 
 export const getAllSongs = (data: any) => {
-    const json: JsonBlob = data.default
+    const json: JsonBlob = data.default.entries
     let songs: JsonSong[] = [];
     
     const genres: string[] = Object.keys(json);
