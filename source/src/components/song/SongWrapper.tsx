@@ -7,6 +7,7 @@ import { Song } from './Song';
 import LazyLoad from 'react-lazyload';
 import { IframeProps } from 'components/song/Iframe';
 import { JsonSong } from '../../utils'
+
 const songs: JsonSong[] = getAllSongs(data);
 
 type SongWrapperProps = {
