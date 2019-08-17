@@ -1,5 +1,5 @@
 import React from 'react';
-import IframeSubstitute from "./IframeSubstitute";
+import { IframeSubstitute } from "./IframeSubstitute";
 import { YoutubeInterface } from '../../utils'
 
 const height = "220px";
@@ -11,7 +11,7 @@ export type IframeProps = {
   youtube: YoutubeInterface
 }
 
-export default function ({url, youtube, title}: IframeProps) {
+export const Iframe = ({url, youtube, title}: IframeProps) => {
     let source;
     if(youtube && youtube.id && youtube.id.kind) {
       switch(youtube.id.kind) {
@@ -26,7 +26,7 @@ export default function ({url, youtube, title}: IframeProps) {
       }
     }
     if(!source) {
-      iframe = (<IframeSubstitute  url={url}/>)
+      iframe = (<IframeSubstitute url={url}/>)
     } else {
       iframe = (<iframe 
           title={title}

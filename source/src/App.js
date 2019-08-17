@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import Iframe from './components/song/Iframe';
+import { Iframe } from './components/song/Iframe';
 import { SongWrapper } from './components/song/SongWrapper';
 
 function App() {
