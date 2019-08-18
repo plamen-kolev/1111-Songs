@@ -8,10 +8,14 @@ developerKey = ""
 api_service_name = "youtube"
 api_version = "v3"
 
-with open('secret.json') as json_data:
-    developerKey = json.load(json_data)['key']
+current_file_path = os.path.dirname(__file__)
+secret_file = os.path.join(current_file_path, "../config/secret.json")
 
-def getYoutubePlayInfo(query):
+
+def get_youtube_play_info(query):
+    with open(secret_file) as json_data:
+        developerKey = json.load(json_data)['key']
+
     print("Query: '%s', this is expensive" % query)
 
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"

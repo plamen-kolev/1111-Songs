@@ -1,6 +1,6 @@
 {
   "name": "source",
-  "homepage": "http://kolev.io/1111-songs/",
+  "homepage": "http://kolev.io/songs/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +20,11 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "cd data_parser && ./venv/bin/python -m unittest discover"
+    }
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -33,9 +38,10 @@
     ]
   },
   "devDependencies": {
+    "@types/react": "^16.9.2",
     "copy-webpack-plugin": "^5.0.4",
-    "webpack-manifest": "^1.0.8",
+    "husky": "^3.0.4",
     "typescript": "^3.5.3",
-    "@types/react": "^16.9.2"
+    "webpack-manifest": "^1.0.8"
   }
 }
