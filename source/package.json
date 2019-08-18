@@ -22,7 +22,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "python -m unittest discover -s .\\data_parser\\test"
+      "pre-commit": "cd data_parser && python -m unittest discover"
     }
   },
   "browserslist": {

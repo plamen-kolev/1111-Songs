@@ -8,6 +8,7 @@ from src.youtube.songEnricher import enrich_song
 
 mock_youtube_response_path = os.path.join(os.path.dirname(__file__), "../../data/youtubeResponse.json")
 mock_youtube_json = {}
+
 with open(mock_youtube_response_path) as json_data:
     mock_youtube_json = json.load(json_data)
 
