@@ -46,10 +46,10 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
     };
     render() {
         return (
-            <Grid grid className="overflow">
+            <Grid centered grid className="overflow song-card-container">
             {this.state.songs.map((song: JsonSong) => (
                 <Grid.Column key={song.url} mobile={6} tablet={3} computer={3}>
-                    <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
+                    <LazyLoad overflow once={true} throttle={500} height={1000} placeholder={<SongLoading/>} >
                         <Song click={this.props.onSongClick} {...song}/>
                     </LazyLoad>
                 </Grid.Column>

@@ -5,7 +5,7 @@ export const SongLoading = () => {
     return (
         <Card style={{minHeight: '260px'}}>
             <Card.Content>
-                <Card.Description style={{minHeight: '140px', fontSize: '1.5em'}}>
+                <Card.Description className="song-card-title">
                 <Dimmer active inverted>
                     <Loader inverted>Loading</Loader>
                 </Dimmer>
@@ -14,7 +14,7 @@ export const SongLoading = () => {
             <Divider horizontal />
             <Card.Content>
                 
-                <Card.Description style={{"fontSize": "1.2em"}}>
+                <Card.Description className="song-card-meta">
                     ...
                 </Card.Description>
             </Card.Content>
