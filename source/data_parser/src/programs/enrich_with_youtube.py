@@ -8,7 +8,6 @@ killer = GracefulKiller()
 json_file = '../../data/data.json'
 jsonToEnrich = {}
 with open(json_file) as json_data:
-    print(json_data)
     jsonToEnrich = json.load(json_data)
 
 
@@ -26,12 +25,13 @@ def enrich(song_data):
             json.dump(jsonToEnrich, outfile, indent=4)
 
 
-def main():
-    for key in jsonToEnrich['entries']:
-        for songIndex in range(0, len(jsonToEnrich[key])):
-            song_data = jsonToEnrich['entries'][key][songIndex]
+def main(songsJson):
+    song_entries = songsJson['entries']
+    for key in song_entries:
+        for songIndex in range(0, len(song_entries[key])):
+            song_data = song_entries[key][songIndex]
             enrich(song_data)
 
 
 if __name__ == '__main__':
-    main()
+    main(jsonToEnrich)

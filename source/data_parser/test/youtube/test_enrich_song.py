@@ -62,5 +62,5 @@ class TestEnrichSong(TestCase):
 
         enrich_song(self.song_json)
 
-        self.assertEqual(mock_json_dump.call_count, 1)
-        self.assertEqual(mock_json_dump.call_args[0][0], expected_argument)
+        self.assertEqual(1, mock_json_dump.call_count)
+        self.assertEqual(expected_argument, mock_json_dump.call_args[0][0])
