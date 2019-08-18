@@ -1,8 +1,10 @@
 import json
-
+import os
 
 songsJson = {}
-with open('./data/data.json') as jsonFile:
+json_file = os.path.join(os.path.dirname(__file__), "../../data/data.json")
+
+with open(json_file) as jsonFile:
     songsJson = json.load(jsonFile)
 
 songs = songsJson['entries']
@@ -14,5 +16,5 @@ for key in songs:
             enriched += 1
 
 songsJson['enriched'] = enriched
-with open('data/data.json', 'w') as outfile:
+with open(json_file, 'w') as outfile:
     json.dump(songsJson, outfile, indent=4)
