@@ -7,13 +7,13 @@ json_file = os.path.join(os.path.dirname(__file__), "../../data/data.json")
 with open(json_file) as jsonFile:
     songsJson = json.load(jsonFile)
 
-mapping = {}
+mapping = []
 for i in songsJson['entries']:
     data = songsJson['entries'][i]
     filename = i.replace(" ", "_")
     filename = filename.strip()
 
-    mapping.update({i: filename})
+    mapping.append(filename)
     with open(os.path.join(os.path.dirname(__file__), "../../data/categories/%s.json" % filename), "w") as jsonFile:
         json.dump(data, jsonFile, indent=4)
 
