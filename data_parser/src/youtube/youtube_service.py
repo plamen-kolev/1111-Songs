@@ -7,13 +7,15 @@ import googleapiclient.errors
 developerKey = ""
 api_service_name = "youtube"
 api_version = "v3"
-secret_file = "../config/secret.json"
+
+current_file_path = os.path.dirname(__file__)
+secret_file = os.path.join(current_file_path, "../config/secret.json")
 
 with open(secret_file) as json_data:
     developerKey = json.load(json_data)['key']
 
 
-def getYoutubePlayInfo(query):
+def get_youtube_play_info(query):
     print("Query: '%s', this is expensive" % query)
 
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"

@@ -25,6 +25,7 @@ def enrich(song_data):
         with open(json_file, 'w') as outfile:
             json.dump(jsonToEnrich, outfile, indent=4)
 
+
 def main():
     for key in jsonToEnrich['entries']:
         for songIndex in range(0, len(jsonToEnrich[key])):

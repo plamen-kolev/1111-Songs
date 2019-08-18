@@ -1,6 +1,6 @@
 import json
 
-from src.youtube.youtubeService import getYoutubePlayInfo
+import src.youtube.youtube_service as youtube_service
 
 
 def write_error_to_file(data):
@@ -12,7 +12,7 @@ def enrich_song(song_json):
     if "enriched" not in song_json:
         print("enriching %s" % song_json.get('song'))
         search_term = "%s %s" % (song_json.get('song'), song_json.get('artist'))
-        data_from_youtube = getYoutubePlayInfo(search_term)
+        data_from_youtube = youtube_service.get_youtube_play_info(search_term)
         if not data_from_youtube:
             with open('error.data', 'w') as outfile:
                 json.dump("{\"error\": \"something went wrong for song '%s'\"}" % search_term, outfile, indent=4)
