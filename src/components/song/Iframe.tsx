@@ -2,7 +2,6 @@ import React from 'react';
 import { IframeSubstitute } from "./IframeSubstitute";
 import { YoutubeInterface } from '../../utils'
 
-const height = "220px";
 let iframe
 
 export type IframeProps = {
@@ -30,7 +29,7 @@ export const Iframe = ({url, youtube, title}: IframeProps) => {
     } else {
       iframe = (<iframe 
           title={title}
-          height={height}
+          height={"100%"}
           src={source}
           frameBorder="0" 
           allow="autoplay; encrypted-media; picture-in-picture" 
@@ -39,7 +38,7 @@ export const Iframe = ({url, youtube, title}: IframeProps) => {
     }
 
     return (
-      <div style={{width:"100%", height: height,backgroundColor: "#111"}}>
+      <div>
         {iframe}
     </div>)
 }

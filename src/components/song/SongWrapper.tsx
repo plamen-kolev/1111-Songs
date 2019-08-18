@@ -47,7 +47,6 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
         // chunk, this function will truncate it
         const songsToAppend = songs.splice(0, chunksToLoad);
 
-
         this.setState({
             songs: this.state.songs.concat(songsToAppend)
         })

@@ -14,7 +14,9 @@ function App() {
   }
   return (
     <div className="App container">
-      <div style={{marginBottom: "30px"}}><Iframe {...state.currentSong} ></Iframe></div>
+      <div className="ui centered grid iframe-container">
+        <Iframe {...state.currentSong} />
+      </div>
       <SongWrapper key="songWrapper" onSongClick={onSongClick} />
     </div>
   );
