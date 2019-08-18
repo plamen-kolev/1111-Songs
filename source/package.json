@@ -1,6 +1,6 @@
 {
   "name": "source",
-  "homepage": "http://kolev.io/1111-songs/",
+  "homepage": "http://kolev.io/songs/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

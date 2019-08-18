@@ -2,9 +2,13 @@ import html
 import re
 import urllib.parse
 import json
-from models.SongEntry import SongEntry
+from src.models import SongEntry
 
-file = open("json/data.list", "r", encoding="utf8")
+"""
+This module is used to parse the initial data.list file to provide the initial functionality of the website
+"""
+
+file = open("data/data.list", "r", encoding="utf8")
 
 id_regexp = "^(\d+)\s\|\s(.*)"
 genre_regexp = "^([\w -\]\[]+)\|\s(.*)"
@@ -57,5 +61,5 @@ for line in file:
         jsonData[row.genre] = [entryAsJson]
 
 
-with open('json/data.json', 'w') as outfile:
+with open('data/data.json', 'w') as outfile:
     json.dump(jsonData, outfile, indent=4)

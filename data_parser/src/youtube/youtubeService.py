@@ -7,9 +7,11 @@ import googleapiclient.errors
 developerKey = ""
 api_service_name = "youtube"
 api_version = "v3"
+secret_file = "../config/secret.json"
 
-with open('secret.json') as json_data:
+with open(secret_file) as json_data:
     developerKey = json.load(json_data)['key']
+
 
 def getYoutubePlayInfo(query):
     print("Query: '%s', this is expensive" % query)
