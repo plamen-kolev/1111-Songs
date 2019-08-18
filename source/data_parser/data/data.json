@@ -19148,7 +19148,41 @@
                 "artist": "Various",
                 "song": "Songs and Dances of Quebec",
                 "year": "(1956)",
-                "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Quebec"
+                "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Quebec",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/nJh6sDg9xEoO8_Lt-fhTE6UWANs\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "XgD-3JBGvt4"
+                    },
+                    "snippet": {
+                        "publishedAt": "2015-10-04T17:49:20.000Z",
+                        "channelId": "UCAtrsefUe0mgUvAffK29yyg",
+                        "title": "Traditional Music of Quebec",
+                        "description": "While traveling through the Canadian province of Quebec, I was struck with the sense of cultural tradition the French descendants honored through their ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "aureliofont",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Caribbean Folk ": [
@@ -19158,7 +19192,41 @@
                 "artist": "Various",
                 "song": "Carribean Island Music - Songs and Dances of Haiti, The Dominican Republic and Jamaica",
                 "year": "(1972)",
-                "url": "https://www.youtube.com/results?search_query=Various-Carribean%20Island%20Music%20-%20Songs%20and%20Dances%20of%20Haiti%2C%20The%20Dominican%20Republic%20and%20Jamaica"
+                "url": "https://www.youtube.com/results?search_query=Various-Carribean%20Island%20Music%20-%20Songs%20and%20Dances%20of%20Haiti%2C%20The%20Dominican%20Republic%20and%20Jamaica",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dqqx1ttUamkxfH6DT9OaaBPGzYc\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "BVybOnglW_k"
+                    },
+                    "snippet": {
+                        "publishedAt": "2017-09-08T18:42:33.000Z",
+                        "channelId": "UC-yXuc1__OzjwpsJPlxYUCQ",
+                        "title": "Hood Celebrityy &quot;Island Girls&quot; Feat. Cardi B, Josh X &amp; Young Chow (WSHH Exclusive)",
+                        "description": "Watch the official music video for \"Island Girls\" by Hood Celebrityy Feat. Cardi B, Josh X & Young Chow. Underestimated The Album available now!",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/BVybOnglW_k/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/BVybOnglW_k/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/BVybOnglW_k/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "WORLDSTARHIPHOP",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Fungi ": [
@@ -19168,7 +19236,41 @@
                 "artist": "Elmore Stoutt",
                 "song": "Welcome to the B.V.I.",
                 "year": "(2000)",
-                "url": "https://www.youtube.com/results?search_query=Elmore%20Stoutt-Welcome%20to%20the%20B.V.I."
+                "url": "https://www.youtube.com/results?search_query=Elmore%20Stoutt-Welcome%20to%20the%20B.V.I.",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/10N5sYBayxrfHkpxJ1MfltuLZIE\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "8AqpulCMs2c"
+                    },
+                    "snippet": {
+                        "publishedAt": "2016-09-18T00:55:22.000Z",
+                        "channelId": "UCVSYn_DzJJ6EPLYZpBhqcXQ",
+                        "title": "Welcome to the B.V.I  Part 2",
+                        "description": "Satire, Sarcasm and Shade laced with a whole lot Virgin Islands Pride. Background music: Dwain Frett- Answer. Available on iTunes. Follow me on Facebook: ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/8AqpulCMs2c/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/8AqpulCMs2c/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/8AqpulCMs2c/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "CharisMarieTV",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Punta ": [
@@ -19178,7 +19280,41 @@
                 "artist": "Andy Palacio & The Garifuna Collective",
                 "song": "W\u00e1tina",
                 "year": "(2007)",
-                "url": "https://www.youtube.com/results?search_query=Andy%20Palacio%20%26amp%3B%20The%20Garifuna%20Collective-W%C3%A1tina"
+                "url": "https://www.youtube.com/results?search_query=Andy%20Palacio%20%26amp%3B%20The%20Garifuna%20Collective-W%C3%A1tina",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/E53pDRI_Us5-26I8ZNvJRrNFzRU\"",
+                    "id": {
+                        "kind": "youtube#playlist",
+                        "playlistId": "PLqjtcJkuTsx-fGk42tLeSXO_VqzUBqotZ"
+                    },
+                    "snippet": {
+                        "publishedAt": "2014-04-24T06:32:48.000Z",
+                        "channelId": "UCImEDA4gQJUk7EfdNeptDhw",
+                        "title": "Popular Andy Palacio & The Garifuna Collective & Andy Palacio videos",
+                        "description": "Popular content related to Andy Palacio & The Garifuna Collective & Andy Palacio.",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/UNjSz0152-A/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/UNjSz0152-A/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/UNjSz0152-A/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "The Garifuna Collective - Topic",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Junkanoo ": [
@@ -19188,7 +19324,41 @@
                 "artist": "Junkanoo Band",
                 "song": "Key West",
                 "year": "(1964)",
-                "url": "https://www.youtube.com/results?search_query=Junkanoo%20Band-Key%20West"
+                "url": "https://www.youtube.com/results?search_query=Junkanoo%20Band-Key%20West",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/evpW-alXgB-OrT775UK_o1QB1pw\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "MEDdx8IbOyM"
+                    },
+                    "snippet": {
+                        "publishedAt": "2012-10-21T00:49:17.000Z",
+                        "channelId": "UCWplOt1Tu3B4LuIGUpm9Vvw",
+                        "title": "Key West Junkanoo Band at Goombay Festival, 2012",
+                        "description": "The Key West Junkanoo Band parades down Petronia street during the 2012 Goombay Festival.",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/MEDdx8IbOyM/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/MEDdx8IbOyM/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/MEDdx8IbOyM/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "FloridaStraits",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Goombay ": [
@@ -19198,7 +19368,41 @@
                 "artist": "Various",
                 "song": "Bahamas Goombay",
                 "year": "(1951-1959)",
-                "url": "https://www.youtube.com/results?search_query=Various-Bahamas%20Goombay"
+                "url": "https://www.youtube.com/results?search_query=Various-Bahamas%20Goombay",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/S1dkxRZaptLEjEPuScwDWx9G3vM\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "E5FxzVIEME4"
+                    },
+                    "snippet": {
+                        "publishedAt": "2016-03-12T19:58:34.000Z",
+                        "channelId": "UCMePB5lC-wvTEIuXgtzYyVw",
+                        "title": "Charlie Adamson Sings Goombay! The Folk Songs Of The Bahamas",
+                        "description": "FOR BETTER AND UNINTERRUPTED PLAYBACK PLEASE SWITCH TO *HD 1080p PLAYBACK* *DISCLAIMER* NO COPYRIGHT INFRINGEMENT ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/E5FxzVIEME4/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/E5FxzVIEME4/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/E5FxzVIEME4/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "INVIGORATION",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Calypso ": [
