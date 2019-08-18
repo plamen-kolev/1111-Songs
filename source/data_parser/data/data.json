@@ -18659,7 +18659,8 @@
                 "artist": "Muddy Waters",
                 "song": "His Best",
                 "year": "(1947-1955)",
-                "url": "https://www.youtube.com/results?search_query=Muddy%20Waters-His%20Best"
+                "url": "https://www.youtube.com/results?search_query=Muddy%20Waters-His%20Best",
+                "enriched": true
             }
         ],
         "Electric Texas Blues ": [
@@ -18669,7 +18670,8 @@
                 "artist": "T_Bone Walker",
                 "song": "Blues Masters - The Very Best Of",
                 "year": "(1945-1957)",
-                "url": "https://www.youtube.com/results?search_query=T_Bone%20Walker-Blues%20Masters%20-%20The%20Very%20Best%20Of"
+                "url": "https://www.youtube.com/results?search_query=T_Bone%20Walker-Blues%20Masters%20-%20The%20Very%20Best%20Of",
+                "enriched": true
             }
         ],
         "American Primitivism ": [
@@ -18679,7 +18681,8 @@
                 "artist": "John Fahey",
                 "song": "The Best Of",
                 "year": "(1959-1977)",
-                "url": "https://www.youtube.com/results?search_query=John%20Fahey-The%20Best%20Of"
+                "url": "https://www.youtube.com/results?search_query=John%20Fahey-The%20Best%20Of",
+                "enriched": true
             }
         ],
         "Appalachian Folk ": [
@@ -18689,7 +18692,8 @@
                 "artist": "Various",
                 "song": "Classic Mountain Songs From Smithsonian Folkways",
                 "year": "(NA)",
-                "url": "https://www.youtube.com/results?search_query=Various-Classic%20Mountain%20Songs%20From%20Smithsonian%20Folkways"
+                "url": "https://www.youtube.com/results?search_query=Various-Classic%20Mountain%20Songs%20From%20Smithsonian%20Folkways",
+                "enriched": true
             }
         ],
         "Old_Time ": [
@@ -18699,7 +18703,8 @@
                 "artist": "Various",
                 "song": "Music From the Lost Provinces",
                 "year": "(1927-1931)",
-                "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20Lost%20Provinces"
+                "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20Lost%20Provinces",
+                "enriched": true
             }
         ],
         "Traditional Country ": [
@@ -18709,7 +18714,8 @@
                 "artist": "The Carter Family",
                 "song": "Anchored in Love - Their Complete Victor Recordings",
                 "year": "(1927-1928)",
-                "url": "https://www.youtube.com/results?search_query=The%20Carter%20Family-Anchored%20in%20Love%20-%20Their%20Complete%20Victor%20Recordings"
+                "url": "https://www.youtube.com/results?search_query=The%20Carter%20Family-Anchored%20in%20Love%20-%20Their%20Complete%20Victor%20Recordings",
+                "enriched": true
             }
         ],
         "Cowboy ": [
@@ -18719,7 +18725,8 @@
                 "artist": "Various",
                 "song": "When I Was a Cowboy - Volume 1 - Early American Songs of the West",
                 "year": "(1996)",
-                "url": "https://www.youtube.com/results?search_query=Various-When%20I%20Was%20a%20Cowboy%20-%20Volume%201%20-%20Early%20American%20Songs%20of%20the%20West"
+                "url": "https://www.youtube.com/results?search_query=Various-When%20I%20Was%20a%20Cowboy%20-%20Volume%201%20-%20Early%20American%20Songs%20of%20the%20West",
+                "enriched": true
             }
         ],
         "Close Harmony ": [
@@ -18729,7 +18736,8 @@
                 "artist": "The Louvin Brothers",
                 "song": "When I Stop Dreaming - The Best of The Louvin Brothers",
                 "year": "(1995)",
-                "url": "https://www.youtube.com/results?search_query=The%20Louvin%20Brothers-When%20I%20Stop%20Dreaming%20-%20The%20Best%20of%20The%20Louvin%20Brothers"
+                "url": "https://www.youtube.com/results?search_query=The%20Louvin%20Brothers-When%20I%20Stop%20Dreaming%20-%20The%20Best%20of%20The%20Louvin%20Brothers",
+                "enriched": true
             }
         ],
         "Western Swing ": [
@@ -18739,7 +18747,8 @@
                 "artist": "Various",
                 "song": "Okeh Western Swing",
                 "year": "(1989)",
-                "url": "https://www.youtube.com/results?search_query=Various-Okeh%20Western%20Swing"
+                "url": "https://www.youtube.com/results?search_query=Various-Okeh%20Western%20Swing",
+                "enriched": true
             }
         ],
         "Bluegrass ": [
@@ -18749,7 +18758,8 @@
                 "artist": "Bill Monroe and His Bluegrass Boys",
                 "song": "The Essential Bill Monroe and His Blue Grass Boys",
                 "year": "(1945-1949)",
-                "url": "https://www.youtube.com/results?search_query=Bill%20Monroe%20and%20His%20Bluegrass%20Boys-The%20Essential%20Bill%20Monroe%20and%20His%20Blue%20Grass%20Boys"
+                "url": "https://www.youtube.com/results?search_query=Bill%20Monroe%20and%20His%20Bluegrass%20Boys-The%20Essential%20Bill%20Monroe%20and%20His%20Blue%20Grass%20Boys",
+                "enriched": true
             }
         ],
         "Honky Tonk ": [
@@ -18803,7 +18813,8 @@
                 "artist": "Various",
                 "song": "Columbia Country Classics - Volume 4 - The Nashville Sound",
                 "year": "(1990)",
-                "url": "https://www.youtube.com/results?search_query=Various-Columbia%20Country%20Classics%20-%20Volume%204%20-%20The%20Nashville%20Sound"
+                "url": "https://www.youtube.com/results?search_query=Various-Columbia%20Country%20Classics%20-%20Volume%204%20-%20The%20Nashville%20Sound",
+                "enriched": true
             }
         ],
         "Outlaw Country ": [
@@ -18813,7 +18824,8 @@
                 "artist": "Waylon",
                 "song": "Greatest Hits",
                 "year": "(1979)",
-                "url": "https://www.youtube.com/results?search_query=Waylon-Greatest%20Hits"
+                "url": "https://www.youtube.com/results?search_query=Waylon-Greatest%20Hits",
+                "enriched": true
             }
         ],
         "Contemporary Folk ": [
@@ -18823,7 +18835,8 @@
                 "artist": "Woody Guthrie",
                 "song": "Dust Bowl Ballads",
                 "year": "(1940)",
-                "url": "https://www.youtube.com/results?search_query=Woody%20Guthrie-Dust%20Bowl%20Ballads"
+                "url": "https://www.youtube.com/results?search_query=Woody%20Guthrie-Dust%20Bowl%20Ballads",
+                "enriched": true
             },
             {
                 "unique_id": 451,
@@ -18831,7 +18844,8 @@
                 "artist": "Leonard Cohen",
                 "song": "Songs of Leonard Cohen",
                 "year": "(1967)",
-                "url": "https://www.youtube.com/results?search_query=Leonard%20Cohen-Songs%20of%20Leonard%20Cohen"
+                "url": "https://www.youtube.com/results?search_query=Leonard%20Cohen-Songs%20of%20Leonard%20Cohen",
+                "enriched": true
             },
             {
                 "unique_id": 452,
@@ -18839,7 +18853,8 @@
                 "artist": "Nick Drake",
                 "song": "Pink Moon",
                 "year": "(1972)",
-                "url": "https://www.youtube.com/results?search_query=Nick%20Drake-Pink%20Moon"
+                "url": "https://www.youtube.com/results?search_query=Nick%20Drake-Pink%20Moon",
+                "enriched": true
             }
         ],
         "Chamber Folk ": [
@@ -18849,7 +18864,8 @@
                 "artist": "Nico",
                 "song": "Chelsea Girl",
                 "year": "(1967)",
-                "url": "https://www.youtube.com/results?search_query=Nico-Chelsea%20Girl"
+                "url": "https://www.youtube.com/results?search_query=Nico-Chelsea%20Girl",
+                "enriched": true
             }
         ],
         "Folk Baroque ": [
@@ -18859,7 +18875,8 @@
                 "artist": "Bert Jansch",
                 "song": "Bert Jansch",
                 "year": "(1965)",
-                "url": "https://www.youtube.com/results?search_query=Bert%20Jansch-Bert%20Jansch"
+                "url": "https://www.youtube.com/results?search_query=Bert%20Jansch-Bert%20Jansch",
+                "enriched": true
             }
         ],
         "Avant_Folk ": [
@@ -18869,7 +18886,8 @@
                 "artist": "Catherine Ribeiro + 2 Bis",
                 "song": "Catherine Ribeiro + 2 Bis",
                 "year": "(1969)",
-                "url": "https://www.youtube.com/results?search_query=Catherine%20Ribeiro%20%2B%202%20Bis-Catherine%20Ribeiro%20%2B%202%20Bis"
+                "url": "https://www.youtube.com/results?search_query=Catherine%20Ribeiro%20%2B%202%20Bis-Catherine%20Ribeiro%20%2B%202%20Bis",
+                "enriched": true
             }
         ],
         "Progressive Folk ": [
@@ -18879,7 +18897,8 @@
                 "artist": "Roy Harper",
                 "song": "Stormcock",
                 "year": "(1971)",
-                "url": "https://www.youtube.com/results?search_query=Roy%20Harper-Stormcock"
+                "url": "https://www.youtube.com/results?search_query=Roy%20Harper-Stormcock",
+                "enriched": true
             }
         ],
         "Psychedelic Folk ": [
@@ -18889,7 +18908,8 @@
                 "artist": "The Incredible String Band",
                 "song": "The 5000 Spirits or the Layers of the Onion",
                 "year": "(1967)",
-                "url": "https://www.youtube.com/results?search_query=The%20Incredible%20String%20Band-The%205000%20Spirits%20or%20the%20Layers%20of%20the%20Onion"
+                "url": "https://www.youtube.com/results?search_query=The%20Incredible%20String%20Band-The%205000%20Spirits%20or%20the%20Layers%20of%20the%20Onion",
+                "enriched": true
             }
         ],
         "Freak Folk ": [
@@ -18899,7 +18919,8 @@
                 "artist": "Godz",
                 "song": "Contact High With the Godz",
                 "year": "(1966)",
-                "url": "https://www.youtube.com/results?search_query=Godz-Contact%20High%20With%20the%20Godz"
+                "url": "https://www.youtube.com/results?search_query=Godz-Contact%20High%20With%20the%20Godz",
+                "enriched": true
             }
         ],
         "Free Folk ": [
@@ -18909,7 +18930,8 @@
                 "artist": "Third Ear Band",
                 "song": "Third Ear Band",
                 "year": "(1970)",
-                "url": "https://www.youtube.com/results?search_query=Third%20Ear%20Band-Third%20Ear%20Band"
+                "url": "https://www.youtube.com/results?search_query=Third%20Ear%20Band-Third%20Ear%20Band",
+                "enriched": true
             }
         ],
         "Nueva canci\u00f3n latinoamericana ": [
@@ -18919,7 +18941,8 @@
                 "artist": "Violeta Parra",
                 "song": "Canciones reencontradas en Par\u00eds",
                 "year": "(1961-1964)",
-                "url": "https://www.youtube.com/results?search_query=Violeta%20Parra-Canciones%20reencontradas%20en%20Par%C3%ADs"
+                "url": "https://www.youtube.com/results?search_query=Violeta%20Parra-Canciones%20reencontradas%20en%20Par%C3%ADs",
+                "enriched": true
             }
         ],
         "Nueva canci\u00f3n espa\u00f1ola ": [
@@ -18929,7 +18952,8 @@
                 "artist": "Paco Ib\u00e1\u00f1ez",
                 "song": "1",
                 "year": "(1964)",
-                "url": "https://www.youtube.com/results?search_query=Paco%20Ib%C3%A1%C3%B1ez-1"
+                "url": "https://www.youtube.com/results?search_query=Paco%20Ib%C3%A1%C3%B1ez-1",
+                "enriched": true
             }
         ],
         "Nueva trova ": [
@@ -18939,7 +18963,8 @@
                 "artist": "Silvio Rodr\u00edguez",
                 "song": "D\u00edas y flores",
                 "year": "(1975)",
-                "url": "https://www.youtube.com/results?search_query=Silvio%20Rodr%C3%ADguez-D%C3%ADas%20y%20flores"
+                "url": "https://www.youtube.com/results?search_query=Silvio%20Rodr%C3%ADguez-D%C3%ADas%20y%20flores",
+                "enriched": true
             }
         ],
         "Liedermacher ": [
@@ -18949,7 +18974,8 @@
                 "artist": "Franz Josef Degenhardt",
                 "song": "Spiel nicht mit den Schmuddelkindern",
                 "year": "(1965)",
-                "url": "https://www.youtube.com/results?search_query=Franz%20Josef%20Degenhardt-Spiel%20nicht%20mit%20den%20Schmuddelkindern"
+                "url": "https://www.youtube.com/results?search_query=Franz%20Josef%20Degenhardt-Spiel%20nicht%20mit%20den%20Schmuddelkindern",
+                "enriched": true
             }
         ],
         "Bard ": [
@@ -18959,7 +18985,8 @@
                 "artist": "Mikhail Ancharov",
                 "song": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0411\u0430\u0440\u0434\u044b",
                 "year": "(1964-1971)",
-                "url": "https://www.youtube.com/results?search_query=Mikhail%20Ancharov-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%91%D0%B0%D1%80%D0%B4%D1%8B"
+                "url": "https://www.youtube.com/results?search_query=Mikhail%20Ancharov-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5%20%D0%91%D0%B0%D1%80%D0%B4%D1%8B",
+                "enriched": true
             }
         ],
         "Neofolk ": [
@@ -18969,7 +18996,8 @@
                 "artist": "Death in June",
                 "song": "Brown Book",
                 "year": "(1987)",
-                "url": "https://www.youtube.com/results?search_query=Death%20in%20June-Brown%20Book"
+                "url": "https://www.youtube.com/results?search_query=Death%20in%20June-Brown%20Book",
+                "enriched": true
             }
         ],
         "Dark Folk ": [
@@ -18979,7 +19007,8 @@
                 "artist": "Ulver",
                 "song": "Kveldssanger",
                 "year": "(1996)",
-                "url": "https://www.youtube.com/results?search_query=Ulver-Kveldssanger"
+                "url": "https://www.youtube.com/results?search_query=Ulver-Kveldssanger",
+                "enriched": true
             }
         ],
         "Anti_Folk ": [
@@ -18989,7 +19018,8 @@
                 "artist": "Ani DiFranco",
                 "song": "Ani Difranco",
                 "year": "(1990)",
-                "url": "https://www.youtube.com/results?search_query=Ani%20DiFranco-Ani%20Difranco"
+                "url": "https://www.youtube.com/results?search_query=Ani%20DiFranco-Ani%20Difranco",
+                "enriched": true
             }
         ],
         "Indie Folk ": [
@@ -18999,7 +19029,8 @@
                 "artist": "The Mountain Goats",
                 "song": "Zopilote Machine",
                 "year": "(1994)",
-                "url": "https://www.youtube.com/results?search_query=The%20Mountain%20Goats-Zopilote%20Machine"
+                "url": "https://www.youtube.com/results?search_query=The%20Mountain%20Goats-Zopilote%20Machine",
+                "enriched": true
             }
         ],
         "Folktronica ": [
@@ -19009,7 +19040,8 @@
                 "artist": "The Books",
                 "song": "Thought for Food",
                 "year": "(2002)",
-                "url": "https://www.youtube.com/results?search_query=The%20Books-Thought%20for%20Food"
+                "url": "https://www.youtube.com/results?search_query=The%20Books-Thought%20for%20Food",
+                "enriched": true
             }
         ],
         "Vaudeville ": [
@@ -19019,7 +19051,8 @@
                 "artist": "Billy Murray",
                 "song": "Anthology - The Denver Nightingale",
                 "year": "(1903-1940)",
-                "url": "https://www.youtube.com/results?search_query=Billy%20Murray-Anthology%20-%20The%20Denver%20Nightingale"
+                "url": "https://www.youtube.com/results?search_query=Billy%20Murray-Anthology%20-%20The%20Denver%20Nightingale",
+                "enriched": true
             }
         ],
         "Barbershop ": [
@@ -19029,7 +19062,8 @@
                 "artist": "Haydn Quartet",
                 "song": "My Bonnie Lies Over the Ocean",
                 "year": "(1900)",
-                "url": "https://www.youtube.com/results?search_query=Haydn%20Quartet-My%20Bonnie%20Lies%20Over%20the%20Ocean"
+                "url": "https://www.youtube.com/results?search_query=Haydn%20Quartet-My%20Bonnie%20Lies%20Over%20the%20Ocean",
+                "enriched": true
             }
         ],
         "Vaudeville Blues ": [
@@ -19039,7 +19073,8 @@
                 "artist": "Bessie Smith",
                 "song": "The Complete Recordings - Volume 1",
                 "year": "(1923-1924)",
-                "url": "https://www.youtube.com/results?search_query=Bessie%20Smith-The%20Complete%20Recordings%20-%20Volume%201"
+                "url": "https://www.youtube.com/results?search_query=Bessie%20Smith-The%20Complete%20Recordings%20-%20Volume%201",
+                "enriched": true
             }
         ],
         "Vocal Jazz ": [
@@ -19049,7 +19084,8 @@
                 "artist": "Mamie Smith",
                 "song": "Complete Recorded Works - Volume 1 -",
                 "year": "(1920-1921)",
-                "url": "https://www.youtube.com/results?search_query=Mamie%20Smith-Complete%20Recorded%20Works%20-%20Volume%201%20-"
+                "url": "https://www.youtube.com/results?search_query=Mamie%20Smith-Complete%20Recorded%20Works%20-%20Volume%201%20-",
+                "enriched": true
             },
             {
                 "unique_id": 474,
@@ -19057,7 +19093,8 @@
                 "artist": "Billie Holiday",
                 "song": "Ken Burns Jazz - The Definitive Billie Holiday",
                 "year": "(2000)",
-                "url": "https://www.youtube.com/results?search_query=Billie%20Holiday-Ken%20Burns%20Jazz%20-%20The%20Definitive%20Billie%20Holiday"
+                "url": "https://www.youtube.com/results?search_query=Billie%20Holiday-Ken%20Burns%20Jazz%20-%20The%20Definitive%20Billie%20Holiday",
+                "enriched": true
             }
         ],
         "Sacred Harp ": [
@@ -19067,7 +19104,8 @@
                 "artist": "Various",
                 "song": "I Belong to This Band - Eighty_Five Years of Sacred Harp Recordings",
                 "year": "(1922-2006)",
-                "url": "https://www.youtube.com/results?search_query=Various-I%20Belong%20to%20This%20Band%20-%20Eighty_Five%20Years%20of%20Sacred%20Harp%20Recordings"
+                "url": "https://www.youtube.com/results?search_query=Various-I%20Belong%20to%20This%20Band%20-%20Eighty_Five%20Years%20of%20Sacred%20Harp%20Recordings",
+                "enriched": true
             }
         ],
         "Traditional Cajun ": [
@@ -19077,7 +19115,8 @@
                 "artist": "Various",
                 "song": "Early American Cajun Music - Blind Uncle Gaspard, Delma Lachney & John Bertrand",
                 "year": "(1999)",
-                "url": "https://www.youtube.com/results?search_query=Various-Early%20American%20Cajun%20Music%20-%20Blind%20Uncle%20Gaspard%2C%20Delma%20Lachney%20%26amp%3B%20John%20Bertrand"
+                "url": "https://www.youtube.com/results?search_query=Various-Early%20American%20Cajun%20Music%20-%20Blind%20Uncle%20Gaspard%2C%20Delma%20Lachney%20%26amp%3B%20John%20Bertrand",
+                "enriched": true
             }
         ],
         "Zydeco ": [
@@ -19087,7 +19126,8 @@
                 "artist": "Various",
                 "song": "Zydeco - The Early Years",
                 "year": "(1989)",
-                "url": "https://www.youtube.com/results?search_query=Various-Zydeco%20-%20The%20Early%20Years"
+                "url": "https://www.youtube.com/results?search_query=Various-Zydeco%20-%20The%20Early%20Years",
+                "enriched": true
             }
         ],
         "Canadian Folk ": [
@@ -19097,7 +19137,8 @@
                 "artist": "Various",
                 "song": "Canadian Folk Songs - A Centennial Collection",
                 "year": "(1967)",
-                "url": "https://www.youtube.com/results?search_query=Various-Canadian%20Folk%20Songs%20-%20A%20Centennial%20Collection"
+                "url": "https://www.youtube.com/results?search_query=Various-Canadian%20Folk%20Songs%20-%20A%20Centennial%20Collection",
+                "enriched": true
             }
         ],
         "French_Canadian Folk ": [

@@ -21,9 +21,12 @@ def enrich(song_data):
             sys.stdout.flush()
         except Exception as e:
             if "HttpError 403 when requesting" in str(e):
-                print("Rate limit exceeded, application will terminate")
+                print()
+                sys.stderr.write("Rate limit exceeded, application will terminate")
                 sys.exit(0)
             song['enriched'] = True
+            sys.stderr.write(str(e))
+            sys.exit(0)
         with open(json_file, 'w') as outfile:
             json.dump(jsonToEnrich, outfile, indent=4)
 
