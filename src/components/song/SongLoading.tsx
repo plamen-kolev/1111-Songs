@@ -1,21 +1,20 @@
 import React from 'react';
-import { Dimmer, Loader, Card, Divider } from 'semantic-ui-react'
+import { Dimmer, Loader, Card, Divider, Placeholder } from 'semantic-ui-react'
 
 export const SongLoading = () => {
     return (
-        <Card style={{minHeight: '260px'}}>
+        <Card className="song-card">
             <Card.Content>
                 <Card.Description className="song-card-title">
-                <Dimmer active inverted>
-                    <Loader inverted>Loading</Loader>
-                </Dimmer>
-                </Card.Description>
-            </Card.Content>
-            <Divider horizontal />
-            <Card.Content>
-                
-                <Card.Description className="song-card-meta">
-                    ...
+                    <Placeholder>
+                        <Placeholder.Paragraph>
+                            <Placeholder.Line />
+                            <Placeholder.Line />
+                        </Placeholder.Paragraph>
+                    </Placeholder>
+                    <Dimmer active inverted>
+                        <Loader inverted></Loader>
+                    </Dimmer>
                 </Card.Description>
             </Card.Content>
         </Card>

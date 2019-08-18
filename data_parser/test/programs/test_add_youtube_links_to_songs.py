@@ -11,7 +11,7 @@ data_path = os.path.join(os.path.dirname(__file__), "../../data/data.json")
 with open(data_path) as json_data:
     realJsonData = json.load(json_data)
 
-song_json = realJsonData['entries']['Animal Music '][0]
+song_json = realJsonData['entries']['Animal Music'][0]
 
 
 class TestEnrich(TestCase):
@@ -23,5 +23,5 @@ class TestEnrich(TestCase):
 
         self.assertEqual(1111, mock_enrich.call_count)
         self.assertEqual(realJsonData['entries']['Prehistoric'][0], mock_enrich.call_args_list[0][0][0])
-        self.assertEqual(realJsonData['entries']['Sumerian '][0], mock_enrich.call_args_list[1][0][0])
-        self.assertEqual(realJsonData['entries']['Animal Music '][0], mock_enrich.call_args_list[1110][0][0])
+        self.assertEqual(realJsonData['entries']['Sumerian'][0], mock_enrich.call_args_list[1][0][0])
+        self.assertEqual(realJsonData['entries']['Animal Music'][0], mock_enrich.call_args_list[1110][0][0])

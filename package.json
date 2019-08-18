@@ -23,7 +23,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "cd data_parser && ./venv/bin/python -m unittest discover && cp data_parser/data/data.json src/data.json"
+      "pre-commit": "cd data_parser && ./venv/bin/python -m unittest discover"
     }
   },
   "browserslist": {

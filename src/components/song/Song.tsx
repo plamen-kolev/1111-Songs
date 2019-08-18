@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Divider, Icon } from 'semantic-ui-react'
+import { Card, Icon } from 'semantic-ui-react'
 import { YoutubeInterface } from '../../utils'
 import { IframeProps } from './Iframe';
 
@@ -15,7 +15,7 @@ export type SongProps = {
 
 export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongProps) => {
     const isEnriched = enriched && youtube
-    const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`
+    const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`;
     
     return (
         <Card className="song-card" onClick={() => click({
@@ -28,9 +28,7 @@ export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongP
                     {title}
                 </Card.Description>
             </Card.Content>
-            <Divider horizontal />
-            <Card.Content>
-                
+            <Card.Content extra>
                 <Card.Description className="song-card-meta">
                     {isEnriched && <Icon name="sound"/>}
                     {genre}

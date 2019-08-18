@@ -22,13 +22,17 @@
 .App-link {
   color: #61dafb;
 }
-.song-card-title {
-  min-height: 150px;
+
+.song-card-container .song-card {
+  min-height: 200px;
+}
+
+.song-card-container .song-card-title {
+  min-height: 50px;
   font-size: 1.5em;
 }
 
-.song-card-meta {
-  min-height: 50px;
+.song-card-container .song-card-meta {
   font-size: 1.2em;
 }
 
