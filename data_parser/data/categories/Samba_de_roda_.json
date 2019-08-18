@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 420,
+        "genre": "Samba de roda ",
+        "artist": "Conjunto a voz do morro",
+        "song": "Roda de samba",
+        "year": "(1965)",
+        "url": "https://www.youtube.com/results?search_query=Conjunto%20a%20voz%20do%20morro-Roda%20de%20samba",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Zna4t9eOFYzMkOuddRbxF4NNhck\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FvQcqNvtzXc"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-28T23:24:53.000Z",
+                "channelId": "UC_6G_XYNtxFytE5o3lYHrIg",
+                "title": "Conjunto A Voz do Morro - LPs Roda de Samba (completos) - 1965 e 1966",
+                "description": "Estes s\u00e3o discos originais de \u00e9poca, sendo um de 1965 (est\u00e9reo) e o outro de 1966 (mono). Selo Musidisc. Este sim \u00e9 o VERDADEIRO pagode de raiz, s\u00f3 com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FvQcqNvtzXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FvQcqNvtzXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FvQcqNvtzXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ratito 1",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

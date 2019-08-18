@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 7,
+        "genre": "Kabye Folk ",
+        "artist": "Various",
+        "song": "Togo - Musique Kabiye",
+        "year": "(1960)",
+        "url": "https://www.youtube.com/results?search_query=Various-Togo%20-%20Musique%20Kabiye",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/h90Q8zb_GYIVREBJmHqT8iOvAbI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hUf6ldxMKW8"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-16T05:27:06.000Z",
+                "channelId": "UCGfgxbqLyw8TgDwI-3dVNBg",
+                "title": "TOGO: Musique populaire - Kabye Tchimou et Soo Compil_2",
+                "description": "Musique populaire dancante Kabye Tchimou, Soo, Kamou. Belle musique pour des occasions heureuses. Belle compilation pour le Jogging pourquoi pas?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hUf6ldxMKW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rorodrigue",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

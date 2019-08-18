@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 388,
+        "genre": "South American Folk ",
+        "artist": "Violeta Parra",
+        "song": "Chants et Danses du Chili - Volume 1",
+        "year": "(1956)",
+        "url": "https://www.youtube.com/results?search_query=Violeta%20Parra-Chants%20et%20Danses%20du%20Chili%20-%20Volume%201",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CSw8zYrGvzRFunP7PW8nsiEex5Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lFTz_e4VLZs"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-28T17:50:47.000Z",
+                "channelId": "UCq6A3yYq0BOyfAKA_3QfS-Q",
+                "title": "Violeta Parra - Chants et Danses du Chili vol. I (1956)",
+                "description": "1. Aqu\u00ed se acaba esta cueca 2. Qu\u00e9 pena siente el alma 3. La jardinera 4. Casamiento de negros 5. Cantos a lo divino 6. Miren c\u00f3mo corre el agua 7.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lFTz_e4VLZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lFTz_e4VLZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lFTz_e4VLZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fulanodetal4",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 389,
+        "genre": "South American Folk ",
+        "artist": "Violeta Parra",
+        "song": "El folklore de Chile",
+        "year": "(1957)",
+        "url": "https://www.youtube.com/results?search_query=Violeta%20Parra-El%20folklore%20de%20Chile",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/k9-5WdvoAci0cc5hEorxFSgVJoY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eFyAoj_9v88"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-06T15:36:55.000Z",
+                "channelId": "UCy4XAAnV-z18I_4cPc0Mm0g",
+                "title": "Violeta Parra - Cantos de Chile 1975 Full Vinyl 2LP",
+                "description": "A1 El Primer Dia El Se\u00f1or (Verso Por Sabidur\u00eda O \"Por El Apocalipsis) / Le Premier Jour Le Seigneur (Chant De Sagesse Ou Sur L'Apocalypse) 2:17 A2 Entre ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eFyAoj_9v88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eFyAoj_9v88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eFyAoj_9v88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "german martinez",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

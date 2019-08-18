@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 321,
+        "genre": "Occitan Folk ",
+        "artist": "Clemencic Consort",
+        "song": "Troubadours",
+        "year": "(1998)",
+        "url": "https://www.youtube.com/results?search_query=Clemencic%20Consort-Troubadours",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tNBaVsyovrre6dhN08KmGDntYTE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ijqNBpOU5Vs"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-05T20:27:31.000Z",
+                "channelId": "UCS21Zs3FX0j1V1pU5J3PyqQ",
+                "title": "TROUBADOURS - trovadores occitanos - Clemencic Consort.avi",
+                "description": "Canciones de trovadores occitanos, de los ss. XII y XIII, por Clemencic Consort. Anonyme, fin 12e si\u00e8cle 01 - A l'entrada del temps clar [2:52] voix mixtes, vi\u00e8le, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ijqNBpOU5Vs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Caballerito de Arratia",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

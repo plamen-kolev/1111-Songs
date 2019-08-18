@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 342,
+        "genre": "Boogaloo ",
+        "artist": "Various",
+        "song": "Long Live Boogaloo",
+        "year": "(2012)",
+        "url": "https://www.youtube.com/results?search_query=Various-Long%20Live%20Boogaloo",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Mi2_Z-nKjThhWZiCD6PiM7Lx7Lo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5szMN5xjS34"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-29T20:35:52.000Z",
+                "channelId": "UChcf99zRWrxQIqZd7tB0hOQ",
+                "title": "Long Live Boogaloo 2xLP / Compact Disc Compilation",
+                "description": "http://www.secretstashrecords.com LP available April 17, 2012. CD available May 8, 2012. We teamed up with veteran boogloo producer Bobby Marin to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5szMN5xjS34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5szMN5xjS34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5szMN5xjS34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SecretStashRecords",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

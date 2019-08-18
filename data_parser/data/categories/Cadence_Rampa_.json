@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 492,
+        "genre": "Cadence Rampa ",
+        "artist": "W\u00e9bert Sicot",
+        "song": "La fl\u00e8che d'or d'Haiti",
+        "year": "(1962)",
+        "url": "https://www.youtube.com/results?search_query=W%C3%A9bert%20Sicot-La%20fl%C3%A8che%20d%26%23x27%3Bor%20d%26%23x27%3BHaiti",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/sZ1iA7AoCTaq-GGWfm85F8_n8IE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vt73j8IQyjM"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-17T22:40:03.000Z",
+                "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                "title": "Super Ensemble Webert Sicot - Sinc\u00e9rit\u00e9",
+                "description": "Morceau 4 du LP La Fl\u00e9che d'Or d'Haiti.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vt73j8IQyjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vt73j8IQyjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vt73j8IQyjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "R\u00e9tros World Music",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

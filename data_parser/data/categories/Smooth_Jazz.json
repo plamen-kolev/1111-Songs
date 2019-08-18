@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 685,
+        "genre": "Smooth Jazz ",
+        "artist": "Wes Montgomery",
+        "song": "A Day in the Life",
+        "year": "(1967)",
+        "url": "https://www.youtube.com/results?search_query=Wes%20Montgomery-A%20Day%20in%20the%20Life"
+    },
+    {
+        "unique_id": 686,
+        "genre": "Smooth Jazz ",
+        "artist": "Ramsey Lewis",
+        "song": "Maiden Voyage",
+        "year": "(1968)",
+        "url": "https://www.youtube.com/results?search_query=Ramsey%20Lewis-Maiden%20Voyage"
+    },
+    {
+        "unique_id": 687,
+        "genre": "Smooth Jazz ",
+        "artist": "Grover Washington, Jr.",
+        "song": "Mister Magic",
+        "year": "(1975)",
+        "url": "https://www.youtube.com/results?search_query=Grover%20Washington%2C%20Jr.-Mister%20Magic"
+    },
+    {
+        "unique_id": 688,
+        "genre": "Smooth Jazz ",
+        "artist": "Chuck Mangione",
+        "song": "Feels So Good",
+        "year": "(1977)",
+        "url": "https://www.youtube.com/results?search_query=Chuck%20Mangione-Feels%20So%20Good"
+    },
+    {
+        "unique_id": 689,
+        "genre": "Smooth Jazz ",
+        "artist": "Kenny G.",
+        "song": "Kenny G.",
+        "year": "(1982)",
+        "url": "https://www.youtube.com/results?search_query=Kenny%20G.-Kenny%20G."
+    }
+]

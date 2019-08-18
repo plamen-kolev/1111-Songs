@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 485,
+        "genre": "Calypso ",
+        "artist": "Various",
+        "song": "Calypso Pioneers",
+        "year": "(1912-1937)",
+        "url": "https://www.youtube.com/results?search_query=Various-Calypso%20Pioneers",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/sd3KEO0jdbX_YHUcekKcYs7cCl8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL592349F0F112A8FA"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-14T18:39:10.000Z",
+                "channelId": "UCGVW050t9hVZ4FjZELPyEow",
+                "title": "Calypso Pioneers",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sJqZ0G4H0mo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sJqZ0G4H0mo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sJqZ0G4H0mo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bluekilla",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 404,
+        "genre": "Digital Cumbia ",
+        "artist": "Gonzalo Mart\u00ednez",
+        "song": "Gonzalo Martinez and His Thinking Congas",
+        "year": "(1997)",
+        "url": "https://www.youtube.com/results?search_query=Gonzalo%20Mart%C3%ADnez-Gonzalo%20Martinez%20and%20His%20Thinking%20Congas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f-4aMCw9XDZucZmHTn-G5Rp9TAM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G6SI-njd3eA"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-05T01:57:21.000Z",
+                "channelId": "UC8AJoHI2hlLlXLAuVfqWRvQ",
+                "title": "Gonzalo Martinez y sus Congas Pensantes / \u00c1lbum Completo",
+                "description": "Disco del a\u00f1o 1997 por el sello BMG. Disco de electrocumbias llamado \"Gonzalo Mart\u00ednez y Sus Congas Pensantes\". El \u00e1lbum recoge diez cumbias -algunas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G6SI-njd3eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G6SI-njd3eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G6SI-njd3eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Discoimagen",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

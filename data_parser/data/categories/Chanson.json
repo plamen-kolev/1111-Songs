@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 324,
+        "genre": "Chanson ",
+        "artist": "Various",
+        "song": "Caf\u00e9 de Paris - 18 Accordion Classics From the Boulevards of Paris",
+        "year": "(1930-1941)",
+        "url": "https://www.youtube.com/results?search_query=Various-Caf%C3%A9%20de%20Paris%20-%2018%20Accordion%20Classics%20From%20the%20Boulevards%20of%20Paris",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pjhCNmpflvUlcGAFdq6diuRJfBQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WJFChzLkICM"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-19T11:00:06.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "Caf\u00e9 de Paris - Classic French Songs",
+                "description": "Subscribe to our channel: http://bit.ly/YouTubeHalidonMusic Listen to our French Music playlist on Spotify: http://spoti.fi/2nzwGjN Like us on Facebook: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WJFChzLkICM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WJFChzLkICM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WJFChzLkICM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

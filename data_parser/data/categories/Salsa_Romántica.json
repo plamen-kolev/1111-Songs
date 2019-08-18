@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 348,
+        "genre": "Salsa Rom\u00e1ntica ",
+        "artist": "Lalo Rodriguez",
+        "song": "Ven, dev\u00f3rame otra vez",
+        "year": "(1988)",
+        "url": "https://www.youtube.com/results?search_query=Lalo%20Rodriguez-Ven%2C%20dev%C3%B3rame%20otra%20vez",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/MehLOnhGUU1eZjeARqodE7OhUAw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IVxiMPJx4eA"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-16T07:59:10.000Z",
+                "channelId": "UCJzzQXuMTaHunVOr3qyCOpw",
+                "title": "Lalo Rodr\u00edguez - Ven Devorame Otra Vez",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IVxiMPJx4eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IVxiMPJx4eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IVxiMPJx4eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nando Ruiz Salsa",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

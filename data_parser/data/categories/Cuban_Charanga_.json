@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 343,
+        "genre": "Cuban Charanga ",
+        "artist": "Pacheco y su Charanga",
+        "song": "Volume 3 - Que suene la flauta",
+        "year": "(1962)",
+        "url": "https://www.youtube.com/results?search_query=Pacheco%20y%20su%20Charanga-Volume%203%20-%20Que%20suene%20la%20flauta",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/cTinV4RG-GJYavwyPWSOUdOW5vk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_ioobTsMF6g"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-11T23:23:59.000Z",
+                "channelId": "UCst0vq03CBV5WRHFkxN5QZg",
+                "title": "\ud83d\udd25ACUYUYE por JOHNNY PACHECO - Salsa Premium",
+                "description": "En 1962, Johnny Pacheco graba su tercer \u00e1lbum para el sello, titulado, PACHECO Y SU CHARANGA, VOL III -- QUE SUENE LA FLAUTA, (Alegre LPA-8110), ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ioobTsMF6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ioobTsMF6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ioobTsMF6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Salsa Premium - Carlos A. Gulfo Berrocal",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 416,
+        "genre": "Mangue Beat ",
+        "artist": "Chico Science & Na\u00e7\u00e3o Zumbi",
+        "song": "Da lama ao caos",
+        "year": "(1994)",
+        "url": "https://www.youtube.com/results?search_query=Chico%20Science%20%26amp%3B%20Na%C3%A7%C3%A3o%20Zumbi-Da%20lama%20ao%20caos",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/35hBCpL7_ldiU5LPXN5j3gb0A6c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "35FNubkuxwg"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-09T21:23:22.000Z",
+                "channelId": "UC64ZmFTudMb305K3EaKxtqg",
+                "title": "Chico Science &amp; Na\u00e7\u00e3o Zumbi - Da Lama Ao Caos",
+                "description": "Artista: Na\u00e7\u00e3o Zumbi M\u00fasica: Da Lama Ao Caos Todos os direitos da m\u00fasica pertencem ao artista em quest\u00e3o e gravadora. Esta reprodu\u00e7\u00e3o n\u00e3o visa e n\u00e3o ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/35FNubkuxwg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/35FNubkuxwg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/35FNubkuxwg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gomes Coelho Psicologia",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

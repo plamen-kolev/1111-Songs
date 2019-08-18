@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 371,
+        "genre": "Currulao ",
+        "artist": "R\u00edo Mira",
+        "song": "Marimba del Pacifico",
+        "year": "(2017)",
+        "url": "https://www.youtube.com/results?search_query=R%C3%ADo%20Mira-Marimba%20del%20Pacifico",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8oXu0ADUh71jetegvyaFHaeT5Sw\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLk64i_irlwZUJrGpgdAsrv0_kSWsX3Cah"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-14T17:48:57.000Z",
+                "channelId": "UCLxE2uBJBkRAWsRYaNRzlAg",
+                "title": "Rio Mira - Marimba Del Pacifico",
+                "description": "Become a fan of Rio Mira: https://www.facebook.com/RioMiraMarimba/ Buy: https://ayarecords.bandcamp.com/album/marimba-del-pacifico Co-produced by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lotx7YUruew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lotx7YUruew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lotx7YUruew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AYA Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

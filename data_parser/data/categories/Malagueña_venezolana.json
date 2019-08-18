@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 376,
+        "genre": "Malague\u00f1a venezolana ",
+        "artist": "Serenata Guayanesa",
+        "song": "M\u00fasica popular y folklorica de Venezuela",
+        "year": "(1972)",
+        "url": "https://www.youtube.com/results?search_query=Serenata%20Guayanesa-M%C3%BAsica%20popular%20y%20folklorica%20de%20Venezuela",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/N6cIZ6iV15UcCbkGb7t0Corei_s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Ay8CnCyAYA"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-30T12:43:58.000Z",
+                "channelId": "UCtYlrz6GyvRahlhHjocWQYQ",
+                "title": "Serenata Guayanesa - Vol. 1: M\u00fasica Popular y Folkl\u00f3rica Venezolana (1972) || Full Album ||",
+                "description": "Tracklist: 01 - El Sapo 00:00 02 - Luisa Teresa 03:06 03 - La Mula 05:41 04 - Ciudad Bolivar 09:31 05 - El Ruise\u00f1or 12:12 06 - Casta Paloma 15:32 07 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Ay8CnCyAYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Ay8CnCyAYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Ay8CnCyAYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coleccionistas De Rock Venezolano",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

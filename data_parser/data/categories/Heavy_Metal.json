@@ -1,0 +1,26 @@
+[
+    {
+        "unique_id": 817,
+        "genre": "Heavy Metal ",
+        "artist": "Deep Purple",
+        "song": "In Rock",
+        "year": "(1970)",
+        "url": "https://www.youtube.com/results?search_query=Deep%20Purple-In%20Rock"
+    },
+    {
+        "unique_id": 830,
+        "genre": "Heavy Metal ",
+        "artist": "Black Sabbath",
+        "song": "Black Sabbath",
+        "year": "(1970)",
+        "url": "https://www.youtube.com/results?search_query=Black%20Sabbath-Black%20Sabbath"
+    },
+    {
+        "unique_id": 831,
+        "genre": "Heavy Metal ",
+        "artist": "Judas Priest",
+        "song": "Sad Wings of Destiny",
+        "year": "(1976)",
+        "url": "https://www.youtube.com/results?search_query=Judas%20Priest-Sad%20Wings%20of%20Destiny"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 297,
+        "genre": "Manx Folk ",
+        "artist": "Various",
+        "song": "The Best That's In",
+        "year": "(1996)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20That%26%23x27%3Bs%20In",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/MMfURuaJRnqOL2VmYJuewFzy6ic\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7PCkvCPvDXk"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-11T14:00:07.000Z",
+                "channelId": "UCf3cbfAXgPFL6OywH7JwOzA",
+                "title": "Meghan Trainor - All About That Bass (Official Music Video)",
+                "description": "Meghan Trainor's official music video for 'All About That Bass'. Click to listen to Meghan Trainor on Spotify: http://smarturl.it/MegTSpotify?IQid=M... As featured on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MeghanTrainorVEVO",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

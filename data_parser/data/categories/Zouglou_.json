@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 14,
+        "genre": "Zouglou ",
+        "artist": "Syst\u00e8me Gazeur",
+        "song": "Ambiance facile",
+        "year": "(1991)",
+        "url": "https://www.youtube.com/results?search_query=Syst%C3%A8me%20Gazeur-Ambiance%20facile",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/3XS69ulFNpCiJtF_hV_jveMcGwE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WIlWneFdQ18"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-27T00:36:49.000Z",
+                "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                "title": "System Gazeur - Anangotche",
+                "description": "Morceau 2 de la cassette Ambiance Facile.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WIlWneFdQ18/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WIlWneFdQ18/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WIlWneFdQ18/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "R\u00e9tros World Music",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

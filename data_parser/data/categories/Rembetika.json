@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 254,
+        "genre": "Rembetika ",
+        "artist": "Various",
+        "song": "Rembetika - Songs of the Greek Underground",
+        "year": "(1925-1947)",
+        "url": "https://www.youtube.com/results?search_query=Various-Rembetika%20-%20Songs%20of%20the%20Greek%20Underground",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Otp4e2opeTxRvcurW27FGyuZ9fg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLB9AB10FA37CE02BD"
+            },
+            "snippet": {
+                "publishedAt": "2012-04-11T14:08:19.000Z",
+                "channelId": "UCPcN9xGSH_zhZO6RT8t08vA",
+                "title": "Rembetika Songs Of The Greek Underground 1925 - 1947",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/92HKvq2AmQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/92HKvq2AmQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/92HKvq2AmQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "julimox",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

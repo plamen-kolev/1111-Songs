@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 192,
+        "genre": "Kliningan ",
+        "artist": "Various",
+        "song": "Kliningan & ketuk tilu",
+        "year": "(NA)",
+        "url": "https://www.youtube.com/results?search_query=Various-Kliningan%20%26amp%3B%20ketuk%20tilu",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Nx45t1amE5LPoybDc1DFQlXn3I4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "afZpwsPyS7Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-05T00:51:59.000Z",
+                "channelId": "UCK_5CBBg3g5_qZU4ViZ-Baw",
+                "title": "JAIPONG KLININGAN SENI SUNDA SEKAR PAKUAN   KETUK TILU &amp; KLININGAN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/afZpwsPyS7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "musik 60an",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

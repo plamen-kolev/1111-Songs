@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 280,
+        "genre": "Flamenco ",
+        "artist": "Various",
+        "song": "Early Cante Flamenco - Classic Recordings from the 1930's",
+        "year": "(1990)",
+        "url": "https://www.youtube.com/results?search_query=Various-Early%20Cante%20Flamenco%20-%20Classic%20Recordings%20from%20the%201930%26%23x27%3Bs",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/T58AyPSlphSnZj4AULzGmU96kgQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL924E59FD288DAF64"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-19T15:59:59.000Z",
+                "channelId": "UCNlm-MoxMaQhYGMP-7WhZdA",
+                "title": "Early Cante Flamenco",
+                "description": "Ripped from \"Early Cante Flanco (Classic Recordings Of The 1930's & 40's Volume 2) on Folklyric/Arhoolie Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wqijutU_xh8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wqijutU_xh8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wqijutU_xh8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jemmyjoemusic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 281,
+        "genre": "Flamenco ",
+        "artist": "Paco de Luc\u00eda",
+        "song": "Fuente y caudal",
+        "year": "(1973)",
+        "url": "https://www.youtube.com/results?search_query=Paco%20de%20Luc%C3%ADa-Fuente%20y%20caudal",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WpDwoz4T4GT5cPkF9wS5ehTgY9Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ySA_QYVWj9k"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-19T15:10:13.000Z",
+                "channelId": "UCE2WDDFCuqPUkAZ73EJ-s0Q",
+                "title": "Paco De Luc\u00eda    Fuente Y Caudal",
+                "description": "Paco De Luc\u00eda Fuente Y Caudal.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ySA_QYVWj9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ahmed lamarti",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

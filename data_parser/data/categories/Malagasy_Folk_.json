@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 47,
+        "genre": "Malagasy Folk ",
+        "artist": "Various",
+        "song": "The Music of Madagascar - Classic Traditional Recordings of the 1930s",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20Madagascar%20-%20Classic%20Traditional%20Recordings%20of%20the%201930s",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/eckOC5fIPuwHeIhpCXU9jlcWgJA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aqNkhZw3ndE"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-28T10:09:36.000Z",
+                "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                "title": "Various \u200e\u2013 Valiha Madagascar : 60s Madagascar Music Songs Folk World Country Traditional Oldies",
+                "description": "Label:Ocora Format:Vinyl, LP Country:France Released:1963 Tracklist A1 \u2013Merina Musique Merina 00:00 A2 \u2013Merina Musique Merina 02:21 A3 \u2013Merina ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aqNkhZw3ndE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sunnyboy66",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

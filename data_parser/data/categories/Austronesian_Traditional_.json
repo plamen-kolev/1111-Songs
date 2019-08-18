@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 217,
+        "genre": "Austronesian Traditional ",
+        "artist": "Various",
+        "song": "Vocal Polyphonies of Taiwan Aborigines",
+        "year": "(1989)",
+        "url": "https://www.youtube.com/results?search_query=Various-Vocal%20Polyphonies%20of%20Taiwan%20Aborigines",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/POy0LAnEH2H3FMcokm2Gl43sDMQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLnOSH5j1sQh9jlc5gWYAhmIqh7L_ZjBfr"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-18T00:12:04.000Z",
+                "channelId": "UCxmFNKV3EeuMyvptqbTsKvQ",
+                "title": "Taiwan Indigenous Musical Styles",
+                "description": "Taiwan or Formosa has as many as sixteen different indigenous ethnic groups. The music of these peoples, of course, has undergone changes in modern times, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ewel1r2yY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ewel1r2yY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ewel1r2yY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ericwhollem",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

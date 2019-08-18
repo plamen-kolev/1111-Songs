@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 1077,
+        "genre": "Lounge ",
+        "artist": "Henry Mancini",
+        "song": "Breakfast at Tiffany's",
+        "year": "(1961)",
+        "url": "https://www.youtube.com/results?search_query=Henry%20Mancini-Breakfast%20at%20Tiffany%26%23x27%3Bs",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/djALIElNIX7WcHvyk680Xe9oN2A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ur8nOeDFOw8"
+            },
+            "snippet": {
+                "publishedAt": "2009-03-17T08:33:52.000Z",
+                "channelId": "UCHudI0UAr9y2UCDDDoQZ2Dw",
+                "title": "Henry Mancini Breakfast at Tiffany&#39;s",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ur8nOeDFOw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ur8nOeDFOw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ur8nOeDFOw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lince180",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

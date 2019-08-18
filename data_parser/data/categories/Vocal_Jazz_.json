@@ -1,0 +1,20 @@
+[
+    {
+        "unique_id": 473,
+        "genre": "Vocal Jazz ",
+        "artist": "Mamie Smith",
+        "song": "Complete Recorded Works - Volume 1 -",
+        "year": "(1920-1921)",
+        "url": "https://www.youtube.com/results?search_query=Mamie%20Smith-Complete%20Recorded%20Works%20-%20Volume%201%20-",
+        "enriched": true
+    },
+    {
+        "unique_id": 474,
+        "genre": "Vocal Jazz ",
+        "artist": "Billie Holiday",
+        "song": "Ken Burns Jazz - The Definitive Billie Holiday",
+        "year": "(2000)",
+        "url": "https://www.youtube.com/results?search_query=Billie%20Holiday-Ken%20Burns%20Jazz%20-%20The%20Definitive%20Billie%20Holiday",
+        "enriched": true
+    }
+]

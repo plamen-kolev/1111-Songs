@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 87,
+        "genre": "\u00d6zg\u00fcn M\u00fczik ",
+        "artist": "Z\u00fclf\u00fc Livaneli",
+        "song": "Chants Revolutionnaires Turcs",
+        "year": "(1973)",
+        "url": "https://www.youtube.com/results?search_query=Z%C3%BClf%C3%BC%20Livaneli-Chants%20Revolutionnaires%20Turcs",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/Wj4vWQMFkUcLAhOiyfDmJx5hE3o\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLv839CEfotN7KleuWDGmenzUqBGEn1ERJ"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-03T12:36:33.000Z",
+                "channelId": "UCSQ3k5kCYxQEu3THFOIGk8g",
+                "title": "Zulfu Livaneli - Chants Revolutionnaires Turcs",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SakrDkz6CBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SakrDkz6CBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SakrDkz6CBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "a.y.",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 379,
+        "genre": "Other ",
+        "artist": "Various",
+        "song": "The Rough Guide to the Music of Venezuela",
+        "year": "(2003)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20the%20Music%20of%20Venezuela",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/V20LQrjk3a_aIXPyYTMjZQd1vzw\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL6zbfRAkNFVLbzhl69teX8VpuBJuHQtXb"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-06T10:05:51.000Z",
+                "channelId": "UCnfmn9gTZMTCGVCxyw895NQ",
+                "title": "The Rough Guide to the Music of Venezuela",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RfRjq04IaSU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RfRjq04IaSU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RfRjq04IaSU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jason Pritchard",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 1047,
+        "genre": "Other ",
+        "artist": "La Monte Young",
+        "song": "Compositions 1960",
+        "year": "(1960)",
+        "url": "https://www.youtube.com/results?search_query=La%20Monte%20Young-Compositions%201960",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Iz_SJWsxqNM7NTQl9jT5ctLJv5Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nsCayk7YrG8"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-01T23:39:26.000Z",
+                "channelId": "UCpgVnDxSVbyxqGyHx2es9qw",
+                "title": "Compositions 1960 #13 - La Monte Young",
+                "description": "Performance of one of Young's Compositions 1960, including pre-performance and post-performance concert talk. Performance begins at 1:13 Part of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nsCayk7YrG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nsCayk7YrG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nsCayk7YrG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brian Ellis",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

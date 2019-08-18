@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 291,
+        "genre": "Breton Folk ",
+        "artist": "Various",
+        "song": "Ils se meurent nos oiseaux",
+        "year": "(1978)",
+        "url": "https://www.youtube.com/results?search_query=Various-Ils%20se%20meurent%20nos%20oiseaux",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/-xQokbCgnhFwMFqCFiRKo1nauPM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NUCXWdOOzmk"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-23T20:11:03.000Z",
+                "channelId": "UCMbbjWY-BLff8PcT_uGVVXQ",
+                "title": "Glenmor - Ils se meurent nos oiseaux",
+                "description": "Buy on iTunes: https://itunes.apple.com/album/id1109130999 Taken from Glenmor \u00ab Dix ans d\u00e9j\u00e0... Que le vent porte et pose \u00bb Extrait de Glenmor \u00ab Dix ans ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NUCXWdOOzmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Coop Breizh Musik",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

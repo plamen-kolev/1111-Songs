@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 354,
+        "genre": "Conga ",
+        "artist": "Cachao",
+        "song": "Dos",
+        "year": "(1977)",
+        "url": "https://www.youtube.com/results?search_query=Cachao-Dos",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/DZKbjVj-a4-cupcYKCzLH2sxgvg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i5PBFUsSEYA"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-28T10:28:43.000Z",
+                "channelId": "UCXIcuwfQvAi257qKRoTfwvw",
+                "title": "Ko-Wo, Ko-Wo (2012 Remastered Version)",
+                "description": "Provided to YouTube by Salsoul Leyendas Ko-Wo, Ko-Wo (2012 Remastered Version) \u00b7 Cachao Tropical Classics: Cachao \u2117 1977 2012 Salsoul Leyendas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i5PBFUsSEYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i5PBFUsSEYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i5PBFUsSEYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cachao - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

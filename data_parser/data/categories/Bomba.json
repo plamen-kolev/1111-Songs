@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 365,
+        "genre": "Bomba ",
+        "artist": "Various",
+        "song": "\u00a1Saoco! The Bomba and Plena Explosion in Puerto Rico",
+        "year": "(1954-1966)",
+        "url": "https://www.youtube.com/results?search_query=Various-%C2%A1Saoco%21%20The%20Bomba%20and%20Plena%20Explosion%20in%20Puerto%20Rico",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pTcD9AYSalkZ6yh9Ejyxy2t32BM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u59OyqqlmDk"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-24T20:47:54.000Z",
+                "channelId": "UCn_Puvr0pW5RAKWtleuJ8sQ",
+                "title": "V\u00eddeo: Conferencia \u00a1Saoco! the bomba and plena explosion in Puerto Rico 1954-1966",
+                "description": "El IMPCA (Instituto de Investigaci\u00f3n Musical de Puerto Rico y el Caribe) celebr\u00f3 su primera actividad oficial el pasado mi\u00e9rcoles 20 de agosto en la Sala ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u59OyqqlmDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u59OyqqlmDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u59OyqqlmDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Biblioteca Amaury Veray",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 366,
+        "genre": "Bomba ",
+        "artist": "Cortijo y Su Combo con Ismael Rivera",
+        "song": "Cortijo en New York",
+        "year": "(1958)",
+        "url": "https://www.youtube.com/results?search_query=Cortijo%20y%20Su%20Combo%20con%20Ismael%20Rivera-Cortijo%20en%20New%20York",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Wuje0fL3vPRI1yNGbZ64hfz8HbQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DKOzT5I_e3M"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-03T13:40:52.000Z",
+                "channelId": "UCgTKW-DL61n2mXmS2y2yL-Q",
+                "title": "Ton Ton Canelo Rafel Cortijo y Su Combo con Ismael Rivera",
+                "description": "\u00c1lbum: Cortijo en New York Cortijo con Ismael fueron grandes int\u00e9rpretes de los ritmos naturales de Puerto Rico como la bomba y la plena, entre otros.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DKOzT5I_e3M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DKOzT5I_e3M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DKOzT5I_e3M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "C\u00e9sar Gonzales S",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

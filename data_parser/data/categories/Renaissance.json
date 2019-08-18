@@ -1,0 +1,422 @@
+[
+    {
+        "unique_id": 510,
+        "genre": "Renaissance ",
+        "artist": "Leonel Power",
+        "song": "Masses & Motets",
+        "year": "(~1410)",
+        "url": "https://www.youtube.com/results?search_query=Leonel%20Power-Masses%20%26amp%3B%20Motets",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YFn-qQ1S3UN16mYKt0AK9F9TJ7E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "orRhbqcJ90I"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-01T17:59:58.000Z",
+                "channelId": "UCuv9ilJ3RqqdpUg-ECILZrQ",
+                "title": "Leonel Power (1370/1385-1445) - Gloria",
+                "description": "Leonel Power (1370/1385-1445) click here for complete playlist: http://www.youtube.com/view_play_list?p=F26B256BB2572A3A.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/orRhbqcJ90I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/orRhbqcJ90I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/orRhbqcJ90I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "toxiconegro",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 511,
+        "genre": "Renaissance ",
+        "artist": "John Dunstaple",
+        "song": "Sweet Harmony - Masses and Motets",
+        "year": "(~1420)",
+        "url": "https://www.youtube.com/results?search_query=John%20Dunstaple-Sweet%20Harmony%20-%20Masses%20and%20Motets",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/O6ZEYMelcNx_G6xrx5H2OsnZlHE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uQNqkPkCA7o"
+            },
+            "snippet": {
+                "publishedAt": "2010-03-24T21:05:39.000Z",
+                "channelId": "UCuv9ilJ3RqqdpUg-ECILZrQ",
+                "title": "John Dunstable (1380-1453) - Beata mater",
+                "description": "John Dunstable (1380-1453) click here for complete playlist: http://www.youtube.com/view_play_list?p=F26B256BB2572A3A Beata mater et innupta virgo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uQNqkPkCA7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uQNqkPkCA7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uQNqkPkCA7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "toxiconegro",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 512,
+        "genre": "Renaissance ",
+        "artist": "Oswald von Wolkenstein",
+        "song": "Monophone und Polyphone Lieder",
+        "year": "(~1430)",
+        "url": "https://www.youtube.com/results?search_query=Oswald%20von%20Wolkenstein-Monophone%20und%20Polyphone%20Lieder",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Nt_LBGC3rvcQxCMkLc5ODAO-QH0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-eWO3QPEpqw"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-24T03:20:45.000Z",
+                "channelId": "UCsnMoSjatfFU1FMlTjVSQwQ",
+                "title": "Minnesinger von Wissenlo, 13th c.: Ein ritter der het s\u00eenen",
+                "description": "Minnesinger von Wissenlo: \"Ein ritter der het s\u00eenen\" Minnesang from the Manesse Codex, aka Grosse Heidelberger Liederhandschrift, 13th century. Text: von ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-eWO3QPEpqw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-eWO3QPEpqw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-eWO3QPEpqw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eric Boulanger",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 513,
+        "genre": "Renaissance ",
+        "artist": "Gilles Binchois",
+        "song": "Mon souverain d\u00e9sir - Chansons",
+        "year": "(~1430)",
+        "url": "https://www.youtube.com/results?search_query=Gilles%20Binchois-Mon%20souverain%20d%C3%A9sir%20-%20Chansons",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/P9L3gR93VLcCEthTD3P5q3VxwbU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MITDlkxmUgI"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-26T10:01:05.000Z",
+                "channelId": "UC5lPM2EDGnNT1v9tqfqka-Q",
+                "title": "Binchois : De plus en plus",
+                "description": "Gilles Binchois : [Mon Souverain Desir] chansons Ensemble Gilles Binchois Dominique Vellard : direction.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MITDlkxmUgI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MITDlkxmUgI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MITDlkxmUgI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "etudes6",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 514,
+        "genre": "Renaissance ",
+        "artist": "Guillaume Du Fay",
+        "song": "Missa 'L'homme arm\u00e9' - Motets",
+        "year": "(~1450)",
+        "url": "https://www.youtube.com/results?search_query=Guillaume%20Du%20Fay-Missa%20%26%23x27%3BL%26%23x27%3Bhomme%20arm%C3%A9%26%23x27%3B%20-%20Motets",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Uf4p04DGmC1QV3p2zoe3stj9QMQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2T0iqsNRtIw"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-25T14:09:15.000Z",
+                "channelId": "UCPHRSUmLQaO_7KERiSPiTBg",
+                "title": "Guillaume Dufay - Missa &#39;L&#39;homme arm\u00e9&#39; &amp; Motets (1987) Full Album",
+                "description": "Performer: The Hilliard Ensemble Track listing: 1 - Missa \"L'homme arm\u00e9\" I. Kyrie 2 - Missa \"L'homme arm\u00e9\" II. Gloria 3 - Missa \"L'homme arm\u00e9\" III. Credo 4 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2T0iqsNRtIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2T0iqsNRtIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2T0iqsNRtIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u042d\u0430\u0440\u0435\u043d\u0434\u0438\u043b",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 515,
+        "genre": "Renaissance ",
+        "artist": "Johannes Ockeghem",
+        "song": "Requiem - Missa Mi_Mi",
+        "year": "(~1470)",
+        "url": "https://www.youtube.com/results?search_query=Johannes%20Ockeghem-Requiem%20-%20Missa%20Mi_Mi",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YSyeSnyELL5w3-N0rRAYpi7J7c0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h-z_Ml4Z2hc"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-30T11:02:59.000Z",
+                "channelId": "UC3xpypx0eVnXxEB-Tl30irQ",
+                "title": "Johannes Ockeghem - Requiem Missa &amp; Mi-mi - The Hilliard Ensemble",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h-z_Ml4Z2hc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h-z_Ml4Z2hc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h-z_Ml4Z2hc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nicorobokun",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 516,
+        "genre": "Renaissance ",
+        "artist": "Josquin des Prez",
+        "song": "Missa Pange lingua",
+        "year": "(1515)",
+        "url": "https://www.youtube.com/results?search_query=Josquin%20des%20Prez-Missa%20Pange%20lingua",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tPuTeF-bGnRL4-Nwncj2WWVJhto\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vlB1HR4BgUg"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-16T00:07:42.000Z",
+                "channelId": "UCUhu4rh-wTfbYqZrNvJRShA",
+                "title": "Josquin:  Missa Pange lingua (Tallis Scholars)",
+                "description": "Josquin des Pres (c. 1440-1521): Missa Pange lingua Kyrie Gloria 2:57 Credo 7:17 Sanctus & Benedictus 14:00 Agnus Dei 22:19 The Tallis Scholars directed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vlB1HR4BgUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vlB1HR4BgUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Edward Murray",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 517,
+        "genre": "Renaissance ",
+        "artist": "Giovanni Pierluigi da Palestrina",
+        "song": "Missa Papae Marcelli",
+        "year": "(1562)",
+        "url": "https://www.youtube.com/results?search_query=Giovanni%20Pierluigi%20da%20Palestrina-Missa%20Papae%20Marcelli",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/liekaBIRRwAotBAHDN7fhEqzuEY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Fl2P5EfPO30"
+            },
+            "snippet": {
+                "publishedAt": "2009-04-11T18:08:12.000Z",
+                "channelId": "UCE_tKzj8Nai-2mpGkHJrCjA",
+                "title": "Giovanni Pierluigi da Palestrina - Missa Papae Marcelli - Kyrie",
+                "description": "Dir. George Ratzinger.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fl2P5EfPO30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fl2P5EfPO30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fl2P5EfPO30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LaVoceDelPadrone78",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 518,
+        "genre": "Renaissance ",
+        "artist": "William Byrd",
+        "song": "The Three Masses",
+        "year": "(1592-1595)",
+        "url": "https://www.youtube.com/results?search_query=William%20Byrd-The%20Three%20Masses",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/THFCJ9WOIGpERCQPA4A9Lu0fdKE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2PkuJaRYhNk"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-24T17:51:33.000Z",
+                "channelId": "UCFpBHtIl3ZthBoHmghGYsqA",
+                "title": "William Byrd\u2014The three Masses\u2014Westminster Cathedral Choir, Martin Baker",
+                "description": "Available from Hyperion Records (Downloads - mp3, ALAC, FLAC / CD) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2PkuJaRYhNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2PkuJaRYhNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2PkuJaRYhNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hyperion Records",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 519,
+        "genre": "Renaissance ",
+        "artist": "Carlo Gesualdo",
+        "song": "Tenebrae Responsoria",
+        "year": "(1611)",
+        "url": "https://www.youtube.com/results?search_query=Carlo%20Gesualdo-Tenebrae%20Responsoria",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/LP5O7gVQgFwNpjFgJ1Ng2ur5dko\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E-gP1Cb4S_o"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-27T15:29:21.000Z",
+                "channelId": "UCwbbr8FKVrWLF8T81RI7Lxg",
+                "title": "Carlo Gesualdo - from Tenebrae Responsories (1611)",
+                "description": "Carlo Gesualdo from Tenebrae Responsories (1611) 1. Sicut ovis ad occisionem 2. Jerusalem, surge 3. O vos omnes Ensemble Vocal Europ\u00e9en De La ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E-gP1Cb4S_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E-gP1Cb4S_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E-gP1Cb4S_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bartje Bartmans",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

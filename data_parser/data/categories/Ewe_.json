@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 2,
+        "genre": "Ewe ",
+        "artist": "Various",
+        "song": "Ewe Music of Ghana",
+        "year": "(1969)",
+        "url": "https://www.youtube.com/results?search_query=Various-Ewe%20Music%20of%20Ghana",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/hlb3v2glf2x6aKJ85m-jH4nXycE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HEPxLSKeMZU"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-18T14:04:28.000Z",
+                "channelId": "UCUIP_9MhifJPY8pUXXicJLQ",
+                "title": "Adzida Madzi - Ewe Music (Agbadza Hawo)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HEPxLSKeMZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EWE MUSIC WEST AFRICA",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

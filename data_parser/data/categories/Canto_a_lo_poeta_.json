@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 385,
+        "genre": "Canto a lo poeta ",
+        "artist": "Juan Capra",
+        "song": "Cile Canta E Lotta 1 (Chile Sings And Struggles)",
+        "year": "(1973)",
+        "url": "https://www.youtube.com/results?search_query=Juan%20Capra-Cile%20Canta%20E%20Lotta%201%20%28Chile%20Sings%20And%20Struggles%29",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jMj2kQQVIH3S554Cq21KoQiVp6w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fCzz9s4k-rQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-06T17:53:36.000Z",
+                "channelId": "UCY0ljSox_ontkG4lZ2gi4yw",
+                "title": "Age of Deceit (2) -  Hive Mind Reptile Eyes Hypnotism Cults World Stage - Multi - Language",
+                "description": "An information packed documentary ranging from topics to the Upside Down Cross to Alister Crowley to The Beatles to Sigil Trances to Archetypal Symbolic ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fCzz9s4k-rQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Free Truth Productions",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 508,
+        "genre": "Ars subtilior ",
+        "artist": "Ensemble Project Ars Nova",
+        "song": "Ars Magis Subtiliter",
+        "year": "(1400)",
+        "url": "https://www.youtube.com/results?search_query=Ensemble%20Project%20Ars%20Nova-Ars%20Magis%20Subtiliter",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/zrVcpJU4sqG1Hv_vI3Y8seTJHwI\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLEplYCsmW6qIvvAaEaPnXSztBqO-2fVHa"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-17T21:17:49.000Z",
+                "channelId": "UCuNwKaU2odSnbnY3QRjTmfw",
+                "title": "Top Tracks - Ensemble Project Ars Nova",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rc14fC0VdoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rc14fC0VdoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rc14fC0VdoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ensemble Project Ars Nova - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 509,
+        "genre": "Ars subtilior ",
+        "artist": "Johannes Ciconia",
+        "song": "Homage to Johannes Ciconia",
+        "year": "(1370-1412)",
+        "url": "https://www.youtube.com/results?search_query=Johannes%20Ciconia-Homage%20to%20Johannes%20Ciconia",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/BV-cG-jMQedfHBDPhJ6SrX1xhRI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ekdR1i8r83A"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-04T12:30:16.000Z",
+                "channelId": "UCCp6ZCsEMtLbSw2Vc49QxWw",
+                "title": "O rosa bella",
+                "description": "Provided to YouTube by The Orchard Enterprises O rosa bella \u00b7 Johannes Cicconia \u00b7 Ensemble PAN \u00b7 Ensemble Project Ars Nova Homage To Johannes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ekdR1i8r83A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ekdR1i8r83A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ekdR1i8r83A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ensemble Project Ars Nova - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

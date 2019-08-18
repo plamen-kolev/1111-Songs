@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 620,
+        "genre": "Swing ",
+        "artist": "Various",
+        "song": "An Anthology of Big Band Swing",
+        "year": "(1930-1955)",
+        "url": "https://www.youtube.com/results?search_query=Various-An%20Anthology%20of%20Big%20Band%20Swing"
+    },
+    {
+        "unique_id": 621,
+        "genre": "Swing ",
+        "artist": "Benny Goodman",
+        "song": "Carnegie Hall Jazz Concert",
+        "year": "(1938)",
+        "url": "https://www.youtube.com/results?search_query=Benny%20Goodman-Carnegie%20Hall%20Jazz%20Concert"
+    },
+    {
+        "unique_id": 622,
+        "genre": "Swing ",
+        "artist": "Artie Shaw",
+        "song": "Plays an Album of Popular Music",
+        "year": "(1939)",
+        "url": "https://www.youtube.com/results?search_query=Artie%20Shaw-Plays%20an%20Album%20of%20Popular%20Music"
+    },
+    {
+        "unique_id": 623,
+        "genre": "Swing ",
+        "artist": "Frank Sinatra",
+        "song": "Swing Easy! - Songs for Young Lovers",
+        "year": "(1955)",
+        "url": "https://www.youtube.com/results?search_query=Frank%20Sinatra-Swing%20Easy%21%20-%20Songs%20for%20Young%20Lovers"
+    },
+    {
+        "unique_id": 624,
+        "genre": "Swing ",
+        "artist": "Count Basie and His Orchestra + Neal Hefti Arrangements",
+        "song": "Basie",
+        "year": "(1958)",
+        "url": "https://www.youtube.com/results?search_query=Count%20Basie%20and%20His%20Orchestra%20%2B%20Neal%20Hefti%20Arrangements-Basie"
+    }
+]

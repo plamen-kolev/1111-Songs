@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 378,
+        "genre": "Tamborera ",
+        "artist": "Sylvia de Grasse",
+        "song": "La cita",
+        "year": "(1954)",
+        "url": "https://www.youtube.com/results?search_query=Sylvia%20de%20Grasse-La%20cita",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8DTV7xewBLflltnbrXyhLEIB20I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t3kbfiLZI4k"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-30T11:43:06.000Z",
+                "channelId": "UCPDzzc_du-9hCEFYRZfywhA",
+                "title": "Sylvia De Grasse \u2013 La Cita",
+                "description": "Silvia De Grasse Silvia de Grasse (Ciudad de Panam\u00e1, 28 de octubre de 1921 - San Juan, Puerto Rico; 14 de marzo de 1978) fue una cantante paname\u00f1a, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t3kbfiLZI4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t3kbfiLZI4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t3kbfiLZI4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VintageMusicFm",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

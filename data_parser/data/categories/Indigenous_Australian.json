@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 215,
+        "genre": "Indigenous Australian ",
+        "artist": "Various",
+        "song": "Tribal Music of Australia",
+        "year": "(1953)",
+        "url": "https://www.youtube.com/results?search_query=Various-Tribal%20Music%20of%20Australia",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/OmoWPD2jAO88NQVGvcaMabQV8Ag\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mOITXkzoeVA"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-17T13:42:42.000Z",
+                "channelId": "UCi1tnWHLkiJRuGevAV-g1eA",
+                "title": "Australian Traditional Music - Tribal War Didgeridoo",
+                "description": "Here is a list of books that I recommend that you should read in order to broaden your cultural horizons: The Mardudjara Aborigines: Living the Dream in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mOITXkzoeVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mOITXkzoeVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mOITXkzoeVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Culture Society",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

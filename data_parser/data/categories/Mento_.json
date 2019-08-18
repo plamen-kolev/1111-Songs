@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 486,
+        "genre": "Mento ",
+        "artist": "Various",
+        "song": "Mento Madness",
+        "year": "(2004)",
+        "url": "https://www.youtube.com/results?search_query=Various-Mento%20Madness",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/UT8RKumQilQPWFAEbeZS-uu3kns\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLhaEyVoBT39HqYOCt-UZrCB8pNBzsvnlF"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-07T19:14:21.000Z",
+                "channelId": "UCjcTPpscN2HmuNijKfgynIw",
+                "title": "Mento - SKA '50 - '60 - '70",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kyOV8ihRhPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kyOV8ihRhPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kyOV8ihRhPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nino Hood",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

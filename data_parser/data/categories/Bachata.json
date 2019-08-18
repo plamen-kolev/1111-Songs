@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 360,
+        "genre": "Bachata ",
+        "artist": "Rafael Encarnaci\u00f3n",
+        "song": "Homenaje a Rafael Encarnaci\u00f3n",
+        "year": "(1991)",
+        "url": "https://www.youtube.com/results?search_query=Rafael%20Encarnaci%C3%B3n-Homenaje%20a%20Rafael%20Encarnaci%C3%B3n",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/85AXTOrlPC8YayxbaH3Tp5diu6I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SB2JBRRfIH4"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-13T17:51:17.000Z",
+                "channelId": "UCvCizB3mIb37W0o3Cq_DTtA",
+                "title": "Rafael Encarnacion Todos sus exitos",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SB2JBRRfIH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SB2JBRRfIH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SB2JBRRfIH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rincon Tropical",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 361,
+        "genre": "Bachata ",
+        "artist": "Various",
+        "song": "Bachata Roja - Acoustic Bachata From the Cabaret Era",
+        "year": "(2007)",
+        "url": "https://www.youtube.com/results?search_query=Various-Bachata%20Roja%20-%20Acoustic%20Bachata%20From%20the%20Cabaret%20Era",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/plkgOvq01-jEvQRS_w7vZnnxygY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a96FJYayfAA"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-21T18:34:18.000Z",
+                "channelId": "UCmGiXHORF8RedaYAgt8RsiA",
+                "title": "Amor del bueno",
+                "description": "Provided to YouTube by Virtual Label LLC Amor del bueno \u00b7 Ram\u00f3n Cordero \u00b7 Ram\u00f3n Cordero Bachata Roja: Acoustic Bachata from the Cabaret Era \u2117 2007 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a96FJYayfAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a96FJYayfAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a96FJYayfAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ram\u00f3n Cordero - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 282,
+        "genre": "Flamenco Pop ",
+        "artist": "Rosa Morena",
+        "song": "Rosa Morena",
+        "year": "(1971)",
+        "url": "https://www.youtube.com/results?search_query=Rosa%20Morena-Rosa%20Morena",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/i_rEPhPDI0vCkPbRC8W_h3Oz9bI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-flS_aUW9bE"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-02T08:54:15.000Z",
+                "channelId": "UCZPJhDyBv3k67pa79dH63fw",
+                "title": "Jo\u00e3o Gilberto - Rosa Morena",
+                "description": "Faixa 8 - Chega de Saudade - 1959 \"Rosa Morena\" (Dorival Caymmi) Rosa, Morena! Onde vais Morena Rosa? Com essa rosa no cabelo E esse andar de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-flS_aUW9bE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-flS_aUW9bE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-flS_aUW9bE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jo\u00e3o Gilberto",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

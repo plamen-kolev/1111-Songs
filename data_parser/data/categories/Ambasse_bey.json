@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 20,
+        "genre": "Ambasse bey ",
+        "artist": "Eboa Lottin",
+        "song": "The Best of - Volume 1",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=Eboa%20Lottin-The%20Best%20of%20-%20Volume%201",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/T7nT5hisCuD7rLkCmgNU0-mACjs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ynua1XuH1-s"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-25T02:42:04.000Z",
+                "channelId": "UCsdwqO-fUiTulowCZ10emPA",
+                "title": "EBOA LOTIN *** BEST OF EBOA LOTIN",
+                "description": "African Music.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ynua1XuH1-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sarbaty sarbatty",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

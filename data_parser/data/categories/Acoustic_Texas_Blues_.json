@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 434,
+        "genre": "Acoustic Texas Blues ",
+        "artist": "Blind Lemon Jefferson",
+        "song": "The Best Of",
+        "year": "(2000)",
+        "url": "https://www.youtube.com/results?search_query=Blind%20Lemon%20Jefferson-The%20Best%20Of",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/mQRjgIXdWn0T6T3Hzbru0cna1_I\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7BF3755ABACEEE24"
+            },
+            "snippet": {
+                "publishedAt": "2009-03-14T22:54:09.000Z",
+                "channelId": "UCPXlJQH2Rx5QG4aF8w52HlQ",
+                "title": "Blind Lemon Jefferson (1926-1929) Texas Blues Guitar Legend",
+                "description": "Blind Lemon Jefferson (1926-1929) The Complete Recordings In Chronological Order.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WXsxqBhmlFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WXsxqBhmlFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WXsxqBhmlFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RagtimeDorianHenry",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

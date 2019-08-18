@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 429,
+        "genre": "Samba_can\u00e7\u00e3o ",
+        "artist": "Elza Soares",
+        "song": "A bossa negra",
+        "year": "(1961)",
+        "url": "https://www.youtube.com/results?search_query=Elza%20Soares-A%20bossa%20negra",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/aTK6HzR_0-c2-Kj6pTHOXU6Z2M4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XT_kHSX6fSI"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-10T16:59:27.000Z",
+                "channelId": "UCisZYxm010rck58dCHSWtqQ",
+                "title": "A Bossa Negra (Full Album)",
+                "description": "Provided to YouTube by Believe SAS A Bossa Negra (Full Album) \u00b7 Elza Soares A Bossa Negra (Full Album) \u2117 JB Production Released on: 2016-12-07 Author: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XT_kHSX6fSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XT_kHSX6fSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XT_kHSX6fSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Elza Soares - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

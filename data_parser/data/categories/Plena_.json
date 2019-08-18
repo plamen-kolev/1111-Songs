@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 367,
+        "genre": "Plena ",
+        "artist": "Canario y su Grupo",
+        "song": "Plenas",
+        "year": "(NA)",
+        "url": "https://www.youtube.com/results?search_query=Canario%20y%20su%20Grupo-Plenas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/nFaWILpueGFUasn4XK2Taf58WxA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YUQrFSlVeG8"
+            },
+            "snippet": {
+                "publishedAt": "2010-05-08T22:36:58.000Z",
+                "channelId": "UC6ugh5Gac97ahwvSn1TiEqw",
+                "title": "CANARIO Y SU GRUPO - Hechicera",
+                "description": "\"Hechicera\" de Manuel Jimenez \"Canario\". Raful\ufeff Benitez con Cortijo Y Su Combo. Manuel Jim\u00e9nez started his singing career at the age of 5. He was beheld a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YUQrFSlVeG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YUQrFSlVeG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YUQrFSlVeG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ramoburg",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

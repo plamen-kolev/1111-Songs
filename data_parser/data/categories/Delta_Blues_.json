@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 433,
+        "genre": "Delta Blues ",
+        "artist": "Charley Patton",
+        "song": "The Best of Charlie Patton - Classic Recordings From the 1920s and 30s",
+        "year": "(2003)",
+        "url": "https://www.youtube.com/results?search_query=Charley%20Patton-The%20Best%20of%20Charlie%20Patton%20-%20Classic%20Recordings%20From%20the%201920s%20and%2030s",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7fzJI1fyqDYiyDENYcZN8ExurdU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bTMTNjiiMng"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-07T09:52:14.000Z",
+                "channelId": "UCLue5AhDOIpePYzlc3rOVVQ",
+                "title": "Delta Blues - 2 hours of Blues, 41 great tracks, the greatest stars of the Delta",
+                "description": "Delta Blues \u2013 2 hours of Blues, 41 great tracks, the greatest stars of the Delta: Robert Johnson, Muddy Waters, John Lee Hooker, Bo Carter, Son House, Elmore ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bTMTNjiiMng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bTMTNjiiMng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bTMTNjiiMng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz and Blues Experience",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

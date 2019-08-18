@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 482,
+        "genre": "Punta ",
+        "artist": "Andy Palacio & The Garifuna Collective",
+        "song": "W\u00e1tina",
+        "year": "(2007)",
+        "url": "https://www.youtube.com/results?search_query=Andy%20Palacio%20%26amp%3B%20The%20Garifuna%20Collective-W%C3%A1tina",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/E53pDRI_Us5-26I8ZNvJRrNFzRU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLqjtcJkuTsx-fGk42tLeSXO_VqzUBqotZ"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-24T06:32:48.000Z",
+                "channelId": "UCImEDA4gQJUk7EfdNeptDhw",
+                "title": "Popular Andy Palacio & The Garifuna Collective & Andy Palacio videos",
+                "description": "Popular content related to Andy Palacio & The Garifuna Collective & Andy Palacio.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UNjSz0152-A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UNjSz0152-A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UNjSz0152-A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Garifuna Collective - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

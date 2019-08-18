@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 1,
+        "genre": "Dagomba ",
+        "artist": "Various",
+        "song": "Music of the Dagomba From Ghana",
+        "year": "(1978)",
+        "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Dagomba%20From%20Ghana",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/R2YvZYTMLfMoGR88yv7kRb_gh-c\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLN1MHhtcmPKCZOp_8lO0GfIwNNS6SndgJ"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-19T22:52:26.000Z",
+                "channelId": "UCb9FpJ-W6XMMoIIGaWL-v6g",
+                "title": "Proud Dagomba",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jv-eu3Nrmd8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tamale70s",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

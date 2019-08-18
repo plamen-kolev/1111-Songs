@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 8,
+        "genre": "Mande ",
+        "artist": "Various",
+        "song": "In Griot Time - String Music From Mali",
+        "year": "(2000)",
+        "url": "https://www.youtube.com/results?search_query=Various-In%20Griot%20Time%20-%20String%20Music%20From%20Mali",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/AJBshxyKyu8O9S60Cw-F6ylQ5nE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ExgmQPDer8k"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-09T09:21:26.000Z",
+                "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                "title": "Various \u200e\u2013 In Griot Time: String Music From Mali : African Griot Folk World Music Compilation Bands",
+                "description": "Label:Stern's Africa Country:Germany Released:2000 Buy Amzn (USA) : https://amzn.to/2HJ9hKK (affiliate) Buy Amzn (UK) : https://amzn.to/2vHmVJJ (affiliate) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ExgmQPDer8k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ExgmQPDer8k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ExgmQPDer8k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sunnyboy66",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

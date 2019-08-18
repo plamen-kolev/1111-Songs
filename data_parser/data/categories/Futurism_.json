@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 573,
+        "genre": "Futurism ",
+        "artist": "Luigi Russolo",
+        "song": "Die Kunst der Ger\u00e4usche",
+        "year": "(1913-1921)",
+        "url": "https://www.youtube.com/results?search_query=Luigi%20Russolo-Die%20Kunst%20der%20Ger%C3%A4usche",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Ty460fcTbCVJlOmRKb39cSA223Y\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLOnLSZSdIdkcmInD51U9KFb7shcz-UAlP"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-07T13:34:14.000Z",
+                "channelId": "UCUBLJ6Km2U02tLxieh1dixw",
+                "title": "Die Kunst Der Ger\u00e4usche - Luigi Russolo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IC3KMbSkYNI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IC3KMbSkYNI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IC3KMbSkYNI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jack OneEyed",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 574,
+        "genre": "Futurism ",
+        "artist": "George Antheil",
+        "song": "Ballet m\u00e9canique",
+        "year": "(1923-1948)",
+        "url": "https://www.youtube.com/results?search_query=George%20Antheil-Ballet%20m%C3%A9canique",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/BvZEFjNZsrpb0bRPDhXgfAdOhrI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FTblDvDNtKw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-09T23:00:00.000Z",
+                "channelId": "UCbytKGJi6wlY784dq0GXL7A",
+                "title": "Antheil - Ballet M\u00e9canique [Audio + Score]",
+                "description": "George Antheil [1900 - 1959] - Ballet M\u00e9canique [1926 rev. 1953] \"The Ballet m\u00e9canique is Antheil's most famous\u2014or notorious\u2014piece. At its various premieres, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FTblDvDNtKw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FTblDvDNtKw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FTblDvDNtKw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jleightcap",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

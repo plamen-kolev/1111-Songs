@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 264,
+        "genre": "Roman\u0163e ",
+        "artist": "Ioana Radu",
+        "song": "Volume 1",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=Ioana%20Radu-Volume%201",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/IVBXH90OcXMJc96RNSSyxDm6_Ss\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLJ2I_U9XF3oARQxk8HdnOOWsicXEyIScH"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-06T13:42:30.000Z",
+                "channelId": "UC6YwoH6z_iwRQ2h2jCC3aIA",
+                "title": "Ioana Radu, vol. 1",
+                "description": "Ioana Radu, vol. 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLYJAHrT1PA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Electrecord",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

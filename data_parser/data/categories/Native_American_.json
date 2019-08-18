@@ -1,0 +1,338 @@
+[
+    {
+        "unique_id": 221,
+        "genre": "Native American ",
+        "artist": "Various",
+        "song": "An Historical Album of Blackfoot Indian Music",
+        "year": "(1979)",
+        "url": "https://www.youtube.com/results?search_query=Various-An%20Historical%20Album%20of%20Blackfoot%20Indian%20Music",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/voc5Kng__gBWS31ZaRJLhC_wmK8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GTJlFtYc_nI"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-15T15:36:38.000Z",
+                "channelId": "UCInQna0Uous_Iirsfzr_i5w",
+                "title": "An Historical Album of Blackfoot Indian Music",
+                "description": "Various Artists An Historical Album of Blackfoot Indian Music 1979.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GTJlFtYc_nI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sr0vtk",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 222,
+        "genre": "Native American ",
+        "artist": "Various",
+        "song": "Music of the Sioux and the Navajo",
+        "year": "(1949)",
+        "url": "https://www.youtube.com/results?search_query=Various-Music%20of%20the%20Sioux%20and%20the%20Navajo",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/GGVT5IicGOBH07N0_w1EbDqhqoY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x1uJidwo77s"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-18T11:30:18.000Z",
+                "channelId": "UCJyPg4g9nqECNhm-ITINAQg",
+                "title": "Navajo Healing Song By The Navajo &amp; The Sioux",
+                "description": "Beautifull Healing Song Sung by The Navajo And The Sioux, All Navajo Pics. \"Traditional peyote chants with drum and rattle accompaniment are followed by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x1uJidwo77s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x1uJidwo77s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x1uJidwo77s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "helen1434",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 223,
+        "genre": "Native American ",
+        "artist": "Various",
+        "song": "Yaqui Dances - The Pascola Music of the Yaqui Indians of Northern Mexico",
+        "year": "(1957)",
+        "url": "https://www.youtube.com/results?search_query=Various-Yaqui%20Dances%20-%20The%20Pascola%20Music%20of%20the%20Yaqui%20Indians%20of%20Northern%20Mexico",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/BrzclhX7fWRYYugMiQiPaHUD_04\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QdtmYqiwIUo"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-07T22:18:14.000Z",
+                "channelId": "UCD26FNVb2uBtlJvXQ2XJ46g",
+                "title": "The Toad Ceremonies Of The Yaqui Tribe",
+                "description": "This video is only available for viewing in the United States, Canada & the UK due to copyright!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdtmYqiwIUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indigenous Americans",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 224,
+        "genre": "Native American ",
+        "artist": "Xavier Quijas Yxayotl",
+        "song": "Aztec Dances",
+        "year": "(2002)",
+        "url": "https://www.youtube.com/results?search_query=Xavier%20Quijas%20Yxayotl-Aztec%20Dances",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/JyLJSjJRDj9LUl5i51GDgpvpOP4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y8_WD8OHEEI"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-04T22:14:43.000Z",
+                "channelId": "UCDcPFv8VQQauaaPVJ2JrNGw",
+                "title": "Xavier Quijas Yxayotl - Tezcatlipoca y Fuego (to the Smoking Mirror and Fire Serpent)",
+                "description": "Xavier Quijas Yxayotl - Aztec Dances - Tezcatlipoca y Fuego (to the Smoking Mirror and Fire Serpent)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y8_WD8OHEEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dante6202",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 225,
+        "genre": "Native American ",
+        "artist": "Various",
+        "song": "Modern Mayan - The Indian Music of Chiapas, Mexico - Volume 1",
+        "year": "(1975)",
+        "url": "https://www.youtube.com/results?search_query=Various-Modern%20Mayan%20-%20The%20Indian%20Music%20of%20Chiapas%2C%20Mexico%20-%20Volume%201",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/QcUUrHEVz2vKpBY1h03J1zN8t4A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wjx3UDrqmWM"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-30T13:04:07.000Z",
+                "channelId": "UCASvsDeDbHNAwXtHGyEoI6A",
+                "title": "Song of Peace, Chalchiuitan",
+                "description": "Provided to YouTube by Smithsonian Folkways Recordings Song of Peace, Chalchiuitan \u00b7 Chalchiuitan violinist, guitarist, singers Modern Mayan: The Indian ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wjx3UDrqmWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Various Artists - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 226,
+        "genre": "Native American ",
+        "artist": "Ayllu Sulca",
+        "song": "Music of the Incas",
+        "year": "(1976)",
+        "url": "https://www.youtube.com/results?search_query=Ayllu%20Sulca-Music%20of%20the%20Incas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iYjVFods2LY_j_ME5Su_4tzCmmo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tH2aDs6L66Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-18T22:59:44.000Z",
+                "channelId": "UCPUC1Af30C0pN5VXePrycgw",
+                "title": "Ayllu Sulca - Music of the Incas (Full Album)",
+                "description": "Released in 1976. 01. Carnavales Ayacuchanos 0:00 02. Utuscuruscha 3:07 03. Condorkunka 6:12 04. No Me Llames por Mi Nombre 11:09 05. Caramelita de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tH2aDs6L66Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gaf Respih",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 227,
+        "genre": "Native American ",
+        "artist": "Yaki Kandru",
+        "song": "Music From the Tropical Rainforest & Other Magic Places",
+        "year": "(1982)",
+        "url": "https://www.youtube.com/results?search_query=Yaki%20Kandru-Music%20From%20the%20Tropical%20Rainforest%20%26amp%3B%20Other%20Magic%20Places",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/9sONYC5GpZk2KDG7rNQcmoLtaLA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jMG6JKdd22g"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-08T23:03:43.000Z",
+                "channelId": "UCwx0SjVcN9uI4soQEu7FLaA",
+                "title": "Canto De Mujeres De Los Suya",
+                "description": "Provided to YouTube by Believe SAS Canto De Mujeres De Los Suya \u00b7 Yaki Kandru Colombia - Music From The Tropical Rainforest And Other Magic Places ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jMG6JKdd22g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jMG6JKdd22g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jMG6JKdd22g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yaki Kandru - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 228,
+        "genre": "Native American ",
+        "artist": "Luzmila Carpio",
+        "song": "Cantos Quechua_Aymaras de Los Andes",
+        "year": "(1999)",
+        "url": "https://www.youtube.com/results?search_query=Luzmila%20Carpio-Cantos%20Quechua_Aymaras%20de%20Los%20Andes",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/W6fKwDWBBYdSizNQi-wdB3GS2qI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0YmrbLsFlVY"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-28T17:35:35.000Z",
+                "channelId": "UCfQGFh8iS0KahR-RwZlOFdw",
+                "title": "Warmip Kawsaynin",
+                "description": "Provided to YouTube by BWSCD, Inc. Warmip Kawsaynin \u00b7 Luzmila Carpio Yuyay Jap'ina Tapes \u2117 2015 Squirrel Thing Recordings Released on: 2015-08-07 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0YmrbLsFlVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luzmila Carpio - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

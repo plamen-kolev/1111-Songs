@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 370,
+        "genre": "Champeta ",
+        "artist": "Various",
+        "song": "Palenque Palenque - Champeta Criolla & Afro Roots in Colombia",
+        "year": "(1975-1991)",
+        "url": "https://www.youtube.com/results?search_query=Various-Palenque%20Palenque%20-%20Champeta%20Criolla%20%26amp%3B%20Afro%20Roots%20in%20Colombia",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QhYWEaaX0hHzju0MUdh5uFRKsbY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MfzPALvVfO4"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-28T06:57:41.000Z",
+                "channelId": "UCNzjZRQIC7k12XpzfOqOKtQ",
+                "title": "Palenque Palenque, Champeta CRiolla &amp; Afro-Roots - Soundway Records compilation",
+                "description": "Palenque Palenque compilation by Soundway records and Palenque Records https://palenquerecords.bandcamp.com/ compiled by Lucas Silva , Miles cleret, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MfzPALvVfO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MfzPALvVfO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MfzPALvVfO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Palenque Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

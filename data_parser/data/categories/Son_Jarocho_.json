@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 333,
+        "genre": "Son Jarocho ",
+        "artist": "Tr\u00edo Aguilillas",
+        "song": "Sones of Mexico",
+        "year": "(1950)",
+        "url": "https://www.youtube.com/results?search_query=Tr%C3%ADo%20Aguilillas-Sones%20of%20Mexico",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tQeljMRGPN5umX0MOw4uUvXnhyA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLNFKCpPexmMt1nFeeq4AWSwywYjc4YtB2"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-16T22:00:21.000Z",
+                "channelId": "UCQvlidtgsy-KOq5ayCkIKTQ",
+                "title": "sones of mexico 1950",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HEHVrKPAyOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MajorPrince",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

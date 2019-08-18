@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 368,
+        "genre": "Jibaro ",
+        "artist": "Ramito",
+        "song": "El cantor de la monta\u00f1a",
+        "year": "(1960)",
+        "url": "https://www.youtube.com/results?search_query=Ramito-El%20cantor%20de%20la%20monta%C3%B1a",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uwW2e84JvlMkf1YVdBeLCgY-NLQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qHA_30e7eEc"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-06T01:54:16.000Z",
+                "channelId": "UCTTW1Lq9SKClOyL4r47FwLQ",
+                "title": "RAMITO, EL CANTOR DE LA MONTANA SIGUE CANTANDO_0001.wmv",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qHA_30e7eEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qHA_30e7eEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qHA_30e7eEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rafael Garcia",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

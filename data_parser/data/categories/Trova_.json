@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 356,
+        "genre": "Trova ",
+        "artist": "Tr\u00edo Matamoros",
+        "song": "The Legendary Tr\u00edo Matamoros",
+        "year": "(1992)",
+        "url": "https://www.youtube.com/results?search_query=Tr%C3%ADo%20Matamoros-The%20Legendary%20Tr%C3%ADo%20Matamoros",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Q7WjNhE05qgJfIFTeDA_GMYv1Dk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YSkAOQMxaDU"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-03T01:31:51.000Z",
+                "channelId": "UCwh98V5dZWiTt5yGuIhHfkA",
+                "title": "Trio Matamoros - La Cumbancha",
+                "description": "The Legendary Trio Matamoros / 1992 / Cuba.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSkAOQMxaDU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSkAOQMxaDU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSkAOQMxaDU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "teotihuacan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

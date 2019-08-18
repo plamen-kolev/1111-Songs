@@ -1,0 +1,27 @@
+[
+    {
+        "unique_id": 380,
+        "genre": "M\u00fasica criolla peruana ",
+        "artist": "Various",
+        "song": "Afro_Peruvian Classics - The Soul of Black Peru",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=Various-Afro_Peruvian%20Classics%20-%20The%20Soul%20of%20Black%20Peru",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/_YhHJpyDmeVQkd7jQZ4pA4FAuCM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLLbkadbWO4sGz9hqvxIZo7r9d39211xhw"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-25T03:29:16.000Z",
+                "channelId": "UCwIqJZC6j5VI1PlCa2zPY5g",
+                "title": "Afro-Peruvian Classics: The Soul of Black Peru",
+                "description": "",
+                "channelTitle": "lalitocy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "unique_id": 520,
+        "genre": "Baroque ",
+        "artist": "Jacopo Peri",
+        "song": "Euridice",
+        "year": "(1600)",
+        "url": "https://www.youtube.com/results?search_query=Jacopo%20Peri-Euridice",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/I41_p-cuIvw1yPMtDo0s9B5ZASI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Z1i4aYgmyc"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-11T15:37:18.000Z",
+                "channelId": "UCgJsAbRqaoxY7iWppDczwaA",
+                "title": "J. Peri &amp; G. Caccini - Euridice ; Prologues",
+                "description": "VID\u00c9O CR\u00c9ATION ToutEst Musique N'h\u00e9sitez pas \u00e0 me suivre sur ma page Facebook https://www.facebook.com/orfeotoutestmusique Jacopo Peri (1561-1633) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Z1i4aYgmyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Z1i4aYgmyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Z1i4aYgmyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ToutEst Musique",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 521,
+        "genre": "Baroque ",
+        "artist": "Claudio Monteverdi",
+        "song": "L'Orfeo",
+        "year": "(1607)",
+        "url": "https://www.youtube.com/results?search_query=Claudio%20Monteverdi-L%26%23x27%3BOrfeo",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/HcoQYSNPo3PTJ9hKn6zR90fYmjo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0mD16EVxNOM"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-20T15:21:40.000Z",
+                "channelId": "UCYknqdigiJHtQuAAA0v7qSQ",
+                "title": "L&#39; ORFEO: Favola in Musica (Claudio Monteverdi) - Representaci\u00f3n de Jordi Savall",
+                "description": "L' ORFEO: Favola in Musica (1607) - Claudio Monteverdi (1567 - 1643). (Representaci\u00f3n de Jordi Savall y La Capella Reial de Catalunya en el Gran Teatro del ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0mD16EVxNOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0mD16EVxNOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0mD16EVxNOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Belarmo",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 522,
+        "genre": "Baroque ",
+        "artist": "Claudio Monteverdi",
+        "song": "Vespro della Beata Vergine",
+        "year": "(1610)",
+        "url": "https://www.youtube.com/results?search_query=Claudio%20Monteverdi-Vespro%20della%20Beata%20Vergine",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uFEKKITBOazRdEK8BHvQoPPoML4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QJIwFO9A1f8"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-06T00:19:39.000Z",
+                "channelId": "UC6nJ3JgIV1QcbZVMxSeLDzw",
+                "title": "Vespro Della Beata Vergine - Claudio Monteverdi - John Eliot Gardiner",
+                "description": "Vespro Della Beata Vergine (Vespers of the Blessed Virgin) By Claudio Monteverdi John Eliot Gardiner - Conducter The Monteverdi Choir The English Baroque ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QJIwFO9A1f8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QJIwFO9A1f8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QJIwFO9A1f8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "codonauta",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 523,
+        "genre": "Baroque ",
+        "artist": "New York Pro Musica Antiqua",
+        "song": "Early Baroque Music of Italy",
+        "year": "(1610-1620)",
+        "url": "https://www.youtube.com/results?search_query=New%20York%20Pro%20Musica%20Antiqua-Early%20Baroque%20Music%20of%20Italy",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ShG13ho-KRefqlgqYUKOcdFggxg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "30xBc99kdpI"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-04T11:29:52.000Z",
+                "channelId": "UCSpe1aLCGbSFiiM13v1Mdyg",
+                "title": "Tudor Court Music (New York Pro Musica)",
+                "description": "This video contains music from the Tudor Court performed by the New York Pro Musica. Since its formation in 1952, the New York Pro Musica has gained ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/30xBc99kdpI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/30xBc99kdpI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/30xBc99kdpI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "gsw55",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 524,
+        "genre": "Baroque ",
+        "artist": "Heinrich Sch\u00fctz",
+        "song": "Symphoniae sacrae III",
+        "year": "(1650)",
+        "url": "https://www.youtube.com/results?search_query=Heinrich%20Sch%C3%BCtz-Symphoniae%20sacrae%20III",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/NXaINTMf2Kwqjh0nbqR-Xy7OHZE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GUv5qCS3c8o"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-05T05:14:25.000Z",
+                "channelId": "UCnopxQLT1ogTtZ07ec6UEeg",
+                "title": "Heinrich Sch\u00fctz, Symphoniae Sacrae III, part 1, Cantus C\u00f6lln",
+                "description": "Heinrich Sch\u00fctz (1585 - 1672) Syphoniae Sacrae part 1 1.Der Herr ist mein Hirt, SWV 398 2. Ich hebe meine Augen auf, SWV 399 3. Wo der Herr nicht das Haus ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GUv5qCS3c8o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GUv5qCS3c8o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GUv5qCS3c8o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arnold van der Waals",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 525,
+        "genre": "Baroque ",
+        "artist": "Luigi Rossi",
+        "song": "Le canterine romane",
+        "year": "(~1630)",
+        "url": "https://www.youtube.com/results?search_query=Luigi%20Rossi-Le%20canterine%20romane",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ZSzwd7_CTa0jer5WwfvEx7N0lZY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qJdG7iT-nMQ"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-10T23:05:16.000Z",
+                "channelId": "UCoZjzoO0xrrK9DkuTDU9uHA",
+                "title": "IMPRIMATUR: 4- Story of Fouquet (Rossi)",
+                "description": "Soundtrack of the world bestseller IMPRIMATUR (English edition: Polygon, 2008): 4- Story of Fouquet (pp. 74 et seq.) Luigi Rossi (CD Teldec 4509-90799-2; ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qJdG7iT-nMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qJdG7iT-nMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qJdG7iT-nMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imprimatur Fanclub",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 526,
+        "genre": "Baroque ",
+        "artist": "Francesco Cavalli",
+        "song": "Xerse",
+        "year": "(1654)",
+        "url": "https://www.youtube.com/results?search_query=Francesco%20Cavalli-Xerse",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/u6hzREBS-CinOvRm_kYEQbLdp3c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6bA2UuYw4Jg"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-22T02:55:43.000Z",
+                "channelId": "UC_zu1LNaTnBmPmnapWcuk6A",
+                "title": "Ombra mai fu Xerse Francesco Cavalli Rene Jacobs",
+                "description": "The same libretto than Handel's Serse by Nicola Minato with Rene Jacobs, Jeffry Gall, Judith Nelson, Agnes Mellon and Guy de Mey 1985 - Ombra mai fu - Ahi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6bA2UuYw4Jg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6bA2UuYw4Jg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6bA2UuYw4Jg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bejun",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 527,
+        "genre": "Baroque ",
+        "artist": "Jean_Baptiste Lully",
+        "song": "Grands Motets - Volume 1",
+        "year": "(1661-1684)",
+        "url": "https://www.youtube.com/results?search_query=Jean_Baptiste%20Lully-Grands%20Motets%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pNz4BULz24tddoXtuBl18SUN55Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xyfM6L0S81Y"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-04T17:48:10.000Z",
+                "channelId": "UCHSqkqAbotQCGCLBDY6yQBA",
+                "title": "Jean Baptiste Lully   Grands Motets - Disc 2 / \u0416\u0430\u043d \u0411\u0430\u0442\u0438\u0441\u0442 \u041b\u044e\u043b\u043b\u0438   \u0421\u043e\u0431\u0440\u0430\u043d\u0438\u0435 \u0431\u043e\u043b\u044c\u0448\u0438\u0445 \u043c\u043e\u0442\u0435\u0442\u043e\u0432 - \u0414\u0438\u0441\u043a 2",
+                "description": "Volume Two / \u0414\u0438\u0441\u043a 2 : 1. Quare Fremuerunt: 1. Symphonie 2. Quare Fremuerunt: 2. Reges Eos In Virga Ferrea 3. O Lachrymae: 1. Symphonie 4. O Lachrymae: 2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xyfM6L0S81Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xyfM6L0S81Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xyfM6L0S81Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Best Classical Music",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 528,
+        "genre": "Baroque ",
+        "artist": "Arcangelo Corelli",
+        "song": "Trio Sonatas",
+        "year": "(1681)",
+        "url": "https://www.youtube.com/results?search_query=Arcangelo%20Corelli-Trio%20Sonatas",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YsFTSXf-UPFktKRY4EKTt-cVAp8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9VChusdIqU4"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-05T08:14:46.000Z",
+                "channelId": "UCcynlyUis4xaA4HN38nPtXA",
+                "title": "Arcangelo Corelli (1653-1713)  Trio Sonatas",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9VChusdIqU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9VChusdIqU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9VChusdIqU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0410\u043b\u0438\u043a \u0421\u043e\u0431\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 529,
+        "genre": "Baroque ",
+        "artist": "Dieterich Buxtehude",
+        "song": "Membra Jesu Nostri",
+        "year": "(1680-1724)",
+        "url": "https://www.youtube.com/results?search_query=Dieterich%20Buxtehude-Membra%20Jesu%20Nostri",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/3ZHJ9jMgS0-3I7eSi1SdAj1V1qw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bWbBK2poJlE"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-06T04:06:45.000Z",
+                "channelId": "UC5MsP_9E66_UCsrrVQBawww",
+                "title": "Dietrich Buxtehude: Membra Jesu Nostri -  Ren\u00e9 Jacobs, 2004 (HD 1080p)",
+                "description": "Faces of Classical Music http://facesofclassicalmusic.blogspot.gr/ \u2022 More information: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bWbBK2poJlE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bWbBK2poJlE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bWbBK2poJlE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Faces of Classical Music \u2013 4",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 530,
+        "genre": "Baroque ",
+        "artist": "Jean_Philippe Rameau",
+        "song": "Pi\u00e8ces de clavecin",
+        "year": "(1706-1727)",
+        "url": "https://www.youtube.com/results?search_query=Jean_Philippe%20Rameau-Pi%C3%A8ces%20de%20clavecin",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Pa7pb5-z13EXtsKZkDJH5YcV6nM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gzJ4UEaMLd0"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-12T11:53:30.000Z",
+                "channelId": "UC9B6J4qn5M_TLMh7zX0ISBA",
+                "title": "Rameau: Complete Works for Harpsichord (Full Album)",
+                "description": "Spotify: https://open.spotify.com/album/33GNaGclyF3UrDE6A4gFKq Physical sale: http://brilliantclassics.com/articles/r/rameau-complete-works-for-harpsichord/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzJ4UEaMLd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzJ4UEaMLd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzJ4UEaMLd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brilliant Classics",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 531,
+        "genre": "Baroque ",
+        "artist": "Antonio Vivaldi",
+        "song": "The Four Seasons",
+        "year": "(1723)",
+        "url": "https://www.youtube.com/results?search_query=Antonio%20Vivaldi-The%20Four%20Seasons",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/z7MmH3l4ZT7joSFmAtJvMOUcBqc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GRxofEmo3HA"
+            },
+            "snippet": {
+                "publishedAt": "2011-01-30T16:29:39.000Z",
+                "channelId": "UCHCLZnwCgcGoPKOA0ECe2Bg",
+                "title": "Four Seasons ~ Vivaldi",
+                "description": "Antonio Vivaldi - Four Seasons Budapest Strings Bela Banfalvi, Conductor You can get the exact album I have here on Amazon: http://amzn.to/1I2dNNu (affiliate) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GRxofEmo3HA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GRxofEmo3HA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GRxofEmo3HA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AnAmericanComposer",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 532,
+        "genre": "Baroque ",
+        "artist": "Georg Philipp Telemann",
+        "song": "Tafelmusik (Musique de table) - Auswahl (Selections)",
+        "year": "(1733)",
+        "url": "https://www.youtube.com/results?search_query=Georg%20Philipp%20Telemann-Tafelmusik%20%28Musique%20de%20table%29%20-%20Auswahl%20%28Selections%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/gC6Hk6QaP2A8QEmNK3gUAbEp8IE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pLmhm6ptbug"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-18T07:59:53.000Z",
+                "channelId": "UC9B6J4qn5M_TLMh7zX0ISBA",
+                "title": "Telemann: Tafelmusik (Selection)",
+                "description": "Tracklist below. Online purchase or streaming (Spotify, iTunes, Amazon Music, Deezer, Google Play): ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pLmhm6ptbug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pLmhm6ptbug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pLmhm6ptbug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brilliant Classics",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 533,
+        "genre": "Baroque ",
+        "artist": "Domenico Scarlatti",
+        "song": "Enrico Pieranunzi Plays Domenico Scarlatti - Sonatas and Improvisations",
+        "year": "(~1740)",
+        "url": "https://www.youtube.com/results?search_query=Domenico%20Scarlatti-Enrico%20Pieranunzi%20Plays%20Domenico%20Scarlatti%20-%20Sonatas%20and%20Improvisations",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Pi5nRiuYDOMa1blj5OAHUBV1Cto\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BB7JQhDTXqs"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-18T23:28:59.000Z",
+                "channelId": "UCVYMOEMs8jjaBx9E69gveaQ",
+                "title": "&quot;Enrico Pieranunzi plays Domenico Scarlatti / sonatas and improvisations&quot; (2008) (FULL ALBUM)",
+                "description": "Enrico Pieranunzi on piano, recorded in Ludwigsburg on December 8-9, 2007 at Bauer Studios. \"Somewhere between game, dream and vision, Pieranunzi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BB7JQhDTXqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BB7JQhDTXqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BB7JQhDTXqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luca Durand",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 534,
+        "genre": "Baroque ",
+        "artist": "George Frideric Handel",
+        "song": "Messiah",
+        "year": "(1741)",
+        "url": "https://www.youtube.com/results?search_query=George%20Frideric%20Handel-Messiah",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/LJJghHoEXY5pU_fRf6UwLvNjw5o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "juckXS8PktE"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-27T05:44:07.000Z",
+                "channelId": "UCksCNnqjxfSr7C0FSu5VkAA",
+                "title": "Messiah by George Frideric Handel",
+                "description": "George Frideric Handel's \"Messiah\" (Hallelujah).",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/juckXS8PktE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/juckXS8PktE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/juckXS8PktE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music for Insomniacs",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 535,
+        "genre": "Baroque ",
+        "artist": "Johann Sebastian Bach",
+        "song": "Brandenburg Concertos",
+        "year": "(1718-1721)",
+        "url": "https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach-Brandenburg%20Concertos",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/9YH61ufHiFGECeSBinafC3aXI2s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NCPM8DEsvmc"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-20T17:58:45.000Z",
+                "channelId": "UCbo6-E5nBPrJZSky4gu2d3Q",
+                "title": "J. S. Bach -  Brandenburg Concertos",
+                "description": "Johann Sebastian Bach (1685-1750). Brandenburg Concertos. Concerto n\u00ba1 in F major BWV 1046 1. (no tempo indication) 2. Adagio 3. Allegro 4. Menuetto-Trio ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCPM8DEsvmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCPM8DEsvmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCPM8DEsvmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bachlokillo",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 536,
+        "genre": "Baroque ",
+        "artist": "Johann Sebastian Bach",
+        "song": "St. Matthew Passion",
+        "year": "(1727)",
+        "url": "https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach-St.%20Matthew%20Passion",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/u-zx-m1TICfvcApSjGNr6GxiSQU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P21qlB0K-Bs"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-06T21:57:56.000Z",
+                "channelId": "UCbXWBsqNlNpj-Feyf4jPlFQ",
+                "title": "St Matthew Passion - Matth\u00e4us-Passion BWV 244 | (Complete) (Full Concert) (J. S. Bach)",
+                "description": "St Matthew Passion - Matth\u00e4us-Passion BWV 244 | (Complete) (Full Concert) (J. S. Bach) The St Matthew Passion, (also frequently St Matthew's Passion) BWV ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P21qlB0K-Bs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P21qlB0K-Bs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P21qlB0K-Bs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ClassicalMusicTVHD",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 537,
+        "genre": "Baroque ",
+        "artist": "Johann Sebastian Bach",
+        "song": "Goldberg Variations",
+        "year": "(1741)",
+        "url": "https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach-Goldberg%20Variations",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QziphkgpFGH7SGPqVJgdLjvzM3E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "15ezpwCHtJs"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-28T19:13:06.000Z",
+                "channelId": "UC7ojk-6mPa_T8uUg6tKs5hw",
+                "title": "Goldberg Variations Complete (J.S. Bach BWV 988), with score, Kimiko Ishizaka piano",
+                "description": "New album from Kimiko Ishizaka! https://www.kickstarter.com/projects/kimikoishizaka/new-me Download the audio files (mp3, wav): ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/15ezpwCHtJs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/15ezpwCHtJs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/15ezpwCHtJs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OpenGoldberg",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 538,
+        "genre": "Baroque ",
+        "artist": "Johann Sebastian Bach",
+        "song": "Mass in B Minor",
+        "year": "(1749)",
+        "url": "https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach-Mass%20in%20B%20Minor",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/tDOs7gM91-R6xGj9Z_XZHmqxue0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7F7TVM8m95Y"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-21T12:26:20.000Z",
+                "channelId": "UCSomFTI7wELxRj_B5nLet2Q",
+                "title": "Bach - Mass in B minor (Proms 2012)",
+                "description": "Prom 26: Bach -- Mass in B minor Johann Sebastian Bach - Mass in B minor Jo\u00e9lle Harvey soprano Carolyn Sampson soprano Iestyn Davies counter-tenor Ed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7F7TVM8m95Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7F7TVM8m95Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7F7TVM8m95Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mandetriens",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 539,
+        "genre": "Baroque ",
+        "artist": "Johann Sebastian Bach",
+        "song": "The Art of Fugue",
+        "year": "(1750)",
+        "url": "https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach-The%20Art%20of%20Fugue",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/y3gQvimSJQDa9SA_YfZADpXpIE8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4uX-5HOx2Wc"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-22T23:59:24.000Z",
+                "channelId": "UCUd7Kmk9oASpRz5-xgD4NIA",
+                "title": "Glenn Gould-J.S. Bach-The Art of Fugue (HD)",
+                "description": "Die Kunst der Fugue-Arte della Fuga-Contrapunctus I-IV (HD video)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4uX-5HOx2Wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4uX-5HOx2Wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4uX-5HOx2Wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "glenngould52",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

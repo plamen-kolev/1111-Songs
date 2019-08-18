@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 427,
+        "genre": "Partido alto ",
+        "artist": "Araci C\u00f4rtes & Clementina de Jesus",
+        "song": "Rosa de ouro",
+        "year": "(1965)",
+        "url": "https://www.youtube.com/results?search_query=Araci%20C%C3%B4rtes%20%26amp%3B%20Clementina%20de%20Jesus-Rosa%20de%20ouro",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/c2KTSE5WTeisJbswFlgSKazWKIw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8iMa_Y39yxI"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-29T18:41:20.000Z",
+                "channelId": "UCdTX3dfKDe2BfB5mIUGHRaQ",
+                "title": "Pot-Pourri: Rosa de Ouro \u2013 Aracy Cortes &amp; Clementina de Jesus",
+                "description": "Rosa de Ouro (Herm\u00ednio Bello de Carvalho/Elton Medeiros/Paulinho da Viola) Quatro Crioulos (Elton Medeiros/Joacyr Santana) Dona Carola (Nelson ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8iMa_Y39yxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8iMa_Y39yxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8iMa_Y39yxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jo\u00e3o Pedro Magalh\u00e3es",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

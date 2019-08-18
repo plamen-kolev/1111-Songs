@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 240,
+        "genre": "Albanian Folk ",
+        "artist": "Various",
+        "song": "Albanie - Polyphonies vocales et instrumentales",
+        "year": "(1988)",
+        "url": "https://www.youtube.com/results?search_query=Various-Albanie%20-%20Polyphonies%20vocales%20et%20instrumentales",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/aZ3jSzQBu_OSM4oa3oeDFdvK65U\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLnJDCrKyKvbZHKkkzXej3nEvbg8jd3Qk-"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-26T18:03:40.000Z",
+                "channelId": "UCtNG7opN-3YhhXQ3hlEcZmA",
+                "title": "Albanie: Polyphonies vocales et instrumentales",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M0zvUb8uEo0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vch",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

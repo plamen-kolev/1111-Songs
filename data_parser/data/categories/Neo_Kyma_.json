@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 257,
+        "genre": "Neo Kyma ",
+        "artist": "Dionysis Savvopoulos",
+        "song": "\u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc",
+        "year": "(1966)",
+        "url": "https://www.youtube.com/results?search_query=Dionysis%20Savvopoulos-%CE%A6%CE%BF%CF%81%CF%84%CE%B7%CE%B3%CF%8C",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/wgMhkuEvYP01mM-5rXWEbQJuZ2w\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLw3Mt4FUg5YTpqRgAR3NWwHiiRwhkIRS7"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-09T11:37:10.000Z",
+                "channelId": "UChMcgwcwdDdAS7nFrksaL9w",
+                "title": "\u0394\u03b9\u03bf\u03bd\u03cd\u03c3\u03b7\u03c2 \u03a3\u03b1\u03b2\u03b2\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - \u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc",
+                "description": "Youtube Subscribe: https://goo.gl/814dsM \u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b4\u03af\u03c3\u03ba\u03bf \u03a6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc \u03c3\u03c4\u03b1: iTunes: https://apple.co/2lJIm5o Google Play: http://bit.ly/2lJed68 YouTube Playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KG_wcVawj9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KG_wcVawj9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KG_wcVawj9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03a4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

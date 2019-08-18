@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 22,
+        "genre": "Bikutsi ",
+        "artist": "Francis Bebey",
+        "song": "Akwaaba",
+        "year": "(1984)",
+        "url": "https://www.youtube.com/results?search_query=Francis%20Bebey-Akwaaba",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/u0kRA48i2NfdasgJukVNf5x-smY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RDaUJ8N4Gk4"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-30T17:24:29.000Z",
+                "channelId": "UCaBKZAJ-Z-yZMTJi_MavwJw",
+                "title": "Francis Bebey - Akwaaba: Music For Sanza (1985)",
+                "description": "Francis Bebey - Akwaaba: Music For Sanza (1985) 1. Akwaaba 00:00 2. Bissau 05:56 3. Binta Madiallo 09:37 4. Ngoma Likembe 16:24 5. Tumu Pakara 21:38 6.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RDaUJ8N4Gk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Santiago Bogacz",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

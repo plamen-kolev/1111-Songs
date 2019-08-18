@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 265,
+        "genre": "Hungarian Folk ",
+        "artist": "Various",
+        "song": "The Rough Guide to Hungarian Music",
+        "year": "(2002)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Rough%20Guide%20to%20Hungarian%20Music",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/LJ8M4xfu3SaxgjcyvAfPX-x3REs\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLxqRACvfJv3A8Dc0c7jPZ-fkyOhkGdnEx"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-24T22:39:06.000Z",
+                "channelId": "UC4n2l_Mww4eDTGwFV6YXxWg",
+                "title": "Rough guide to Hungarian gypsies",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E5kS0kM7pCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vobaoge Queenston",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

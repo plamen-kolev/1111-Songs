@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 352,
+        "genre": "Chachach\u00e1 ",
+        "artist": "Tito Puente",
+        "song": "Mucho Cha Cha",
+        "year": "(1959)",
+        "url": "https://www.youtube.com/results?search_query=Tito%20Puente-Mucho%20Cha%20Cha",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/b90jhVDgLlncCmqflt8qXBaetnk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mOVclyfHcHA"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-30T01:34:59.000Z",
+                "channelId": "UCFNvINFBZaD78lTNiMxRiXQ",
+                "title": "TITO PUENTE: Mucho Cha - Cha.",
+                "description": "Temas: 01) Cha - Con - Cha. 02) Cha - Cha - Son. 03) Cha - Cha - Gua. 04) Un Cha - Cha. 05) Doing The Cha Cha....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mOVclyfHcHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mOVclyfHcHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mOVclyfHcHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daniel E. C\u00e1diz M.",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

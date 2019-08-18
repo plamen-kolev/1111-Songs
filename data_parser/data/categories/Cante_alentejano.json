@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 287,
+        "genre": "Cante alentejano ",
+        "artist": "Os Ganh\u00f5es de Castro Verde",
+        "song": "Terra - Antologia Polifonias alentejanas",
+        "year": "(1972-2006)",
+        "url": "https://www.youtube.com/results?search_query=Os%20Ganh%C3%B5es%20de%20Castro%20Verde-Terra%20-%20Antologia%20Polifonias%20alentejanas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8QqhqrHzjlIchYlrbMsB3dAb-H4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "05BYPUy7290"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-02T15:42:44.000Z",
+                "channelId": "UCh5tYA07B0Uur5Mo1gbPmYQ",
+                "title": "Ganh\u00f5es de Castro Verde - &quot;Terra (Antologia 1972-2006)&quot; Polifonias alentejanas, parte I (2007)",
+                "description": "uma edi\u00e7\u00e3o fundamental para a hist\u00f3ria do movimento coral, ou orfe\u00f3nico, do Baixo Alentejo. Esta antologia de mais de 30 anos de trabalho editorial de \"Os ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/05BYPUy7290/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/05BYPUy7290/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/05BYPUy7290/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DoTempoDosSonhos",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

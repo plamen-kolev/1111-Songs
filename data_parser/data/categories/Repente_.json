@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 419,
+        "genre": "Repente ",
+        "artist": "Jos\u00e9 Vicente da Para\u00edba e Passarinho do Norte",
+        "song": "Repentes e repentistas",
+        "year": "(1973)",
+        "url": "https://www.youtube.com/results?search_query=Jos%C3%A9%20Vicente%20da%20Para%C3%ADba%20e%20Passarinho%20do%20Norte-Repentes%20e%20repentistas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CwUSe6LlYACKxK7aMwpoQ7vrhRw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gBJ-1kc3IhA"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-12T19:35:44.000Z",
+                "channelId": "UC2uq26zGB18U_mtzK7HSr2g",
+                "title": "jose vicente da paraiba e passarinho do norte - Martelo",
+                "description": "fonte : http://www.acervoorigens.com/2011/08/repentes-e-repentistas-violeiros.html jose vicente da paraiba e passarinho do norte - repentes e repentistas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gBJ-1kc3IhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gBJ-1kc3IhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gBJ-1kc3IhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "videogame OST",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

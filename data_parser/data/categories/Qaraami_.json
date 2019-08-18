@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 59,
+        "genre": "Qaraami ",
+        "artist": "Various",
+        "song": "Sweet as Broken Dates - Lost Somali Tapes From the Horn of Africa",
+        "year": "(2017)",
+        "url": "https://www.youtube.com/results?search_query=Various-Sweet%20as%20Broken%20Dates%20-%20Lost%20Somali%20Tapes%20From%20the%20Horn%20of%20Africa",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/MXtCESNyztyTuLc7lqR7rsTgMXs\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7BeA-6eQypb2XMPzs0eVCD7Jk_mZ9AhT"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-05T20:09:53.000Z",
+                "channelId": "UCNX9miWwqbJ0QHqPEOxDJew",
+                "title": "Various Artists - Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
+                "description": "Buy the Album: https://ostinato-records.lnk.to/sweetasbrokendates Taken from Various Artists \u00ab Sweet as Broken Dates: Lost Somali Tapes from the Horn of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lj0zXFEWX9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ostinato Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

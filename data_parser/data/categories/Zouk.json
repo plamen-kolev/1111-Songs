@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 499,
+        "genre": "Zouk ",
+        "artist": "Kassav'",
+        "song": "Passeport",
+        "year": "(1983)",
+        "url": "https://www.youtube.com/results?search_query=Kassav%26%23x27%3B-Passeport",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/rCU0mAxWSYXOkQ23H4iczE6Npyo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "T9Y-iq08kw8"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-16T14:25:32.000Z",
+                "channelId": "UCpLqMq47gcvWuqxsduAQQOA",
+                "title": "KASSAV&#39; (Passeport - 1983) - R\u00e9miniscence [ver. longue]",
+                "description": "Description.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T9Y-iq08kw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T9Y-iq08kw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T9Y-iq08kw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AFRIKA-HITS-70+",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

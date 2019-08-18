@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 412,
+        "genre": "Capoeira ",
+        "artist": "Mestre Tra\u00edra",
+        "song": "Capoeira - Documentos folcloricos brasileiros",
+        "year": "(1960)",
+        "url": "https://www.youtube.com/results?search_query=Mestre%20Tra%C3%ADra-Capoeira%20-%20Documentos%20folcloricos%20brasileiros",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/mVRgb-j__UachJYosoF3mRHgiVE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SkV6N9Sda_c"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-04T21:28:00.000Z",
+                "channelId": "UCzBHCXO8q0KLG-rotQYWAcw",
+                "title": "Lp Academia De Capoeira De Angola Mestre Caicara 1973",
+                "description": "Este LP esta a venda no site: http://discodeouro.com.br/ #837258436.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SkV6N9Sda_c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SkV6N9Sda_c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SkV6N9Sda_c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Disco de Ouro",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

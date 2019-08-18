@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 351,
+        "genre": "Mambo ",
+        "artist": "P\u00e9rez Prado",
+        "song": "Mondo Mambo - The Best of Perez Prado",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=P%C3%A9rez%20Prado-Mondo%20Mambo%20-%20The%20Best%20of%20Perez%20Prado",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/TpMJHt4koF_1xw77b9j4DFOGpSM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S9-WTUmdm18"
+            },
+            "snippet": {
+                "publishedAt": "2008-10-22T20:13:18.000Z",
+                "channelId": "UCXr-8RY9RWiJB8pPP6K7Duw",
+                "title": "PEREZ PRADO - QUE RICO MAMBO",
+                "description": "PEREZ PRADO - QUE RICO MAMBO.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S9-WTUmdm18/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S9-WTUmdm18/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S9-WTUmdm18/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "raul de la torre",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

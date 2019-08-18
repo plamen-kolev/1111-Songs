@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 42,
+        "genre": "Marrabenta ",
+        "artist": "Various",
+        "song": "Forgotten Guitars From Mozambique",
+        "year": "(1955-1957)",
+        "url": "https://www.youtube.com/results?search_query=Various-Forgotten%20Guitars%20From%20Mozambique",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/FeFg8He0-nbEogOrieLnhDxya-s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6DIgvxOuwHY"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-06T17:57:08.000Z",
+                "channelId": "UCmAMQiYW3xrex2oIgpAYb0A",
+                "title": "Aurelio Kowana - Uta Rungula Wamamane Lekaya",
+                "description": "Do \u00e1lbum \"Forgotten Guitars From Mozambique\", trabalho de recolha etnogr\u00e1fica realizado entre 1955 e 1957. A maior parte dos m\u00fasicos gravados nesta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6DIgvxOuwHY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Di\u00f3genes Breton",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

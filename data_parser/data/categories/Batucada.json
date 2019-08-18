@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 425,
+        "genre": "Batucada ",
+        "artist": "Luciano Perrone & Os Ritmistas Brasileiros",
+        "song": "Batucada fantastica",
+        "year": "(1959)",
+        "url": "https://www.youtube.com/results?search_query=Luciano%20Perrone%20%26amp%3B%20Os%20Ritmistas%20Brasileiros-Batucada%20fantastica",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/eznZOtXLlWVU89X7q5XMdJ8uX78\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "448qADNPBCY"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-07T01:19:24.000Z",
+                "channelId": "UC10ffUrAubaEi2iwDRsmdbg",
+                "title": "Luciano Perrone E Ritmistas Brasileiros (Brasil, 1962) - Batucada Fant\u00e1stica",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/448qADNPBCY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/448qADNPBCY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/448qADNPBCY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nicol\u00e1s Guzm\u00e1n",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

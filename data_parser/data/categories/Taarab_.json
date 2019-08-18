@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 44,
+        "genre": "Taarab ",
+        "artist": "Various",
+        "song": "Zanzibara - Volume 1 - Ikhwani Safaa Musical Club",
+        "year": "(1905-2005)",
+        "url": "https://www.youtube.com/results?search_query=Various-Zanzibara%20-%20Volume%201%20-%20Ikhwani%20Safaa%20Musical%20Club",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/w_wHsC7lDyKYUdRU3oGZvihSFrk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "osB0R0Q8Yzo"
+            },
+            "snippet": {
+                "publishedAt": "2007-12-16T13:23:37.000Z",
+                "channelId": "UCQYDOJoBGqbEZXmGDY7UJRA",
+                "title": "860118 Zanzibara #01",
+                "description": "1905-2005 Cent ans de taarab \u00e0 Zanzibar La collection ZANZIBARA est consacr\u00e9e aux musiques populaires swahili de la c\u00f4te orientale de l'Afrique (Tanzanie, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/osB0R0Q8Yzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "budamusique",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

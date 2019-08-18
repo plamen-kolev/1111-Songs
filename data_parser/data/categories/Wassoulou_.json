@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 10,
+        "genre": "Wassoulou ",
+        "artist": "Various",
+        "song": "The Wassoulou Sound - Women of Mali",
+        "year": "(1991)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Wassoulou%20Sound%20-%20Women%20of%20Mali",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/P9vjVG6sKAoo3HNr8toZhUdmvDM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLp1TCftlArnJD-LkdM5qsLS5rmTrr_Xqf"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-07T07:29:39.000Z",
+                "channelId": "UCljTmtK5i0PU9uw-8mI3K-A",
+                "title": "The Wassoulou Sound : Women of Mali, Vol.1 (Album audio)",
+                "description": "\u00c9COUTEZ l'album entier sur YouTube : http://bit.ly/2AqTrOn \u00c9COUTEZ / T\u00c9L\u00c9CHARGEZ l'album \"Women of Mali, Vol.1\" : http://smarturl.it/scnw7e REGARDEZ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IzP5muacxs8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IzP5muacxs8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IzP5muacxs8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Syllart Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

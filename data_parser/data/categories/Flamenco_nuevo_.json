@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 283,
+        "genre": "Flamenco nuevo ",
+        "artist": "Lole y Manuel",
+        "song": "Nuevo d\u00eda",
+        "year": "(1975)",
+        "url": "https://www.youtube.com/results?search_query=Lole%20y%20Manuel-Nuevo%20d%C3%ADa",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/zQrg6l_VhUmV0OEKpUTyZm60tsM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RqSgU0uCnlk"
+            },
+            "snippet": {
+                "publishedAt": "2008-11-05T18:52:11.000Z",
+                "channelId": "UCh0H23k4B9WjJ9eAopmoQeQ",
+                "title": "Lole y Manuel - Nuevo D\u00eda",
+                "description": "La primera canci\u00f3n del primer y gran disco de Lole y Manuel, de mismo t\u00edtulo, \"Nuevo D\u00eda\" El sol, joven y fuerte, ha vencido a la luna, que se aleja impotente, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RqSgU0uCnlk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mzapa",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

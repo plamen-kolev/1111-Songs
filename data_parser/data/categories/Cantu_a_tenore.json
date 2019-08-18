@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 327,
+        "genre": "Cantu a tenore ",
+        "artist": "Ernst Reijseger & Tenore e Cuncordu de Orosei",
+        "song": "Colla Voche",
+        "year": "(1999)",
+        "url": "https://www.youtube.com/results?search_query=Ernst%20Reijseger%20%26amp%3B%20Tenore%20e%20Cuncordu%20de%20Orosei-Colla%20Voche",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/h4ehd-JNK_9W0uF2eL4rurB4ZZY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3koR3T4eEVc"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-16T16:01:54.000Z",
+                "channelId": "UCX7Yd8IcW3z14tnV6GMTqBQ",
+                "title": "Ernst Reijseger &amp; Tenore E Cuncordu De Orosei - Una Rosa (Voche E&#39; Notte Antica)",
+                "description": "Colla Voche : https://www.discogs.com/fr/Ernst-Reijseger-Tenore-E-Cuncordu-De-Orosei-Colla-Voche/release/1865099.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3koR3T4eEVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3koR3T4eEVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3koR3T4eEVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monkey D. Sound",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

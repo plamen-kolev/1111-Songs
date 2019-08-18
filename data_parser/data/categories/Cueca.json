@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 386,
+        "genre": "Cueca ",
+        "artist": "Violeta Parra",
+        "song": "El folklore de Chile - Volume 3 - La cueca",
+        "year": "(1958)",
+        "url": "https://www.youtube.com/results?search_query=Violeta%20Parra-El%20folklore%20de%20Chile%20-%20Volume%203%20-%20La%20cueca",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/k_sBzqeeARUn2n-vSEbTohULYKM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KT-NdlGc_Tc"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-24T15:50:47.000Z",
+                "channelId": "UCq6A3yYq0BOyfAKA_3QfS-Q",
+                "title": "La cueca presentada por Violeta Parra (1959) [\u00c1lbum completo]",
+                "description": "El folklore de Chile vol. III 1. Presentaci\u00f3n y comentario inicial [Violeta Parra] 2. Cueca del balance (con Isabel Parra) [Popular chilena] 3. Adi\u00f3s, que se va ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KT-NdlGc_Tc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KT-NdlGc_Tc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KT-NdlGc_Tc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fulanodetal4",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 387,
+        "genre": "Cueca ",
+        "artist": "Los Trukeros",
+        "song": "Cuecas bravas",
+        "year": "(2003)",
+        "url": "https://www.youtube.com/results?search_query=Los%20Trukeros-Cuecas%20bravas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/a9hOcSaQFuStDOHwlNy2rDu1Sog\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6wH7SttVHEE"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-10T14:46:21.000Z",
+                "channelId": "UCUrRzWJH3YYVqmxJalelrFg",
+                "title": "Los Trukeros - Cuecas Bravas (2003) [ALBUM COMPLETO]",
+                "description": "ESTE VIDEO NO TIENE ANUNCIOS. 00:00 01 - Mariquita, Mariquita 01:48 02 - La diuca con el chincol 03:45 03 - El Palmero 05:26 04 - Ramito de flores 07:21 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6wH7SttVHEE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6wH7SttVHEE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6wH7SttVHEE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mauro Martinez",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

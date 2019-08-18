@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 345,
+        "genre": "Salsa ",
+        "artist": "Eddie Palmieri",
+        "song": "Az\u00facar pa' ti",
+        "year": "(1965)",
+        "url": "https://www.youtube.com/results?search_query=Eddie%20Palmieri-Az%C3%BAcar%20pa%26%23x27%3B%20ti",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dejtfKbs2qGUy87yK94r57HQr_o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1rtK64Zq29M"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-02T16:40:52.000Z",
+                "channelId": "UCTlwEkahCPMVJ9rfWQTU_BQ",
+                "title": "AZUCAR PA TI. &#39;&#39; EDDIE PALMIERI&#39;.&#39; BY LUIS SALAZAR CUENCA.",
+                "description": "Eduardo Palmieri nace el 15 de diciembre de 1936 en la ciudad de Nueva York. De origen puertorrique\u00f1o y de ascendencia corsa, a los 11 a\u00f1os de edad ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1rtK64Zq29M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1rtK64Zq29M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1rtK64Zq29M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "La cobra #1de Barranquilla Luis salazar cuenca",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 346,
+        "genre": "Salsa ",
+        "artist": "Fania All Stars",
+        "song": "Salsa Caliente De Nu York!",
+        "year": "(2001)",
+        "url": "https://www.youtube.com/results?search_query=Fania%20All%20Stars-Salsa%20Caliente%20De%20Nu%20York%21",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vZk3gC32tJKoPHR1a6aAXzG9BDo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VRY077pao2Q"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-24T01:07:40.000Z",
+                "channelId": "UCYVync5k_OviBy4PUSmJfMQ",
+                "title": "CONGO BONGO - Fania All Stars ( YANKEE STADIUM )",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VRY077pao2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VRY077pao2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VRY077pao2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pedro Barriera",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

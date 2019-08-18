@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 740,
+        "genre": "Contemporary R&B ",
+        "artist": "Prince",
+        "song": "Prince",
+        "year": "(1979)",
+        "url": "https://www.youtube.com/results?search_query=Prince-Prince"
+    },
+    {
+        "unique_id": 741,
+        "genre": "Contemporary R&B ",
+        "artist": "Michael Jackson",
+        "song": "Thriller",
+        "year": "(1982)",
+        "url": "https://www.youtube.com/results?search_query=Michael%20Jackson-Thriller"
+    },
+    {
+        "unique_id": 742,
+        "genre": "Contemporary R&B ",
+        "artist": "Mariah Carey",
+        "song": "Daydream",
+        "year": "(1995)",
+        "url": "https://www.youtube.com/results?search_query=Mariah%20Carey-Daydream"
+    },
+    {
+        "unique_id": 743,
+        "genre": "Contemporary R&B ",
+        "artist": "Lauryn Hill",
+        "song": "The Miseducation of Lauryn Hill",
+        "year": "(1998)",
+        "url": "https://www.youtube.com/results?search_query=Lauryn%20Hill-The%20Miseducation%20of%20Lauryn%20Hill"
+    },
+    {
+        "unique_id": 744,
+        "genre": "Contemporary R&B ",
+        "artist": "Janelle Mon\u00e1e",
+        "song": "The ArchAndroid",
+        "year": "(2010)",
+        "url": "https://www.youtube.com/results?search_query=Janelle%20Mon%C3%A1e-The%20ArchAndroid"
+    }
+]

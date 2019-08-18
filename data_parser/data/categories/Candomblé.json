@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 410,
+        "genre": "Candombl\u00e9 ",
+        "artist": "Various",
+        "song": "Folk Music of Brazil - Afro_Bahian Religious Songs",
+        "year": "(1942)",
+        "url": "https://www.youtube.com/results?search_query=Various-Folk%20Music%20of%20Brazil%20-%20Afro_Bahian%20Religious%20Songs",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/wu8IHlTaZWWeIWox1PLP5l0zyy0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SjjtJJt_gQ4"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-30T13:52:50.000Z",
+                "channelId": "UC5MQP-nJNbSwgBgBTjFQJiQ",
+                "title": "Folk Music Of Brazil - Afro-Bahian Religious Songs -1941 - 1942 - 1943",
+                "description": "Pessoal essa disco \u00e9 bem raro da d\u00e9cada de 40 ,e devido isso n\u00e3o se tem um ano certo,no que foi pesquisado ele \u00e9 entre 1941 ,1942 e 1943. Sua grava\u00e7\u00e3o ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SjjtJJt_gQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SjjtJJt_gQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SjjtJJt_gQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Canal Ax\u00e9 Ancestral",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

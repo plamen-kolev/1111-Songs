@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 29,
+        "genre": "Soukous ",
+        "artist": "Diblo Dibala With Loketo",
+        "song": "Super Soukous",
+        "year": "(1989)",
+        "url": "https://www.youtube.com/results?search_query=Diblo%20Dibala%20With%20Loketo-Super%20Soukous",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/lNYxf4_DrNftmAEPukqyUWnCH1c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hN8VFoMk6LU"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-13T01:36:21.000Z",
+                "channelId": "UCSFsnJhX8SZfLjowGBgqAAQ",
+                "title": "Diblo Dibala, Loketo, Kanda Bongo Man: Super K (1987 audio\ud83c\udfb6)",
+                "description": "Featuring the complete \"Super K/Amour et Souvenir\" (1987) Original LP. The year is 1987, Kanda and Diblo partnered on the \"Sai-Liza\" (1987) album, Diblo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hN8VFoMk6LU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Shaddy Raddy",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

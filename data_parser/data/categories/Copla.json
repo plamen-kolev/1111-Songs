@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 277,
+        "genre": "Copla ",
+        "artist": "Concha Piquer",
+        "song": "30 \u00e9xitos - Versiones originales",
+        "year": "(2005)",
+        "url": "https://www.youtube.com/results?search_query=Concha%20Piquer-30%20%C3%A9xitos%20-%20Versiones%20originales",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/pJtDtdWOj_sgbNwjW5q-QenMqbE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O0GFDrJ4A0U"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-08T04:14:11.000Z",
+                "channelId": "UCZUG4Dj2En-FNvgjNqOdFvQ",
+                "title": "Concha Piquer",
+                "description": "Concha Piquer \u00b7 Conchita Piquer 30 Exitos Conchita Piquer (30 Exitos Versiones Originales) \u2117 Rise International Music Released on: 2012-11-06 Music ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O0GFDrJ4A0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Conchita Piquer - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

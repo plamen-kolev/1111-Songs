@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 630,
+        "genre": "Bebop ",
+        "artist": "Charlie Parker",
+        "song": "The Complete Birth of Bebop",
+        "year": "(1940-1945)",
+        "url": "https://www.youtube.com/results?search_query=Charlie%20Parker-The%20Complete%20Birth%20of%20Bebop"
+    },
+    {
+        "unique_id": 631,
+        "genre": "Bebop ",
+        "artist": "Thelonious Monk",
+        "song": "Genius of Modern Music",
+        "year": "(1951)",
+        "url": "https://www.youtube.com/results?search_query=Thelonious%20Monk-Genius%20of%20Modern%20Music"
+    },
+    {
+        "unique_id": 632,
+        "genre": "Bebop ",
+        "artist": "Bud Powell",
+        "song": "The Amazing Bud Powell",
+        "year": "(1949-1951)",
+        "url": "https://www.youtube.com/results?search_query=Bud%20Powell-The%20Amazing%20Bud%20Powell"
+    },
+    {
+        "unique_id": 633,
+        "genre": "Bebop ",
+        "artist": "The Quintet",
+        "song": "Jazz at Masey Hall",
+        "year": "(1953)",
+        "url": "https://www.youtube.com/results?search_query=The%20Quintet-Jazz%20at%20Masey%20Hall"
+    },
+    {
+        "unique_id": 634,
+        "genre": "Bebop ",
+        "artist": "Dizzy Gillespie, Sonny Stitt & Sonny Rollins",
+        "song": "Sonny Side Up",
+        "year": "(1957)",
+        "url": "https://www.youtube.com/results?search_query=Dizzy%20Gillespie%2C%20Sonny%20Stitt%20%26amp%3B%20Sonny%20Rollins-Sonny%20Side%20Up"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 349,
+        "genre": "Timba ",
+        "artist": "Orquesta Rev\u00e9",
+        "song": "La Explosi\u00f3n del Momento!",
+        "year": "(1989)",
+        "url": "https://www.youtube.com/results?search_query=Orquesta%20Rev%C3%A9-La%20Explosi%C3%B3n%20del%20Momento%21",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/fHdE6RkV5z2Mj2sJhdVFWTUacxg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3LHqpg5-KtE"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-07T17:49:41.000Z",
+                "channelId": "UCrN3ROe1Q3zrz8HYCPJ54tQ",
+                "title": "ELIO REVE Y SU CHARANGON.  1986",
+                "description": "DESPUES DE LA VISITA DE OSCAR DE LEON A CUBA EN EL ANO 1983, ELIO REVE TOMO APROXIMADEMENTE 2 ANOS PARA REUNIR ALGUNOS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3LHqpg5-KtE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3LHqpg5-KtE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3LHqpg5-KtE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "parraga63",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

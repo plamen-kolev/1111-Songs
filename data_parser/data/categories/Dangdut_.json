@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 190,
+        "genre": "Dangdut ",
+        "artist": "Various",
+        "song": "Indonesia Pop Nostalgia",
+        "year": "(2012)",
+        "url": "https://www.youtube.com/results?search_query=Various-Indonesia%20Pop%20Nostalgia",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/iAQWZ_Ai1PF3g6mHDSpxRRfa7Jo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8uR68frkBgU"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-30T06:59:24.000Z",
+                "channelId": "UChep--r1RYxcBoEn0qODheQ",
+                "title": "20 POP NOSTALGIA LEGENDARIS",
+                "description": "20 POP NOSTALGIA LEGENDARIS Copyright \u00a9 2018 (Sound Recording Right) Purnama Suara Persada - All rights reserved. ARTIS : 1. THE MERCY'S 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8uR68frkBgU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8uR68frkBgU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8uR68frkBgU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Purnama Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

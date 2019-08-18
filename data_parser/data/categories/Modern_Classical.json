@@ -1,0 +1,116 @@
+[
+    {
+        "unique_id": 575,
+        "genre": "Modern Classical ",
+        "artist": "Bela Bartok",
+        "song": "The 6 String Quartets",
+        "year": "(1908-1939)",
+        "url": "https://www.youtube.com/results?search_query=Bela%20Bartok-The%206%20String%20Quartets",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/BSMzNul-QBYgstsDPSnoHH4kLIM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "slMC_rOa77A"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-18T22:54:09.000Z",
+                "channelId": "UC8pztlxOONYyw8q46CKHY-A",
+                "title": "B\u00e9la Bart\u00f3k - String Quartet No. 6",
+                "description": "Composer: B\u00e9la Viktor J\u00e1nos Bart\u00f3k (25 March 1881 -- 26 September 1945) - Performers: Hungarian String Quartet - Year of recording: 1961 String Quartet No.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/slMC_rOa77A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/slMC_rOa77A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/slMC_rOa77A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "olla-vogala",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 576,
+        "genre": "Modern Classical ",
+        "artist": "Igor Stravinsky",
+        "song": "Le Sacre du printemps",
+        "year": "(1913)",
+        "url": "https://www.youtube.com/results?search_query=Igor%20Stravinsky-Le%20Sacre%20du%20printemps"
+    },
+    {
+        "unique_id": 577,
+        "genre": "Modern Classical ",
+        "artist": "Gustav Holst",
+        "song": "The Planets",
+        "year": "(1916)",
+        "url": "https://www.youtube.com/results?search_query=Gustav%20Holst-The%20Planets"
+    },
+    {
+        "unique_id": 578,
+        "genre": "Modern Classical ",
+        "artist": "Shostakovich",
+        "song": "Symphony No. 15",
+        "year": "(1971)",
+        "url": "https://www.youtube.com/results?search_query=Shostakovich-Symphony%20No.%2015"
+    },
+    {
+        "unique_id": 579,
+        "genre": "Modern Classical ",
+        "artist": "Einojuhani Rautavaara",
+        "song": "Symphony No. 7",
+        "year": "(1994)",
+        "url": "https://www.youtube.com/results?search_query=Einojuhani%20Rautavaara-Symphony%20No.%207"
+    },
+    {
+        "unique_id": 585,
+        "genre": "Modern Classical ",
+        "artist": "Edgard Var\u00e8se",
+        "song": "Music of Edgar Var\u00e8se - Ionisation; Density 21.5; Integrales; etc",
+        "year": "(1922-1958)",
+        "url": "https://www.youtube.com/results?search_query=Edgard%20Var%C3%A8se-Music%20of%20Edgar%20Var%C3%A8se%20-%20Ionisation%3B%20Density%2021.5%3B%20Integrales%3B%20etc"
+    },
+    {
+        "unique_id": 586,
+        "genre": "Modern Classical ",
+        "artist": "Olivier Messiaen",
+        "song": "Quatuor pour la fin du temps",
+        "year": "(1941)",
+        "url": "https://www.youtube.com/results?search_query=Olivier%20Messiaen-Quatuor%20pour%20la%20fin%20du%20temps"
+    },
+    {
+        "unique_id": 587,
+        "genre": "Modern Classical ",
+        "artist": "Gy\u00f6rgy Ligeti",
+        "song": "The Ligeti Project II - Lontano, Atmosph\u00e8res, Apparitions, etc",
+        "year": "(1952-1974)",
+        "url": "https://www.youtube.com/results?search_query=Gy%C3%B6rgy%20Ligeti-The%20Ligeti%20Project%20II%20-%20Lontano%2C%20Atmosph%C3%A8res%2C%20Apparitions%2C%20etc"
+    },
+    {
+        "unique_id": 588,
+        "genre": "Modern Classical ",
+        "artist": "Alfred Schnittke",
+        "song": "Symphony No. 1",
+        "year": "(1974)",
+        "url": "https://www.youtube.com/results?search_query=Alfred%20Schnittke-Symphony%20No.%201"
+    },
+    {
+        "unique_id": 589,
+        "genre": "Modern Classical ",
+        "artist": "Morton Feldman",
+        "song": "String Quartet No. 2",
+        "year": "(1983)",
+        "url": "https://www.youtube.com/results?search_query=Morton%20Feldman-String%20Quartet%20No.%202"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 490,
+        "genre": "French Caribbean ",
+        "artist": "Lolita Cuevas & Frantz Casseus",
+        "song": "Haitian Folk Songs",
+        "year": "(1954)",
+        "url": "https://www.youtube.com/results?search_query=Lolita%20Cuevas%20%26amp%3B%20Frantz%20Casseus-Haitian%20Folk%20Songs",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/5EzXkVj7Uo56kjkcQz8uMeCWEFw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rFIbwI7zIy0"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-15T16:46:14.000Z",
+                "channelId": "UC8pbpoFJ6Gweqc8xzMyUzDA",
+                "title": "Frantz Cass\u00e9us / Lolita Cuevas - Lullaby",
+                "description": "1953 Haitian Folk Songs.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rFIbwI7zIy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rFIbwI7zIy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rFIbwI7zIy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WallakAt",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

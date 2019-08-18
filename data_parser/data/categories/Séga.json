@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 48,
+        "genre": "S\u00e9ga ",
+        "artist": "Georges Fourcade",
+        "song": "Le barde cr\u00e9ole",
+        "year": "(2002)",
+        "url": "https://www.youtube.com/results?search_query=Georges%20Fourcade-Le%20barde%20cr%C3%A9ole",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/0KvSBIXPSfSb8yyl5fYHQQsjo5s\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLdv8TqPNtHV_ZGbI1IG-PyzDFiZwx5wRB"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-18T07:25:41.000Z",
+                "channelId": "UCuyO-UkTII7qpMa04N9vo3Q",
+                "title": "Top Tracks - Georges Fourcade",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mnCWVrqTHlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Georges Fourcade - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

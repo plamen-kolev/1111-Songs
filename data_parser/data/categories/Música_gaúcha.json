@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 418,
+        "genre": "M\u00fasica ga\u00facha ",
+        "artist": "Various",
+        "song": "1\u00aa Calif\u00f3rnia da Can\u00e7\u00e3o Nativa",
+        "year": "(1971)",
+        "url": "https://www.youtube.com/results?search_query=Various-1%C2%AA%20Calif%C3%B3rnia%20da%20Can%C3%A7%C3%A3o%20Nativa",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/PDuh78uEsNp4gW5bT78ETtaO2G8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZTRKKyXnvn8"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-21T18:49:25.000Z",
+                "channelId": "UCIF54IKXbPUvFD5wYDE1BBQ",
+                "title": "1\u00aa Calif\u00f3rnia da Can\u00e7\u00e3o Nativa do RS (\u00c1lbum Completo 1971) [Full Album] Lp",
+                "description": "1\u00aa Calif\u00f3rnia da Can\u00e7\u00e3o Nativa do RS (\u00c1lbum Completo 1971) [Full Album] Lp 00:00 - 01 - Reflex\u00e3o - Grupo Marupiaras 03:56 - 02 - Can\u00e7\u00e3o da Madrugada ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZTRKKyXnvn8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZTRKKyXnvn8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZTRKKyXnvn8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sonidos Del Sur",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

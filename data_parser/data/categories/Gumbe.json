@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 5,
+        "genre": "Gumbe ",
+        "artist": "Super Mama Djombo",
+        "song": "Super Mama Djombo",
+        "year": "(2003)",
+        "url": "https://www.youtube.com/results?search_query=Super%20Mama%20Djombo-Super%20Mama%20Djombo",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/e3lBp4bF29pHUF-iNb1hhIUQ7q0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ww4mEwTQAf0"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-25T01:43:02.000Z",
+                "channelId": "UCjPh_xPwg5-YAMQge6JwISQ",
+                "title": "Super Mama Djombo - Camban\u00e7a Djombo",
+                "description": "Morceau 1 du LP Na Camban\u00e7a.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ww4mEwTQAf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "R\u00e9tros World Music",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

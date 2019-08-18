@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 3,
+        "genre": "Zinli ",
+        "artist": "Gouton Tosse",
+        "song": "Gouton Tosse et son groupe folklorique de Lotin_gbedjewin Benin",
+        "year": "(NA)",
+        "url": "https://www.youtube.com/results?search_query=Gouton%20Tosse-Gouton%20Tosse%20et%20son%20groupe%20folklorique%20de%20Lotin_gbedjewin%20Benin",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/PbVXvtA9Mh9QPCBUjhCc0y8IDcM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pzJGNYZnPBQ"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-04T05:14:14.000Z",
+                "channelId": "UCQ1Ze3_Iv5krrEPF3-fbY4Q",
+                "title": "BENIN - GOUTON TOSSE - Min mon nonvo",
+                "description": "Zinli rythm from Avrankou , Benin West africa.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pzJGNYZnPBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Frere Kandevie",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

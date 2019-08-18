@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 339,
+        "genre": "Norte\u00f1o ",
+        "artist": "Los Tigres del Norte",
+        "song": "Contrabando y traici\u00f3n",
+        "year": "(1975)",
+        "url": "https://www.youtube.com/results?search_query=Los%20Tigres%20del%20Norte-Contrabando%20y%20traici%C3%B3n",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/zb4P48MfvJH8V1h8d9d3Igz0tM4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V1TAY_cGpIo"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-21T08:13:48.000Z",
+                "channelId": "UCe1BvllgZp1oUzRaLVAZYNA",
+                "title": "LOS TIGRES DEL NORTE - CONTRABANDO Y TRAICION (1984)",
+                "description": "LOS TIGRES DEL NORTE CONTRABANDO, TRAICION Y ROBO (CON LOS CORRIDOS ORIGINALES DE LAS PELICULAS)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V1TAY_cGpIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V1TAY_cGpIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V1TAY_cGpIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jose Esquivel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

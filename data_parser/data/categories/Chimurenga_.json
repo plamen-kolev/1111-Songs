@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 34,
+        "genre": "Chimurenga ",
+        "artist": "Thomas Mapfumo",
+        "song": "The Chimurenga Singles",
+        "year": "(1976-1980)",
+        "url": "https://www.youtube.com/results?search_query=Thomas%20Mapfumo-The%20Chimurenga%20Singles",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/DG4onEinQl4dFiwfGi2LcOnSB3U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ISgeA3yZ-ww"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-22T17:21:57.000Z",
+                "channelId": "UCGXUynvII3-tyDjsZLiODAA",
+                "title": "thomas mapfumo - the chimurenga singles (1976-1980)",
+                "description": "https://thomas-mapfumo.com/ 1 chauya chirizevha (charged for silver) 0:00 2 tozvireva kupiko (what we mean) 4:09 3 pfumvu pa ruzevha (push on silver) 8:05 4 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ISgeA3yZ-ww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "valuska",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

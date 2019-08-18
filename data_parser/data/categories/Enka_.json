@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 167,
+        "genre": "Enka ",
+        "artist": "Various",
+        "song": "\u65e5\u672c\u6f14\u6b4c - Japan's Oldies",
+        "year": "(2005)",
+        "url": "https://www.youtube.com/results?search_query=Various-%E6%97%A5%E6%9C%AC%E6%BC%94%E6%AD%8C%20-%20Japan%26%23x27%3Bs%20Oldies",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/jgfV0DQqAKoEAC1ArhTPXH4MnJg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLp7pAH9am84PycFTTTEsOsIUL5Ny8leRq"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-23T15:31:17.000Z",
+                "channelId": "UCherX1xNGQP_YW79szV4QVg",
+                "title": "Japanese Enka Songs",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d0Zdar4SPhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pure Listening Pleasure",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

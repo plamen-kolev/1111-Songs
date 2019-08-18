@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 164,
+        "genre": "Taiko ",
+        "artist": "Kodo",
+        "song": "The Best of Kodo",
+        "year": "(1994)",
+        "url": "https://www.youtube.com/results?search_query=Kodo-The%20Best%20of%20Kodo",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XcMa-c-KkG0A4XGJTRnsiqrtBsY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y2e1pVlSpW8"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-18T02:42:13.000Z",
+                "channelId": "UCeyxXzWiHWFV_1tbaHLA9UQ",
+                "title": "Kodo - Heartbeat Drummers of Japan (1985) FULL ALBUM",
+                "description": "\"This authentic Japanese Taiko-drum ensemble sometimes adds modern and/or Western touches to their thunderous drumming repertoire.\" . *Kodo / Heartbeat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y2e1pVlSpW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sabiacorteza",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

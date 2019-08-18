@@ -1,0 +1,128 @@
+[
+    {
+        "unique_id": 570,
+        "genre": "Impressionism ",
+        "artist": "Erik Satie",
+        "song": "3 Gymnop\u00e9dies & Other Piano Works",
+        "year": "(1888-1917)",
+        "url": "https://www.youtube.com/results?search_query=Erik%20Satie-3%20Gymnop%C3%A9dies%20%26amp%3B%20Other%20Piano%20Works",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/gwJRbJbnmmN1XEFX1xMEGZuswNg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL0BMGqNZTAmK5C9nLncb60jJhpCrr0Fum"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-18T05:35:26.000Z",
+                "channelId": "UCkBEfkql3rOlwg62nUfRRRw",
+                "title": "Satie: 3 Gymnop\u00e9dies and Other Piano Works",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ey0l-4aGn34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ey0l-4aGn34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ey0l-4aGn34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cjholder99",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 571,
+        "genre": "Impressionism ",
+        "artist": "Claude Debussy",
+        "song": "Pr\u00e9ludes - Volume 1",
+        "year": "(1910)",
+        "url": "https://www.youtube.com/results?search_query=Claude%20Debussy-Pr%C3%A9ludes%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/kKrjvxdG0CJyknoIlgGDG7Tccho\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ObcIhUHgvLk"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-08T13:29:14.000Z",
+                "channelId": "UCrJiJHlSS3BUULZf_FH-zPQ",
+                "title": "Claude Debussy Arturo Benedetti Michelangeli / Pr\u00e9ludes Volume 1 (FULL)",
+                "description": "Tracklist Pr\u00e9ludes I 1 1. Danseuses De Delphes 2 2. Voiles 3 3. Le Vent Dans La Plaine 4 4. Les Sons Et Les Parfums Tournent Dans L'Air Du Soir 5 5.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ObcIhUHgvLk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ObcIhUHgvLk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ObcIhUHgvLk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "cgoroo",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 572,
+        "genre": "Impressionism ",
+        "artist": "Maurice Ravel",
+        "song": "Bol\u00e9ro - Pavane pour une infante d\u00e9funte - La valse - Daphnis et Chlo\u00e9",
+        "year": "(1910-1928)",
+        "url": "https://www.youtube.com/results?search_query=Maurice%20Ravel-Bol%C3%A9ro%20-%20Pavane%20pour%20une%20infante%20d%C3%A9funte%20-%20La%20valse%20-%20Daphnis%20et%20Chlo%C3%A9",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/l_WmqQg41jEOBEtl1rFvJZQE-LY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h09pF4fFBVA"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-12T17:43:39.000Z",
+                "channelId": "UCoD6B2UV2uII3O8qKwWo3iQ",
+                "title": "Ravel : Pavane pour une infante d\u00e9funte",
+                "description": "Provided to YouTube by Warner Classics International Ravel : Pavane pour une infante d\u00e9funte \u00b7 Daniel Barenboim & Chicago Symphony Orchestra Ravel ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h09pF4fFBVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h09pF4fFBVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h09pF4fFBVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daniel Barenboim - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

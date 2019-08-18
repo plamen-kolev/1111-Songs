@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 341,
+        "genre": "Chang\u00fc\u00ed ",
+        "artist": "Conjunto T\u00edpico Cubano",
+        "song": "Septeto T\u00edpico Habanero - T\u00edpico y Habanero",
+        "year": "(1968)",
+        "url": "https://www.youtube.com/results?search_query=Conjunto%20T%C3%ADpico%20Cubano-Septeto%20T%C3%ADpico%20Habanero%20-%20T%C3%ADpico%20y%20Habanero",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ygFOZQIscsxkafywMZJTUOP6jUo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fuW18v40WwI"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-02T17:50:13.000Z",
+                "channelId": "UCZ2mO2unzSp0JqJsDb3XYGg",
+                "title": "Conjunto Tipico Cubano, Septeto Tipico Habanero - Tipico y Habanero (Areito LD-3292) full album",
+                "description": "Label:Areito LD-3292 Format:Vinyl, LP, White Labels Country:Cuba Genre:Latin Style:Son, Guaracha Tracklist A1 \u2013Conjunto Tipico Cubano Tres Lindas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fuW18v40WwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fuW18v40WwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fuW18v40WwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sergjazz vinyl collection",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

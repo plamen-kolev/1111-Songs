@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 285,
+        "genre": "Portuguese Folk ",
+        "artist": "Various",
+        "song": "Songs and Dances of Portugal (research by Michel Giacometti)",
+        "year": "(1994)",
+        "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Portugal%20%28research%20by%20Michel%20Giacometti%29",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/W9Jl3zws2ub2iQbBpb6lNtmRAYY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLu5nesfz0xy4lorUZQs3ctfyYv4RfnuXK"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-31T16:37:47.000Z",
+                "channelId": "UCCazEwtP_nbQEUEOt3f4eHQ",
+                "title": "Abril 2019",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ymwj0zcqnDw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HelderAMN",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

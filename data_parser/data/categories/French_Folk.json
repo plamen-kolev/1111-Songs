@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 320,
+        "genre": "French Folk ",
+        "artist": "Catherine Perrier",
+        "song": "Chansons traditionnelles fran\u00e7aises",
+        "year": "(1974)",
+        "url": "https://www.youtube.com/results?search_query=Catherine%20Perrier-Chansons%20traditionnelles%20fran%C3%A7aises",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/1BsLNYuKw1KYkBbjmhMgMupZ5Qc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bxr8Pj2iHMg"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-03T01:16:50.000Z",
+                "channelId": "UCXSPjlR2AhRsUbMI5SzdqWg",
+                "title": "Catherine Perrier: Chansons Traditionnelles Fran\u00e7aises (full album / disco completo)",
+                "description": "Catherine Perrier: Chansons Traditionnelles Fran\u00e7aises Sello: Le Chant du Monde N\u00famero de Cat\u00e1logo: LDX 74 500 Pa\u00eds: Francia A\u00f1o: 1973 M\u00fasicos: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bxr8Pj2iHMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Humberto Luna Tirado",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

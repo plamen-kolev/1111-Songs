@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 28,
+        "genre": "Semba ",
+        "artist": "Various",
+        "song": "Angola 60's",
+        "year": "(1956-1970)",
+        "url": "https://www.youtube.com/results?search_query=Various-Angola%2060%26%23x27%3Bs",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/EIUGfdTgf8-P-TZ3AF3OljKtIc8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EZsWSSvwxAg"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-26T10:17:44.000Z",
+                "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                "title": "Various \u200e\u2013 Angola 60&#39;s 1956-1970 Folk*World*Afrobeat Full Album Music Compilation",
+                "description": "Label:Buda Musique Country:France Released:? You can buy it here : http://amzn.to/2AkpDDA Follow on Facebook : https://www.facebook.com/sunnyboy66/ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZsWSSvwxAg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sunnyboy66",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

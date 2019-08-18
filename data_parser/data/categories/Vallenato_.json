@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 373,
+        "genre": "Vallenato ",
+        "artist": "Bovea y Sus Vallenatos",
+        "song": "Los cantos vallenatos de Escalona",
+        "year": "(1962)",
+        "url": "https://www.youtube.com/results?search_query=Bovea%20y%20Sus%20Vallenatos-Los%20cantos%20vallenatos%20de%20Escalona",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/86FUT99TdVccuVR7uJDEXfSjNic\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jUwAn29EKk8"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-18T00:53:09.000Z",
+                "channelId": "UC-1J6F7uUi1Oc5mlbTBhxZQ",
+                "title": "BOVEA Y SUS VALLENATOS -  Canta Alberto Fernandez.",
+                "description": "Album: Los Cantos Vallenatos De Escalona. Copilado. 01 EL TESTAMENTO 02 LA MAYE 03 LA CASA EN EL AIRE 04 ROSA MARIA 05 EL VILLANUEVERO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jUwAn29EKk8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jUwAn29EKk8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jUwAn29EKk8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SimplementeUriel",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

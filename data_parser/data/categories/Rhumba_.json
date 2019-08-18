@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 344,
+        "genre": "Rhumba ",
+        "artist": "Lecuona Cuban Boys",
+        "song": "Lecuona Cuban Boys",
+        "year": "(1935-1938)",
+        "url": "https://www.youtube.com/results?search_query=Lecuona%20Cuban%20Boys-Lecuona%20Cuban%20Boys",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/V442A8-m6vSQGabW6fuY-UGEgvk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wOqtUUcPk40"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-16T19:52:19.000Z",
+                "channelId": "UC6jCmyN6uuh8jseghvd_bGg",
+                "title": "Lecuona Cuban Boys. Congas y rumbas. Full album",
+                "description": "Lecuona Cuban Boys. Congas y rumbas. Full album spotify:album:77vyvSXBSV2mYfQo74XvGu 1. Conga de la havane 2. Tabou 3. La conga de jaruco 4.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wOqtUUcPk40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wOqtUUcPk40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wOqtUUcPk40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rgsmusicargentina",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

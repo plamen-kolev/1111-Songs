@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 401,
+        "genre": "Porro ",
+        "artist": "Various",
+        "song": "Cartagena! Curro Fuentes & the Big Band Cumbia and Descarga Sound of Colombia",
+        "year": "(1962-1972)",
+        "url": "https://www.youtube.com/results?search_query=Various-Cartagena%21%20Curro%20Fuentes%20%26amp%3B%20the%20Big%20Band%20Cumbia%20and%20Descarga%20Sound%20of%20Colombia",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7HIzZq5hH4ig3wdWEV942ejdpLs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1vPTbxidJJ4"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-25T02:28:42.000Z",
+                "channelId": "UCV1h2xQq9HzILvB4iK8Tz4Q",
+                "title": "CARTAGENA!- Curro Fuentes &amp; the big band cumbia and descarga sound of Colombia- 1962-72",
+                "description": "1 Rosendo y su Banda -- Me Voy Pa'La Costa 2 Puerto Rico y Su Combo -- La Cumbia Del Pescador 3 Orquesta Sonora Curro -- Patuleco 4 Rosendo Mart\u00ednez ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1vPTbxidJJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1vPTbxidJJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1vPTbxidJJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Camilo Pardo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

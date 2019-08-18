@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 398,
+        "genre": "Candombe ",
+        "artist": "Mike Dogliotti",
+        "song": "Candombe for Export",
+        "year": "(1970)",
+        "url": "https://www.youtube.com/results?search_query=Mike%20Dogliotti-Candombe%20for%20Export",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YPSmn7mvDQhxzaMNv7S42YnzXHM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b-10QbojeAA"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-03T16:24:26.000Z",
+                "channelId": "UCoi2kNOqvmI0QZFppEAMfqg",
+                "title": "Camale\u00f3n - Mike Dogliotti",
+                "description": "Camale\u00f3n Mike Dogliotti Candombe for Export Vol. 2 Sondor - 1977 Uruguay.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-10QbojeAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-10QbojeAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-10QbojeAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ernesto Pin",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

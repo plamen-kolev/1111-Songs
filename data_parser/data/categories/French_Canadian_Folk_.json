@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 479,
+        "genre": "French_Canadian Folk ",
+        "artist": "Various",
+        "song": "Songs and Dances of Quebec",
+        "year": "(1956)",
+        "url": "https://www.youtube.com/results?search_query=Various-Songs%20and%20Dances%20of%20Quebec",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/nJh6sDg9xEoO8_Lt-fhTE6UWANs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XgD-3JBGvt4"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-04T17:49:20.000Z",
+                "channelId": "UCAtrsefUe0mgUvAffK29yyg",
+                "title": "Traditional Music of Quebec",
+                "description": "While traveling through the Canadian province of Quebec, I was struck with the sense of cultural tradition the French descendants honored through their ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XgD-3JBGvt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "aureliofont",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

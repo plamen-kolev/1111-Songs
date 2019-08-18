@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 19,
+        "genre": "Waka ",
+        "artist": "Batile Alake",
+        "song": "Waka Queen",
+        "year": "(1996)",
+        "url": "https://www.youtube.com/results?search_query=Batile%20Alake-Waka%20Queen",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/kNYZldYz51KNyRIjIqwlA4GfmCI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p-N0tx6nXvI"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-06T11:47:14.000Z",
+                "channelId": "UCTksmY1-4VHOlwmjtFrFcvw",
+                "title": "VOL.1  - Alhaja Batile Alake",
+                "description": "Batile Alake-Vol.1 waka music.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p-N0tx6nXvI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EgbaAlake",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

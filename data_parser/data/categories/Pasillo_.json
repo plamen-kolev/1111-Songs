@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 372,
+        "genre": "Pasillo ",
+        "artist": "M\u00e1xima Mej\u00eda",
+        "song": "Los grandes exitos De",
+        "year": "(2002)",
+        "url": "https://www.youtube.com/results?search_query=M%C3%A1xima%20Mej%C3%ADa-Los%20grandes%20exitos%20De",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/S6Cnds1XOHY62UZfJAc5bFnBOLI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2QiU0bsqzuc"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-16T00:46:16.000Z",
+                "channelId": "UCuhHUgoanhGYxGSmNLtMP_A",
+                "title": "MAXIMA MEJIA - TODOS VUELVEN (Lp. 1973 LOS MEJORES EXITOS DE MAXIMA MEJIA SELLO ONIX)",
+                "description": "Colecci\u00f3n personal de JORGE QUICHIMBO gatitomiau22@yahoo.es cell 0997488032 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2QiU0bsqzuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2QiU0bsqzuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2QiU0bsqzuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BA\u00daL DE RECUERDOS MUSICALES DEL ECUADOR",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

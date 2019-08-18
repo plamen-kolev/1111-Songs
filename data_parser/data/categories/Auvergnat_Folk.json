@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 322,
+        "genre": "Auvergnat Folk ",
+        "artist": "Gentiane",
+        "song": "Musique d'Auvergne",
+        "year": "(1979)",
+        "url": "https://www.youtube.com/results?search_query=Gentiane-Musique%20d%26%23x27%3BAuvergne",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vHsosaR5LtUvEcckJSdq3iMFt5k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sNlkUAlvTgQ"
+            },
+            "snippet": {
+                "publishedAt": "2014-08-27T17:40:08.000Z",
+                "channelId": "UCCGrEpVsDxF6CgqoSDKycLw",
+                "title": "Gentiane - Mazurka et Brezon valse",
+                "description": "Due classici dell'Auvergne dal disco \"Musique d'Auvergne\" del gruppo folk Gentiane.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sNlkUAlvTgQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AlsatianKnight",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

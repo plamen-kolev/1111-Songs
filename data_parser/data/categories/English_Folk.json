@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 305,
+        "genre": "English Folk ",
+        "artist": "Tim Hart & Maddy Prior",
+        "song": "Folk Songs of Old England - Volume 1",
+        "year": "(1968)",
+        "url": "https://www.youtube.com/results?search_query=Tim%20Hart%20%26amp%3B%20Maddy%20Prior-Folk%20Songs%20of%20Old%20England%20-%20Volume%201",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/mpzUp5c1jQux80pdyWYZ6e1YAPM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI2cfS3oDM5DcFQJEIE6FlPvOFvJSA4ZI"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-15T18:32:05.000Z",
+                "channelId": "UCBGGif7GzKsrGAVS12u9u9A",
+                "title": "Folk songs of Old England",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Do7epBepl8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Do7epBepl8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Do7epBepl8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "barrydr1",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

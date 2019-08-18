@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 12,
+        "genre": "Mbalax ",
+        "artist": "Various",
+        "song": "African Pearls S\u00e9n\u00e9gal 70 - Musical Effervescence",
+        "year": "(2008)",
+        "url": "https://www.youtube.com/results?search_query=Various-African%20Pearls%20S%C3%A9n%C3%A9gal%2070%20-%20Musical%20Effervescence",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/SJCz6jYOop4ktpl8VJRwfPXLp1k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nU4ekUZx1iM"
+            },
+            "snippet": {
+                "publishedAt": "2011-01-28T16:34:27.000Z",
+                "channelId": "UCxc6Bn1n03SmABKu2OLFCzg",
+                "title": "Super Diamono de Dakar  - Maaduleen",
+                "description": "VA - African Pearls - S\u00e9n\u00e9gal 70: Musical Effervescence C3 - Super Diamono de Dakar - Maaduleen Discograph (6157396) - 2010 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nU4ekUZx1iM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "prop4g",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

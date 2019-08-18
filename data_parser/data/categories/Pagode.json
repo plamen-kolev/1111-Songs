@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 428,
+        "genre": "Pagode ",
+        "artist": "Grupo Fundo de Quintal",
+        "song": "Samba \u00e9 no Fundo de Quintal",
+        "year": "(1980)",
+        "url": "https://www.youtube.com/results?search_query=Grupo%20Fundo%20de%20Quintal-Samba%20%C3%A9%20no%20Fundo%20de%20Quintal",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/26TgbGloFBZ6P3xTBAex8khM918\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4BK3GedPnxQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-06T19:50:53.000Z",
+                "channelId": "UCvFrUiZODwRmBqV_RrKRxRg",
+                "title": "Grupo Fundo Do Quintal - Gama\u00e7\u00e3o Danada (\u00c1lbum Completo: Samba \u00c9 No Fundo Do Quintal)",
+                "description": "Essa faixa pertence ao \u00e1lbum \"Samba \u00c9 No Fundo Do Quintal\", do Grupo Fundo De Quintal. Inscreva-se no canal MPB!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4BK3GedPnxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4BK3GedPnxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4BK3GedPnxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MPB :: As Melhores!",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

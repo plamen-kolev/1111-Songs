@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 635,
+        "genre": "Cool Jazz ",
+        "artist": "Miles Davis",
+        "song": "Birth of the Cool",
+        "year": "(1950)",
+        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Birth%20of%20the%20Cool"
+    },
+    {
+        "unique_id": 636,
+        "genre": "Cool Jazz ",
+        "artist": "Chet Baker",
+        "song": "Chet Baker Sings",
+        "year": "(1954)",
+        "url": "https://www.youtube.com/results?search_query=Chet%20Baker-Chet%20Baker%20Sings"
+    },
+    {
+        "unique_id": 637,
+        "genre": "Cool Jazz ",
+        "artist": "Dave Brubeck",
+        "song": "Time Out",
+        "year": "(1959)",
+        "url": "https://www.youtube.com/results?search_query=Dave%20Brubeck-Time%20Out"
+    },
+    {
+        "unique_id": 638,
+        "genre": "Cool Jazz ",
+        "artist": "Miles Davis",
+        "song": "Kind of Blue",
+        "year": "(1959)",
+        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Kind%20of%20Blue"
+    },
+    {
+        "unique_id": 639,
+        "genre": "Cool Jazz ",
+        "artist": "Bill Evans",
+        "song": "Waltz for Debby",
+        "year": "(1961)",
+        "url": "https://www.youtube.com/results?search_query=Bill%20Evans-Waltz%20for%20Debby"
+    }
+]

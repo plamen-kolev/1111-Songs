@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 26,
+        "genre": "Makossa ",
+        "artist": "Various",
+        "song": "Pop Makossa - The Invasive Dance Beat of Cameroon",
+        "year": "(1976-1984)",
+        "url": "https://www.youtube.com/results?search_query=Various-Pop%20Makossa%20-%20The%20Invasive%20Dance%20Beat%20of%20Cameroon",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/XrsMjbpm9fB7UGEyPcF-GclFAcc\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLjfHkXa2IYghNP3KV0S67lk7-Qbbpy5cj"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-07T08:31:41.000Z",
+                "channelId": "UChwsdJhw39wrCg1upk2fSZg",
+                "title": "Analog Africa N\u00b023: Pop Makossa - The Invasive Dance Beat of Cameroon 1976-1984",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xqq9TP9zbtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AnalogAfrica",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

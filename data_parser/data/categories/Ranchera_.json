@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 332,
+        "genre": "Ranchera ",
+        "artist": "Los Centauros and Dora Maria",
+        "song": "Mexican Rancheras",
+        "year": "(1957)",
+        "url": "https://www.youtube.com/results?search_query=Los%20Centauros%20and%20Dora%20Maria-Mexican%20Rancheras",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/88BnCf0a3qo5G9tQ8lwQo7CrOaw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y9qAnNoFxdg"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-30T19:31:21.000Z",
+                "channelId": "UCmO_07mvXue17SnQyCVJtpw",
+                "title": "Los Centauros Dora Maria Rancheras",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y9qAnNoFxdg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vinyhilist",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

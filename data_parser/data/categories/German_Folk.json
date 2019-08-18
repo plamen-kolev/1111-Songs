@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 315,
+        "genre": "German Folk ",
+        "artist": "Zupfgeigenhansel",
+        "song": "Volkslieder aus drei Jahrhunderten",
+        "year": "(1978)",
+        "url": "https://www.youtube.com/results?search_query=Zupfgeigenhansel-Volkslieder%20aus%20drei%20Jahrhunderten",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/-lAfvbYyvMEGqUog3yvF2JHCvqk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLsq37WHm6P3fxoqlsgiQrSdw6a9DkEFD2"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-21T12:08:05.000Z",
+                "channelId": "UCVE6AYANvEdrvkGuL9qvABA",
+                "title": "Zupfgeigenhansel - Volkslieder Aus Drei Jahrhunderten",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k5PeaYz4Vgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mitchell Freeway",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    },
+    {
+        "unique_id": 316,
+        "genre": "German Folk ",
+        "artist": "Various",
+        "song": "Frisch auf ins weite Feld - Junge Leute machen Volksmusik",
+        "year": "(1980)",
+        "url": "https://www.youtube.com/results?search_query=Various-Frisch%20auf%20ins%20weite%20Feld%20-%20Junge%20Leute%20machen%20Volksmusik",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WiDubTowJ1ZqZDiebJ9Yi7-d8MQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j1TVUlw4FWk"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-31T00:34:37.000Z",
+                "channelId": "UCs7fXFS5Qd4VXDx0afoNE7g",
+                "title": "Frisch auf ins weite Feld",
+                "description": "Provided to YouTube by Kontor New Media GmbH Frisch auf ins weite Feld \u00b7 Folkl\u00e4nder Wenn man fragt, wer hat's getan... \u2117 L\u00f6wenzahn/RUM records ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j1TVUlw4FWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Folkl\u00e4nder - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

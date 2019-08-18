@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 498,
+        "genre": "Tumb\u00e9l\u00e9 ",
+        "artist": "Various",
+        "song": "Tumb\u00e9l\u00e9! Biguine, Afro & Latin Sounds From the French Caribbean",
+        "year": "(1963-1974)",
+        "url": "https://www.youtube.com/results?search_query=Various-Tumb%C3%A9l%C3%A9%21%20Biguine%2C%20Afro%20%26amp%3B%20Latin%20Sounds%20From%20the%20French%20Caribbean",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/u4Ebd0M35K_CrVnFBpRCxORFqcQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8wdZLUILdyI"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-14T17:27:45.000Z",
+                "channelId": "UCvJgU6QtX_HmGsJt-SIIhww",
+                "title": "VA \u200e\u2013 Tumbele! Biguine, Afro &amp; Latin Sounds From French Caribbean,1963-74 60&#39;s Music Compilation",
+                "description": "Label:Soundway    Format:2 \u00d7 Vinyl, LP, Compilation, Gatefold Country:UK Released:06 Oct 2009 You can visit my second channel sunnyboy66 II, always with ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8wdZLUILdyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8wdZLUILdyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8wdZLUILdyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sunnyboy66",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

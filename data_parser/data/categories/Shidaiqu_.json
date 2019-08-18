@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 153,
+        "genre": "Shidaiqu ",
+        "artist": "Various",
+        "song": "Shanghai Nights",
+        "year": "(1992)",
+        "url": "https://www.youtube.com/results?search_query=Various-Shanghai%20Nights",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/sLUSVaXQsELCMv_2v0vibpWs43k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0el39Qudo-0"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-09T08:58:04.000Z",
+                "channelId": "UCE_sVWJk5u8h-Vae46P8D8A",
+                "title": "Saib - Shanghai Nights",
+                "description": "S u p p o r t . S a i b  // http://shop.coldbusted.org/album/around-the-world https://saibeats.bandcamp.com/ https://soundcloud.com/saib_eats ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0el39Qudo-0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0el39Qudo-0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0el39Qudo-0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Le Cyclone",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

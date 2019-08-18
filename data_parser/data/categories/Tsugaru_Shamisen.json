@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 165,
+        "genre": "Tsugaru Shamisen ",
+        "artist": "Takahashi Chikuzan",
+        "song": "Tsugaru Shamisen",
+        "year": "(1974)",
+        "url": "https://www.youtube.com/results?search_query=Takahashi%20Chikuzan-Tsugaru%20Shamisen",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/LaLv82XWdB-CiaqtgCVPjW51HK8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8HTNaqEMOgk"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-08T02:18:12.000Z",
+                "channelId": "UCeyxXzWiHWFV_1tbaHLA9UQ",
+                "title": "\u300c1973 - \u9ad8\u6a4b\u7af9\u5c71 - \u6d25\u8efd\u4e09\u5473\u7dda\u300d(Takahashi Chikuzan/Tsugaru Shamisen) -FULL ALBUM-",
+                "description": "enjoy the beauty-folk music of Japan. (0:00:00) 01. \u6d25\u8efd\u4e09\u5473\u7dda\u7d44\u66f2 [Tsugaru-Shamisen Suits] (4:46:22) 02. \u6d25\u8efd\u3058\u3087\u3093\u304b\u3089\u7bc0 [Tsugaru jonkara bushi] (7:32:37) 03.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8HTNaqEMOgk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sabiacorteza",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

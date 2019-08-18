@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 347,
+        "genre": "Salsa Dura ",
+        "artist": "Willie Col\u00f3n",
+        "song": "Cosa nuestra",
+        "year": "(1969)",
+        "url": "https://www.youtube.com/results?search_query=Willie%20Col%C3%B3n-Cosa%20nuestra",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/SmRsl8TBmy_PfgDEOf1FlYyQlcE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL344AD861D91CECB5"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-14T02:46:38.000Z",
+                "channelId": "UCKCLqILapxXxzCScaPF17MA",
+                "title": "WILLIE COLON / HECTOR LAVOE - Cosa Nuestra (1969)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jnDqw8FU7Fk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jnDqw8FU7Fk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jnDqw8FU7Fk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheBiggirl08",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 700,
+        "genre": "Rhythm & Blues ",
+        "artist": "Various",
+        "song": "The R&B Hits",
+        "year": "(1942-1945)",
+        "url": "https://www.youtube.com/results?search_query=Various-The%20R%26amp%3BB%20Hits"
+    },
+    {
+        "unique_id": 701,
+        "genre": "Rhythm & Blues ",
+        "artist": "Roy Milton & His Solid Senders",
+        "song": "Rhythm & Blues From California",
+        "year": "(1945-1949)",
+        "url": "https://www.youtube.com/results?search_query=Roy%20Milton%20%26amp%3B%20His%20Solid%20Senders-Rhythm%20%26amp%3B%20Blues%20From%20California"
+    },
+    {
+        "unique_id": 702,
+        "genre": "Rhythm & Blues ",
+        "artist": "Various",
+        "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 1",
+        "year": "(1947-1952)",
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%201"
+    },
+    {
+        "unique_id": 703,
+        "genre": "Rhythm & Blues ",
+        "artist": "Various",
+        "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 2",
+        "year": "(1952-1955)",
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%202"
+    },
+    {
+        "unique_id": 704,
+        "genre": "Rhythm & Blues ",
+        "artist": "Various",
+        "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 3",
+        "year": "(1955-1958)",
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%203"
+    }
+]

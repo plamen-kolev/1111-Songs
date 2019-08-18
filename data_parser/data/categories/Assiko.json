@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 21,
+        "genre": "Assiko ",
+        "artist": "Jean Bikoko et son ensemble",
+        "song": "Nyemb Longa Jean",
+        "year": "(1969)",
+        "url": "https://www.youtube.com/results?search_query=Jean%20Bikoko%20et%20son%20ensemble-Nyemb%20Longa%20Jean",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/PAIrFdekzNmw3IhvppStzEx6dZM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e6DwtoW442w"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-27T23:53:10.000Z",
+                "channelId": "UCkVgJNmZbPT8N2OBgM6kUWQ",
+                "title": "Jean Bikoko - om me ndondok a docta (Parade - les disques samson MS305)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e6DwtoW442w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e6DwtoW442w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e6DwtoW442w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RealC38",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

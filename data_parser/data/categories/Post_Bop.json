@@ -1,0 +1,42 @@
+[
+    {
+        "unique_id": 645,
+        "genre": "Post_Bop ",
+        "artist": "Charles Mingus",
+        "song": "Pithecanthropus Erectus",
+        "year": "(1956)",
+        "url": "https://www.youtube.com/results?search_query=Charles%20Mingus-Pithecanthropus%20Erectus"
+    },
+    {
+        "unique_id": 646,
+        "genre": "Post_Bop ",
+        "artist": "Sun Ra",
+        "song": "Jazz in Silhouette",
+        "year": "(1959)",
+        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Jazz%20in%20Silhouette"
+    },
+    {
+        "unique_id": 647,
+        "genre": "Post_Bop ",
+        "artist": "John Coltrane",
+        "song": "My Favorite Things",
+        "year": "(1961)",
+        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-My%20Favorite%20Things"
+    },
+    {
+        "unique_id": 648,
+        "genre": "Post_Bop ",
+        "artist": "Wayne Shorter",
+        "song": "Speak No Evil",
+        "year": "(1966)",
+        "url": "https://www.youtube.com/results?search_query=Wayne%20Shorter-Speak%20No%20Evil"
+    },
+    {
+        "unique_id": 649,
+        "genre": "Post_Bop ",
+        "artist": "McCoy Tyner",
+        "song": "Sahara",
+        "year": "(1972)",
+        "url": "https://www.youtube.com/results?search_query=McCoy%20Tyner-Sahara"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 488,
+        "genre": "Nyahbinghi ",
+        "artist": "Various",
+        "song": "Churchical Chants of the Nyabingi",
+        "year": "(1983)",
+        "url": "https://www.youtube.com/results?search_query=Various-Churchical%20Chants%20of%20the%20Nyabingi",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Ua6REPU5YTAPOp11gW1UfqMAtzA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLABFD45191877C7F0"
+            },
+            "snippet": {
+                "publishedAt": "2011-10-24T13:53:28.000Z",
+                "channelId": "UC3Vt3DaRNUkAg4RBtYsMfUQ",
+                "title": "churchical chants of the nayabingui",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UUoONVdIyaI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UUoONVdIyaI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UUoONVdIyaI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sylvasoldjah974",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

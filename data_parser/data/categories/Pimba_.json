@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 289,
+        "genre": "Pimba ",
+        "artist": "Quim Barreiros",
+        "song": "Folclore algarvio",
+        "year": "(1973)",
+        "url": "https://www.youtube.com/results?search_query=Quim%20Barreiros-Folclore%20algarvio",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/KoMECbGmPmY4BJLepjU7y_Dw2cw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JM71LLQ0D1Q"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-03T20:00:00.000Z",
+                "channelId": "UCkCZtoggL-OUom9FKXS_sbQ",
+                "title": "Sonho Algarvio",
+                "description": "Provided to YouTube by The Orchard Enterprises Sonho Algarvio \u00b7 Quim Barreiros Folclore Portugal - Algarve \u2117 2017 E.M.B. Released on: 2018-05-04 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JM71LLQ0D1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quim Barreiros - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

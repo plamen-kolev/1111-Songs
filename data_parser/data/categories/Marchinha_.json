@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 426,
+        "genre": "Marchinha ",
+        "artist": "Armando Mar\u00e7al & Bide",
+        "song": "Recordings",
+        "year": "(1933-1939)",
+        "url": "https://www.youtube.com/results?search_query=Armando%20Mar%C3%A7al%20%26amp%3B%20Bide-Recordings",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YP1iyVqD7lYiUDY7evOLQh8EbNI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c2bfxmBueAI"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-14T17:27:22.000Z",
+                "channelId": "UCByWYzM8_EK8b4H0zX55hiQ",
+                "title": "Ando na Orgia (samba)",
+                "description": "Ando na Orgia (samba) Carlos Galhardo The Music of Brazil / Songs of Armando Mar\u00e7al & Bide / Recordings 1933 - 1939 Buylinks ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c2bfxmBueAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c2bfxmBueAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c2bfxmBueAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BlackRoundRec",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

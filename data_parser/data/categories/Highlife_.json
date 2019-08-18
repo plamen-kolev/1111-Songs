@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 6,
+        "genre": "Highlife ",
+        "artist": "E.T. Mensah",
+        "song": "Day by Day - Classic Highlife",
+        "year": "(1950-1969)",
+        "url": "https://www.youtube.com/results?search_query=E.T.%20Mensah-Day%20by%20Day%20-%20Classic%20Highlife",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/6hGEarLjXyBjwIXcX1Nv6Usn0y0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5IyRIEVTAis"
+            },
+            "snippet": {
+                "publishedAt": "2011-01-03T01:36:44.000Z",
+                "channelId": "UCj06bK_bN--0eKmLwZ8RrmA",
+                "title": "E T Mensah:  01 - Day By Day",
+                "description": "The second volume of vintage E.T. Mensah material from the RetroAfric label, Day By Day includes more fine highlife and calypso numbers from the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5IyRIEVTAis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5IyRIEVTAis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5IyRIEVTAis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YourHighlifeMusic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

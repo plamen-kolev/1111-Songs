@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 306,
+        "genre": "Music Hall ",
+        "artist": "George Formby",
+        "song": "The Best of George Formby",
+        "year": "(1996)",
+        "url": "https://www.youtube.com/results?search_query=George%20Formby-The%20Best%20of%20George%20Formby",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Q7jT5SODSOANRvUJX47MQM8_7zI\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL-7r-4xUajrTrUtdsYP13tI6G4KcRLcLd"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-03T15:02:44.000Z",
+                "channelId": "UCQMYuTelUkhK2SYR63P3lbg",
+                "title": "George Formby - 80 Greatest Hits - The Very Best Of (One Day Music)",
+                "description": "Born in Wigan, Lancashire in 1904 George Formby is the famous son of an equally famous father. Throughout the twenties George Jnr appeared in variety and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rP7O4ytd9dY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "finetunes Pop",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

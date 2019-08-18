@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 414,
+        "genre": "Choro ",
+        "artist": "Various",
+        "song": "Choro",
+        "year": "(1906-1947)",
+        "url": "https://www.youtube.com/results?search_query=Various-Choro",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/j5XRtpD-NJsk_FyJ8VMIdUo26oI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3FqyxSo75r4"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-16T15:57:16.000Z",
+                "channelId": "UCzE-kqBPip4PXajN6SnF4JA",
+                "title": "Um, Dois, Tr\u00eas Choro",
+                "description": "Provided to YouTube by ONErpm Um, Dois, Tr\u00eas Choro \u00b7 Cesto Emp\u00edrico \u00b7 Alvanir Poster de \u00c1vila 1 \u2117 Cesto Emp\u00edrico Released on: 2019-03-06 Auto-generated ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3FqyxSo75r4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3FqyxSo75r4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3FqyxSo75r4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Various Artists - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

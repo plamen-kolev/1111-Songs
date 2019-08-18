@@ -1,0 +1,86 @@
+[
+    {
+        "unique_id": 506,
+        "genre": "Ars nova ",
+        "artist": "Various",
+        "song": "Le si\u00e8cle de l'Ars nova (A Revolution in the Late Middle Ages)",
+        "year": "(1300)",
+        "url": "https://www.youtube.com/results?search_query=Various-Le%20si%C3%A8cle%20de%20l%26%23x27%3BArs%20nova%20%28A%20Revolution%20in%20the%20Late%20Middle%20Ages%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YSQRUrqZAuZPbot4VgpUQz_0bc8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zYYzvudlyzw"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-03T18:43:34.000Z",
+                "channelId": "UCfsSoI5zlTCSQPkR6s5nLKQ",
+                "title": "V.M. Kwen Khan Khu: Valoraciones del Trabajo Gno\u0301stico Interior // Entrevista N16",
+                "description": "Hay que perseverar en este camino cueste lo que cueste. Los impacientes abandonar\u00e1n este camino muy r\u00e1pido, porque el conocimiento de nosotros mismos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zYYzvudlyzw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zYYzvudlyzw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zYYzvudlyzw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AGEAC",
+                "liveBroadcastContent": "none"
+            }
+        }
+    },
+    {
+        "unique_id": 507,
+        "genre": "Ars nova ",
+        "artist": "Guillaume de Machaut",
+        "song": "Messe de Notre Dame",
+        "year": "(1350)",
+        "url": "https://www.youtube.com/results?search_query=Guillaume%20de%20Machaut-Messe%20de%20Notre%20Dame",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/gYHeEzGmCL9Dw8C93X1JvymbWr4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1gEV42RKf6E"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-23T20:49:06.000Z",
+                "channelId": "UCl5Ra-abUnDvtgSA0BTdiMg",
+                "title": "Machaut - Messe de Notre Dame (Ensemble Organum)",
+                "description": "Guillaume de Machaut - Messe de Nostre Dame. Complete With Score Ensemble Organum - Dir. Marcel P\u00e9r\u00e8s Messe de Nostre Dame (Mass of Our Lady) is a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1gEV42RKf6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1gEV42RKf6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1gEV42RKf6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rolando \u00c1ngel",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

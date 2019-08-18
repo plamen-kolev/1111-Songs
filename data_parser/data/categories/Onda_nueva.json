@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 377,
+        "genre": "Onda nueva ",
+        "artist": "Aldemaro Romero",
+        "song": "Dinner in Caracas",
+        "year": "(1955)",
+        "url": "https://www.youtube.com/results?search_query=Aldemaro%20Romero-Dinner%20in%20Caracas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/aPiNAVOXnH7y4lZduqROjPmL0Fc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ii9gQ0WaIko"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-05T15:46:37.000Z",
+                "channelId": "UCjmCScUnXi5do_G9LzyaOOQ",
+                "title": "Dinner in Caracas",
+                "description": "1. Alma Llanera - 2. Luna de Maracaibo - 3. Endrina - 4. Conticinio - 5. La Reina - 6. Adios a Ocumare - 7. Sombra en los M\u00e9danos - 8. Serenata - 9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ii9gQ0WaIko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ii9gQ0WaIko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ii9gQ0WaIko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jorhan2007",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

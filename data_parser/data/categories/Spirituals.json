@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 431,
+        "genre": "Spirituals ",
+        "artist": "Various",
+        "song": "Afro_American Spirituals, Work Songs, and Ballads",
+        "year": "(1933-1939)",
+        "url": "https://www.youtube.com/results?search_query=Various-Afro_American%20Spirituals%2C%20Work%20Songs%2C%20and%20Ballads",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/KlNgaQNnbg71vIOt1V_BNJxG65M\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL5gesReHGwvw6aCtl1VdBUVJHzSwzy0CD"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-24T19:07:05.000Z",
+                "channelId": "UC5FghMGXg-nwueUBPQGNk-g",
+                "title": "Songs of slavery: Work songs and Spirituals",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KkMiCGTi0SM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KkMiCGTi0SM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KkMiCGTi0SM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Piano Key",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

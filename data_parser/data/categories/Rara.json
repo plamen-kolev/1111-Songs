@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 496,
+        "genre": "Rara ",
+        "artist": "Various",
+        "song": "Rara in Haiti - Street Music of Haiti",
+        "year": "(2010)",
+        "url": "https://www.youtube.com/results?search_query=Various-Rara%20in%20Haiti%20-%20Street%20Music%20of%20Haiti",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/SznnJMvdQs26sK_VGpvhMgLOaW0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZM_gbamVv2Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-10T23:21:45.000Z",
+                "channelId": "UC0J948Efr7tiJv9-BiS3lRQ",
+                "title": "Rara Lakay In Little Haiti Live",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZM_gbamVv2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZM_gbamVv2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZM_gbamVv2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RARA LAKAY",
+                "liveBroadcastContent": "none"
+            }
+        }
+    }
+]

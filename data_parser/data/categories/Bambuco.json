@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 374,
+        "genre": "Bambuco ",
+        "artist": "Garz\u00f3n y Collazos",
+        "song": "Lo mejor de Garz\u00f3n y Collazos",
+        "year": "(2000)",
+        "url": "https://www.youtube.com/results?search_query=Garz%C3%B3n%20y%20Collazos-Lo%20mejor%20de%20Garz%C3%B3n%20y%20Collazos",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/E5AtOdpm236uhBRlIzyDD7Ti2C4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vqnxJu49lFI"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-16T22:21:20.000Z",
+                "channelId": "UC3e-6L_8SSjhBF7ms-1j9-A",
+                "title": "TESOROS DE LA M\u00daSICA COLOMBIANA Garz\u00f3n y Collazos Vol 1",
+                "description": "TESOROS DE LA M\u00daSICA COLOMBIANA GARZ\u00d3N Y COLLAZOS Vol. 1 Sonolux LP 12-104 / IES 13-1 1. ARRUNCHADITOS (Bambuco) Rafael Godoy 0:00 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vqnxJu49lFI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vqnxJu49lFI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vqnxJu49lFI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u00c1lbum Musical de Colombia",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

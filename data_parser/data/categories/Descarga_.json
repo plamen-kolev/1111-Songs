@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 353,
+        "genre": "Descarga ",
+        "artist": "Cachao y su Ritmo Caliente",
+        "song": "Cuban Jam Sessions in Miniature - Descargas",
+        "year": "(1957)",
+        "url": "https://www.youtube.com/results?search_query=Cachao%20y%20su%20Ritmo%20Caliente-Cuban%20Jam%20Sessions%20in%20Miniature%20-%20Descargas",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/M1gGIOHpllhEZpOC6r6zWb-XxEk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzjb-CVjY_P1iy52yCYGNjf8wv6T_YNvE"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-10T05:13:44.000Z",
+                "channelId": "UCeGN8wEWV4QmXkGL2-DE21g",
+                "title": "Cuban Jam Session in Miniature, \"Descargas\" - Cachao Y Su Ritmo Caliente",
+                "description": "Taken from THE COMPLETE CUBAN JAM SESSIONS out via Craft Recordings on November 16, 2018. Will be available via 5-CD, 5-LP, and digital formats.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o5pZGCHG4T4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o5pZGCHG4T4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o5pZGCHG4T4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Panart Records",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]

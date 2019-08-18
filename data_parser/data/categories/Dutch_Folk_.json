@@ -1,0 +1,44 @@
+[
+    {
+        "unique_id": 317,
+        "genre": "Dutch Folk ",
+        "artist": "De Perelaar",
+        "song": "Nederlandse volksmuziek",
+        "year": "(1977)",
+        "url": "https://www.youtube.com/results?search_query=De%20Perelaar-Nederlandse%20volksmuziek",
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ZnQ4f_Emft8uYtA2rtSXXEKvz4Y\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7WG3sJMqcodf8qZY7BuUqMtN7_Y8GO2l"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-23T07:58:45.000Z",
+                "channelId": "UCoa7OhvrqdtaXnSU50FVL3A",
+                "title": "Dutch folkmusic and dances",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SR8OGROl7CQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Folk and Other Music",
+                "liveBroadcastContent": "none"
+            }
+        },
+        "enriched": true
+    }
+]
