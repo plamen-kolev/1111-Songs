@@ -1,5 +1,5 @@
 import React from 'react';
-import { Dimmer, Loader, Card, Divider, Placeholder } from 'semantic-ui-react'
+import { Dimmer, Loader, Card, Placeholder } from 'semantic-ui-react'
 
 export const SongLoading = () => {
     return (

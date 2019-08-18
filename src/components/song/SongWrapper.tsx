@@ -13,7 +13,6 @@ type SongWrapperProps = {
 }
 
 const chunksToLoad = 32;
-let deadSongs: JsonSong[] = [];
 
 export class SongWrapper extends React.Component<SongWrapperProps, { songs: JsonSong[] }> {
     constructor(props: SongWrapperProps, state: any) {
