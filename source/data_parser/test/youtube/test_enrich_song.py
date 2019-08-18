@@ -1,8 +1,6 @@
 import json
 import os
-import unittest
-from unittest import TestCase
-from unittest.mock import patch
+from unittest import TestCase, mock
 from src.youtube.songEnricher import enrich_song
 
 mock_youtube_response_path = os.path.join(os.path.dirname(__file__), "../../data/mock/")
@@ -17,8 +15,8 @@ with open(mock_youtube_response_path + 'youtube_empty_response.json') as json_da
     mock_empty_youtube_json = json.load(json_data)
 
 
-@unittest.mock.patch("json.dump")
-@unittest.mock.patch("src.youtube.youtube_service.get_youtube_play_info", return_value=mock_youtube_json)
+@mock.patch("json.dump")
+@mock.patch("src.youtube.youtube_service.get_youtube_play_info", return_value=mock_youtube_json)
 class TestEnrichSong(TestCase):
 
     def setUp(self):
@@ -64,3 +62,12 @@ class TestEnrichSong(TestCase):
 
         self.assertEqual(1, mock_json_dump.call_count)
         self.assertEqual(expected_argument, mock_json_dump.call_args[0][0])
+
+    def test_will_not_call_youtube_api_if_already_enriched(self, mock_youtube_play_info, mock_json_dump):
+        enriched_song = {
+            "song": "Rich people hits < this row is a red herring",
+            "artist": "Rich Brian < this row is a red herring",
+            "enriched": True
+        }
+        enrich_song(enriched_song)
+        self.assertEqual(0, mock_youtube_play_info.call_count)
