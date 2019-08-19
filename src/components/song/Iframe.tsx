@@ -17,7 +17,6 @@ const hasComponentChanged = (currentProps: IframeProps, nextProps: IframeProps) 
 
 export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}: IframeProps) => {
     const autoplayValue = autoplay ? 1 : 0;
-    console.log("AUTOIPLAY IN IFRAME:", autoplayValue);
     let source;
     if(youtube && youtube.id && youtube.id.kind) {
         switch(youtube.id.kind) {
@@ -32,7 +31,7 @@ export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}:
         }
     }
     if(!source) {
-        iframe = (<IframeSubstitute url={url}/>)
+        iframe = (<IframeSubstitute title={title} url={url}/>)
     } else {
         iframe = (<iframe
             title={title}

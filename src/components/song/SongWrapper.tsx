@@ -1,5 +1,5 @@
 import React from 'react';
-import dataMap from '../../data/categories_lookup.json';
+import genresList from '../../data/categories_lookup.json';
 import { Grid } from 'semantic-ui-react'
 import { SongLoading } from './SongLoading'
 import { Song } from './Song';
@@ -8,11 +8,13 @@ import { IframeProps } from 'components/song/Iframe';
 import { JsonSong } from '../../utils'
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
 
+genresList.sort(() => Math.random() - 0.5);
+
 type SongWrapperProps = {
     onSongClick(iframeData: IframeProps): void
 }
 
-const chunksToLoad = 32;
+const chunksToLoad = 24;
 
 export class SongWrapper extends React.Component<SongWrapperProps, { songs: JsonSong[] }> {
     constructor(props: SongWrapperProps, state: any) {
@@ -31,9 +33,10 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
     }
 
     addMoreSongs = () => {
+
         let songs: JsonSong[] = [];
         for (let i = 0; i < chunksToLoad; i++) {
-            const filename = dataMap.pop();
+            const filename = genresList.pop();
             if(!filename) {
                 break;
             }

@@ -11,13 +11,15 @@
     "react-ga": "^2.6.0",
     "react-lazyload": "^2.6.2",
     "react-scripts": "3.1.0",
-    "semantic-ui-react": "^0.87.3"
+    "semantic-ui-react": "^0.87.3",
+    "zsh": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "copy-assets": "mkdir -p src/data && cp -r data_parser/data/categories src/data/ && cp data_parser/data/categories_lookup.json src/data/"
   },
   "eslintConfig": {
     "extends": "react-app"

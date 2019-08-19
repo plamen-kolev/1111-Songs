@@ -18,7 +18,6 @@ export class App extends React.Component {
     }
 
     onSongClick = (song) => {
-        console.log("click:", this.state.autoplay);
         this.setState({
             currentSong: song,
         });

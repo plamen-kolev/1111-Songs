@@ -7,13 +7,14 @@ const openInNewTab = (url: string) => {
 }
 
 type IframeSubstituteProps = {
-    url: string;
+    url: string,
+    title: string
 }
 
-export const IframeSubstitute = ({url}: IframeSubstituteProps) => {
+export const IframeSubstitute = ({url, title}: IframeSubstituteProps) => {
     return (<div className="iframe-music-player">
         { url && <Button className="iframe-music-player-button" onClick={() => openInNewTab(url)} variant="contained">
-            <h2>Open Youtube</h2>
+            <h2>Open "{title}" on youtube</h2>
         </Button>}
 
         {! url && <Button className="iframe-music-player-button" disabled variant="contained">
