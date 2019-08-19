@@ -47,9 +47,11 @@
 }
 
 .iframe-container .iframe-music-player-button{
-  margin-top: 95px;
 }
 
+.iframe-container .menu-container {
+  padding:0px;
+}
 
 @keyframes App-logo-spin {
   from {

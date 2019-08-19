@@ -10,19 +10,19 @@ export type SongProps = {
     song: string,
     url: string,
     genre: string,
-    click(iframeData: IframeProps): void
+    click(iframeData: IframeProps): void,
 }
 
 export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongProps) => {
-    const isEnriched = enriched && youtube
+    const isEnriched = enriched && youtube;
     const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`;
-    
+
     return (
         <Card className="song-card" onClick={() => click({
-                url,
-                title,
-                youtube
-            })}>
+            url,
+            title,
+            youtube,
+        })}>
             <Card.Content>
                 <Card.Description className="song-card-title">
                     {title}
