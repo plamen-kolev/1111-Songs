@@ -5,6 +5,40 @@
         "artist": "Raymond Scott",
         "song": "The Music of Raymond Scott - Reckless Nights and Turkish Twilights",
         "year": "(1937-_)",
-        "url": "https://www.youtube.com/results?search_query=Raymond%20Scott-The%20Music%20of%20Raymond%20Scott%20-%20Reckless%20Nights%20and%20Turkish%20Twilights"
+        "url": "https://www.youtube.com/results?search_query=Raymond%20Scott-The%20Music%20of%20Raymond%20Scott%20-%20Reckless%20Nights%20and%20Turkish%20Twilights",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/289chOa8xLLvQG2XcPqNmtSlxwc\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLY9mwi_zkRODaW5LzCdYbfN_ly09aqQeI"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-23T05:48:45.000Z",
+                "channelId": "UClwL3IJUOwhCDyCFpVC7-oQ",
+                "title": "Reckless Nights And Twilights - Raymond Scott",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qaC0vNLdLvY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qaC0vNLdLvY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qaC0vNLdLvY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sebastian Christopher Guzm\u00e1n Atoche",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

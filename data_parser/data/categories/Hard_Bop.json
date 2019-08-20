@@ -5,7 +5,41 @@
         "artist": "Thelonious Monk Trio",
         "song": "Thelonious",
         "year": "(1953)",
-        "url": "https://www.youtube.com/results?search_query=Thelonious%20Monk%20Trio-Thelonious"
+        "url": "https://www.youtube.com/results?search_query=Thelonious%20Monk%20Trio-Thelonious",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/gaGITYIQPPZC3gMNGvnRUhDgSYU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLp1OjP0tJn_ECjFmCN0gE7zJtvCGJ3YeX"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-14T21:01:41.000Z",
+                "channelId": "UCxFxwFzgao3zyey59CnKVrg",
+                "title": "Thelonious Monk - Thelonius Monk Trio",
+                "description": "Pianist, composer and ranking bop pioneer Thelonious Monk made a heap of recordings during his lifetime (1917-82) and, generally speaking, the further back ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WZcTZycaBdg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WZcTZycaBdg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WZcTZycaBdg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thelonious Monk",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 641,
@@ -13,7 +47,41 @@
         "artist": "Sonny Rollins",
         "song": "Saxophone Colossus",
         "year": "(1957)",
-        "url": "https://www.youtube.com/results?search_query=Sonny%20Rollins-Saxophone%20Colossus"
+        "url": "https://www.youtube.com/results?search_query=Sonny%20Rollins-Saxophone%20Colossus",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jUSSOBP9hrS-72luoYvuGqciGWE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLlxdnGV3wLNPuc4jXzyMcuGYiJHOrw0Di"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-29T02:46:33.000Z",
+                "channelId": "UCCvgF2sIUpe96WBdq-eNQHw",
+                "title": "Sonny Rollins Saxophone Collosus",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UA2XIWZxMKM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UA2XIWZxMKM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UA2XIWZxMKM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Patrick Stevens",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 642,
@@ -21,7 +89,41 @@
         "artist": "John Coltrane",
         "song": "Giant Steps",
         "year": "(1960)",
-        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-Giant%20Steps"
+        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-Giant%20Steps",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Y6RuD9T0Lm6iGn4EuZlZN5stxag\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "30FTr6G53VU"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-29T23:06:12.000Z",
+                "channelId": "UCWi26SGmqWxAsXAw7dVS2PA",
+                "title": "Giant Steps",
+                "description": "\"Giant Steps\" is a jazz recording by John Coltrane, on tenor saxophone, which is the first track on the album of the same name and is 4 minutes and 49 seconds ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/30FTr6G53VU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/30FTr6G53VU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/30FTr6G53VU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazzman2696",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 643,
@@ -29,7 +131,41 @@
         "artist": "Duke Ellington, Charlie Mingus, Max Roach",
         "song": "Money Jungle",
         "year": "(1963)",
-        "url": "https://www.youtube.com/results?search_query=Duke%20Ellington%2C%20Charlie%20Mingus%2C%20Max%20Roach-Money%20Jungle"
+        "url": "https://www.youtube.com/results?search_query=Duke%20Ellington%2C%20Charlie%20Mingus%2C%20Max%20Roach-Money%20Jungle",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/yTOWgsqvG5s28YhKQabgpe9VYrk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL8a8cutYP7fq6YLj_4Lb-SSwxzxO-5SWb"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-09T07:48:30.000Z",
+                "channelId": "UCGs3APeHZmWMj0ruQOH-RmA",
+                "title": "Duke Ellington, Charles Mingus, Max Roach \"Money Jungle\" - Full Album (1986 LP reissue)",
+                "description": "Money Jungle is a studio album by pianist Duke Ellington with double bassist Charles Mingus and drummer Max Roach. It was recorded on September 17, 1962 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6CuMgLM558s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6CuMgLM558s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6CuMgLM558s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 644,
@@ -37,6 +173,40 @@
         "artist": "Art Blakey",
         "song": "Free for All",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=Art%20Blakey-Free%20for%20All"
+        "url": "https://www.youtube.com/results?search_query=Art%20Blakey-Free%20for%20All",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Y66UsValbTyd-7n9cbVNdo6gAwc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lBH-6CJYdJ4"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-23T19:43:45.000Z",
+                "channelId": "UC6GJbcfdjJXoRTJt1ANIOEw",
+                "title": "Art Blakey &amp; the Jazz Messengers - Free For All (1964) {Full Album}",
+                "description": "Subscribe here \u2192 https://www.youtube.com/channel/UC6GJbcfdjJXoRTJt1ANIOEw ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lBH-6CJYdJ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lBH-6CJYdJ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lBH-6CJYdJ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "My Kind Of Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Fran\u00e7ois Tusques",
         "song": "Free Jazz",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=Fran%C3%A7ois%20Tusques-Free%20Jazz"
+        "url": "https://www.youtube.com/results?search_query=Fran%C3%A7ois%20Tusques-Free%20Jazz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/igTRXlaJSSPZDJD4X8nOE8HEY4M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nXHVe7X_MCI"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-30T10:39:24.000Z",
+                "channelId": "UCT6md7hCX-djIDrTJVkDJKQ",
+                "title": "Fran\u00e7ois Tusques \u200e\u2013 Free Jazz (full album) 1965 .wav",
+                "description": "Description Automatique D'un Paysage D\u00e9sol\u00e9 12:49 Souvenir De L'OIseau 5:39 Description Automatique D'un Paysage D\u00e9sol\u00e9 (Autre Version) 5:11 La Tour ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nXHVe7X_MCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nXHVe7X_MCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nXHVe7X_MCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GEORGE TSAPAKIDES",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 666,
@@ -13,7 +47,41 @@
         "artist": "Alexander von Schlippenbach's Globe Unity Orchestra",
         "song": "Globe Unity 67 & 70",
         "year": "(1967-1970)",
-        "url": "https://www.youtube.com/results?search_query=Alexander%20von%20Schlippenbach%26%23x27%3Bs%20Globe%20Unity%20Orchestra-Globe%20Unity%2067%20%26amp%3B%2070"
+        "url": "https://www.youtube.com/results?search_query=Alexander%20von%20Schlippenbach%26%23x27%3Bs%20Globe%20Unity%20Orchestra-Globe%20Unity%2067%20%26amp%3B%2070",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7Il-sFfcF13gBiX5gGgANRqoP04\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hg3Ah92O2wg"
+            },
+            "snippet": {
+                "publishedAt": "2009-08-27T10:40:29.000Z",
+                "channelId": "UCy1tKqmXiofLJKgtuID16GQ",
+                "title": "Globe Unity Orchestra - Globe Unity 70 (1970/11/07)",
+                "description": "November 7, 1970 Kongresshalle - Berliner Jazztage Berlin, Germany composition by Alexander von Schlippenbach Alexander von Schlippenbach - piano, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hg3Ah92O2wg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hg3Ah92O2wg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hg3Ah92O2wg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andrei Ionescu",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 667,
@@ -21,7 +89,41 @@
         "artist": "The Peter Br\u00f6tzmann Octet",
         "song": "Machine Gun",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=The%20Peter%20Br%C3%B6tzmann%20Octet-Machine%20Gun"
+        "url": "https://www.youtube.com/results?search_query=The%20Peter%20Br%C3%B6tzmann%20Octet-Machine%20Gun",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/JFoqzN1a2prHzhwER1aPKvgKEk0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0wgA9L5TN5M"
+            },
+            "snippet": {
+                "publishedAt": "2012-01-29T19:58:38.000Z",
+                "channelId": "UCu4OEgMMGUsF-4xJRc1idIA",
+                "title": "The Peter Brotzmann Octet - Machine Gun (Full Album)",
+                "description": "Artist/Band: The Peter Brotzmann Octet Album: Machine Gun Year: 1968 Genre: Free jazz Wikipedia article: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0wgA9L5TN5M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0wgA9L5TN5M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0wgA9L5TN5M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "musicisprettyneat",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 668,
@@ -29,7 +131,41 @@
         "artist": "Manfred Schoof",
         "song": "European Echoes",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=Manfred%20Schoof-European%20Echoes"
+        "url": "https://www.youtube.com/results?search_query=Manfred%20Schoof-European%20Echoes",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/rdO-Oyctm-fGTiPGsB9FekWBiJw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_5nHPOS8v4M"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-13T20:54:22.000Z",
+                "channelId": "UCQKlrmwFP2flRdjBPoiq8PA",
+                "title": "Manfred Schoof \u200e- European Echoes (1969) FULL ALBUM",
+                "description": "FMP   \u2013 FMP 0010 (Germany, 1969) https://www.discogs.com/Manfred-Schoof-European-Echoes/release/3222228 Purchase reissue: http://bit.ly/2vhYo92 00:00 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_5nHPOS8v4M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_5nHPOS8v4M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_5nHPOS8v4M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saturn Archives \u571f\u661f\u306e\u30a2\u30fc\u30ab\u30a4\u30d6",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 669,
@@ -37,6 +173,40 @@
         "artist": "Alexander von Schlippenbach Trio",
         "song": "Pakistani Pomade",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Alexander%20von%20Schlippenbach%20Trio-Pakistani%20Pomade"
+        "url": "https://www.youtube.com/results?search_query=Alexander%20von%20Schlippenbach%20Trio-Pakistani%20Pomade",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/nw14VJHgPJTvLAp-r78z0SUAREM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gNHIlRvtbZg"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-29T17:21:24.000Z",
+                "channelId": "UCQKlrmwFP2flRdjBPoiq8PA",
+                "title": "Alexander von Schlippenbach Trio \u200e- Pakistani Pomade (1973) FULL ALBUM",
+                "description": "FMP   \u2013 FMP 0110 (Germany, 1973) https://www.discogs.com/Alexander-von-Schlippenbach-Trio-Pakistani-Pomade/release/461419 Purchase reissue: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gNHIlRvtbZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gNHIlRvtbZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gNHIlRvtbZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saturn Archives \u571f\u661f\u306e\u30a2\u30fc\u30ab\u30a4\u30d6",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

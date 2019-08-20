@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Cabaret [Original Broadway Cast]",
         "year": "(1966)",
-        "url": "https://www.youtube.com/results?search_query=Various-Cabaret%20%5BOriginal%20Broadway%20Cast%5D"
+        "url": "https://www.youtube.com/results?search_query=Various-Cabaret%20%5BOriginal%20Broadway%20Cast%5D",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dCz2AHgWxWZkD_b3JDmMYrJHoFY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLFF6yPn7ZTBN3zwYytNx5T-puURfXLyay"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-06T17:47:32.000Z",
+                "channelId": "UCWBdKkGP_XcLGm_-DLNOHNg",
+                "title": "Cabaret (Original 1966 Production)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-NVnZw1d7A0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-NVnZw1d7A0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-NVnZw1d7A0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cole",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

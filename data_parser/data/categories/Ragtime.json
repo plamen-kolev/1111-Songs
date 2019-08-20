@@ -5,6 +5,40 @@
         "artist": "Scott Joplin",
         "song": "King of Ragtime",
         "year": "(1899-1909)",
-        "url": "https://www.youtube.com/results?search_query=Scott%20Joplin-King%20of%20Ragtime"
+        "url": "https://www.youtube.com/results?search_query=Scott%20Joplin-King%20of%20Ragtime",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jOzY63DV2w7JDhMcrIHdKzn9wkM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H49DusYsQfc"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-09T02:03:11.000Z",
+                "channelId": "UClre9fHdYvRcDCfeZoFj9UQ",
+                "title": "Scott Joplin: King of Ragtime Composers (1977)",
+                "description": "For more fun classic stuff visit: https://classics.life/ From Archive.Org: This dramatized biography follows Joplin's life from his discovery and initial success, his ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H49DusYsQfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H49DusYsQfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H49DusYsQfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Classics Life",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

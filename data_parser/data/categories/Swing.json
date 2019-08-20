@@ -5,7 +5,41 @@
         "artist": "Various",
         "song": "An Anthology of Big Band Swing",
         "year": "(1930-1955)",
-        "url": "https://www.youtube.com/results?search_query=Various-An%20Anthology%20of%20Big%20Band%20Swing"
+        "url": "https://www.youtube.com/results?search_query=Various-An%20Anthology%20of%20Big%20Band%20Swing",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/jVMCobuI310-2KR3vZRfAyroLL0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Cn7I47-TNPs"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-29T09:18:40.000Z",
+                "channelId": "UCoSDwOg7x3_kQD1h_VzfxRA",
+                "title": "Glenn Miller - 100 Greatest Hits (FULL ALBUM - THE BEST OF SWING)",
+                "description": "Glenn Miller 100 Greatest Hits (FULL ALBUM - THE BEST OF SWING) 1. Moonlight Serenade 2. In the Mood 3. A String of Pearls 4. Little Brown Jug 5.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Cn7I47-TNPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Cn7I47-TNPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Cn7I47-TNPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vintage JukeBox - Don't Stop The Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 621,
@@ -13,7 +47,41 @@
         "artist": "Benny Goodman",
         "song": "Carnegie Hall Jazz Concert",
         "year": "(1938)",
-        "url": "https://www.youtube.com/results?search_query=Benny%20Goodman-Carnegie%20Hall%20Jazz%20Concert"
+        "url": "https://www.youtube.com/results?search_query=Benny%20Goodman-Carnegie%20Hall%20Jazz%20Concert",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/hlaYDLe1XJcqX2lsqHOqVoy0Kdo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zejfr1H40eA"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-17T18:29:11.000Z",
+                "channelId": "UC-VbS62vD2JDiKGru9E_Fxw",
+                "title": "Benny Goodman: January 16, 1938 Carnegie Hall (Full Concert)",
+                "description": "The Benny Goodman Orchestra: Benny Goodman, clarinet, vocal, and leader Chris Griffin, Ziggy Elman, Harry James, trumpets Red Ballard, Vernon Brown, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zejfr1H40eA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zejfr1H40eA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zejfr1H40eA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz Time with Jarvis X",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 622,
@@ -21,7 +89,41 @@
         "artist": "Artie Shaw",
         "song": "Plays an Album of Popular Music",
         "year": "(1939)",
-        "url": "https://www.youtube.com/results?search_query=Artie%20Shaw-Plays%20an%20Album%20of%20Popular%20Music"
+        "url": "https://www.youtube.com/results?search_query=Artie%20Shaw-Plays%20an%20Album%20of%20Popular%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/6HDZBAKwAfHE-McMRCscRoacSqE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLoegdm32aDANiSlXGpw88ff4zM4yoLreP"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-23T01:23:29.000Z",
+                "channelId": "UCgRBKDPWqEzmioZZVS1hqLQ",
+                "title": "Artie Shaw Plays An Album of Popular Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3pmTKIVAhRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3pmTKIVAhRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3pmTKIVAhRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brady Larsen",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 623,
@@ -29,7 +131,41 @@
         "artist": "Frank Sinatra",
         "song": "Swing Easy! - Songs for Young Lovers",
         "year": "(1955)",
-        "url": "https://www.youtube.com/results?search_query=Frank%20Sinatra-Swing%20Easy%21%20-%20Songs%20for%20Young%20Lovers"
+        "url": "https://www.youtube.com/results?search_query=Frank%20Sinatra-Swing%20Easy%21%20-%20Songs%20for%20Young%20Lovers",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/a4opM1VKCbgVBf7w2nNObI85dNU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7173E7B62C1CCECC"
+            },
+            "snippet": {
+                "publishedAt": "2011-08-16T17:48:53.000Z",
+                "channelId": "UCOayHSJiJB03LvLzmBkfGVQ",
+                "title": "Frank Sinatra: Songs for Swingin' Lovers!",
+                "description": "Complete Album 1956 Capitol.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vIHWmW1eyUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vIHWmW1eyUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vIHWmW1eyUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Soundtracks and Music by Bermuda425",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 624,
@@ -37,6 +173,40 @@
         "artist": "Count Basie and His Orchestra + Neal Hefti Arrangements",
         "song": "Basie",
         "year": "(1958)",
-        "url": "https://www.youtube.com/results?search_query=Count%20Basie%20and%20His%20Orchestra%20%2B%20Neal%20Hefti%20Arrangements-Basie"
+        "url": "https://www.youtube.com/results?search_query=Count%20Basie%20and%20His%20Orchestra%20%2B%20Neal%20Hefti%20Arrangements-Basie",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/b5SvX7tI8dODP_lxq5TtUmKYHKk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLO7CetMUy1OdV5bX4VBzycWnyJl9QkKdd"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-23T13:38:37.000Z",
+                "channelId": "UCXA90JJ5iEfL9Al6IZTpFtg",
+                "title": "The Complete Atomic Basie- Count Basie Orchestra + Neal Hefti Arrangements",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rEUBwiezayE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rEUBwiezayE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rEUBwiezayE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lindbergh Jazz Library",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

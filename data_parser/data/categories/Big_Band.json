@@ -5,7 +5,41 @@
         "artist": "Fletcher Henderson",
         "song": "The Chronogical Classics",
         "year": "(1921-1923)",
-        "url": "https://www.youtube.com/results?search_query=Fletcher%20Henderson-The%20Chronogical%20Classics"
+        "url": "https://www.youtube.com/results?search_query=Fletcher%20Henderson-The%20Chronogical%20Classics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Mno67G9_AiPqJan4V2WHeAThA88\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "68gLIOlgjOs"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-31T11:00:01.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "Fletcher Henderson and His Orchestra - The Best of &quot;Smack&quot; Henderson",
+                "description": "Subscribe for more jazz and classical music http://bit.ly/YouTubeHalidonMusic Love Jazz? Then look no further! With new videos constantly added, Halidon ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/68gLIOlgjOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/68gLIOlgjOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/68gLIOlgjOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 611,
@@ -13,7 +47,41 @@
         "artist": "Paul Whiteman",
         "song": "Volume 1",
         "year": "(1920-1934)",
-        "url": "https://www.youtube.com/results?search_query=Paul%20Whiteman-Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Paul%20Whiteman-Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/d_577czCH4LVUbcBmL2zPluOQwc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MP6Oi7ubhuQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-01T10:00:01.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "Paul Whiteman and His Orchestra - The World&#39;s No1 Dance Band | Jazz Music",
+                "description": "Subscribe for more jazz and classical music: http://bit.ly/YouTubeHalidonMusic Listen to our playlist \u201cThe Best of Jazz\u201d on Deezer: http://bit.ly/2tu25aM Like us on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MP6Oi7ubhuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MP6Oi7ubhuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MP6Oi7ubhuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 612,
@@ -21,7 +89,41 @@
         "artist": "Duke Ellington",
         "song": "Ellington at Newport",
         "year": "(1956)",
-        "url": "https://www.youtube.com/results?search_query=Duke%20Ellington-Ellington%20at%20Newport"
+        "url": "https://www.youtube.com/results?search_query=Duke%20Ellington-Ellington%20at%20Newport",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/GfWj027CBGHGnINwGusLT2fmaXs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gsgPwIWkFRI"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-20T00:49:10.000Z",
+                "channelId": "UCo82AuDyAbEuBj5gL0olwAQ",
+                "title": "Duke Ellington at Newport - Full Live Album",
+                "description": "Ellington at Newport is a 1956 live jazz album by Duke Ellington and his band of their 1956 concert at the Newport Jazz Festival. Jazz promoter George Wein ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gsgPwIWkFRI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gsgPwIWkFRI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gsgPwIWkFRI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yuri Moura",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 613,
@@ -29,7 +131,41 @@
         "artist": "Ella Fitzgerald",
         "song": "Ella Fitzgerald Sings the Irving Berlin Song Book",
         "year": "(1958)",
-        "url": "https://www.youtube.com/results?search_query=Ella%20Fitzgerald-Ella%20Fitzgerald%20Sings%20the%20Irving%20Berlin%20Song%20Book"
+        "url": "https://www.youtube.com/results?search_query=Ella%20Fitzgerald-Ella%20Fitzgerald%20Sings%20the%20Irving%20Berlin%20Song%20Book",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/hF3b16JxUaHYWRgZBikUJhwB5BI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s09U2ocTN_8"
+            },
+            "snippet": {
+                "publishedAt": "2014-08-17T22:53:58.000Z",
+                "channelId": "UCa4NVDeGWW2UWdoCBl0QK1A",
+                "title": "Ella Fitzgerald - Let&#39;s Face the Music and Dance  {Ella Sings the Irving Berlin Song Book}",
+                "description": "Love this song... any version really, but Ella's version is the Best (in my opinion) you could go somewhere else for this song its everywhere on YouTube I just ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s09U2ocTN_8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s09U2ocTN_8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s09U2ocTN_8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phillip Primrose",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 614,
@@ -37,6 +173,40 @@
         "artist": "The Buddy Rich Big Band",
         "song": "Big Swing Face",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=The%20Buddy%20Rich%20Big%20Band-Big%20Swing%20Face"
+        "url": "https://www.youtube.com/results?search_query=The%20Buddy%20Rich%20Big%20Band-Big%20Swing%20Face",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/VzhSiyavdPWkB3JdRs9run_nLpY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I2qYyjtlPBg"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-14T23:21:15.000Z",
+                "channelId": "UC6KDNFE58dHI6mABjtmmtwQ",
+                "title": "Buddy Rich Big Band/Big Swing Face (1967)",
+                "description": "Buddy Rich Big Band/Big Swing Face (1967) from the Big Swing Face Live album,recorded at The Chez Club,Hollywood,California.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I2qYyjtlPBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I2qYyjtlPBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I2qYyjtlPBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JazzBreakTV",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Arnold Schoenberg",
         "song": "Streichquartette I_IV",
         "year": "(1905-1936)",
-        "url": "https://www.youtube.com/results?search_query=Arnold%20Schoenberg-Streichquartette%20I_IV"
+        "url": "https://www.youtube.com/results?search_query=Arnold%20Schoenberg-Streichquartette%20I_IV",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/O8ntUKwimWO_I3YErkFzvKnK89w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uXqzlLVOjq0"
+            },
+            "snippet": {
+                "publishedAt": "2011-04-01T22:56:05.000Z",
+                "channelId": "UCttLCxqYwFotLkZrbuWOD0w",
+                "title": "Arnold Schoenberg - String Quartet No. 1, I",
+                "description": "String Quartet No. 1 in D minor, Op. 7 (1904-1905) I. Nicht zu rasch II. Kr\u00e4ftig (Nicht zu rash) III. M\u00e4ssig (Langsame Viertel) IV. M\u00e4ssig (Heiter) New Vienna String ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uXqzlLVOjq0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uXqzlLVOjq0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uXqzlLVOjq0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pelodelperro",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

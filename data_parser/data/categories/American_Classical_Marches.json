@@ -5,6 +5,40 @@
         "artist": "John Philip Sousa",
         "song": "A Tribute to John Philip Sousa - America's Favorite Marches",
         "year": "(1897-1930)",
-        "url": "https://www.youtube.com/results?search_query=John%20Philip%20Sousa-A%20Tribute%20to%20John%20Philip%20Sousa%20-%20America%26%23x27%3Bs%20Favorite%20Marches"
+        "url": "https://www.youtube.com/results?search_query=John%20Philip%20Sousa-A%20Tribute%20to%20John%20Philip%20Sousa%20-%20America%26%23x27%3Bs%20Favorite%20Marches",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WQJqHkwkRt8APDJgbL5VtS3zgVY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mliREY3T7XM"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-27T02:36:17.000Z",
+                "channelId": "UCCreGha0P8WvoMSJ2i09qHQ",
+                "title": "A Tribute to John Phillip Sousa",
+                "description": "Music performed by the CWU Band.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mliREY3T7XM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mliREY3T7XM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mliREY3T7XM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Central Washington University",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

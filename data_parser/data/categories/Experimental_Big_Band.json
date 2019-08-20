@@ -5,7 +5,41 @@
         "artist": "The Jazz Composer's Orchestra",
         "song": "The Jazz Composer's Orchestra",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=The%20Jazz%20Composer%26%23x27%3Bs%20Orchestra-The%20Jazz%20Composer%26%23x27%3Bs%20Orchestra"
+        "url": "https://www.youtube.com/results?search_query=The%20Jazz%20Composer%26%23x27%3Bs%20Orchestra-The%20Jazz%20Composer%26%23x27%3Bs%20Orchestra",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/2xDrPILMaZMoNSERo8pylKSVE24\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wfXp2cBiG68"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-24T08:52:47.000Z",
+                "channelId": "UCh4q5qQyfUXZX9Oo28BCXgg",
+                "title": "The Jazz Composer&#39;s Orchestra - Communication #5",
+                "description": "Alto Saxophone -- Jimmy Lyons, Ken McIntyre, Robin Kenyatta Baritone Saxophone -- Fred Pirtle Bass -- Kent Carter, Steve Swallow Design [Cover] -- Marte ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wfXp2cBiG68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wfXp2cBiG68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wfXp2cBiG68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "goblin5hark",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 619,
@@ -13,6 +47,40 @@
         "artist": "Anthony Braxton",
         "song": "Creative Orchestra Music",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Anthony%20Braxton-Creative%20Orchestra%20Music"
+        "url": "https://www.youtube.com/results?search_query=Anthony%20Braxton-Creative%20Orchestra%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QyMCPfcauCsrgZstst39SzUqYwI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XRKuQHpSvvk"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-12T17:35:54.000Z",
+                "channelId": "UCkcxL9G2noj5_8YIp14fTkg",
+                "title": "Anthony Braxton, Creative Orchestra Music, March",
+                "description": "Soloists: Leo Smith, tpt; George Lewis, trombone; Anthony Braxton, clarinet; Jon Faddis, piccolo trumpet. Anthony Braxton, alto sax and clarinet; Seldon Powell, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XRKuQHpSvvk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XRKuQHpSvvk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XRKuQHpSvvk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "stochasticactus",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

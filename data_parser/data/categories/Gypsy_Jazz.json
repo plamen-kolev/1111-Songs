@@ -5,6 +5,40 @@
         "artist": "Django Reinhardt",
         "song": "The Best Of",
         "year": "(1935-1948)",
-        "url": "https://www.youtube.com/results?search_query=Django%20Reinhardt-The%20Best%20Of"
+        "url": "https://www.youtube.com/results?search_query=Django%20Reinhardt-The%20Best%20Of",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Y0VJBKTBorw6k8Ddarb0qPV4MUE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QVAD6VPIPSs"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-01T10:00:02.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "Django Reinhardt - The Best Of Django Reinhardt",
+                "description": "50 JAZZ SONGS \u25b7\u25b7 BUY the MP3 album on the Halidon Music Store: http://bit.ly/2xJwysj \u25b7\u25b7 ORDER the double CD on Amazon! IT: https://amzn.to/2JwyoRO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QVAD6VPIPSs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QVAD6VPIPSs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QVAD6VPIPSs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

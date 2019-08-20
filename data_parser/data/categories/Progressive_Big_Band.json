@@ -5,6 +5,40 @@
         "artist": "Stan Kenton",
         "song": "City of Glass",
         "year": "(1952)",
-        "url": "https://www.youtube.com/results?search_query=Stan%20Kenton-City%20of%20Glass"
+        "url": "https://www.youtube.com/results?search_query=Stan%20Kenton-City%20of%20Glass",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uwggjlvo5FpXF6-AFOA5bJbPBdA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLB-ES1t8Yhm07skuUcd9lIuNyoL8kM-rE"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-10T21:58:09.000Z",
+                "channelId": "UCnoDeAtqLYKmy6RtUufgHGg",
+                "title": "Stan Kenton- City of Glass (Full Album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YW2T4042xTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YW2T4042xTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YW2T4042xTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RebelBlockadeRunner",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

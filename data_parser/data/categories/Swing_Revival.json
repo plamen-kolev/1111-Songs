@@ -5,6 +5,40 @@
         "artist": "The Brian Setzer Orchestra",
         "song": "The Dirty Boogie",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=The%20Brian%20Setzer%20Orchestra-The%20Dirty%20Boogie"
+        "url": "https://www.youtube.com/results?search_query=The%20Brian%20Setzer%20Orchestra-The%20Dirty%20Boogie",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CVotAsp3QmPYNRifllfcSjBhEsc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kuJEmt-xOdo"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-30T15:05:14.000Z",
+                "channelId": "UCa9xlhM5brUpkGD_a0LHkwA",
+                "title": "The Dirty Boogie",
+                "description": "Provided to YouTube by Universal Music Group The Dirty Boogie \u00b7 The Brian Setzer Orchestra The Dirty Boogie \u2117 1998 UMG Recordings, Inc. Released on: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kuJEmt-xOdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kuJEmt-xOdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kuJEmt-xOdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brian Setzer - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

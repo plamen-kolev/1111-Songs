@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "40 Famous Marches",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Various-40%20Famous%20Marches"
+        "url": "https://www.youtube.com/results?search_query=Various-40%20Famous%20Marches",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/a_3shZB1SsJkl93uxpx2W3xOFhk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZKFwQFBwQFU"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-03T12:00:06.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "50 Most Famous Pieces of Classical Music",
+                "description": "Buy the MP3 album on the Official Halidon Music Store: http://bit.ly/2qynuh9 Listen to \"The Best of Classical Music\" on Spotify: http://spoti.fi/2nv7mvw Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZKFwQFBwQFU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZKFwQFBwQFU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZKFwQFBwQFU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

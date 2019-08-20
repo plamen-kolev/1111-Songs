@@ -5,7 +5,41 @@
         "artist": "Original Dixieland Jazz Band",
         "song": "The First Jazz Recordings",
         "year": "(1917-1921)",
-        "url": "https://www.youtube.com/results?search_query=Original%20Dixieland%20Jazz%20Band-The%20First%20Jazz%20Recordings"
+        "url": "https://www.youtube.com/results?search_query=Original%20Dixieland%20Jazz%20Band-The%20First%20Jazz%20Recordings",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/7lxCtL4L48OI84o6-sK9qOfVHuk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5WojNaU4-kI"
+            },
+            "snippet": {
+                "publishedAt": "2007-11-02T22:08:29.000Z",
+                "channelId": "UC_VVRkUshMHO2gxDhb5tWsg",
+                "title": "Original Dixieland Jass Band - Livery Stable Blues (1917)",
+                "description": "Original Dixieland Jass Band (ODJB) was founded in New Orleans in 1916. Their first jazz recording is dated 1917. In late 1917 it changed the name's spelling ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5WojNaU4-kI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5WojNaU4-kI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5WojNaU4-kI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "peppopb",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 606,
@@ -13,7 +47,41 @@
         "artist": "Freddie Keppard",
         "song": "17 Rare Selections of the Finest Jazz Cornetist of the 1920's",
         "year": "(1923-1927)",
-        "url": "https://www.youtube.com/results?search_query=Freddie%20Keppard-17%20Rare%20Selections%20of%20the%20Finest%20Jazz%20Cornetist%20of%20the%201920%26%23x27%3Bs"
+        "url": "https://www.youtube.com/results?search_query=Freddie%20Keppard-17%20Rare%20Selections%20of%20the%20Finest%20Jazz%20Cornetist%20of%20the%201920%26%23x27%3Bs",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/O8UfMEFm0RyLbLPRZA_cKUySl5Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VDnDC-ZNqdk"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-14T17:35:14.000Z",
+                "channelId": "UCO5nzepNqleYDC9XWVp01jw",
+                "title": "Freddie Keppard  17 Selections Of The Finest Jazz Cornetist Of The 1920&#39;s Herwin Records 101",
+                "description": "Freddie Keppard 17 Selections Of The Finest Jazz Cornetist Of The 1920's Herwin Records 101 Vinyl, LP, Compilation US 1971 00:07 Jimmy Blythe And His ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VDnDC-ZNqdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VDnDC-ZNqdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VDnDC-ZNqdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Massimo Casulini",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 607,
@@ -21,7 +89,41 @@
         "artist": "King Oliver",
         "song": "The Chronogical Classics",
         "year": "(1923-1926)",
-        "url": "https://www.youtube.com/results?search_query=King%20Oliver-The%20Chronogical%20Classics"
+        "url": "https://www.youtube.com/results?search_query=King%20Oliver-The%20Chronogical%20Classics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/c5OPv25LkWJ_C_JbtrtSQl-mesk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WBAF1iGsGw0"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-28T04:46:12.000Z",
+                "channelId": "UCAbWhdeoFmMkWseFqLQFWOw",
+                "title": "King Oliver&#39;s Jazz Band (Okeh, October, 1923 Session)",
+                "description": "King Oliver's Jazz Band - The Okeh Sessions October, 1923 Okeh Recording Studio, Chicago, IL * For those releases the band changed their name from King ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WBAF1iGsGw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WBAF1iGsGw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WBAF1iGsGw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Felipe Alfonso Jazz",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 608,
@@ -29,7 +131,41 @@
         "artist": "Louis Armstrong",
         "song": "The Best of Louis Armstrong - The Hot Five and Hot Seven Recordings",
         "year": "(1925-1929)",
-        "url": "https://www.youtube.com/results?search_query=Louis%20Armstrong-The%20Best%20of%20Louis%20Armstrong%20-%20The%20Hot%20Five%20and%20Hot%20Seven%20Recordings"
+        "url": "https://www.youtube.com/results?search_query=Louis%20Armstrong-The%20Best%20of%20Louis%20Armstrong%20-%20The%20Hot%20Five%20and%20Hot%20Seven%20Recordings",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CQbZjTAPxNTV-nBaTyX9jIwTJhQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SebmIELnZoQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-02T15:00:02.000Z",
+                "channelId": "UCyOfqgtsQaM3S-VZnsYnHjQ",
+                "title": "Louis Armstrong: The Best Of The  Hot Five &amp; Seven | Jazz Music",
+                "description": "Subscribe for more jazz and classical music http://bit.ly/YouTubeHalidonMusic Listen to our playlist \u201cThe Best of Jazz\u201d on Deezer: http://bit.ly/2tu25aM Like us on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SebmIELnZoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SebmIELnZoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SebmIELnZoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HALIDONMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 609,
@@ -37,6 +173,40 @@
         "artist": "Jelly Roll Morton",
         "song": "Birth of the Hot",
         "year": "(1926-1927)",
-        "url": "https://www.youtube.com/results?search_query=Jelly%20Roll%20Morton-Birth%20of%20the%20Hot"
+        "url": "https://www.youtube.com/results?search_query=Jelly%20Roll%20Morton-Birth%20of%20the%20Hot",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f7ZQdz0l9yX-PSAdbraszMgc0ag\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL4xcscYzGSrWYFihscq8yY-x6ZgB7FRvl"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-09T06:30:16.000Z",
+                "channelId": "UCI6FvD009QctgEZNWIo56Ag",
+                "title": "Jelly Roll Morton - Birth Of The Hot",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DsVaO9CFjuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DsVaO9CFjuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DsVaO9CFjuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kermit",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "And the Bands Played On",
         "year": "(1928-1943)",
-        "url": "https://www.youtube.com/results?search_query=Various-And%20the%20Bands%20Played%20On"
+        "url": "https://www.youtube.com/results?search_query=Various-And%20the%20Bands%20Played%20On",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/aqs776Pj9L3qfBZ3W3iW-hBfNDo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "piSf-75jeH4"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-26T11:59:56.000Z",
+                "channelId": "UClFI-a9Mx7f8SXVf5_Ve_ug",
+                "title": "OLIVER/DAWSON SAXON - And The Bands Played On -  The Birdwell Venue.25/11/17.",
+                "description": "Oliver/Dawson Saxon (1994-present)[edit] In 1994, Graham Oliver and Steve Dawson, founding members of Saxon, reunited under the name Son of a Bitch ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/piSf-75jeH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/piSf-75jeH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/piSf-75jeH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Casper Eatwell",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

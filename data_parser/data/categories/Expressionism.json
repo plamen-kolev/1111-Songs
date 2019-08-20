@@ -5,6 +5,40 @@
         "artist": "Arnold Schoenberg",
         "song": "Pierrot Lunaire",
         "year": "(1912)",
-        "url": "https://www.youtube.com/results?search_query=Arnold%20Schoenberg-Pierrot%20Lunaire"
+        "url": "https://www.youtube.com/results?search_query=Arnold%20Schoenberg-Pierrot%20Lunaire",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/w30F_sElxmTl62k3UseJamMWzIc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bd2cBUJmDr8"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-01T14:51:44.000Z",
+                "channelId": "UCl2Sa1BW9yF55yjqwSLro6Q",
+                "title": "Complete performance: Schoenberg&#39;s Pierrot lunaire",
+                "description": "This complete performance of Pierrot lunaire comprised the second half of the CSO's Schoenberg Beyond the Score production. Learn more at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bd2cBUJmDr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bd2cBUJmDr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bd2cBUJmDr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Chicago Symphony Orchestra",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Ornette Coleman",
         "song": "The Shape of Jazz to Come",
         "year": "(1959)",
-        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-The%20Shape%20of%20Jazz%20to%20Come"
+        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-The%20Shape%20of%20Jazz%20to%20Come",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/GWD_3k2-LvEJgLG_ZMJMVSIs0Z0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Cpf99MZQhIM"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-13T07:00:00.000Z",
+                "channelId": "UCJO95ZYiNhl20IdnDyHvbWw",
+                "title": "Ornette Coleman - The Shape of Jazz to Come (1959) - [Smooth Jazz Sax Recordings]",
+                "description": "Classic Mood Experience The best masterpieces ever recorded in the music history. Join our Youtube: https://goo.gl/8AOGaN Join our Facebook: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Cpf99MZQhIM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Cpf99MZQhIM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Cpf99MZQhIM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Classic Mood Experience",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 651,
@@ -13,7 +47,41 @@
         "artist": "Charles Mingus",
         "song": "The Black Saint and the Sinner Lady",
         "year": "(1963)",
-        "url": "https://www.youtube.com/results?search_query=Charles%20Mingus-The%20Black%20Saint%20and%20the%20Sinner%20Lady"
+        "url": "https://www.youtube.com/results?search_query=Charles%20Mingus-The%20Black%20Saint%20and%20the%20Sinner%20Lady",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dOXzvSnYp9oQVeEpzjLXD91I1UI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zFA0FYQo0Gg"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-14T14:15:52.000Z",
+                "channelId": "UC_x7zNHNrd3WtZgFXsDlAAg",
+                "title": "Charles Mingus - The Black Saint and the Sinner Lady (Full Album)",
+                "description": "The Black Saint and the Sinner Lady is a studio album by American jazz musician Charles Mingus, released on Impulse! Records in 1963. The album consists of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zFA0FYQo0Gg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zFA0FYQo0Gg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zFA0FYQo0Gg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tio Vanini",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 652,
@@ -21,7 +89,41 @@
         "artist": "Eric Dolphy",
         "song": "Out to Lunch",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=Eric%20Dolphy-Out%20to%20Lunch"
+        "url": "https://www.youtube.com/results?search_query=Eric%20Dolphy-Out%20to%20Lunch",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/DqibhwWM0iR9P9XhLtYYI7YfC6Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ln8naZpOJ0o"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-06T06:22:41.000Z",
+                "channelId": "UCfzesCaLkZ_Lks0Sy2FIo3A",
+                "title": "Eric Dolphy &#39;Out To Lunch!&#39;",
+                "description": "Artist: Eric Dolphy Album: 'Out To Lunch!' Label: Blue Note Genre: Avant-Garde Jazz Year: 1964 Tracks: 01 Hat and Beard \u2013 00:00 02 Something Sweet, . Out To ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ln8naZpOJ0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ln8naZpOJ0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ln8naZpOJ0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Richard Gimenez",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 653,
@@ -29,7 +131,41 @@
         "artist": "John Coltrane",
         "song": "A Love Supreme",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-A%20Love%20Supreme"
+        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-A%20Love%20Supreme",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/rC_JLsi5VZRMLaAhhbMWSH82rv0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ll3CMgiUPuU"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-30T14:09:40.000Z",
+                "channelId": "UCMbUhKSwNIC-CzO-R_4UU2Q",
+                "title": "John Coltrane - A Love Supreme [Full Album] (1965)",
+                "description": "Please Like, Comment & Subscribe. If you like this album, please consider buying it. Enjoy! Feel free to leave an album request in the comments :-) [Tracklist ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ll3CMgiUPuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ll3CMgiUPuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ll3CMgiUPuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazzaddict 98",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 654,
@@ -37,7 +173,41 @@
         "artist": "Art Ensemble of Chicago",
         "song": "Les stances \u00e0 Sophie",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20Chicago-Les%20stances%20%C3%A0%20Sophie"
+        "url": "https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20Chicago-Les%20stances%20%C3%A0%20Sophie",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/hmb5oQErnZo9va2YPDdgXswqVyQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JmN9rkVfsmo"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-25T19:06:34.000Z",
+                "channelId": "UCL13ms-M5rNetNow9Ld973w",
+                "title": "Art Ensemble Of Chicago -  Les Stances \u00e0 Sophie (1970) [full album]",
+                "description": "Art Ensemble Of Chicago - \"Les Stances \u00e0 Sophie\" (Path\u00e9-Marconi, 1970); colonna sonora del film omonimo di Moshe Mizrahi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JmN9rkVfsmo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JmN9rkVfsmo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JmN9rkVfsmo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Abiezer Coppe",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 655,
@@ -45,7 +215,41 @@
         "artist": "Sun Ra",
         "song": "Space Is the Place",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Space%20Is%20the%20Place"
+        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Space%20Is%20the%20Place",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f_LcIEhwoNDQdsh1xpRuSSodjkk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mZso7bNq-dI"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-26T08:18:06.000Z",
+                "channelId": "UCyWNMuNNatSn91smYAc7deQ",
+                "title": "Sun Ra, Space is the Place, 1972 extended",
+                "description": "This is the uncut version with extra disjointed post production pimps and whores, released for the first time in 2003. The original Sun Ra sanctioned version is 64 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mZso7bNq-dI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mZso7bNq-dI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mZso7bNq-dI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "maudeeb",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 656,
@@ -53,7 +257,41 @@
         "artist": "John Zorn",
         "song": "Spy vs Spy",
         "year": "(1989)",
-        "url": "https://www.youtube.com/results?search_query=John%20Zorn-Spy%20vs%20Spy"
+        "url": "https://www.youtube.com/results?search_query=John%20Zorn-Spy%20vs%20Spy",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/5j7EFypMPO80wk5g9OfLXKg3uj0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLDIxWXRU4UDp22w2eK-UoveTGtCOEvy_T"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-13T00:01:10.000Z",
+                "channelId": "UCUcB124y-dwPTh330WZBmJQ",
+                "title": "John Zorn - Spy Vs. Spy",
+                "description": "Intended for preservation Missing tracks: 7 - Rejoicing 8 - Blues Connection 15 - Space Church.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QiVF3TsSph4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QiVF3TsSph4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QiVF3TsSph4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cyanman777 imforcedtohavealastname",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 657,
@@ -61,7 +299,41 @@
         "artist": "A.D.D. Trio",
         "song": "Instinct",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=A.D.D.%20Trio-Instinct"
+        "url": "https://www.youtube.com/results?search_query=A.D.D.%20Trio-Instinct",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/2w8VmnVrXvsufjGZW0OLSyPRGZE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d6zLiLyIxbU"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-19T19:36:24.000Z",
+                "channelId": "UCPqlkHOgywWsFfrBE5DlCSg",
+                "title": "A.D.D. Trio - Instinct (1996)",
+                "description": "Tracklist: 1 Instinct 0:00 2 ReDug Me Not 9:21 3 Steam 15:42 4 Cerulean Blues 19:53 5 Twists and Turns 24:22 6 Way Up There 30:17 7 Magmas 36:01 8 All the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6zLiLyIxbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6zLiLyIxbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6zLiLyIxbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pedro N\u00f3brega",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 658,
@@ -69,7 +341,41 @@
         "artist": "The Necks",
         "song": "Hanging Gardens",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=The%20Necks-Hanging%20Gardens"
+        "url": "https://www.youtube.com/results?search_query=The%20Necks-Hanging%20Gardens",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/qEJaGfivEWZ_tX7cbyePYdesRyQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8AyYmGOHuKE"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-29T16:38:13.000Z",
+                "channelId": "UCQKlrmwFP2flRdjBPoiq8PA",
+                "title": "The Necks \u200e- Hanging Gardens (1999) FULL ALBUM",
+                "description": "Fish Of Milk   \u2013 FOM 0006 (Australia, 1999) https://www.discogs.com/The-Necks-Hanging-Gardens/release/708775 Purchase: http://bit.ly/2vgMEaL 1. Hanging ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AyYmGOHuKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AyYmGOHuKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AyYmGOHuKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saturn Archives \u571f\u661f\u306e\u30a2\u30fc\u30ab\u30a4\u30d6",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 659,
@@ -77,6 +383,40 @@
         "artist": "Paavo",
         "song": "Paavo",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Paavo-Paavo"
+        "url": "https://www.youtube.com/results?search_query=Paavo-Paavo",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/UphlH0ohVqTNRdZLRmDZrBmVUzw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8oXek-aeqhI"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-30T16:37:47.000Z",
+                "channelId": "UC2cUA4EBlHkw0uVeyUNisLg",
+                "title": "Paavo - Paavo",
+                "description": "Voice \u2013 Sofia Jernberg Piano \u2013 Cecilia Persson Clarinet, Alto Saxophone, Baritone Saxophone \u2013 Thomas Backman Bass Clarinet, Tenor Saxophone \u2013 Nils ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8oXek-aeqhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8oXek-aeqhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8oXek-aeqhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CH1PS",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

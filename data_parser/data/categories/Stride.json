@@ -5,6 +5,40 @@
         "artist": "James P. Johnson",
         "song": "The Chronological",
         "year": "(1921-1928)",
-        "url": "https://www.youtube.com/results?search_query=James%20P.%20Johnson-The%20Chronological"
+        "url": "https://www.youtube.com/results?search_query=James%20P.%20Johnson-The%20Chronological",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/_XmGw3KQfQUhuBdP-9EIlUsg1oE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VoPegKVzQKc"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-16T07:27:30.000Z",
+                "channelId": "UCgyWe6G_iovIpih0j28_0cQ",
+                "title": "The Dream / James P. Johnson",
+                "description": "Asch Recordings 551-1B (MA-1247) Frank Newton(tp) James P. Johnson(p) Al Casey(g) \"Pops\" Foster(b) Eddie Dougherty(d) New York, June 12, 1944.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VoPegKVzQKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VoPegKVzQKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VoPegKVzQKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hot Jazz 78rpms",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

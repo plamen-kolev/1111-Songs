@@ -5,7 +5,41 @@
         "artist": "Miles Davis",
         "song": "In a Silent Way",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-In%20a%20Silent%20Way"
+        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-In%20a%20Silent%20Way",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/j7-pX5qJSGc4OOogNPhN5hZmbBE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lQKt7DTKyJU"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-15T21:05:35.000Z",
+                "channelId": "UCcy5XraMbx5iEfz_wmFtNHQ",
+                "title": "Miles Davis - In a Silent Way - 1969",
+                "description": "Miles Davis - In a Silent Way - 1969 01- Shhh / Peaceful 02- In a Silent Way / It's about That Time Miles Davis \u2013 trumpet, composer Wayne Shorter \u2013 soprano ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lQKt7DTKyJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lQKt7DTKyJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lQKt7DTKyJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andr\u00e9 Azevedo",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 671,
@@ -13,7 +47,41 @@
         "artist": "The Mahavishnu Orchestra With John McLaughlin",
         "song": "The Inner Mounting Flame",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=The%20Mahavishnu%20Orchestra%20With%20John%20McLaughlin-The%20Inner%20Mounting%20Flame"
+        "url": "https://www.youtube.com/results?search_query=The%20Mahavishnu%20Orchestra%20With%20John%20McLaughlin-The%20Inner%20Mounting%20Flame",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/4ENgHpN4Aw237FGy_4RRoZTHYXk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5ofh_S52Uks"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-21T19:33:08.000Z",
+                "channelId": "UCi3QBDoFjj3ZXFKt8JpsKuQ",
+                "title": "The Mahavishnu Orchestra - The Inner Mounting Flame (1971) - Full Album (HQ)",
+                "description": "Tracks: 1. Meeting of the Spirits 00:00 2. Dawn 06:52 3. The Noonward Race 12:04 4. A Lotus On Irish Streams 18:33 5. Vital Transformation 24:15 6. The Dance ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5ofh_S52Uks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5ofh_S52Uks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5ofh_S52Uks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "M\u00fasica Livre",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 672,
@@ -21,7 +89,24 @@
         "artist": "Chick Corea",
         "song": "Return to Forever",
         "year": "(1972)",
-        "url": "https://www.youtube.com/results?search_query=Chick%20Corea-Return%20to%20Forever"
+        "url": "https://www.youtube.com/results?search_query=Chick%20Corea-Return%20to%20Forever",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/Pp0sKYozZw19b6grT3uIZcD5FK8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLfdMKJMGPPtzmsRVWbA23XQwMnrAM2TCZ"
+            },
+            "snippet": {
+                "publishedAt": "2017-02-15T01:01:47.000Z",
+                "channelId": "UC9qF-BPjCLKe02YukJCWk2A",
+                "title": "Chick Corea: Return to Forever (1972)",
+                "description": "https://de.wikipedia.org/wiki/Return_to_Forever_(Chick-Corea-Album) https://en.wikipedia.org/wiki/Return_to_Forever_(Chick_Corea_album) Chick Corea: ...",
+                "channelTitle": "thomas brunner",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 673,

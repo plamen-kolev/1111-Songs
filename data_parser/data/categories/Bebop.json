@@ -5,7 +5,41 @@
         "artist": "Charlie Parker",
         "song": "The Complete Birth of Bebop",
         "year": "(1940-1945)",
-        "url": "https://www.youtube.com/results?search_query=Charlie%20Parker-The%20Complete%20Birth%20of%20Bebop"
+        "url": "https://www.youtube.com/results?search_query=Charlie%20Parker-The%20Complete%20Birth%20of%20Bebop",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f3i3HsihpWPZ9WvmCRkgKeaK650\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLArpKJA0hY4rLWkn-YoDkR8ETQwGLvkAZ"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-03T07:20:36.000Z",
+                "channelId": "UCW__IUXao5rZ9Q-CNn7fbaA",
+                "title": "Charlie Parker - The Complete \"Birth of the Bebop\"",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z3vACbUETa0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z3vACbUETa0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z3vACbUETa0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max G",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 631,
@@ -13,7 +47,41 @@
         "artist": "Thelonious Monk",
         "song": "Genius of Modern Music",
         "year": "(1951)",
-        "url": "https://www.youtube.com/results?search_query=Thelonious%20Monk-Genius%20of%20Modern%20Music"
+        "url": "https://www.youtube.com/results?search_query=Thelonious%20Monk-Genius%20of%20Modern%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/o8B-oMHSWAX-BnxkR5UV5ycFkrs\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLC7E79794D9C3334C"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-17T23:34:09.000Z",
+                "channelId": "UCZGiMArFXS0v3yDAvARuSHQ",
+                "title": "Genius of Modern Music Vol.1",
+                "description": "Thelonious Monk 1956.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zre0u5XyNfY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zre0u5XyNfY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zre0u5XyNfY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nezz0001",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 632,
@@ -21,7 +89,41 @@
         "artist": "Bud Powell",
         "song": "The Amazing Bud Powell",
         "year": "(1949-1951)",
-        "url": "https://www.youtube.com/results?search_query=Bud%20Powell-The%20Amazing%20Bud%20Powell"
+        "url": "https://www.youtube.com/results?search_query=Bud%20Powell-The%20Amazing%20Bud%20Powell",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/hl3nVdyG-l7ccvGlyw-sFgfGv_U\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL0q2VleZJVEkVQZz-siRzkwHQb6vvCNOQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-19T06:05:36.000Z",
+                "channelId": "UC4X8zKXZ9BHkNwtZXUNcgiA",
+                "title": "The Amazing Bud Powell Volume 1 & 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rGs3UqqCrmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rGs3UqqCrmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rGs3UqqCrmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ktdchon22",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 633,
@@ -29,7 +131,41 @@
         "artist": "The Quintet",
         "song": "Jazz at Masey Hall",
         "year": "(1953)",
-        "url": "https://www.youtube.com/results?search_query=The%20Quintet-Jazz%20at%20Masey%20Hall"
+        "url": "https://www.youtube.com/results?search_query=The%20Quintet-Jazz%20at%20Masey%20Hall",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/8kSDSEFkZqqzHNscHteaBBaUhIc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y2MFdB4SS1I"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-19T12:46:15.000Z",
+                "channelId": "UCO5nzepNqleYDC9XWVp01jw",
+                "title": "The Quintet - Jazz  at Massey Hall",
+                "description": "The Quintet \u2013 Jazz At Massey Hall Debut Records DEB-124 Vinyl, LP, Album US 1956 SIDE A: 00:00 A1 Perdido 08:16 A2 Salt Peanuts 15:53 A3 All The Things ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y2MFdB4SS1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y2MFdB4SS1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y2MFdB4SS1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Massimo Casulini",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 634,
@@ -37,6 +173,40 @@
         "artist": "Dizzy Gillespie, Sonny Stitt & Sonny Rollins",
         "song": "Sonny Side Up",
         "year": "(1957)",
-        "url": "https://www.youtube.com/results?search_query=Dizzy%20Gillespie%2C%20Sonny%20Stitt%20%26amp%3B%20Sonny%20Rollins-Sonny%20Side%20Up"
+        "url": "https://www.youtube.com/results?search_query=Dizzy%20Gillespie%2C%20Sonny%20Stitt%20%26amp%3B%20Sonny%20Rollins-Sonny%20Side%20Up",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/qaI9TnyOvLDNHv3WdJ7K1DUjfFc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CL4t_N17DvA"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-20T11:22:02.000Z",
+                "channelId": "UCd5J5t4XcyLveOK6aNMpI0g",
+                "title": "Sonny Rollins,  Dizzy Gillespie,  Sonny Stitt  - Sonny Side Up ( Full Album )",
+                "description": "Dizzy Gillespie - trumpet, vocal (# 1).... Sonny Stitt - tenor saxophone.... Sonny Rollins - tenor saxophone.... Ray Bryant - piano.... Tommy Bryant - double bass.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CL4t_N17DvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CL4t_N17DvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CL4t_N17DvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "All That Jazz Don Kaart",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

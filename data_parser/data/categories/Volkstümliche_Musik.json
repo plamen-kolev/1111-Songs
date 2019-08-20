@@ -5,6 +5,40 @@
         "artist": "Ernst Mosch",
         "song": "Ein Klang begeistert die Welt",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=Ernst%20Mosch-Ein%20Klang%20begeistert%20die%20Welt"
+        "url": "https://www.youtube.com/results?search_query=Ernst%20Mosch-Ein%20Klang%20begeistert%20die%20Welt",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dQyLSYk4p8QspXfz3m11996xNzc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aI9mxfQaqt4"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-04T08:19:22.000Z",
+                "channelId": "UCbNMiRn2TpS7wx472dTNEJQ",
+                "title": "Ernst Mosch - Ein Klang begeistert die Welt (1969)",
+                "description": "Ernst Mosch & Seine Original Egerl\u00e4nder Musikanten 0:00 Sterne der Heimat 2:44 Rauschende Birken 5:44 Dompfaff 8:25 Ohne Liebe geht es nicht 11:27 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aI9mxfQaqt4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aI9mxfQaqt4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aI9mxfQaqt4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Blasmusik93",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Ornette Coleman",
         "song": "Free Jazz",
         "year": "(1961)",
-        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-Free%20Jazz"
+        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-Free%20Jazz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/NM0xO7Jkrip7tpviknigB-qXOUA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xbZIiom9rDA"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-18T04:27:27.000Z",
+                "channelId": "UCeEdhiCToWkEp4WzSnJmztQ",
+                "title": "The Ornette Coleman Double Quartet - Free Jazz",
+                "description": "The Ornette Coleman Double Quartet \"Free Jazz\" Free Jazz 1961 Alto Saxophone -- Ornette Coleman Bass -- Charlie Haden, Scott La Faro Bass Clarinet -- Eric ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xbZIiom9rDA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xbZIiom9rDA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xbZIiom9rDA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ropa79",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 661,
@@ -13,7 +47,41 @@
         "artist": "Albert Ayler",
         "song": "Spiritual Unity",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=Albert%20Ayler-Spiritual%20Unity"
+        "url": "https://www.youtube.com/results?search_query=Albert%20Ayler-Spiritual%20Unity",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/WNmReUTQV9fYzonhdQQ-_ZHe9HI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xWsIG5sNq1Q"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-01T16:05:42.000Z",
+                "channelId": "UCQ0FX1-FYD6ddNbnID7TBrg",
+                "title": "Albert Ayler - Spiritual Unity (full abum) (HD 1080p)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xWsIG5sNq1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xWsIG5sNq1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xWsIG5sNq1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JadoaOnMyMind",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 662,
@@ -21,7 +89,41 @@
         "artist": "Anthony Braxton",
         "song": "For Alto",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Anthony%20Braxton-For%20Alto"
+        "url": "https://www.youtube.com/results?search_query=Anthony%20Braxton-For%20Alto",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/0PIfrVcSU1dC4aodKSSazUA1S3c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J_t0esySWy0"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-01T14:25:41.000Z",
+                "channelId": "UCQKlrmwFP2flRdjBPoiq8PA",
+                "title": "Anthony Braxton \u200e- For Alto (1969) FULL ALBUM",
+                "description": "Delmark Records   \u2013 DS-420/421 (US, 1969) https://www.discogs.com/Anthony-Braxton-For-Alto/release/1259605 00:00 A1. Dedicated To Multi-Instrumentalist ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J_t0esySWy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J_t0esySWy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J_t0esySWy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Saturn Archives \u571f\u661f\u306e\u30a2\u30fc\u30ab\u30a4\u30d6",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 663,
@@ -29,7 +131,41 @@
         "artist": "John Coltrane",
         "song": "Interstellar Space",
         "year": "(1974)",
-        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-Interstellar%20Space"
+        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-Interstellar%20Space",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/XH8nHM4hTHoE4a72LAyWfct78C8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL94gOvpr5yt07jg1YDt5E802WBhFrWOTq"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-01T09:47:37.000Z",
+                "channelId": "UCf4HzWg8lmLNxds5qvGHY7Q",
+                "title": "John Coltrane \"Interstellar Space\" - Full Album",
+                "description": "Interstellar Space is a studio album by American jazz saxophonist John Coltrane. It was recorded in 1967, the year of his death, and released by Impulse!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lEMS-gZiXz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lEMS-gZiXz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lEMS-gZiXz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 664,
@@ -37,6 +173,40 @@
         "artist": "Die Like a Dog Quartet",
         "song": "Little Birds Have Fast Hearts - Number 1",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Die%20Like%20a%20Dog%20Quartet-Little%20Birds%20Have%20Fast%20Hearts%20-%20Number%201"
+        "url": "https://www.youtube.com/results?search_query=Die%20Like%20a%20Dog%20Quartet-Little%20Birds%20Have%20Fast%20Hearts%20-%20Number%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/-tgTZOpu8W-Et_JZJLtG8otkNhw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VtU2vQ_QZm0"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-10T01:01:08.000Z",
+                "channelId": "UCCYdtisYqWB6_obtZDsl8fQ",
+                "title": "Die Like a Dog Quartet - Little Birds Have Fast Hearts, No. 1 [Part 2]",
+                "description": "[Album Information] Die Like a Dog Quartet - Little Birds Have Fast Hearts, No. 1 [1998] 1. Part 1 2. Part 2 I do not own this music & pic.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VtU2vQ_QZm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VtU2vQ_QZm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VtU2vQ_QZm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WeWantNoise",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

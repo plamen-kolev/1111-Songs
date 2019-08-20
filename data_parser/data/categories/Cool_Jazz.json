@@ -5,7 +5,41 @@
         "artist": "Miles Davis",
         "song": "Birth of the Cool",
         "year": "(1950)",
-        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Birth%20of%20the%20Cool"
+        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Birth%20of%20the%20Cool",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/I9XqL_ojhbQbM0vxAffObm-qIFg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "858K1TenEeY"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-29T16:16:18.000Z",
+                "channelId": "UCN84lWlDSG7_tCilT4JdD-g",
+                "title": "Miles Davis - Birth Of The Cool (1957 Full Album)",
+                "description": "Birth of the Cool is a compilation album by American jazz musician Miles Davis, released in 1957 on Capitol Records. It compiles twelve tracks recorded by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/858K1TenEeY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/858K1TenEeY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/858K1TenEeY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Legends Book",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 636,
@@ -13,7 +47,41 @@
         "artist": "Chet Baker",
         "song": "Chet Baker Sings",
         "year": "(1954)",
-        "url": "https://www.youtube.com/results?search_query=Chet%20Baker-Chet%20Baker%20Sings"
+        "url": "https://www.youtube.com/results?search_query=Chet%20Baker-Chet%20Baker%20Sings",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/MbBdPXT34twF_6_6mmCMFFoGVYo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bcp2MFfF_xc"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-01T16:26:20.000Z",
+                "channelId": "UCFG_47z5WHgbnaaql0G2N_A",
+                "title": "Chet Baker - When Chet Baker Sings (Full Album) \ud83c\udfba\ud83c\udfa4\ud83c\udfa7",
+                "description": "This Video include 20 tracks of Chet Baker! Subscribe for free to stay connected to our channel and easily access our video updates! http://bit.ly/2rjga9v ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bcp2MFfF_xc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bcp2MFfF_xc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bcp2MFfF_xc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lounge Sensation TV",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 637,
@@ -21,7 +89,41 @@
         "artist": "Dave Brubeck",
         "song": "Time Out",
         "year": "(1959)",
-        "url": "https://www.youtube.com/results?search_query=Dave%20Brubeck-Time%20Out"
+        "url": "https://www.youtube.com/results?search_query=Dave%20Brubeck-Time%20Out",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/cEDHMnUUL8UokU0IqWXd7epHLc8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "veX9dotK_do"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-28T01:00:08.000Z",
+                "channelId": "UCcy5XraMbx5iEfz_wmFtNHQ",
+                "title": "The Dave Brubeck Quartet - Time Out - 1959 (FULL ALBUM)",
+                "description": "The Dave Brubeck Quartet - Time Out - 1959 01 - Blue Rondo A La Turk (00:00) 02 - Strange Meadow Lark (06:51) 03 - Take Five (14:16) 04 - Three To Get ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/veX9dotK_do/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/veX9dotK_do/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/veX9dotK_do/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andr\u00e9 Azevedo",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 638,
@@ -29,7 +131,41 @@
         "artist": "Miles Davis",
         "song": "Kind of Blue",
         "year": "(1959)",
-        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Kind%20of%20Blue"
+        "url": "https://www.youtube.com/results?search_query=Miles%20Davis-Kind%20of%20Blue",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/nObZmblUGidBHLOCzh5VF2u9r-0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VQ5uo9_OijY"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-19T21:24:05.000Z",
+                "channelId": "UCDTQfaGhpwe6y7doc4eiT_Q",
+                "title": "Miles Davis   Kind Of Blue Full Album 1959",
+                "description": "FAIXAS: 1 So What 2 Freddie Freeloader 3 Blue in Green 4 All Blues 5 Flamenco Sketches 6\"Flamenco Sketches (alternative take) PEQUENA HIST\u00d3RIA DO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VQ5uo9_OijY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VQ5uo9_OijY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VQ5uo9_OijY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alexandre Cortez",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 639,
@@ -37,6 +173,40 @@
         "artist": "Bill Evans",
         "song": "Waltz for Debby",
         "year": "(1961)",
-        "url": "https://www.youtube.com/results?search_query=Bill%20Evans-Waltz%20for%20Debby"
+        "url": "https://www.youtube.com/results?search_query=Bill%20Evans-Waltz%20for%20Debby",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/xJSBCVenebdHy3T5w0Wc9yRXcV4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dH3GSrCmzC8"
+            },
+            "snippet": {
+                "publishedAt": "2006-10-19T13:30:23.000Z",
+                "channelId": "UCodEQ4EYdWAeV6ectgB7Yfw",
+                "title": "Bill Evans - Waltz For Debby",
+                "description": "Bill Evans - Waltz For Debby,players' cast shown in comment of [lk2u] and [stefshop].thanks for the information.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dH3GSrCmzC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dH3GSrCmzC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dH3GSrCmzC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jane8948",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

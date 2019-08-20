@@ -5,6 +5,40 @@
         "artist": "Marlene Dietrich",
         "song": "The Essential Marlene Dietrich",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Marlene%20Dietrich-The%20Essential%20Marlene%20Dietrich"
+        "url": "https://www.youtube.com/results?search_query=Marlene%20Dietrich-The%20Essential%20Marlene%20Dietrich",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/K7GclhbxyPppZKtwpVygf3c9dXk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k__A4GIfLJk"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-08T13:46:33.000Z",
+                "channelId": "UCDyd9wPkG6wdC-KzmdbwMHw",
+                "title": "Und Wenn Er Wieder Kommt",
+                "description": "Provided to YouTube by Universal Music Group Und Wenn Er Wieder Kommt \u00b7 Marlene Dietrich The Essential Marlene Dietrich \u2117 1964 EMI Music Germany ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k__A4GIfLJk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k__A4GIfLJk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k__A4GIfLJk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marlene Dietrich - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

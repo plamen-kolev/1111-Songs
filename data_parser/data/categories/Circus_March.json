@@ -5,6 +5,40 @@
         "artist": "Frederick Fennell",
         "song": "Screamers (Circus Marches) - March Time",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Frederick%20Fennell-Screamers%20%28Circus%20Marches%29%20-%20March%20Time"
+        "url": "https://www.youtube.com/results?search_query=Frederick%20Fennell-Screamers%20%28Circus%20Marches%29%20-%20March%20Time",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/f1vVFPehDODGgRvBi1nSp2l6d0Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dj2kYvT7eO8"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-01T11:15:08.000Z",
+                "channelId": "UCNkEcmYdjrH4RqtNgh7BZ9w",
+                "title": "The Screamer",
+                "description": "Provided to YouTube by Believe SAS The Screamer \u00b7 Eastman Wind Ensemble, Frederick Fennell Screamers (Circus Marches) - March Time \u2117 Mangora ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dj2kYvT7eO8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dj2kYvT7eO8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dj2kYvT7eO8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Various Artists - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

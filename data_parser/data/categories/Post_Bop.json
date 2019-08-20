@@ -5,7 +5,41 @@
         "artist": "Charles Mingus",
         "song": "Pithecanthropus Erectus",
         "year": "(1956)",
-        "url": "https://www.youtube.com/results?search_query=Charles%20Mingus-Pithecanthropus%20Erectus"
+        "url": "https://www.youtube.com/results?search_query=Charles%20Mingus-Pithecanthropus%20Erectus",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/CIdGcMNH5mLVVcCtWBniEDSyXQY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p0H2G_W-O0I"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-26T00:48:04.000Z",
+                "channelId": "UCanuRUiWPVf-v24h_trQVcw",
+                "title": "&quot;Pithecanthropus Erectus&quot; by Charles Mingus",
+                "description": "From the \"Pithecanthropus Erectus\" LP 1956. \u2022 Charles Mingus \u2013 bass \u2022 Jackie McLean \u2013 alto saxophone \u2022 J. R. Monterose \u2013 tenor saxophone...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p0H2G_W-O0I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p0H2G_W-O0I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p0H2G_W-O0I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MegaAlexandroid",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 646,
@@ -13,7 +47,41 @@
         "artist": "Sun Ra",
         "song": "Jazz in Silhouette",
         "year": "(1959)",
-        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Jazz%20in%20Silhouette"
+        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Jazz%20in%20Silhouette",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/9YpiSFKRuEiss6Ebnu7e8w5Z-IA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aF4nGG6NkIQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-29T02:37:21.000Z",
+                "channelId": "UCei2A-tvVYvZtD-yrp1nD7w",
+                "title": "Sun Ra And His Arkestra (1958) - Jazz In Silhouette",
+                "description": "00:00 : 1. Enlightenment 05:05 : 2. Saturn 08:46 : 3. Velvet 12:06 : 4. Ancient Aethiopia 21:16 : 5. Hours After 25:02 : 6. Horoscope 28:49 : 7. Images 32:42 : 8.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aF4nGG6NkIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aF4nGG6NkIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aF4nGG6NkIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PERETTIBOSSAJAZZ",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 647,
@@ -21,7 +89,41 @@
         "artist": "John Coltrane",
         "song": "My Favorite Things",
         "year": "(1961)",
-        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-My%20Favorite%20Things"
+        "url": "https://www.youtube.com/results?search_query=John%20Coltrane-My%20Favorite%20Things",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/4IXBhrYqRAX3zqeaVuDmBmpiXGM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qWG2dsXV5HI"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-10T05:49:41.000Z",
+                "channelId": "UCmhspveCC_VzlrmpDZ-5YaQ",
+                "title": "My Favorite Things - John Coltrane [FULL VERSION] HQ",
+                "description": "My Favorite things by John Coltrane from the album \"My Favorite Things\".",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qWG2dsXV5HI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qWG2dsXV5HI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qWG2dsXV5HI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gnv123",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 648,
@@ -29,7 +131,41 @@
         "artist": "Wayne Shorter",
         "song": "Speak No Evil",
         "year": "(1966)",
-        "url": "https://www.youtube.com/results?search_query=Wayne%20Shorter-Speak%20No%20Evil"
+        "url": "https://www.youtube.com/results?search_query=Wayne%20Shorter-Speak%20No%20Evil",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/xyq22zwnRosBp7KskQV1y6H2gHc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fvRkGglLe-U"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-28T23:38:36.000Z",
+                "channelId": "UC3g3U2m-gnNE57jeok6MJVw",
+                "title": "Wayne Shorter - Speak No Evil",
+                "description": "One of my favorite jazz albums has got to to be Wayne Shorter's Night Dreamer. I just started listening to Speak No Evil and so far this is my favorite track. Enjoy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fvRkGglLe-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fvRkGglLe-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fvRkGglLe-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pideloo",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 649,
@@ -37,6 +173,40 @@
         "artist": "McCoy Tyner",
         "song": "Sahara",
         "year": "(1972)",
-        "url": "https://www.youtube.com/results?search_query=McCoy%20Tyner-Sahara"
+        "url": "https://www.youtube.com/results?search_query=McCoy%20Tyner-Sahara",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/ZAqvN-ae9JelDjd9wc_9B37-jos\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W5yOk9A7K6s"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-09T07:00:54.000Z",
+                "channelId": "UCgSonh4M0CQshLloSgaUNWA",
+                "title": "McCoy Tyner - Sahara",
+                "description": "Sahara (1972) Personnel: McCoy Tyner (Piano, Percussion, Flute, Koto) Sonny Fortune (Alto Saxophone, Soprano Saxophone, Flute) Alphonze Mouzon (Drums ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5yOk9A7K6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5yOk9A7K6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5yOk9A7K6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "koast1",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

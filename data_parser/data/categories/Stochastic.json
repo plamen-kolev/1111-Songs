@@ -5,6 +5,40 @@
         "artist": "Iannis Xenakis",
         "song": "Chamber Music",
         "year": "(1955-1990)",
-        "url": "https://www.youtube.com/results?search_query=Iannis%20Xenakis-Chamber%20Music"
+        "url": "https://www.youtube.com/results?search_query=Iannis%20Xenakis-Chamber%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/5MS1UB_XTBoSjt6Xj1Y5QnJtpH8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_OAAJvaKx5c"
+            },
+            "snippet": {
+                "publishedAt": "2011-02-05T01:26:53.000Z",
+                "channelId": "UCttLCxqYwFotLkZrbuWOD0w",
+                "title": "Iannis Xenakis - Tetras",
+                "description": "Tetras, for string quartet (1983) Arditti String Quartet Tetras stands as one of the very finest chamber compositions of Greek composer Iannis Xenakis. It is also ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_OAAJvaKx5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_OAAJvaKx5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_OAAJvaKx5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "pelodelperro",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

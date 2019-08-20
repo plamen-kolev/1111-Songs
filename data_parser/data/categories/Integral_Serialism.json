@@ -5,6 +5,40 @@
         "artist": "Pierre Boulez",
         "song": "Structures pour deux pianos",
         "year": "(1952-1961)",
-        "url": "https://www.youtube.com/results?search_query=Pierre%20Boulez-Structures%20pour%20deux%20pianos"
+        "url": "https://www.youtube.com/results?search_query=Pierre%20Boulez-Structures%20pour%20deux%20pianos",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/5XJ0wIMYKquM91KIVxuaxaGh-Kk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EmErwN02fX0"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-19T11:08:23.000Z",
+                "channelId": "UC8b0uLuzrkiPixtyaAn7zqw",
+                "title": "Pierre Boulez, Structures I &amp; II (Kontarsky/Kontarsky)",
+                "description": "Pierre Boulez (1925--), Structures, for two pianos Premier livre (1952) 00:00 I. 03:36 II. 12:19 III. Deuxi\u00e8me livre (1961) 14:41 I. 23:28 II. Alfons Kontarsky, piano ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EmErwN02fX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EmErwN02fX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EmErwN02fX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "hu",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Krzysztof Penderecki",
         "song": "Matrix 5",
         "year": "(1960-1974)",
-        "url": "https://www.youtube.com/results?search_query=Krzysztof%20Penderecki-Matrix%205"
+        "url": "https://www.youtube.com/results?search_query=Krzysztof%20Penderecki-Matrix%205",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/vCbI4s8YYk95BgFsqVWFRfo_1GY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K1e7uI562l0"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-12T03:21:12.000Z",
+                "channelId": "UCZpBgm1lWDPTsKlnSbvaU4w",
+                "title": "Krzysztof Penderecki - Matrix 5 (1994) [Full Album]",
+                "description": "Performed by: Polish Radio National Symphony Orchestra (Tracks 2 to 8), London Symphony Orchestra (Track 1), Wanda Wilkomirska (Violin in track 5) and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K1e7uI562l0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K1e7uI562l0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K1e7uI562l0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "God",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

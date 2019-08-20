@@ -5,7 +5,41 @@
         "artist": "Various",
         "song": "Music From the South - Volume 1 - Country Brass Bands",
         "year": "(1955)",
-        "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20South%20-%20Volume%201%20-%20Country%20Brass%20Bands"
+        "url": "https://www.youtube.com/results?search_query=Various-Music%20From%20the%20South%20-%20Volume%201%20-%20Country%20Brass%20Bands",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dKLDQTDPTB03NeXCVPDMGU-xeRc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TDSs2I6f-lk"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-13T21:10:29.000Z",
+                "channelId": "UC6rUe8GOHud7lU2lFZUj65w",
+                "title": "Zimbabwe Police Band Vol 1",
+                "description": "To survive in peace and harmony, united and strong, we must have one people, one nation, one flag.                 Patriotism is love of country. But you can't ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TDSs2I6f-lk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TDSs2I6f-lk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TDSs2I6f-lk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dj Geez",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 601,
@@ -13,7 +47,41 @@
         "artist": "Eureka Brass Band",
         "song": "New Orleans Funeral & Parade - The Original 1951 Session",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Eureka%20Brass%20Band-New%20Orleans%20Funeral%20%26amp%3B%20Parade%20-%20The%20Original%201951%20Session"
+        "url": "https://www.youtube.com/results?search_query=Eureka%20Brass%20Band-New%20Orleans%20Funeral%20%26amp%3B%20Parade%20-%20The%20Original%201951%20Session",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/YkX355xd-SLjf1AdgsKZ0KHPfrA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rqKrCCNlG3E"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-09T04:07:01.000Z",
+                "channelId": "UCu3mlU-QLB3pYYJ2jpIJ9FQ",
+                "title": "Sing On",
+                "description": "Provided to YouTube by The Orchard Enterprises Sing On \u00b7 Eureka Brass Band New Orleans Funeral & Parade \u2117 1992 American Music Records Released on: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rqKrCCNlG3E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rqKrCCNlG3E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rqKrCCNlG3E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eureka Brass Band - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 602,
@@ -21,7 +89,41 @@
         "artist": "Various",
         "song": "The Music of New Orleans, Volume 3 - Music of the Dance Halls",
         "year": "(1951-1954)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20New%20Orleans%2C%20Volume%203%20-%20Music%20of%20the%20Dance%20Halls"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Music%20of%20New%20Orleans%2C%20Volume%203%20-%20Music%20of%20the%20Dance%20Halls",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/BM8GaAO55xtSJQ9PtfISnVPC0Y0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d2nO_Td8N64"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-24T13:50:55.000Z",
+                "channelId": "UC9d7PQfOFN9tuuRO1WSVpfA",
+                "title": "Blues",
+                "description": "Provided to YouTube by Smithsonian Folkways Recordings Blues \u00b7 Emile Barnes and Charlie Love Music of New Orleans, Vol. 3: Music of the Dance Halls ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d2nO_Td8N64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d2nO_Td8N64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d2nO_Td8N64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Various Artists - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 603,
@@ -29,7 +131,41 @@
         "artist": "Olympia Brass Band",
         "song": "Here Come da Great Olympia Band",
         "year": "(1974)",
-        "url": "https://www.youtube.com/results?search_query=Olympia%20Brass%20Band-Here%20Come%20da%20Great%20Olympia%20Band"
+        "url": "https://www.youtube.com/results?search_query=Olympia%20Brass%20Band-Here%20Come%20da%20Great%20Olympia%20Band",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/QJeuFR-tv5GsVx4prWHxS1i2Iu8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-WFSggZG2kA"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-08T20:31:26.000Z",
+                "channelId": "UCV6zMlqG44bYp4Yfb2RDZaw",
+                "title": "Da Great Olympia Band",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-WFSggZG2kA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-WFSggZG2kA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-WFSggZG2kA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dixieland Jazz Vinyls",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 604,
@@ -37,6 +173,40 @@
         "artist": "The Original Tuxedo 'Jass' Band",
         "song": "The World's Oldest Orchestra - Founded in 1896",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=The%20Original%20Tuxedo%20%26%23x27%3BJass%26%23x27%3B%20Band-The%20World%26%23x27%3Bs%20Oldest%20Orchestra%20-%20Founded%20in%201896"
+        "url": "https://www.youtube.com/results?search_query=The%20Original%20Tuxedo%20%26%23x27%3BJass%26%23x27%3B%20Band-The%20World%26%23x27%3Bs%20Oldest%20Orchestra%20-%20Founded%20in%201896",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/JdQlRW65p93xd40nUKja2S3Hx5o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GnGchYhdXHM"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-01T00:14:10.000Z",
+                "channelId": "UCl0fpEvdPXYBkqEBYskrmjg",
+                "title": "The Original Tuxedo &#39;Jass&#39; Band \u200e\u2013 Panama",
+                "description": "\u00c1lbum: The World's Oldest Jazz Orchestra Founded In 1896 Dispon\u00edvel em nosso cat\u00e1logo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GnGchYhdXHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GnGchYhdXHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GnGchYhdXHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz e Companhia Discos",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

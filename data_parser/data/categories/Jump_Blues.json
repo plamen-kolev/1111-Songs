@@ -5,7 +5,41 @@
         "artist": "Count Basie",
         "song": "One O'Clock Jump - An Album of Jump Music",
         "year": "(1938-1941)",
-        "url": "https://www.youtube.com/results?search_query=Count%20Basie-One%20O%26%23x27%3BClock%20Jump%20-%20An%20Album%20of%20Jump%20Music"
+        "url": "https://www.youtube.com/results?search_query=Count%20Basie-One%20O%26%23x27%3BClock%20Jump%20-%20An%20Album%20of%20Jump%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/dwGuc51upDwsAHpggNZlW2xgmt4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "H424WKEGtAQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-09T20:00:22.000Z",
+                "channelId": "UCfdGgRiyor1-eZuWECIt0-Q",
+                "title": "Lester&#39;s Blues at Swing Paradise - One O&#39;Clock Jump",
+                "description": "Lester's Blues at Swing Paradise 2018 - a swing dance & music festival in Vilnius, Lithuania Video taken by Ernestas Kovalenko, produced by Arnas Razg\u016bnas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H424WKEGtAQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H424WKEGtAQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H424WKEGtAQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lester's Blues",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 627,
@@ -13,7 +47,41 @@
         "artist": "Louis Jordan",
         "song": "Jukebox Hits - Volume 1",
         "year": "(1942-1947)",
-        "url": "https://www.youtube.com/results?search_query=Louis%20Jordan-Jukebox%20Hits%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Louis%20Jordan-Jukebox%20Hits%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/aYo9IyASkspy_rrOUoETtPbceNc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9TxNsuZKtRE"
+            },
+            "snippet": {
+                "publishedAt": "2014-04-22T19:03:21.000Z",
+                "channelId": "UCLue5AhDOIpePYzlc3rOVVQ",
+                "title": "Louis Jordan - Best Of Louis Jordan, 38 crazy swinging Jazz tracks by the &quot;King of the Jukebox&quot;",
+                "description": "Louis Jordan \u2013 Best Of Louis Jordan, 38 crazy swinging Jazz tracks by the \u201cKing of the Jukebox\u201d Louis Jordan and his \u201cTimpany Five\u201d laid the foundations for R ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TxNsuZKtRE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TxNsuZKtRE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TxNsuZKtRE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz and Blues Experience",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 628,
@@ -21,6 +89,40 @@
         "artist": "Various",
         "song": "Blues Masters - Volume 5 - Jump Blues Classics",
         "year": "(1947-1957)",
-        "url": "https://www.youtube.com/results?search_query=Various-Blues%20Masters%20-%20Volume%205%20-%20Jump%20Blues%20Classics"
+        "url": "https://www.youtube.com/results?search_query=Various-Blues%20Masters%20-%20Volume%205%20-%20Jump%20Blues%20Classics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/uogJsTPuS_jNgcfhAoQeWSujC_k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kMzPQWdA5Zs"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-31T15:29:50.000Z",
+                "channelId": "UC0o1TGFlOUyFnjiU2qfyd9g",
+                "title": "Blues Masters 5 - Jump Blues Classics [Full Album]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kMzPQWdA5Zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kMzPQWdA5Zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kMzPQWdA5Zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuervo rojo",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

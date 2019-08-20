@@ -5,6 +5,40 @@
         "artist": "Pl\u00e1cido Domingo",
         "song": "Romanzas de Zarzuelas",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Pl%C3%A1cido%20Domingo-Romanzas%20de%20Zarzuelas"
+        "url": "https://www.youtube.com/results?search_query=Pl%C3%A1cido%20Domingo-Romanzas%20de%20Zarzuelas",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"0UM_wBUsFuT6ekiIlwaHvyqc80M/p7z6W7ZgmibLJtvcNlTMK_K2YYM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLPw1buJJniQesU3mWI0eEwqpRK8LsaNpl"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-13T08:09:33.000Z",
+                "channelId": "UCYMZKqGPWTWbJsfRfqpPxrQ",
+                "title": "Pl\u00e1cido Domingo - Romanzas de Zarzuela",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9AE-DsfV0BE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9AE-DsfV0BE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9AE-DsfV0BE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Juan Rangel",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]
