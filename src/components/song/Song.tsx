@@ -17,6 +17,17 @@ export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongP
     const isEnriched = enriched && youtube;
     const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`;
 
+    let enrichedTooltip;
+    if(isEnriched) {
+        enrichedTooltip = <Popup content='This song is embedded' trigger={
+            <Icon color="grey" name="sound"/>
+        } />
+    } else {
+        enrichedTooltip = <Popup content='This song is not embedded' trigger={
+            <Icon color="grey" name="external alternate"/>
+        } />
+    }
+
     return (
         <Card className="song-card" onClick={() => click({
             url,
@@ -30,11 +41,15 @@ export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongP
             </Card.Content>
             <Card.Content extra>
                 <Card.Description className="song-card-meta">
-                    {isEnriched && <Icon name="sound"/>}
                     {genre}
+                    <span className="ui right floated ">
+                        {enrichedTooltip}
+                        {youtube && youtube.id.kind === "youtube#playlist" &&
+                        <Popup content='Playlists cannot be autoplayed yet' trigger={
+                            <Icon color="grey" name="question circle"/>
+                        } />}
+                    </span>
 
-                    {youtube && youtube.id.kind === "youtube#playlist" &&
-                    <Popup content='Playlists cannot be autoplayed yet' trigger={<Icon color="red" name="question circle"/>} />}
 
                 </Card.Description>
             </Card.Content>
