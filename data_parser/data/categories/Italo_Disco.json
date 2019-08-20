@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "I_Robots - Italo Electro Disco Underground Classics",
         "year": "(1982-1984)",
-        "url": "https://www.youtube.com/results?search_query=Various-I_Robots%20-%20Italo%20Electro%20Disco%20Underground%20Classics"
+        "url": "https://www.youtube.com/results?search_query=Various-I_Robots%20-%20Italo%20Electro%20Disco%20Underground%20Classics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TxJSwYvYpEd4EHEU0m6S9A0bZvM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLHioiS9xjH6C3HVI4N4goUFoQYKFlnEBp"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-09T10:37:38.000Z",
+                "channelId": "UCe7DVN85Iaw3jLKlIl8R_lQ",
+                "title": "I-Robots (Italo Electro Disco Underground Classics)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eglu23iGsU0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eglu23iGsU0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eglu23iGsU0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sigi Grau",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "The Best Northern Soul All_Nighter...Ever!",
         "year": "(2001)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20Northern%20Soul%20All_Nighter...Ever%21"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20Northern%20Soul%20All_Nighter...Ever%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/d6eo3a7eXrDxPzvZcpauzYu6tv0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZkoxgqeMIA4"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-27T10:40:54.000Z",
+                "channelId": "UCjADqe5s1C9rW-A2RgVI9OA",
+                "title": "The Best Northern Soul All-Nighter Ever! - CD 1 (Full Album)",
+                "description": "1. Chuck Wood - Seven Days Too Long - 0:00 2. R. Dean Taylor - There's A Ghost In My House - 2:21 3. Dobbie Gray - Out On The Floor - 4:48 4. Tami Lynn - I'm ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZkoxgqeMIA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZkoxgqeMIA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZkoxgqeMIA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "One Man Trouble",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

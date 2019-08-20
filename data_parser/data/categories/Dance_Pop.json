@@ -5,6 +5,34 @@
         "artist": "Madonna",
         "song": "Madonna",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=Madonna-Madonna"
+        "url": "https://www.youtube.com/results?search_query=Madonna-Madonna",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/b-iSYZ6YFzCgF_abS_0Kahu5c2s\"",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC81VD6eeuLLSfyY_D-N8sVw"
+            },
+            "snippet": {
+                "publishedAt": "2005-10-31T09:33:22.000Z",
+                "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+                "title": "Madonna",
+                "description": "The Madonna Channel is the official YouTube home for Madonna. As the best-selling female recording artist of all time, Madonna continues to leave an indelible ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-ZBSb8I6yBCw/AAAAAAAAAAI/AAAAAAAAAAA/pwGT3OfYvE8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-ZBSb8I6yBCw/AAAAAAAAAAI/AAAAAAAAAAA/pwGT3OfYvE8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-ZBSb8I6yBCw/AAAAAAAAAAI/AAAAAAAAAAA/pwGT3OfYvE8/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    }
+                },
+                "channelTitle": "Madonna",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

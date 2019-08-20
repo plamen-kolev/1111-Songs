@@ -5,7 +5,41 @@
         "artist": "Harold Melvin & The Blue Notes",
         "song": "The Love I Lost (Part 1) - The Love I Lost (Part 2)",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Harold%20Melvin%20%26amp%3B%20The%20Blue%20Notes-The%20Love%20I%20Lost%20%28Part%201%29%20-%20The%20Love%20I%20Lost%20%28Part%202%29"
+        "url": "https://www.youtube.com/results?search_query=Harold%20Melvin%20%26amp%3B%20The%20Blue%20Notes-The%20Love%20I%20Lost%20%28Part%201%29%20-%20The%20Love%20I%20Lost%20%28Part%202%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/X73O-09rSG0h0UOPrxR9K_2diWA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ig7TA2ZMcxs"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-01T17:35:10.000Z",
+                "channelId": "UC9Q_ZbLS8r5EaInIqI_zZdg",
+                "title": "Harold Melvin &amp; The Blue Notes - The Love I Lost (Parts 1&amp;2)",
+                "description": "UK hit 1974 peaked at No.21, 8 weeks on chart.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ig7TA2ZMcxs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ig7TA2ZMcxs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ig7TA2ZMcxs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fab70smusic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 731,
@@ -13,6 +47,40 @@
         "artist": "Various",
         "song": "A Night at Studio 54",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Various-A%20Night%20at%20Studio%2054"
+        "url": "https://www.youtube.com/results?search_query=Various-A%20Night%20at%20Studio%2054",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/upMcXf4E8BDJm12HnuV23BLkiYw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_VDg0F7KP9o"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-19T20:18:07.000Z",
+                "channelId": "UClHpMQW-d1DX8Ev8SBd3m5g",
+                "title": "A Night At Studio 54 (Side One)",
+                "description": "\"A Night At Studio 54\"... \u2661 Side One - \"Le Freak\" - Chic, \"Let's All Chant\" - Michael Zager Band, \"YMCA\" - Village People, \"Disco Nights (Rock-Freak)\" - GQ.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_VDg0F7KP9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_VDg0F7KP9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_VDg0F7KP9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jim Coson",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

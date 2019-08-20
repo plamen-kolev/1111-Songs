@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Intensified! - Original Ska (1962-1966)",
         "year": "(1962-1966)",
-        "url": "https://www.youtube.com/results?search_query=Various-Intensified%21%20-%20Original%20Ska%20%281962-1966%29"
+        "url": "https://www.youtube.com/results?search_query=Various-Intensified%21%20-%20Original%20Ska%20%281962-1966%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6IncbtbGoRw0Lljd8UNtj0CkyeQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLpP5mvj_rAJC71NUMotLX_9XTpjmjvCFf"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-12T16:44:34.000Z",
+                "channelId": "UC3cjRCOG_aKVvDvybpcTW5Q",
+                "title": "Various \u200e\u2013 Intensified ! Original Ska 1962-1966",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bDSGXJfdXis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bDSGXJfdXis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bDSGXJfdXis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheEbird67",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

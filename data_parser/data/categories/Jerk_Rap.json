@@ -5,6 +5,40 @@
         "artist": "New Boyz",
         "song": "You're a Jerk",
         "year": "(2009)",
-        "url": "https://www.youtube.com/results?search_query=New%20Boyz-You%26%23x27%3Bre%20a%20Jerk"
+        "url": "https://www.youtube.com/results?search_query=New%20Boyz-You%26%23x27%3Bre%20a%20Jerk",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jR739MuV8ljETkWvFf8z4KL3VVk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qv9VKKXwVxU"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-30T20:38:23.000Z",
+                "channelId": "UCEPvyNLIDrDwxoYb2rwVvHg",
+                "title": "New Boyz &quot;You&#39;re A Jerk&quot; OFFICIAL Music Video HD Extended / Uncensored *Skee.TV",
+                "description": "The New Boyz \"You're A Jerk\" OFFICIAL Music Video HD / HQ Extended / Uncensored version. Directed by Matt Alonzo for Skee.TV Download \"You're a Jerk\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qv9VKKXwVxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qv9VKKXwVxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qv9VKKXwVxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SKEE TV",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Giorgio",
         "song": "From Here to Eternity",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Giorgio-From%20Here%20to%20Eternity"
+        "url": "https://www.youtube.com/results?search_query=Giorgio-From%20Here%20to%20Eternity",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Kw2-EABGAYh4W7-3GTUIf8YKqjY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "30hr7DyAuAY"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-05T23:07:52.000Z",
+                "channelId": "UCCpv1ZuEl4xIFH04-Lv0Fzg",
+                "title": "Giorgio Moroder - From Here To Eternity (1977)",
+                "description": "Timeless MASTERPIECE by one of the goodfathers of Disco.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/30hr7DyAuAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/30hr7DyAuAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/30hr7DyAuAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RoccoEsse",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

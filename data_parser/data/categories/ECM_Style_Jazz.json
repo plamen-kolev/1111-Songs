@@ -5,7 +5,41 @@
         "artist": "Terje Rypdal",
         "song": "Terje Rypdal",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=Terje%20Rypdal-Terje%20Rypdal"
+        "url": "https://www.youtube.com/results?search_query=Terje%20Rypdal-Terje%20Rypdal",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/GIs7ySoZG74FHndeXb3ADoj-hfU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Orw8IbeiGkM"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-26T21:51:10.000Z",
+                "channelId": "UCz7bW3lcopdkVqkaZc3TN8A",
+                "title": "Terje Rypdal \u2013 70 \u00e5r! med Conspiracy",
+                "description": "Vi starter h\u00f8sten med et smell og en feiring av en gigant: Terje Rypdal \u2013 70! 25. og 26. august feirer Terje Rypdal sitt runde \u00e5r med to forrykende kvelder p\u00e5 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Orw8IbeiGkM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Orw8IbeiGkM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Orw8IbeiGkM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nasjonal jazzscene",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 681,
@@ -13,7 +47,41 @@
         "artist": "Jan Garbarek",
         "song": "Bobo Stenson Quartet - Witchi_Tai_To",
         "year": "(1974)",
-        "url": "https://www.youtube.com/results?search_query=Jan%20Garbarek-Bobo%20Stenson%20Quartet%20-%20Witchi_Tai_To"
+        "url": "https://www.youtube.com/results?search_query=Jan%20Garbarek-Bobo%20Stenson%20Quartet%20-%20Witchi_Tai_To",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/e-L4CeuM9FKgeUrVQnREC9KKSbo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6XVvOcyHDI8"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-10T00:50:01.000Z",
+                "channelId": "UCY6OueviObx1AH6lmT1Uq5A",
+                "title": "Witchi-Tai-To",
+                "description": "Provided to YouTube by Universal Music Group Witchi-Tai-To \u00b7 Jan Garbarek \u00b7 Bobo Stenson Quartet Dansere \u2117 1974 ECM Records GmbH, under exclusive ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6XVvOcyHDI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6XVvOcyHDI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6XVvOcyHDI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jan Garbarek - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 682,
@@ -21,6 +89,40 @@
         "artist": "Charles Lloyd",
         "song": "Sangam",
         "year": "(2006)",
-        "url": "https://www.youtube.com/results?search_query=Charles%20Lloyd-Sangam"
+        "url": "https://www.youtube.com/results?search_query=Charles%20Lloyd-Sangam",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xWZyOlcVrmDAuI6AZ6AeJTX3lG4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0-OSqHAeLBU"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-08T02:57:22.000Z",
+                "channelId": "UCIC7xUK_rwMjEIoVfzAy5hw",
+                "title": "Charles Lloyd, Eric Harland and Zakir Hussain at Jazz sous les Pommiers festival, May 4th, 2013",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0-OSqHAeLBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0-OSqHAeLBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0-OSqHAeLBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eric Van Buggenhaut",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

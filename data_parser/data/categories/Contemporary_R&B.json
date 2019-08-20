@@ -5,7 +5,41 @@
         "artist": "Prince",
         "song": "Prince",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Prince-Prince"
+        "url": "https://www.youtube.com/results?search_query=Prince-Prince",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/p2aMghevKu5MN0y-QiHzG127bQw\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLnDDv-LitecUUrzXUPXMPjLNDv2u-nRKS"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-09T21:44:25.000Z",
+                "channelId": "UCULPJmFVUHGXxf_qSnhGR5w",
+                "title": "Prince (1979)",
+                "description": "\"Prince\" (aka \"Self-Titled Album) By Prince, Released on October 19, 1979 by Warner Bros. Records (and his second studio album overall). Videos uploaded by: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0KqqwdUSrrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0KqqwdUSrrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0KqqwdUSrrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "StudioRPM",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 741,
@@ -13,7 +47,41 @@
         "artist": "Michael Jackson",
         "song": "Thriller",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Michael%20Jackson-Thriller"
+        "url": "https://www.youtube.com/results?search_query=Michael%20Jackson-Thriller",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/JLMFYJI3AE9eugmlfz5LmGgsctg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sOnqjkJTMaA"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-03T06:51:49.000Z",
+                "channelId": "UCulYu1HEIa7f70L2lYZWHOw",
+                "title": "Michael Jackson - Thriller (Official Music Video)",
+                "description": "Michael Jackson's official music video for \"Thriller\" Listen to more Michael Jackson: https://MichaelJackson.lnk.to/Stream!to Michael Jackson's 14-minute short ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sOnqjkJTMaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sOnqjkJTMaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sOnqjkJTMaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "michaeljacksonVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 742,
@@ -21,7 +89,41 @@
         "artist": "Mariah Carey",
         "song": "Daydream",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Mariah%20Carey-Daydream"
+        "url": "https://www.youtube.com/results?search_query=Mariah%20Carey-Daydream",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/E6qrfb508bBhGtX7_l_S8w_Mv5k\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLN0SHuL4McHpnnOXcBQWLUz0TjV3rOcUs"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-02T23:27:58.000Z",
+                "channelId": "UC-0kV2wThfqMvfWcWdpDO3A",
+                "title": "Mariah Carey - Daydream",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z_ekJnyxTCo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z_ekJnyxTCo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z_ekJnyxTCo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DivaForRent",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 743,
@@ -29,7 +131,41 @@
         "artist": "Lauryn Hill",
         "song": "The Miseducation of Lauryn Hill",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Lauryn%20Hill-The%20Miseducation%20of%20Lauryn%20Hill"
+        "url": "https://www.youtube.com/results?search_query=Lauryn%20Hill-The%20Miseducation%20of%20Lauryn%20Hill",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Eo4SXJeP_EgL-uzmDwa5ted981M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lGCtAzYNwZ4"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-23T18:35:40.000Z",
+                "channelId": "UC5IojcYL122-PypNOGqej_A",
+                "title": "Lauryn Hill 1998 The Miseducation of Lauryn Hill",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lGCtAzYNwZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lGCtAzYNwZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lGCtAzYNwZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "hiphopmusic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 744,
@@ -37,6 +173,40 @@
         "artist": "Janelle Mon\u00e1e",
         "song": "The ArchAndroid",
         "year": "(2010)",
-        "url": "https://www.youtube.com/results?search_query=Janelle%20Mon%C3%A1e-The%20ArchAndroid"
+        "url": "https://www.youtube.com/results?search_query=Janelle%20Mon%C3%A1e-The%20ArchAndroid",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/c7GyiqKTm-fxiyzX4Jc4UO2UBCo\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL6B9209162C4A40EC"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-05T02:40:36.000Z",
+                "channelId": "UCFdbq1hE6VxsXbALqjDoUZQ",
+                "title": "Janelle Monae: The ArchAndroid",
+                "description": "Janelle Monae The ArchAndroid Bad Boy/Wondaland 1st album: 2010.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e8t7GhdeHGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e8t7GhdeHGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e8t7GhdeHGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EarthwormHam",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

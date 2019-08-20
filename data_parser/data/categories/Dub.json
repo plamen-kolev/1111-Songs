@@ -5,6 +5,40 @@
         "artist": "The Upsetters",
         "song": "Upsetters 14 Dub Black Board Jungle",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=The%20Upsetters-Upsetters%2014%20Dub%20Black%20Board%20Jungle"
+        "url": "https://www.youtube.com/results?search_query=The%20Upsetters-Upsetters%2014%20Dub%20Black%20Board%20Jungle",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/l1VbU9Z2xwbeVz4BUII3tMNyeNk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_GFv8XdebaM"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-29T23:53:10.000Z",
+                "channelId": "UCb8DDfo8LHCv7EXtHTOlnRQ",
+                "title": "Lee Scratch Perry &amp; The Upsetters - Upsetters 14 Dub Blackboard Jungle",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_GFv8XdebaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_GFv8XdebaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_GFv8XdebaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Reggae Box",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

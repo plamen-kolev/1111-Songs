@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "The Birth of the Third Stream",
         "year": "(1956-1957)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Birth%20of%20the%20Third%20Stream"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Birth%20of%20the%20Third%20Stream",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HUKj-sbTzetVryuV7znlzJZcp7Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LFCbUPx8Drg"
+            },
+            "snippet": {
+                "publishedAt": "2010-06-08T18:12:29.000Z",
+                "channelId": "UCviJwllJ5qOvoifSD4Iq9bQ",
+                "title": "Gunther Schuller - Quartet for doublebasses: III",
+                "description": "Quartet for doublebasses This work, an unusual combination of four string basses, was published in Florence, Italy. As an early work of Mr. Schuller's, it does not ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LFCbUPx8Drg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LFCbUPx8Drg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LFCbUPx8Drg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Donna",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

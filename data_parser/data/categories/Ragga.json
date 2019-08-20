@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Hardcore Ragga - The Music Works Dancehall Hits",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Various-Hardcore%20Ragga%20-%20The%20Music%20Works%20Dancehall%20Hits"
+        "url": "https://www.youtube.com/results?search_query=Various-Hardcore%20Ragga%20-%20The%20Music%20Works%20Dancehall%20Hits",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0FVINORhcQwB58kl-9BTfQaPj4s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OYRn-d64Mzk"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-22T12:14:47.000Z",
+                "channelId": "UCf9GcLHH6qXFzbzzoPxL76w",
+                "title": "90s Best of Hardcore Slackness Dancehall Mixtape Mix by Djeasy",
+                "description": "Download Promo Mixtape http://bit.ly/Bestof90sHardcoreDancehall (((\u00b7\u25ad\u00b7 \u00b7 \u00b7\u00b7\u00b7 subscribe, \u00b7\u25ad\u00b7 \u00b7 \u00b7\u00b7\u00b7 like & comment)))) All Featured Content Is ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OYRn-d64Mzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OYRn-d64Mzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OYRn-d64Mzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Djeasy Mixmaster",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

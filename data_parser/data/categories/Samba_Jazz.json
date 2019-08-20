@@ -5,6 +5,40 @@
         "artist": "Stan Getz & Charlie Byrd",
         "song": "Jazz Samba",
         "year": "(1962)",
-        "url": "https://www.youtube.com/results?search_query=Stan%20Getz%20%26amp%3B%20Charlie%20Byrd-Jazz%20Samba"
+        "url": "https://www.youtube.com/results?search_query=Stan%20Getz%20%26amp%3B%20Charlie%20Byrd-Jazz%20Samba",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/yk47dbSw8OoEaiOaCPxoZ_UN7-4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w7VGpKdX3f8"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-22T03:51:44.000Z",
+                "channelId": "UCVVMjFKKY3PKuI_dJFeFVwg",
+                "title": "Stan Getz &amp; Charlie Byrd - Jazz Samba 1962 (COMPLETE CD)",
+                "description": "Artist: Stan Getz / Charlie Byrd Album: Jazz Samba Year of Release: 1962 Genre: Bossa Nova.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w7VGpKdX3f8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w7VGpKdX3f8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w7VGpKdX3f8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sotiris Kafaridis",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

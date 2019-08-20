@@ -5,6 +5,40 @@
         "artist": "Sam Cooke",
         "song": "Portrait of a Legend",
         "year": "(1951-1964)",
-        "url": "https://www.youtube.com/results?search_query=Sam%20Cooke-Portrait%20of%20a%20Legend"
+        "url": "https://www.youtube.com/results?search_query=Sam%20Cooke-Portrait%20of%20a%20Legend",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_XOQ0p6fMhKCB_EfkKrASaT3HG4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL6Ic5yRf7N1ZOGldLmHf9QOMPjcERi36R"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-06T09:26:00.000Z",
+                "channelId": "UCNxhx8mUXfoTGXlGwmf3EBA",
+                "title": "Sam Cooke - Portrait of a Legend",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tBhOdQCLb3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tBhOdQCLb3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tBhOdQCLb3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AndersAndErSjov",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

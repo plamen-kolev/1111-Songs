@@ -5,7 +5,41 @@
         "artist": "Various",
         "song": "The R&B Hits",
         "year": "(1942-1945)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20R%26amp%3BB%20Hits"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20R%26amp%3BB%20Hits",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/B-61fv1eMkfrKHCQjxuHjAS5KBA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLFbWuc6jwPGeqFkoDBq87CcmlurwrlEGv"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-07T21:19:02.000Z",
+                "channelId": "UCPyemV-iqLwwHxXzaw9EPGg",
+                "title": "R&B 2000-2019",
+                "description": "90s R&B Playlist: https://www.youtube.com/playlist?list=PLFbWuc6jwPGdJfqmKuoTWSgHLJPRWDEDb 60s, 70s & 80s Playlist: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8WYHDfJDPDc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8WYHDfJDPDc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8WYHDfJDPDc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TriniBelle",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 701,
@@ -13,7 +47,41 @@
         "artist": "Roy Milton & His Solid Senders",
         "song": "Rhythm & Blues From California",
         "year": "(1945-1949)",
-        "url": "https://www.youtube.com/results?search_query=Roy%20Milton%20%26amp%3B%20His%20Solid%20Senders-Rhythm%20%26amp%3B%20Blues%20From%20California"
+        "url": "https://www.youtube.com/results?search_query=Roy%20Milton%20%26amp%3B%20His%20Solid%20Senders-Rhythm%20%26amp%3B%20Blues%20From%20California",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/RXEDHzA6gI3u7aGNJ5qbCyOGdhM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eiNF3QC2VjI"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-20T02:41:42.000Z",
+                "channelId": "UCgYGiYejtC16sdTHmGQvInw",
+                "title": "Trues Blues",
+                "description": "Provided to YouTube by The Orchard Enterprises Trues Blues \u00b7 Roy Milton & His Solid Senders I Have Blues for You \u2117 2014 Smith & Co. Released on: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eiNF3QC2VjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eiNF3QC2VjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eiNF3QC2VjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Milton & Solid Senders - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 702,
@@ -21,7 +89,41 @@
         "artist": "Various",
         "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 1",
         "year": "(1947-1952)",
-        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/lzNdQq5tUxOdYcbsfmiL0KzCKz0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL3tkzUsGpNfE_ZCCKOmRhP5tgkVIviGiX"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-28T03:32:33.000Z",
+                "channelId": "UC0QmtQh5QFcSPkiaJCenuvQ",
+                "title": "Atlantic Rhythm & Blues 1947-74!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lilwolfman1",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 703,
@@ -29,7 +131,41 @@
         "artist": "Various",
         "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 2",
         "year": "(1952-1955)",
-        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%202"
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%202",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/lzNdQq5tUxOdYcbsfmiL0KzCKz0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL3tkzUsGpNfE_ZCCKOmRhP5tgkVIviGiX"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-28T03:32:33.000Z",
+                "channelId": "UC0QmtQh5QFcSPkiaJCenuvQ",
+                "title": "Atlantic Rhythm & Blues 1947-74!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8j8wDic3Zc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lilwolfman1",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 704,
@@ -37,6 +173,40 @@
         "artist": "Various",
         "song": "Atlantic Rhythm and Blues (1947-1974) - Volume 3",
         "year": "(1955-1958)",
-        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%203"
+        "url": "https://www.youtube.com/results?search_query=Various-Atlantic%20Rhythm%20and%20Blues%20%281947-1974%29%20-%20Volume%203",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/JleUz2AOGbc8nvLf3F-IDR2qldc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ytd8Dhtq034"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-03T01:04:07.000Z",
+                "channelId": "UCvggNdpLV-CXgv9oXiXC-IA",
+                "title": "ATLANTIC R &amp; B # 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ytd8Dhtq034/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ytd8Dhtq034/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ytd8Dhtq034/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kevin Ma",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Me'Shell Ndeg\u00e9Ocello",
         "song": "Plantation Lullabies",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Me%26%23x27%3BShell%20Ndeg%C3%A9Ocello-Plantation%20Lullabies"
+        "url": "https://www.youtube.com/results?search_query=Me%26%23x27%3BShell%20Ndeg%C3%A9Ocello-Plantation%20Lullabies",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/9zkntYGLODj8jp91Dxnq2CAg3iA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL1E3oqYjuc9B1RJQiiWL4qOd_oJUu2RJE"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-17T08:24:09.000Z",
+                "channelId": "UC5op62yttKvhMmXsrUIWJbw",
+                "title": "meshell ndegeocello-plantation lullabies",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vrkaw-qmVcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vrkaw-qmVcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vrkaw-qmVcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jiyeun lee",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

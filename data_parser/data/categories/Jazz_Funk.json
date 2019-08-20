@@ -5,7 +5,41 @@
         "artist": "Yusef Lateef",
         "song": "Detroit - Latitude 42\u00b0 30' Longitude 83\u00b0",
         "year": "(1967-1969)",
-        "url": "https://www.youtube.com/results?search_query=Yusef%20Lateef-Detroit%20-%20Latitude%2042%C2%B0%2030%26%23x27%3B%20Longitude%2083%C2%B0"
+        "url": "https://www.youtube.com/results?search_query=Yusef%20Lateef-Detroit%20-%20Latitude%2042%C2%B0%2030%26%23x27%3B%20Longitude%2083%C2%B0",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6JKbNyjFWsTtKtOq9zDpaYa61IY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8JQY4uxO0Rg"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-04T17:45:08.000Z",
+                "channelId": "UC2uCzdiG5--66z688UUszAA",
+                "title": "Yusef Lateef - Russell &amp; Elliot",
+                "description": "From the album Yusef Lateef's Detroit - Latitude 42 30 Longitude 83.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8JQY4uxO0Rg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8JQY4uxO0Rg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8JQY4uxO0Rg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phill Most",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 693,
@@ -13,6 +47,40 @@
         "artist": "Herbie Hancock",
         "song": "Head Hunters",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Herbie%20Hancock-Head%20Hunters"
+        "url": "https://www.youtube.com/results?search_query=Herbie%20Hancock-Head%20Hunters",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Ewzps6VfT9b6bfgj6nVIDFborl0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3m3qOD-hhrQ"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-10T22:43:11.000Z",
+                "channelId": "UCUj2Y6bXDiP06k8QbtmMjVA",
+                "title": "Head Hunters | Herbie Hancock | 1973 | Full Album",
+                "description": "1. Chameleon 0:00 2. Watermelon Man 15:40 3. Sly 22:14 4. Vein Melter 32:35 Personnel Herbie Hancock \u2013 Fender Rhodes electric piano, Hohner D-6 Clavinet ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3m3qOD-hhrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3m3qOD-hhrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3m3qOD-hhrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "les perseguides 2",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

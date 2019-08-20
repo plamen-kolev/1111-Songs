@@ -5,6 +5,40 @@
         "artist": "Cal Tjader Quintet",
         "song": "Ritmo Caliente!",
         "year": "(1954)",
-        "url": "https://www.youtube.com/results?search_query=Cal%20Tjader%20Quintet-Ritmo%20Caliente%21"
+        "url": "https://www.youtube.com/results?search_query=Cal%20Tjader%20Quintet-Ritmo%20Caliente%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HV2slA2pgpCsEHCyHvRrTFONbpg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dGRMXSpJMDE"
+            },
+            "snippet": {
+                "publishedAt": "2009-08-28T03:01:13.000Z",
+                "channelId": "UC6ugh5Gac97ahwvSn1TiEqw",
+                "title": "CAL TJADER QUARTET -  Ritmo Caliente",
+                "description": "The greatest Anglo musician in Latin music. Tjader's father was a musical director and producer in vaudeville, and he grew up around the music and the theatre, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dGRMXSpJMDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dGRMXSpJMDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dGRMXSpJMDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ramoburg",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

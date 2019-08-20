@@ -5,6 +5,40 @@
         "artist": "Zapp",
         "song": "Zapp",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Zapp-Zapp"
+        "url": "https://www.youtube.com/results?search_query=Zapp-Zapp",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/GB3SjiNvTag1WRuhX1ZL4YNrehw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nWDZIZxBAyk"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-26T22:00:09.000Z",
+                "channelId": "UCwzZ1fC3PI2Y22AJKZB-PVA",
+                "title": "Zapp - Zapp VI: Back by Popular Demand [Full Album Stream] (50 Minutes)",
+                "description": "Zapp VI: Back by Popular Demand is the sixth album by the iconic funk band Zapp Track listing: (00:02) Intro (00:52) You've Got Mail (05:04) Say You Will Say ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nWDZIZxBAyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nWDZIZxBAyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nWDZIZxBAyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BrownPrider Funk",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

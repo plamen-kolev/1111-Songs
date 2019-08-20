@@ -5,7 +5,41 @@
         "artist": "Keith Sweat",
         "song": "Make It Last Forever",
         "year": "(1987)",
-        "url": "https://www.youtube.com/results?search_query=Keith%20Sweat-Make%20It%20Last%20Forever"
+        "url": "https://www.youtube.com/results?search_query=Keith%20Sweat-Make%20It%20Last%20Forever",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/h-k8_8Pol0NM3kASMjHKvI-5mfU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sKgCLVl-bGY"
+            },
+            "snippet": {
+                "publishedAt": "2010-07-23T20:56:24.000Z",
+                "channelId": "UCcf79OPIHcZ7Ic0UlL5J5Jw",
+                "title": "Keith Sweat - Make It Last Forever",
+                "description": "1987 Elektra Records Let Me know If U Have Any Request!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sKgCLVl-bGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sKgCLVl-bGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sKgCLVl-bGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jtobegood",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 747,
@@ -13,6 +47,23 @@
         "artist": "Janet Jackson",
         "song": "Rhythm Nation 1814",
         "year": "(1989)",
-        "url": "https://www.youtube.com/results?search_query=Janet%20Jackson-Rhythm%20Nation%201814"
+        "url": "https://www.youtube.com/results?search_query=Janet%20Jackson-Rhythm%20Nation%201814",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vHku4CnqqRZfTK0lTl67ewvwxxw\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLZROkT1-_ZH50c-_F6DmIHes-juc-WjCD"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-16T01:38:19.000Z",
+                "channelId": "UCAc81McWqpmlEfDVom_dTFg",
+                "title": "Janet Jackson \"Rhythm Nation 1814\" album",
+                "description": "",
+                "channelTitle": "aalvarez614",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

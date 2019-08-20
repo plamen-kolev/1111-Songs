@@ -5,7 +5,41 @@
         "artist": "James Brown",
         "song": "20 All Time Greatest Hits!",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=James%20Brown-20%20All%20Time%20Greatest%20Hits%21"
+        "url": "https://www.youtube.com/results?search_query=James%20Brown-20%20All%20Time%20Greatest%20Hits%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/O9IO7qn4lfQ1J9dgNox6v0SHUds\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLLsvoQDqi92vB8DcnRxmuCz5RmU6DShdg"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-12T02:29:11.000Z",
+                "channelId": "UCdwuZ_8lfAqNKWn9QJ-dRcg",
+                "title": "James Brown \u2013 20 All-Time Greatest Hits!",
+                "description": "A playlist converted by Soundiiz from another music platform ! https://soundiiz.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5SrQ9graFWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5SrQ9graFWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5SrQ9graFWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bobby Travis",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 721,
@@ -13,7 +47,41 @@
         "artist": "Sly & The Family Stone",
         "song": "There's a Riot Goin' On",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=Sly%20%26amp%3B%20The%20Family%20Stone-There%26%23x27%3Bs%20a%20Riot%20Goin%26%23x27%3B%20On"
+        "url": "https://www.youtube.com/results?search_query=Sly%20%26amp%3B%20The%20Family%20Stone-There%26%23x27%3Bs%20a%20Riot%20Goin%26%23x27%3B%20On",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/E5L2oQ5xLpe1PmvF_5zWMrMppcQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLCX_SlmERpRMB_efrmHKRqlDvbEQe5tQm"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-12T10:48:05.000Z",
+                "channelId": "UCgtHxf3KtEyt6xXEXUCklGQ",
+                "title": "SLY & THE FAMILY STONE - THERE'S A RIOT GOING ON",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uJZHm5_i1vI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uJZHm5_i1vI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uJZHm5_i1vI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "eggsandwine",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 722,
@@ -21,6 +89,40 @@
         "artist": "Various",
         "song": "The Funk Box",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Funk%20Box"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Funk%20Box",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5XrGQXZ5YFZPowwYI6oKDbx0OEw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NjHPXM4J0H8"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-24T18:45:48.000Z",
+                "channelId": "UCcII7aZN80VGTpF1uMntuRg",
+                "title": "The Masterdon Committee-Funkbox 2  1985",
+                "description": "Profile Records 1985 Produced By Pumpkin.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NjHPXM4J0H8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NjHPXM4J0H8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NjHPXM4J0H8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dj Ol'SkOul",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

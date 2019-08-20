@@ -5,6 +5,40 @@
         "artist": "Curtis Mayfield & The Impressions",
         "song": "The Anthology",
         "year": "(1961-1977)",
-        "url": "https://www.youtube.com/results?search_query=Curtis%20Mayfield%20%26amp%3B%20The%20Impressions-The%20Anthology"
+        "url": "https://www.youtube.com/results?search_query=Curtis%20Mayfield%20%26amp%3B%20The%20Impressions-The%20Anthology",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xxCZCnfzfpU5BapplzWxLLm5Ff8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLfvdXNY62iK8iSNxq5nBTB4WKNpP6l6wj"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-11T14:09:08.000Z",
+                "channelId": "UCp56iQuNnEN4tf0KEyrmu5A",
+                "title": "Curtis Mayfield & the Impressions: The Anthology 1961-1977",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3Wd4tlX5t-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3Wd4tlX5t-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3Wd4tlX5t-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tyler Kuske",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Grandmaster Flash & The Furious Five",
         "song": "The Adventures of Grandmaster Flash on the Wheels of Steel",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Grandmaster%20Flash%20%26amp%3B%20The%20Furious%20Five-The%20Adventures%20of%20Grandmaster%20Flash%20on%20the%20Wheels%20of%20Steel"
+        "url": "https://www.youtube.com/results?search_query=Grandmaster%20Flash%20%26amp%3B%20The%20Furious%20Five-The%20Adventures%20of%20Grandmaster%20Flash%20on%20the%20Wheels%20of%20Steel",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/mGZZ6o6TwFFp0gtdd_VBSxQhFmw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gXNzMVLqIHg"
+            },
+            "snippet": {
+                "publishedAt": "2010-12-30T20:11:54.000Z",
+                "channelId": "UCyuxokhhrf_2lJ-ArNTNNUg",
+                "title": "The Adventures Of Grandmaster Flash On The Wheels Of Steel (Long Version)",
+                "description": "1981 , Sugar Hill Records New Live Recreation with the same records on 2 turntables https://www.youtube.com/watch?v=J0Aulg2ePWA Tracklist: Chic - Good ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gXNzMVLqIHg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gXNzMVLqIHg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gXNzMVLqIHg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jemiedub",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

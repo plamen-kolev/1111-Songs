@@ -25,4 +25,4 @@ class TestEnrich(TestCase):
         self.assertEqual(1110, mock_enrich.call_count)
         self.assertEqual(realJsonData['entries']['Prehistoric'][0], mock_enrich.call_args_list[0][0][0])
         self.assertEqual(realJsonData['entries']['Sumerian'][0], mock_enrich.call_args_list[1][0][0])
-        self.assertEqual(realJsonData['entries']['Animal Music'][0], mock_enrich.call_args_list[totalSongs][0][0])
+        self.assertEqual(realJsonData['entries']['Animal Music'][0], mock_enrich.call_args_list[totalSongs - 1][0][0])

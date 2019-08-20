@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "The Noise - Volume 1 - Asi Comenzo el Ruido",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Noise%20-%20Volume%201%20-%20Asi%20Comenzo%20el%20Ruido"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Noise%20-%20Volume%201%20-%20Asi%20Comenzo%20el%20Ruido",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/CArPC6MenNrWGfbtPyZ38QRNURk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3f3ZohZEfoE"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-06T15:02:05.000Z",
+                "channelId": "UC3Se1PRfpsxMIp-PI69HTIQ",
+                "title": "The Noise 1 Asi Comienza el Ruido 1990 Album Completo",
+                "description": "\u0b9c\u06e9\u06de\u06e9\u0b9c \u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557 \u00b7.\u00b7\u2606\u00b7.\u00b7SUSCRIBETE Y REGALAME UN LIKE\u00b7.\u00b7\u2606\u00b7.\u00b7 \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3f3ZohZEfoE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3f3ZohZEfoE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3f3ZohZEfoE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maverick H.",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

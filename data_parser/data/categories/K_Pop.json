@@ -5,6 +5,40 @@
         "artist": "Seo Taiji, Boys",
         "song": "\uc11c\ud0dc\uc9c0\uc640 \uc544\uc774\ub4e4 (Seo Taiji, Boys)",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Seo%20Taiji%2C%20Boys-%EC%84%9C%ED%83%9C%EC%A7%80%EC%99%80%20%EC%95%84%EC%9D%B4%EB%93%A4%20%28Seo%20Taiji%2C%20Boys%29"
+        "url": "https://www.youtube.com/results?search_query=Seo%20Taiji%2C%20Boys-%EC%84%9C%ED%83%9C%EC%A7%80%EC%99%80%20%EC%95%84%EC%9D%B4%EB%93%A4%20%28Seo%20Taiji%2C%20Boys%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tIQtBmLshHKH3nfDXHz881hLFtY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IRFfPZQeJuo"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-18T17:05:15.000Z",
+                "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+                "title": "Seo Taiji&amp;Boys - Come Back Home, \uc11c\ud0dc\uc9c0\uc640 \uc544\uc774\ub4e4 - \ucef4\ubc31\ud648, MBC Top Music 19951124",
+                "description": "Seo Taiji&Boys - Come Back Home, \uc11c\ud0dc\uc9c0\uc640 \uc544\uc774\ub4e4 - \ucef4\ubc31\ud648, MBC Top Music(\uc778\uae30\uac00\uc694 \ubca0\uc2a4\ud2b850), 26\ud68c, EP26, 1995/11/24, MBC TV, Republic of Korea.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IRFfPZQeJuo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IRFfPZQeJuo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IRFfPZQeJuo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCkpop",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

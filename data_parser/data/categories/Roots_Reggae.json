@@ -5,6 +5,40 @@
         "artist": "Bob Marley and The Wailers",
         "song": "Soul Rebels",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Bob%20Marley%20and%20The%20Wailers-Soul%20Rebels"
+        "url": "https://www.youtube.com/results?search_query=Bob%20Marley%20and%20The%20Wailers-Soul%20Rebels",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/QlgRp6wtueYpuiT0HN3HYzr30fw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "70VJWpzrYJI"
+            },
+            "snippet": {
+                "publishedAt": "2008-10-30T09:19:18.000Z",
+                "channelId": "UCtGzCqBRrixFA1olP3K-QHg",
+                "title": "The Wailers - Soul Rebels (original)",
+                "description": "Bob Marley - Soul Rebels Soul Rebel original.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/70VJWpzrYJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/70VJWpzrYJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/70VJWpzrYJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rebelman19",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

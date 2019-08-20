@@ -5,7 +5,41 @@
         "artist": "Gary Burton",
         "song": "Chick Corea - Crystal Silence",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Gary%20Burton-Chick%20Corea%20-%20Crystal%20Silence"
+        "url": "https://www.youtube.com/results?search_query=Gary%20Burton-Chick%20Corea%20-%20Crystal%20Silence",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tKgLFlkrb1JgOrhmsnpfzlL69MA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VnlAPR_ixo4"
+            },
+            "snippet": {
+                "publishedAt": "2011-01-02T06:54:28.000Z",
+                "channelId": "UCcm68cEsQCs43x6vD4k_1Fw",
+                "title": "Chick Corea &amp; Gary Burton - Crystal Silence",
+                "description": "Chick Corea & Gary Burton - Crystal Silence.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VnlAPR_ixo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VnlAPR_ixo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VnlAPR_ixo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "A6paM1",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 684,
@@ -13,6 +47,40 @@
         "artist": "Oregon",
         "song": "Out of the Woods",
         "year": "(1978)",
-        "url": "https://www.youtube.com/results?search_query=Oregon-Out%20of%20the%20Woods"
+        "url": "https://www.youtube.com/results?search_query=Oregon-Out%20of%20the%20Woods",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/9xV3z-uAcg_-PLLgDlbkOZy7GVg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLgthOlnYSrEZAB3bnLtkK0Z4ofC1_hkbj"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-06T03:41:50.000Z",
+                "channelId": "UCT2yORoNzeyUYbi7aAwh8TA",
+                "title": "oregon - out of the woods",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jXU0hiHUw3k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jXU0hiHUw3k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jXU0hiHUw3k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bili Holid\u00e9",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

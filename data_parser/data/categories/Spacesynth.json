@@ -5,6 +5,40 @@
         "artist": "Cyber People",
         "song": "Polaris",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Cyber%20People-Polaris"
+        "url": "https://www.youtube.com/results?search_query=Cyber%20People-Polaris",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ue_awRhOQmcoLZM8OdOpVwCfPzw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YAJe4B6Ykoo"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-24T20:49:43.000Z",
+                "channelId": "UC4fNBN-YGWLS5qvjiq81fWw",
+                "title": "Cyber People   Polaris (Good Quality)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YAJe4B6Ykoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YAJe4B6Ykoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YAJe4B6Ykoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pommit",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

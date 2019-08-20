@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "The Original Mambo Kings - An introduction to Afro_Cubop",
         "year": "(1948-1954)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Original%20Mambo%20Kings%20-%20An%20introduction%20to%20Afro_Cubop"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Original%20Mambo%20Kings%20-%20An%20introduction%20to%20Afro_Cubop",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/O8eX9B_5fvdKKw7uZ7f0-gjrakg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_V_ff9Y9aWw"
+            },
+            "snippet": {
+                "publishedAt": "2012-09-07T03:57:27.000Z",
+                "channelId": "UCaNrv3rolaiy80XAJyVOBcg",
+                "title": "Manteca Suite (Dizzy Gillespie &amp; His Orchestra)",
+                "description": "From the Verve 1993 compilation \"The Original Mambo Kings: An Introduction to Afro-Cubop 1948-1954.\" This song is a medley comprised of 4 movements: 1) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_V_ff9Y9aWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_V_ff9Y9aWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_V_ff9Y9aWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jesus Hernandez",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

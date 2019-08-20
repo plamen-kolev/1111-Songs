@@ -114,7 +114,41 @@
         "artist": "Herbie Hancock",
         "song": "Sextant",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Herbie%20Hancock-Sextant"
+        "url": "https://www.youtube.com/results?search_query=Herbie%20Hancock-Sextant",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/pD3l--YoT_L3ylJRroRvbu5ZL_Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6Mz5rR0y0fM"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-17T19:49:43.000Z",
+                "channelId": "UCf-sYveHqWLlDzD3LSzeDZg",
+                "title": "Herbie Hancock - Sextant [Full album] | 1973",
+                "description": "Tracklist: \"Rain Dance\" - 00:00 \"Hidden Shadows\" - 09:16 \"Hornets\" - 19:27 Personnel: MWANDISHI (Herbie Hancock) - piano, Fender Rhodes, Hohner D6 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Mz5rR0y0fM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Mz5rR0y0fM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Mz5rR0y0fM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jorge Valdiviezo",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 674,
@@ -122,7 +156,41 @@
         "artist": "Jan Hammer",
         "song": "The First Seven Days",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Jan%20Hammer-The%20First%20Seven%20Days"
+        "url": "https://www.youtube.com/results?search_query=Jan%20Hammer-The%20First%20Seven%20Days",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Xw6ywh2taiiBtYy7Akj80nuK_5Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yimHVscaGMk"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-04T04:33:01.000Z",
+                "channelId": "UCcBIYR2L-I3t8gOfCCKCjAw",
+                "title": "Jan Hammer - The First Seven Days (entire opera)",
+                "description": "composed by Jan Hammer recorded at Red Gate Studio, Kent, New York, US (1975) SIDE A: 04'35'' - 00:00 - 1) Darkness/Earth in Search of a Sun 06'45'' ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yimHVscaGMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yimHVscaGMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yimHVscaGMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Stefano Ruotolo",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 675,
@@ -130,7 +198,41 @@
         "artist": "Return to Forever",
         "song": "Romantic Warrior",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Return%20to%20Forever-Romantic%20Warrior"
+        "url": "https://www.youtube.com/results?search_query=Return%20to%20Forever-Romantic%20Warrior",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vhWmQd0Xi-oyqNYj16PBobrG7fI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ETla9zs5SI"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-18T14:22:06.000Z",
+                "channelId": "UCngS9iz1UolUaqD31a4jGcA",
+                "title": "Return to Forever - The Romantic Warrior HQ",
+                "description": "Album: The Romantic Warrior (1976)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ETla9zs5SI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ETla9zs5SI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ETla9zs5SI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hiawatha",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 676,
@@ -138,7 +240,41 @@
         "artist": "Ornette Coleman",
         "song": "Dancing in Your Head",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-Dancing%20in%20Your%20Head"
+        "url": "https://www.youtube.com/results?search_query=Ornette%20Coleman-Dancing%20in%20Your%20Head",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/PMP70up_kBj2N5C09elzildbdRo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "23QVY94tAj0"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-28T23:51:31.000Z",
+                "channelId": "UCp7w0g1AjIAOFyjqr8puJgQ",
+                "title": "Ornette Coleman - Dancing In Your Head (1977)",
+                "description": "Dancing in Your Head es un \u00e1lbum de estudio del artista de jazz Ornette Coleman, lanzado en 1977 por Horizon Records. Fue donde por primera vez presento ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/23QVY94tAj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/23QVY94tAj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/23QVY94tAj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Facundo Murias",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 677,
@@ -146,7 +282,41 @@
         "artist": "Al Di Meola",
         "song": "Elegant Gypsy",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Al%20Di%20Meola-Elegant%20Gypsy"
+        "url": "https://www.youtube.com/results?search_query=Al%20Di%20Meola-Elegant%20Gypsy",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vgkaqQFqNuzMkoAqC5IWnoD_XcY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9Y7xw2k6mH4"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-29T15:28:51.000Z",
+                "channelId": "UCu61XJ7klWC_e6PEqsSCKIg",
+                "title": "Al Di Meola -  Elegant Gypsy - (1977  full album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Y7xw2k6mH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Y7xw2k6mH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Y7xw2k6mH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Iacoblev Daniel Barau",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 678,
@@ -154,7 +324,41 @@
         "artist": "Sun Ra",
         "song": "Lanquidity",
         "year": "(1978)",
-        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Lanquidity"
+        "url": "https://www.youtube.com/results?search_query=Sun%20Ra-Lanquidity",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6M7DfFAeRA6beAiil2M1QutpP_0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "238Dh6N9GLg"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-27T13:41:30.000Z",
+                "channelId": "UC-VbS62vD2JDiKGru9E_Fxw",
+                "title": "Sun Ra - Lanquidity (1978) (Full Album)",
+                "description": "Alto Saxophone, Oboe, Flute \u2013 Marshall Allen Baritone Saxophone \u2013 Julian Presley Baritone Saxophone, Flute \u2013 Danny Thompson Bass \u2013 Richard Williams ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/238Dh6N9GLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/238Dh6N9GLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/238Dh6N9GLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jazz Time with Jarvis X",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 679,
@@ -162,6 +366,40 @@
         "artist": "Bill Connors",
         "song": "Step It",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Bill%20Connors-Step%20It"
+        "url": "https://www.youtube.com/results?search_query=Bill%20Connors-Step%20It",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/CEATKYuUToQkGVD8ao_gq9f0W0U\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLooF1k9qoOZjIw0ZTBHx3tsmN-fqVrcvw"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-23T22:46:36.000Z",
+                "channelId": "UCpXgiNAjvXYMVRm3awRKemA",
+                "title": "Bill Connors / Step It!",
+                "description": "This Playlist Created by ELPEE.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/40XNBq-vPXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/40XNBq-vPXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/40XNBq-vPXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "akirajb",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

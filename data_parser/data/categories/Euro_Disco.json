@@ -5,6 +5,40 @@
         "artist": "Cerrone",
         "song": "Love in C minor",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Cerrone-Love%20in%20C%20minor"
+        "url": "https://www.youtube.com/results?search_query=Cerrone-Love%20in%20C%20minor",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8-I8nLR5tvJzNYMV1p1mQ0yFv9E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TRiIiPnJvNc"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-30T16:32:20.000Z",
+                "channelId": "UCJDUHkw_-gdegi6FgzsXy9g",
+                "title": "Cerrone - Love In C Minor",
+                "description": "Extrait de Cerrone I - Love In C Minor. Cerrone I, II et III bient\u00f4t disponible sur iTunes ici : http://po.st/Cerrone123 D\u00e9couvrez tout la discographie de Cerrone ici ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TRiIiPnJvNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TRiIiPnJvNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TRiIiPnJvNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cerrone Official",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

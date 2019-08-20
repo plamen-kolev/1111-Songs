@@ -5,6 +5,40 @@
         "artist": "Art Blakey",
         "song": "Orgy in Rhythm - Volume 1",
         "year": "(1957)",
-        "url": "https://www.youtube.com/results?search_query=Art%20Blakey-Orgy%20in%20Rhythm%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Art%20Blakey-Orgy%20in%20Rhythm%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/9CXN96RhZHLzQSUVlXygmnXf710\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B2z7R2UI27E"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-22T10:12:43.000Z",
+                "channelId": "UCO5nzepNqleYDC9XWVp01jw",
+                "title": "Art Blakey   -  Orgy In Rhythm Volume One",
+                "description": "Art Blakey \u2013 Orgy In Rhythm (Volume One) Blue Note 1554 US 1957 00:00 A1 Buhaina Chant 10:32 A2 Ya Ya 17:41 B1 Toffi 30:04 B2 Split Skins Bass ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B2z7R2UI27E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B2z7R2UI27E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B2z7R2UI27E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Massimo Casulini",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

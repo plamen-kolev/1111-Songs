@@ -5,7 +5,41 @@
         "artist": "Jimmy Smith",
         "song": "The Sermon!",
         "year": "(1957-1958)",
-        "url": "https://www.youtube.com/results?search_query=Jimmy%20Smith-The%20Sermon%21"
+        "url": "https://www.youtube.com/results?search_query=Jimmy%20Smith-The%20Sermon%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/VZfYtCSBUZNLYjoHH5-lq_3ZNIA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e3X5J_wGHrw"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-06T11:27:21.000Z",
+                "channelId": "UCIi0BHuKkglUdTRMXbq6xKQ",
+                "title": "Jimmy Smith - The Sermon",
+                "description": "Album: The Sermon! Year: 1958 Label: Blue Note Jimmy Smith - organ Lee Morgan - trumpet Lou Donaldson - alto saxophone Tina Brooks - tenor saxophone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e3X5J_wGHrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e3X5J_wGHrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e3X5J_wGHrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JazzTuna",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 691,
@@ -13,6 +47,40 @@
         "artist": "Freddie Hubbard",
         "song": "Red Clay",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Freddie%20Hubbard-Red%20Clay"
+        "url": "https://www.youtube.com/results?search_query=Freddie%20Hubbard-Red%20Clay",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/k3IQBnraQd1HGo3s-d-JSjDRC8s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wA1ZelIbUfI"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-13T23:38:06.000Z",
+                "channelId": "UCVDE7TD9h9Bpr5cKPV4mXTg",
+                "title": "Freddie Hubbard - Red Clay (Complete)",
+                "description": "''Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wA1ZelIbUfI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wA1ZelIbUfI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wA1ZelIbUfI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JMYTMusic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

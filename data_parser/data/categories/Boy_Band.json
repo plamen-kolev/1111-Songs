@@ -5,6 +5,40 @@
         "artist": "New Edition",
         "song": "Candy Girl",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=New%20Edition-Candy%20Girl"
+        "url": "https://www.youtube.com/results?search_query=New%20Edition-Candy%20Girl",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/huuqKCkk4UNUtbBZ-kfYpv7jpkg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qAFg2TQk9v0"
+            },
+            "snippet": {
+                "publishedAt": "2009-03-19T14:55:17.000Z",
+                "channelId": "UCW4wmRRvXt2n22asXdK1XyQ",
+                "title": "Candy Girl official video New Edition 1983",
+                "description": "Official Video (1983)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qAFg2TQk9v0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qAFg2TQk9v0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qAFg2TQk9v0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dakwa4life",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

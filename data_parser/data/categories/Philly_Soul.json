@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Phillybusters - The Sound of Philadelphia",
         "year": "(1973)",
-        "url": "https://www.youtube.com/results?search_query=Various-Phillybusters%20-%20The%20Sound%20of%20Philadelphia"
+        "url": "https://www.youtube.com/results?search_query=Various-Phillybusters%20-%20The%20Sound%20of%20Philadelphia",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/MpdxKl8K5SihcGe8dkka8K4Z--Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rxLCIsbmnUU"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-17T13:40:47.000Z",
+                "channelId": "UC5vmv3QqAPUKDV8jAFri1cg",
+                "title": "MFSB - TSOP (The Sound Of Philadelphia)",
+                "description": "Are You Experienced? Check Our My Other Channels. superbLPExperience The Superb LP Experience (Full Albums & CD's) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rxLCIsbmnUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rxLCIsbmnUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rxLCIsbmnUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "soulbrothanumbahone",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

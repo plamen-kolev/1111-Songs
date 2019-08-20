@@ -5,6 +5,40 @@
         "artist": "Digital Underground",
         "song": "Sex Packets",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Digital%20Underground-Sex%20Packets"
+        "url": "https://www.youtube.com/results?search_query=Digital%20Underground-Sex%20Packets",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/a7vyOH91BVQn0EoNA8js9mw9oTA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CmvUmu4TNd4"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-14T14:44:12.000Z",
+                "channelId": "UCnSR7_Oq-MdsZxfogsfk-Ug",
+                "title": "Digital Underground - Sex Packets",
+                "description": "Download/Stream - https://tommyboy.lnk.to/DigitalUndergroundTheHumptyDance Follow Our Official Spotify Playlist: https://tommyboy.lnk.to/PlaylistSpotify ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CmvUmu4TNd4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CmvUmu4TNd4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CmvUmu4TNd4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tommy Boy",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

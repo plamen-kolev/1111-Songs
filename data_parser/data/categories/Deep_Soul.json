@@ -5,6 +5,40 @@
         "artist": "Otis Redding",
         "song": "The Dock of the Bay - The Definitive Collection",
         "year": "(1987)",
-        "url": "https://www.youtube.com/results?search_query=Otis%20Redding-The%20Dock%20of%20the%20Bay%20-%20The%20Definitive%20Collection"
+        "url": "https://www.youtube.com/results?search_query=Otis%20Redding-The%20Dock%20of%20the%20Bay%20-%20The%20Definitive%20Collection",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/e-KCw7UJrPM81EvsAbbMITBj9DY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLBA39DCB92618BDFB"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-16T21:04:54.000Z",
+                "channelId": "UCn8K_QWS_AkRz9u97gRzgtg",
+                "title": "Otis redding: Definitive collection.",
+                "description": "4 when ur jus chillin...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UCmUhYSr-e4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UCmUhYSr-e4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UCmUhYSr-e4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lotti1765",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

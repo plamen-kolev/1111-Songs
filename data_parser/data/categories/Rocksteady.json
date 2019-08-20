@@ -5,6 +5,40 @@
         "artist": "Prince Buster",
         "song": "Fabulous Greatest Hits",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=Prince%20Buster-Fabulous%20Greatest%20Hits"
+        "url": "https://www.youtube.com/results?search_query=Prince%20Buster-Fabulous%20Greatest%20Hits",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ENXv-g5GFfcRnJDzm56iyyFvDRw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WyyA3b3Se0E"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-31T03:12:38.000Z",
+                "channelId": "UCLmhR6fBohibc6Y_KIa0ibQ",
+                "title": "PRINCE BUSTER- FABULOUS GREATEST HITS",
+                "description": "Prince Buster Music Voice of The People (King of Blue Beat) Facebook-https://www.facebook.com/princebusterska http://www.princebustermusicstore.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WyyA3b3Se0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WyyA3b3Se0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WyyA3b3Se0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Prince Buster Music Inc.\u00ae",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

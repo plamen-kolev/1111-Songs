@@ -5,6 +5,40 @@
         "artist": "The 2 Live Crew",
         "song": "Is What We Are",
         "year": "(1986)",
-        "url": "https://www.youtube.com/results?search_query=The%202%20Live%20Crew-Is%20What%20We%20Are"
+        "url": "https://www.youtube.com/results?search_query=The%202%20Live%20Crew-Is%20What%20We%20Are",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/VhMZgqhijqrhYtiDd1btvJWOUoQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XMP1nA8ZcmI"
+            },
+            "snippet": {
+                "publishedAt": "2008-12-11T04:45:51.000Z",
+                "channelId": "UCR3rKpkygmX7cVMQTPJIMRw",
+                "title": "2 Live Crew - 2 Live Is What We Are...(Word)",
+                "description": "This is a banging track off there first album 2 Live Crew....Is What We Are(1986)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XMP1nA8ZcmI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XMP1nA8ZcmI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XMP1nA8ZcmI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T-Bear The DJ *Back Up Page*",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

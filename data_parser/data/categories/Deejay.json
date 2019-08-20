@@ -5,6 +5,40 @@
         "artist": "U_Roy",
         "song": "Version Galore",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=U_Roy-Version%20Galore"
+        "url": "https://www.youtube.com/results?search_query=U_Roy-Version%20Galore",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AEl_zzM-mmYe9g-FqhznSfXpThU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jKr_aMXVego"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-13T07:23:13.000Z",
+                "channelId": "UCikHqiW7iVzwDOcLnSevD7w",
+                "title": "U Roy   Version Galore 1970   03   Version galore",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jKr_aMXVego/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jKr_aMXVego/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jKr_aMXVego/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "francus83",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

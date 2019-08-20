@@ -5,6 +5,40 @@
         "artist": "Donna Summer",
         "song": "I Feel Love - Can't We Just Sit Down (And Talk It Over)",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Donna%20Summer-I%20Feel%20Love%20-%20Can%26%23x27%3Bt%20We%20Just%20Sit%20Down%20%28And%20Talk%20It%20Over%29"
+        "url": "https://www.youtube.com/results?search_query=Donna%20Summer-I%20Feel%20Love%20-%20Can%26%23x27%3Bt%20We%20Just%20Sit%20Down%20%28And%20Talk%20It%20Over%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/V7Ej3HTbJ_ZbmDXL2vfGO98O3_Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PfBevnK1Nyw"
+            },
+            "snippet": {
+                "publishedAt": "2010-03-31T03:34:28.000Z",
+                "channelId": "UChlyntdcHB2VcfdTXzN5L7Q",
+                "title": "Can&#39;t We Just Sit Down (And Talk It Over) Donna Summer",
+                "description": "Taken from the album \"I Remember Yesterday\". All the rights are owned by Casablanca Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PfBevnK1Nyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PfBevnK1Nyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PfBevnK1Nyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "C\u00e9sar Cadavid Grajales",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

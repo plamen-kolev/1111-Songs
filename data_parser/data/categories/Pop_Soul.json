@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Motown - The Classic Years",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Various-Motown%20-%20The%20Classic%20Years"
+        "url": "https://www.youtube.com/results?search_query=Various-Motown%20-%20The%20Classic%20Years",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Z4tFA42m0ea_ifjXEhTU_BZrHqM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3NYdCSG_6ck"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-08T13:30:00.000Z",
+                "channelId": "UCOxHRtD2w0zX4f5sOB3XZnA",
+                "title": "Motown Greatest Hits Full Album \u266a\u10e6\u266b 100 Greatest Motown Songs \u266a\u10e6\u266b Motown Songs 60s 70s Hits",
+                "description": "Motown Greatest Hits Full Album \u266a\u10e6\u266b 100 Greatest Motown Songs \u266a\u10e6\u266b Motown Songs 60s 70s Hits.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3NYdCSG_6ck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3NYdCSG_6ck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3NYdCSG_6ck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Soul & Jazz & Blues Experience",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

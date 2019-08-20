@@ -5,6 +5,40 @@
         "artist": "Bob Andy",
         "song": "Song Book",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Bob%20Andy-Song%20Book"
+        "url": "https://www.youtube.com/results?search_query=Bob%20Andy-Song%20Book",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8DW72pARcFrhPkUm23uDcxorLTU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vNEkhtLjQsA"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-27T01:27:19.000Z",
+                "channelId": "UC0mxZwwlP4YaPKgNX6HGv1Q",
+                "title": "Bob Andy - BOB ANDY&#39;S SONG BOOK (full  album )studio 1 records ( 1972)",
+                "description": "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vNEkhtLjQsA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vNEkhtLjQsA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vNEkhtLjQsA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kingstoned - soundzz",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

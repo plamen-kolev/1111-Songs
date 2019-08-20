@@ -5,6 +5,40 @@
         "artist": "Parliament",
         "song": "Mothership Connection",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Parliament-Mothership%20Connection"
+        "url": "https://www.youtube.com/results?search_query=Parliament-Mothership%20Connection",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/P7Gda8r1dS7NeEhHCAv7FVqIQpo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sSERB93GYfw"
+            },
+            "snippet": {
+                "publishedAt": "2010-10-02T02:36:10.000Z",
+                "channelId": "UCXL7uaLoznkmxpg_n7Fj2fg",
+                "title": "Parliament - Mothership Connection",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sSERB93GYfw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sSERB93GYfw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sSERB93GYfw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "rossrec",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

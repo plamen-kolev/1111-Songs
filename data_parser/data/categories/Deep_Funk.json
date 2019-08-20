@@ -5,6 +5,40 @@
         "artist": "The Meters",
         "song": "The Meters",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=The%20Meters-The%20Meters"
+        "url": "https://www.youtube.com/results?search_query=The%20Meters-The%20Meters",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xYqzFFxu2oNT8uEAyxTKT0ApyAs\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLMYJI0hHMCKJDvgUgUVsKolDOBvT3dgYN"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-16T14:14:44.000Z",
+                "channelId": "UCztYc-dUddd17PjaGWhBxRg",
+                "title": "The Meters - The meters 1969",
+                "description": "Funk Group Art Neville - organ, keyboards Ziggy Modeliste - drums Leo Nocentelli - guitar, vocals George Porter, Jr. - bass guitar.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z0uGFljLSvM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z0uGFljLSvM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z0uGFljLSvM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Universalmusic2012",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

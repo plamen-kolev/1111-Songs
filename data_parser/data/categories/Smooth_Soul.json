@@ -5,6 +5,40 @@
         "artist": "Dionne Warwick",
         "song": "The Windows of the World",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=Dionne%20Warwick-The%20Windows%20of%20the%20World"
+        "url": "https://www.youtube.com/results?search_query=Dionne%20Warwick-The%20Windows%20of%20the%20World",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/huZEnD41bX2e5TNGTdmabE39jTM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jjNNijd4t0Q"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-23T23:56:13.000Z",
+                "channelId": "UCJ-pedMVwpO8OKzDWhmLaQA",
+                "title": "Dionne Warwick - The Windows of The World (Burt Bacharach)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jjNNijd4t0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jjNNijd4t0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jjNNijd4t0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jack O'Lantern",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

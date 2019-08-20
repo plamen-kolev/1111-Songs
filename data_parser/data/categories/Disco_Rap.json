@@ -5,6 +5,40 @@
         "artist": "Sugarhill Gang",
         "song": "Rapper's Delight",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Sugarhill%20Gang-Rapper%26%23x27%3Bs%20Delight"
+        "url": "https://www.youtube.com/results?search_query=Sugarhill%20Gang-Rapper%26%23x27%3Bs%20Delight",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/f1WHwihONOI5sKmse4W8mAkcHSg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rKTUAESacQM"
+            },
+            "snippet": {
+                "publishedAt": "2010-10-20T13:45:14.000Z",
+                "channelId": "UCcNHy_hTn_Pa0UYcwGXzkew",
+                "title": "The Sugar Hill Gang - Rapper&#39;s Delight ( HQ, Full Version )",
+                "description": "The title says it all, enjoy the music. :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rKTUAESacQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rKTUAESacQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rKTUAESacQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dutchmanmm",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

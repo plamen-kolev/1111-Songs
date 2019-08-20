@@ -5,6 +5,40 @@
         "artist": "Chuck Brown & The Soul Searchers",
         "song": "Bustin' Loose",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Chuck%20Brown%20%26amp%3B%20The%20Soul%20Searchers-Bustin%26%23x27%3B%20Loose"
+        "url": "https://www.youtube.com/results?search_query=Chuck%20Brown%20%26amp%3B%20The%20Soul%20Searchers-Bustin%26%23x27%3B%20Loose",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/CJkeitAPoUV52sZjwfkyi8jJ9k8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wwHi10qX8u8"
+            },
+            "snippet": {
+                "publishedAt": "2008-09-04T07:08:09.000Z",
+                "channelId": "UC66voc_jebw6dwi8sf4KhAg",
+                "title": "CHUCK BROWN &amp; THE SOUL SEARCHERS, BUSTIN&#39; LOOSE",
+                "description": "CHUCK BROWN & THE SOUL SEARCHERS, BUSTIN' LOOSE FROM THE 1978 LP BUSTIN' LOOSE,SOURCE RECORDS.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wwHi10qX8u8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wwHi10qX8u8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wwHi10qX8u8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SMOTH1PRODUCTIONS",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Various Artsists",
         "song": "Dancehall - The Rise of Jamaican Dancehall Culture",
         "year": "(1977-1993)",
-        "url": "https://www.youtube.com/results?search_query=Various%20Artsists-Dancehall%20-%20The%20Rise%20of%20Jamaican%20Dancehall%20Culture"
+        "url": "https://www.youtube.com/results?search_query=Various%20Artsists-Dancehall%20-%20The%20Rise%20of%20Jamaican%20Dancehall%20Culture",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/s-owEUwmqB-qNrK_4uCGE1feSlM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j4rGbYT3Z0I"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-15T19:41:46.000Z",
+                "channelId": "UCd4VZ1RwfwHt7yj6tbuXRTQ",
+                "title": "Reggie Stepper- Cu-oonuh (Stalag riddim)",
+                "description": "Original track take from: Dancehall 'The Rise of Jamaican Dancehall Culture released on Soul Jazz Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j4rGbYT3Z0I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j4rGbYT3Z0I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j4rGbYT3Z0I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roots Sensation",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

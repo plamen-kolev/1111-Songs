@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Latin Funk - Nu Yorican Funk",
         "year": "(1968-1976)",
-        "url": "https://www.youtube.com/results?search_query=Various-Latin%20Funk%20-%20Nu%20Yorican%20Funk"
+        "url": "https://www.youtube.com/results?search_query=Various-Latin%20Funk%20-%20Nu%20Yorican%20Funk",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/uby62foBaO_tspesFeWpV93Gjj0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLQdBWp4EYvpxdeIVKHPQ00ej1Kq6pPK33"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-04T11:27:26.000Z",
+                "channelId": "UCeYEw1STeTb2QkkPlXBUoDQ",
+                "title": "Nuyorican Funk Experience",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fRwUmncz-vs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fRwUmncz-vs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fRwUmncz-vs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Erica Duncan",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

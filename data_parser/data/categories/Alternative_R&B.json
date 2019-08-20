@@ -5,7 +5,41 @@
         "artist": "Jamie Woon",
         "song": "Mirrorwriting",
         "year": "(2011)",
-        "url": "https://www.youtube.com/results?search_query=Jamie%20Woon-Mirrorwriting"
+        "url": "https://www.youtube.com/results?search_query=Jamie%20Woon-Mirrorwriting",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Bm_PPIEHCBGMw6HQXpPIb_2kIQk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7AA7D6C2E353FD49"
+            },
+            "snippet": {
+                "publishedAt": "2011-05-31T15:44:15.000Z",
+                "channelId": "UCSEQNgycpf8ZiePBqGz5Usg",
+                "title": "Jamie Woon - Mirrorwriting (album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CLH9pChztEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CLH9pChztEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CLH9pChztEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "leinnno",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 749,
@@ -13,6 +47,40 @@
         "artist": "FKA twigs",
         "song": "LP1",
         "year": "(2014)",
-        "url": "https://www.youtube.com/results?search_query=FKA%20twigs-LP1"
+        "url": "https://www.youtube.com/results?search_query=FKA%20twigs-LP1",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ZBHtw_g66gWhy_JOOfxLDdJQSSg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLozpaYM0S8D42xuFbWBl7-8xF4sw2qJxL"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-13T20:57:44.000Z",
+                "channelId": "UCQW-Ad0KSUb4_NueCsJ71vA",
+                "title": "FKA TWIGS LP1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FgErH86Jwkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FgErH86Jwkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FgErH86Jwkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jackie Tran",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

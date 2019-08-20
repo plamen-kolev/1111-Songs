@@ -5,6 +5,40 @@
         "artist": "Too $hort",
         "song": "Short Dog's in the House",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Too%20%24hort-Short%20Dog%26%23x27%3Bs%20in%20the%20House"
+        "url": "https://www.youtube.com/results?search_query=Too%20%24hort-Short%20Dog%26%23x27%3Bs%20in%20the%20House",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/fyyp7BvZzYKj0plDdJY7OBRip70\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zp5F0WJqwzg"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-20T19:57:09.000Z",
+                "channelId": "UCKqPWv2r_XlZhmy2bgCtNfA",
+                "title": "Too $hort - Short Dog&#39;s in the House (1990) Full Album",
+                "description": "1. Short Dog's in the House 6:02 2. It's Your Life too 4:48 3. The Ghetto 5:59 4. Short But Funky 4:13 5. In tha Oaktown Shaw 4:38 6. Dead or Alive 5:46 7.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zp5F0WJqwzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zp5F0WJqwzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zp5F0WJqwzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Old-School music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

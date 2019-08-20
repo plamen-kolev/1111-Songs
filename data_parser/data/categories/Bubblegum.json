@@ -5,6 +5,40 @@
         "artist": "The Partridge Family",
         "song": "Sound Magazine",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=The%20Partridge%20Family-Sound%20Magazine"
+        "url": "https://www.youtube.com/results?search_query=The%20Partridge%20Family-Sound%20Magazine",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/gTBEInGSy1cDQPKaR6K7Jt3TGpg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GgsvIklSjjU"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-13T12:59:50.000Z",
+                "channelId": "UCSJziUNd6u-NZv6lDNv5NdA",
+                "title": "The Partridge Family - Sound Magazine (Album 1971)",
+                "description": "The Partridge Family - Sound Magazine Produced by Wes Farrell String and horns arranged by Mike Melvoin Vocal arranged by John Bahler David Cassidy and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GgsvIklSjjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GgsvIklSjjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GgsvIklSjjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "haru oh",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

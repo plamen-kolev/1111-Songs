@@ -5,7 +5,41 @@
         "artist": "The Orioles",
         "song": "Sing Their Greatest Hits",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=The%20Orioles-Sing%20Their%20Greatest%20Hits"
+        "url": "https://www.youtube.com/results?search_query=The%20Orioles-Sing%20Their%20Greatest%20Hits",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5crOU11pCwUVo-OWqiIorrfGcKM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "43KYOtKR1fI"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-25T12:02:09.000Z",
+                "channelId": "UCpXa3VNXoGHBQZPl3BTexgA",
+                "title": "THE ORIOLES - &quot;IT&#39;S TOO SOON TO KNOW&quot;  (1948)",
+                "description": "The Orioles were a successful and influential American R&B group of the late 1940s and early 1950s, one of the earliest such vocal groups who established the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/43KYOtKR1fI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/43KYOtKR1fI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/43KYOtKR1fI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MANNY MORA",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 706,
@@ -13,6 +47,40 @@
         "artist": "Various",
         "song": "Street Corner Serenade - The Greatest Doo Wop of the '50s and '60s",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Various-Street%20Corner%20Serenade%20-%20The%20Greatest%20Doo%20Wop%20of%20the%20%26%23x27%3B50s%20and%20%26%23x27%3B60s"
+        "url": "https://www.youtube.com/results?search_query=Various-Street%20Corner%20Serenade%20-%20The%20Greatest%20Doo%20Wop%20of%20the%20%26%23x27%3B50s%20and%20%26%23x27%3B60s",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/bWk1DPQXO0u0mgSqW_Gs6C_wewY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "245DkH-sIXI"
+            },
+            "snippet": {
+                "publishedAt": "2013-01-06T01:03:57.000Z",
+                "channelId": "UCAsQAE2mK2ONuLY6CYNF2ag",
+                "title": "WET WILLIE Street Corner Serenade",
+                "description": "A rare gem, for me anyway, is this early 1978 hit by the American pop band Wet Willie. Best known for their 1974 hit 'Keep on Smiling', the band released ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/245DkH-sIXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/245DkH-sIXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/245DkH-sIXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "daveinprogress3",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

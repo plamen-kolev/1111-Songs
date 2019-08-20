@@ -5,6 +5,40 @@
         "artist": "L. Brothers vs. Herculords",
         "song": "Bronx River Centre",
         "year": "(1978)",
-        "url": "https://www.youtube.com/results?search_query=L.%20Brothers%20vs.%20Herculords-Bronx%20River%20Centre"
+        "url": "https://www.youtube.com/results?search_query=L.%20Brothers%20vs.%20Herculords-Bronx%20River%20Centre",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_lJpeQiccQbxhGBE_n9l08-EaZk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FH16bebcSas"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-30T13:19:07.000Z",
+                "channelId": "UCavmnjrKvmVTFVV46g0NP0w",
+                "title": "L Brothes vs The Herculoids - Bronx River Centre 1978",
+                "description": "L Brothes vs The Herculoids - Bronx River Centre 1978 (RESTORED AsBestAsPossible) Classic breaks back to back with classic battle raps. An early example ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FH16bebcSas/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FH16bebcSas/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FH16bebcSas/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tape Deck Wreck",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

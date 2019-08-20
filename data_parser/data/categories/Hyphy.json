@@ -5,6 +5,40 @@
         "artist": "Mac Dre",
         "song": "Ronald Dregan - Dreganomics",
         "year": "(2004)",
-        "url": "https://www.youtube.com/results?search_query=Mac%20Dre-Ronald%20Dregan%20-%20Dreganomics"
+        "url": "https://www.youtube.com/results?search_query=Mac%20Dre-Ronald%20Dregan%20-%20Dreganomics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/k97DYALKSfwPnt4JfVHEp812kms\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kuCRUgGkR_g"
+            },
+            "snippet": {
+                "publishedAt": "2010-06-25T18:46:14.000Z",
+                "channelId": "UCEkrah8urWtqotXGJScJabw",
+                "title": "Mac Dre - Dreganomics",
+                "description": "From the album 'Ronald Dregan: Dreganomics'",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kuCRUgGkR_g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kuCRUgGkR_g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kuCRUgGkR_g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VitiareVideos",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

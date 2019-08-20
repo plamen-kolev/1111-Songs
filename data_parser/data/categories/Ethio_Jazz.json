@@ -5,6 +5,40 @@
         "artist": "Mulatu Astatke",
         "song": "New York - Addis - London - The Story of Ethio Jazz",
         "year": "(1965-1975)",
-        "url": "https://www.youtube.com/results?search_query=Mulatu%20Astatke-New%20York%20-%20Addis%20-%20London%20-%20The%20Story%20of%20Ethio%20Jazz"
+        "url": "https://www.youtube.com/results?search_query=Mulatu%20Astatke-New%20York%20-%20Addis%20-%20London%20-%20The%20Story%20of%20Ethio%20Jazz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/P7GVhCwlqV2-SDJjDL8GRVVkiwQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL_M2n7gIG0adJMonuDypTlwvw66KwF0uc"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-21T19:39:21.000Z",
+                "channelId": "UCqtAJ49V31ZF3QXM1cFsi7A",
+                "title": "Mulatu Astatke \u200e\u2013 New York - Addis - London - The Story Of Ethio Jazz 1965-1975 (2009)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejgpiWZHH34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejgpiWZHH34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejgpiWZHH34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dimmer K.",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

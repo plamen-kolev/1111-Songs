@@ -5,7 +5,41 @@
         "artist": "Wes Montgomery",
         "song": "A Day in the Life",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=Wes%20Montgomery-A%20Day%20in%20the%20Life"
+        "url": "https://www.youtube.com/results?search_query=Wes%20Montgomery-A%20Day%20in%20the%20Life",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/MjWDztbYtSEDsw7anplKSN_syrQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sjHiSePn1ts"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-07T17:21:31.000Z",
+                "channelId": "UCNn7wyFjbDFgYiLoYkgy8Cw",
+                "title": "Wes Montgomery  A Day In The Life",
+                "description": "LP \"A day in the Life\" A&M records www.grooveaddict.org.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sjHiSePn1ts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sjHiSePn1ts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sjHiSePn1ts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "groove addict",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 686,
@@ -13,7 +47,41 @@
         "artist": "Ramsey Lewis",
         "song": "Maiden Voyage",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=Ramsey%20Lewis-Maiden%20Voyage"
+        "url": "https://www.youtube.com/results?search_query=Ramsey%20Lewis-Maiden%20Voyage",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ijefb2ni5pG0vWZDIYObRAceKJ0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yka6o3gLqZY"
+            },
+            "snippet": {
+                "publishedAt": "2010-08-13T16:38:59.000Z",
+                "channelId": "UCEB6rHdtwPHu3pizNEZFTUw",
+                "title": "Ramsey Lewis - Maiden Voyage",
+                "description": "Ramsey Lewis plays his beautiful rendition of a Herbie Hancock composition. With Cleveland Eaton on bass, Maurice White (vocalist from Earth Wind and Fire) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yka6o3gLqZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yka6o3gLqZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yka6o3gLqZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrDmc44111",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 687,
@@ -21,7 +89,41 @@
         "artist": "Grover Washington, Jr.",
         "song": "Mister Magic",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Grover%20Washington%2C%20Jr.-Mister%20Magic"
+        "url": "https://www.youtube.com/results?search_query=Grover%20Washington%2C%20Jr.-Mister%20Magic",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Yq06Se1MTN3endsO86TyJQpQVOg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2Jvdy6khEmA"
+            },
+            "snippet": {
+                "publishedAt": "2009-09-24T16:26:33.000Z",
+                "channelId": "UCnA_y7mOh3MF1aG-mxx_SCQ",
+                "title": "Grover Washington, Jr.  Mister Magic",
+                "description": "Old school is definitely in da house with this classic from 1976. To you young folks out there on Youtube, this is what excellent music is ALL about!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Jvdy6khEmA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Jvdy6khEmA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Jvdy6khEmA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "T.L. Davis",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 688,
@@ -29,7 +131,41 @@
         "artist": "Chuck Mangione",
         "song": "Feels So Good",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Chuck%20Mangione-Feels%20So%20Good"
+        "url": "https://www.youtube.com/results?search_query=Chuck%20Mangione-Feels%20So%20Good",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/JueHBGaCXnUBFq6E89bkum5jwko\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NDSBV0vTfTo"
+            },
+            "snippet": {
+                "publishedAt": "2015-02-08T06:03:59.000Z",
+                "channelId": "UC2r6XTSzbs0qOoZXmJznZQg",
+                "title": "Chuck Mangione - Feels So Good HQ (12&quot; Remastered )",
+                "description": "LP Remastered in highest sound quality 48.000 kHz / 32 bit Float,,, very good quality treble,,,,,I hope you enjoy this classic song of this excellent artist,,,,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NDSBV0vTfTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NDSBV0vTfTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NDSBV0vTfTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "eduardo diaz",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 689,
@@ -37,6 +173,40 @@
         "artist": "Kenny G.",
         "song": "Kenny G.",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Kenny%20G.-Kenny%20G."
+        "url": "https://www.youtube.com/results?search_query=Kenny%20G.-Kenny%20G.",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/zz2yihI1BcoR6ZVauhtOVwQG94o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "74Y0Zc8gaeQ"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-29T18:44:18.000Z",
+                "channelId": "UC-daN73M3B8p_nyzTlckRKg",
+                "title": "Kenny G Greatest Hits || The Best Of Kenny G || Instrumental Music",
+                "description": "Kenny G Greatest Hits Track List: 01. The Moment 02. Forever In Love 03. Songbird 04. Sentimental 05. The Wedding Song 06. Silhouette 07. Havana 08.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/74Y0Zc8gaeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/74Y0Zc8gaeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/74Y0Zc8gaeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Enjoy Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

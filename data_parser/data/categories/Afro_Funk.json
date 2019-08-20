@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "African Scream Contest - Raw & Psychedelic Afro Sounds from Benin & Togo",
         "year": "(2008)",
-        "url": "https://www.youtube.com/results?search_query=Various-African%20Scream%20Contest%20-%20Raw%20%26amp%3B%20Psychedelic%20Afro%20Sounds%20from%20Benin%20%26amp%3B%20Togo"
+        "url": "https://www.youtube.com/results?search_query=Various-African%20Scream%20Contest%20-%20Raw%20%26amp%3B%20Psychedelic%20Afro%20Sounds%20from%20Benin%20%26amp%3B%20Togo",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/nvmbC3yz_ZGJk7rRo3Rserki1vQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLAT4BYuk_sA9F2HhSo57_2aNlpl2sH822"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-19T20:22:25.000Z",
+                "channelId": "UCBzAoE1ywiehZ0UFP13VJbQ",
+                "title": "African Scream Contest: Raw & Psychedelic Afro Sounds from Benin & Togo 70s",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OEAt2118o0w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OEAt2118o0w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OEAt2118o0w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheCrossfireBKGC",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -11,7 +11,6 @@ def write_error_to_file(data):
 def enrich_song(song_json):
     if "enriched" not in song_json:
         song_json['enriched'] = True
-        print("enriching %s" % song_json.get('song'))
         search_term = "%s %s" % (song_json.get('song'), song_json.get('artist'))
         data_from_youtube = youtube_service.get_youtube_play_info(search_term)
         if not data_from_youtube:
