@@ -21,7 +21,7 @@ export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}:
     if(youtube && youtube.id && youtube.id.kind) {
         switch(youtube.id.kind) {
             case "youtube#video":
-                source = `https://www.youtube.com/embed/${youtube.id.videoId}`;
+                source = `https://www.youtube.com/embed/${youtube.id.videoId}?autoplay=${autoplayValue}`;
                 break;
             case "youtube#playlist":
                 source = `https://www.youtube.com/embed/videoseries?list=${youtube.id.playlistId}`;
@@ -36,7 +36,7 @@ export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}:
         iframe = (<iframe
             title={title}
             height={"100%"}
-            src={`${source}?autoplay=${autoplayValue}`}
+            src={source}
             frameBorder="0"
             allow="autoplay; encrypted-media; picture-in-picture"
             allowFullScreen

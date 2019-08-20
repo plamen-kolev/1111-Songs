@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Icon } from 'semantic-ui-react'
+import {Card, Icon, Popup} from 'semantic-ui-react'
 import { YoutubeInterface } from '../../utils'
 import { IframeProps } from './Iframe';
 
@@ -32,6 +32,10 @@ export const Song = ({enriched, youtube, artist, song, click, genre, url}: SongP
                 <Card.Description className="song-card-meta">
                     {isEnriched && <Icon name="sound"/>}
                     {genre}
+
+                    {youtube && youtube.id.kind === "youtube#playlist" &&
+                    <Popup content='Playlists cannot be autoplayed yet' trigger={<Icon color="red" name="question circle"/>} />}
+
                 </Card.Description>
             </Card.Content>
         </Card>
