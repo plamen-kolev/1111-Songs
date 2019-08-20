@@ -21,6 +21,7 @@ export class App extends React.Component {
         this.setState({
             currentSong: song,
         });
+        console.log("settings state to song: ", song)
     };
 
     toggleAutoplay = (e) => {
@@ -33,7 +34,6 @@ export class App extends React.Component {
                 <Grid className="ui grid iframe-container">
                     <Grid.Column extra className="menu-container" width={16}>
                         <Menu>
-                            <Menu.Item name='editorials'><Button>Random Song</Button></Menu.Item>
                             <Menu.Item name='editorials'><Checkbox onChange={(e) => this.toggleAutoplay("enabled")} toggle label='Autoplay'/></Menu.Item>
                         </Menu>
                     </Grid.Column>
