@@ -19,9 +19,10 @@ class TestEnrich(TestCase):
     # purpose of this test is to see that all entries exist and that the last and first entries exist
     @unittest.mock.patch("src.programs.add_youtube_links_to_songs.enrich")
     def test_main_method_is_dispatching(self, mock_enrich):
+        totalSongs = 1110
         main(realJsonData)
 
-        self.assertEqual(1111, mock_enrich.call_count)
+        self.assertEqual(1110, mock_enrich.call_count)
         self.assertEqual(realJsonData['entries']['Prehistoric'][0], mock_enrich.call_args_list[0][0][0])
         self.assertEqual(realJsonData['entries']['Sumerian'][0], mock_enrich.call_args_list[1][0][0])
-        self.assertEqual(realJsonData['entries']['Animal Music'][0], mock_enrich.call_args_list[1110][0][0])
+        self.assertEqual(realJsonData['entries']['Animal Music'][0], mock_enrich.call_args_list[totalSongs][0][0])

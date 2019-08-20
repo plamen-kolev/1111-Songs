@@ -3,7 +3,7 @@ import './App.css';
 import { Iframe } from './components/song/Iframe';
 import { SongWrapper } from './components/song/SongWrapper';
 import ReactGA from 'react-ga';
-import {Button, Checkbox, Grid, Menu} from "semantic-ui-react";
+import {Checkbox, Grid, Menu} from "semantic-ui-react";
 
 ReactGA.initialize('UA-89618080-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
