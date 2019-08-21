@@ -1,6 +1,6 @@
 import React from 'react';
 import genresList from '../../data/categories_lookup.json';
-import {Button, Grid, Menu} from 'semantic-ui-react'
+import {Segment} from 'semantic-ui-react'
 import { SongLoading } from './SongLoading'
 import { Song } from './Song';
 import LazyLoad from 'react-lazyload';
@@ -37,7 +37,7 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
         const randomGenreIndex = Math.floor(Math.random() * (genresForRandomPlay.length));
         const randomGenre = require(`../../data/categories/${genresForRandomPlay[randomGenreIndex]}`);
         const randomSong =  randomGenre[Math.floor(Math.random() * randomGenre.length)];
-        console.log(randomSong);
+
         this.props.onSongClick({
             url: randomSong.url,
             title: `${randomSong.artist} - ${randomSong.song}`,
@@ -69,22 +69,16 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
     render() {
         return (
             <React.Fragment>
-                <Menu>
-                    <Menu.Item name='editorials'><Button onClick={this.playRandomSong}>Random Song</Button></Menu.Item>
-                </Menu>
-                <Grid centered grid className="overflow song-card-container">
                 {this.state.songs.map((song: JsonSong) => (
-                    <Grid.Column key={song.url}  mobile={6} tablet={4} computer={4} largeScreen={2} widescreen={2}>
-                        <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
-                            <Song click={this.props.onSongClick} {...song}/>
-                        </LazyLoad>
-                    </Grid.Column>
+                    <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
+                        <Song click={this.props.onSongClick} {...song}/>
+                    </LazyLoad>
                 ))}
                     <Visibility
                         continuous={true}
                         onBottomVisible={() => this.addMoreSongs()}
+                        offset={100}
                     />
-                </Grid>
             </React.Fragment>
-    )}
+        )}
 }

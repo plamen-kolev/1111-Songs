@@ -21,18 +21,4 @@ export type JsonSong = {
 
 type JsonBlob = {
   [key: string]: JsonSong[];
-} 
-
-export const getAllSongs = (data: any) => {
-    const json: JsonBlob = data.default.entries
-    let songs: JsonSong[] = [];
-    
-    const genres: string[] = Object.keys(json);
-    genres.forEach((genre: string) => {
-
-      json[genre].forEach((song: JsonSong) => {
-        songs.push(song);
-      })
-    })
-    return songs;
-};
+}
