@@ -1,59 +1,62 @@
-import React from 'react';
-import { SongLoading } from './SongLoading'
-import { Song } from './Song';
-import LazyLoad from 'react-lazyload';
-import { IframeProps } from 'components/song/Iframe';
-import {getMoreSongs, JsonSong, playRandomSong} from '../../utils'
+import { IIframeProps } from "components/song/Iframe";
+import React from "react";
+import { Grid } from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-import { Grid, Segment } from 'semantic-ui-react';
+import {getMoreSongs, IJsonSong, playRandomSong} from "../../utils";
+import { Song } from "./Song";
 
-type SongWrapperProps = {
-    onSongClick(iframeData: IframeProps): void
+interface ISongWrapperProps {
+    onSongClick(iframeData: IIframeProps): void;
 }
 
-export class SongWrapper extends React.Component<SongWrapperProps, { songs: JsonSong[] }> {
-    constructor(props: SongWrapperProps, state: any) {
+export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJsonSong[] }> {
+    constructor(props: ISongWrapperProps, state: any) {
         super(props, state);
         this.state = {
-            songs: []
+            songs: [],
         };
     }
 
-    shouldComponentUpdate(nextProps: Readonly<SongWrapperProps>, nextState: Readonly<{ songs: JsonSong[] }>, nextContext: any): boolean {
+    public shouldComponentUpdate(
+        nextProps: Readonly<ISongWrapperProps>,
+        nextState: Readonly<{ songs: IJsonSong[] }>,
+        nextContext: any): boolean {
         return !(this.state.songs === nextState.songs);
     }
 
-    componentDidMount(): void {
+    public componentDidMount(): void {
         this.addMoreSongs();
     }
 
-    playRandomSong = () => {
+    public playRandomSong = () => {
         const randomSong = playRandomSong();
 
         this.props.onSongClick({
-            url: randomSong.url,
             title: `${randomSong.artist} - ${randomSong.song}`,
+            url: randomSong.url,
             youtube: randomSong.youtube,
-        })
-    };
+        });
+    }
 
-    addMoreSongs = () => {
+    public addMoreSongs = () => {
         this.setState({
-            songs: this.state.songs.concat(getMoreSongs())
-        })
-    };
-    render() {
-        console.log("songwrapper rerendered");
+            songs: this.state.songs.concat(getMoreSongs()),
+        });
+    }
+    public render() {
         return (
-            <Grid>
-                {this.state.songs.map((song: JsonSong) => (
-                    <Song key={song.url} click={this.props.onSongClick} {...song}/>
+            <Grid container centered>
+                {this.state.songs.map((song: IJsonSong) => (
+                    <Grid.Column mobile={8} tablet={4} computer={4} largeScreen={4} widescreen={2}>
+                        <Song key={song.url} click={this.props.onSongClick} {...song}/>
+                    </Grid.Column>
                 ))}
+
                 <Visibility
                     continuous={true}
                     onBottomVisible={() => this.addMoreSongs()}
-                    offset={100}
+                    offset={-100}
                 />
             </Grid>
-        )}
+        ); }
 }

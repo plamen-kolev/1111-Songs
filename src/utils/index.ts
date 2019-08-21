@@ -3,29 +3,25 @@ import genresList from "../data/categories_lookup.json";
 genresList.sort(() => Math.random() - 0.5);
 const genresForRandomPlay = genresList;
 
-type YoutubeId = {
-  kind: string,
-  playlistId?: string,
-  videoId?: string
+interface IYoutubeId {
+  kind: string;
+  playlistId?: string;
+  videoId?: string;
 }
 
-export type YoutubeInterface = {
-  snippet: any,
-  id: YoutubeId
+export interface IYoutubeInterface {
+  snippet: any;
+  id: IYoutubeId;
 }
 
-export type JsonSong = {
-  unique_id: string,
-  genre: string,
-  artist: string,
-  song: string,
-  url: string,
-  enriched: boolean,
-  youtube: YoutubeInterface
-}
-
-type JsonBlob = {
-  [key: string]: JsonSong[];
+export interface IJsonSong {
+  unique_id: string;
+  genre: string;
+  artist: string;
+  song: string;
+  url: string;
+  enriched: boolean;
+  youtube: IYoutubeInterface;
 }
 
 const chunksToLoad = 24;
@@ -36,10 +32,10 @@ const chunksToLoad = 24;
 // const songsToAppend = songs.splice(0, chunksToLoad);
 
 export const getMoreSongs = () => {
-  let songs: JsonSong[] = [];
+  let songs: IJsonSong[] = [];
   for (let i = 0; i < chunksToLoad; i++) {
     const filename = genresList.pop();
-    if(!filename) {
+    if (!filename) {
       break;
     }
     const foo = require(`../data/categories/${filename}`);

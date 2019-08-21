@@ -1,25 +1,25 @@
-import React from 'react';
+import React from "react";
+import { IYoutubeInterface } from "../../utils";
 import { IframeSubstitute } from "./IframeSubstitute";
-import { YoutubeInterface } from '../../utils'
 
 let iframe;
 
-export type IframeProps = {
-    url: string,
-    title: string,
-    autoplay?: boolean,
-    youtube: YoutubeInterface
+export interface IIframeProps {
+    url: string;
+    title: string;
+    autoplay?: boolean;
+    youtube: IYoutubeInterface;
 }
 
-const hasComponentChanged = (currentProps: IframeProps, nextProps: IframeProps) => {
-    return (currentProps.youtube === nextProps.youtube && currentProps.url === nextProps.url)
+const hasComponentChanged = (currentProps: IIframeProps, nextProps: IIframeProps) => {
+    return (currentProps.youtube === nextProps.youtube && currentProps.url === nextProps.url);
 };
 
-export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}: IframeProps) => {
+export const Iframe = React.memo<IIframeProps>((({url, youtube, title, autoplay}: IIframeProps) => {
     const autoplayValue = autoplay ? 1 : 0;
     let source;
-    if(youtube && youtube.id && youtube.id.kind) {
-        switch(youtube.id.kind) {
+    if (youtube && youtube.id && youtube.id.kind) {
+        switch (youtube.id.kind) {
             case "youtube#video":
                 source = `https://www.youtube.com/embed/${youtube.id.videoId}?autoplay=${autoplayValue}`;
                 break;
@@ -30,8 +30,8 @@ export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}:
                 break;
         }
     }
-    if(!source) {
-        iframe = (<IframeSubstitute title={title} url={url}/>)
+    if (!source) {
+        iframe = (<IframeSubstitute title={title} url={url}/>);
     } else {
         iframe = (<iframe
             title={title}
@@ -41,12 +41,12 @@ export const Iframe = React.memo<IframeProps>((({url, youtube, title, autoplay}:
             allow="autoplay; encrypted-media; picture-in-picture"
             allowFullScreen
         >
-        </iframe>)
+        </iframe>);
     }
 
     return (
         <React.Fragment>
             {iframe}
         </React.Fragment>
-    )
+    );
 }), hasComponentChanged);

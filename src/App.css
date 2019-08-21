@@ -24,15 +24,19 @@
 }
 
 .iframe-music-player{
-    min-height: 200px;
+    min-height: 100px;
 }
 
 .iframe-container {
   width: 100%;
 }
 
+.song-card {
+  width:100%;
+}
+
 .song-card-container {
-  height: 400px;
+  height: 450px;
 }
 
 .song-card-container .song-card {

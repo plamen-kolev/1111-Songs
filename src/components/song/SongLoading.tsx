@@ -1,5 +1,5 @@
-import React from 'react';
-import { Dimmer, Loader, Card, Placeholder } from 'semantic-ui-react'
+import React from "react";
+import { Card, Dimmer, Loader, Placeholder } from "semantic-ui-react";
 
 export const SongLoading = () => {
     return (
@@ -18,6 +18,6 @@ export const SongLoading = () => {
                 </Card.Description>
             </Card.Content>
         </Card>
-    
-    )
-}
+
+    );
+};
