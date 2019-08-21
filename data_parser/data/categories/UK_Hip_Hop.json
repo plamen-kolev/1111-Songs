@@ -5,6 +5,40 @@
         "artist": "Stereo MC's",
         "song": "Supernatural",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Stereo%20MC%26%23x27%3Bs-Supernatural"
+        "url": "https://www.youtube.com/results?search_query=Stereo%20MC%26%23x27%3Bs-Supernatural",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Dx0cybU1UqbT4PHwt-oHWEDA1PA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLrYc39JLDHpEfjAPhRARm7zYnOJjenBXg"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-31T21:47:51.000Z",
+                "channelId": "UCahFASdZhibCOMJL3l74Gbg",
+                "title": "stereo mc's supernatural",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UeaVAiyQlms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UeaVAiyQlms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UeaVAiyQlms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "charlie imago",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

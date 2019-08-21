@@ -5,6 +5,40 @@
         "artist": "Repulsion",
         "song": "Horrified",
         "year": "(1986)",
-        "url": "https://www.youtube.com/results?search_query=Repulsion-Horrified"
+        "url": "https://www.youtube.com/results?search_query=Repulsion-Horrified",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/-Cp85Og-nITHOsGxTi9c9t5SvE4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KiHl-Px8fig"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-30T01:17:20.000Z",
+                "channelId": "UC6t9i5-lZo383kOJxYJVpwA",
+                "title": "Repulsion-Horrifed (full album)",
+                "description": "What can I say that hasn't already been said about this album. Definately influencial on Death Metal and Grindcore acts such as Entomed, Carcass, Cannibal ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KiHl-Px8fig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KiHl-Px8fig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KiHl-Px8fig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Punk93Metal",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "The Grateful Dead",
         "song": "Live - Dead",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=The%20Grateful%20Dead-Live%20-%20Dead"
+        "url": "https://www.youtube.com/results?search_query=The%20Grateful%20Dead-Live%20-%20Dead",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5U678bfbycc35-uqXFIkCUuDsCU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zzi8yMBvNXA"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-02T18:15:12.000Z",
+                "channelId": "UC9TOJlW5ZLaiWdMjAUoTpqQ",
+                "title": "Living Dead [Grateful Dead --1969]",
+                "description": "01. Morning Dew - 00:00 * 02. Good Morning Little Schoolgirl - 11:04 * 03. Doin' That Rag - 22:04 * 04. I'm A King Bee - 29:00 * 05. Turn On Your Lovelight ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zzi8yMBvNXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zzi8yMBvNXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zzi8yMBvNXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "arghdos",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "M\u00f6tley Cr\u00fce",
         "song": "Too Fast for Love",
         "year": "(1981)",
-        "url": "https://www.youtube.com/results?search_query=M%C3%B6tley%20Cr%C3%BCe-Too%20Fast%20for%20Love"
+        "url": "https://www.youtube.com/results?search_query=M%C3%B6tley%20Cr%C3%BCe-Too%20Fast%20for%20Love",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/4118VuSZ9nZyY4CF6I09foXw7wQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zPJnGCV6634"
+            },
+            "snippet": {
+                "publishedAt": "2008-05-20T22:55:28.000Z",
+                "channelId": "UC_ygHEDKDhK-uLD5JGhZfkw",
+                "title": "Motley Crue - Too Fast For Love",
+                "description": "Motley Crue - Too Fast For Love.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zPJnGCV6634/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zPJnGCV6634/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zPJnGCV6634/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dotgal25",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

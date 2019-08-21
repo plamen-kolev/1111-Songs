@@ -5,6 +5,40 @@
         "artist": "Suffocation",
         "song": "Effigy of the Forgotten",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Suffocation-Effigy%20of%20the%20Forgotten"
+        "url": "https://www.youtube.com/results?search_query=Suffocation-Effigy%20of%20the%20Forgotten",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vli5GAsI0GiC7uKgfkbkd1LVzYE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLRTGDivutDkeGjjYDKoWdPEyGuNRwB9pw"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-17T21:12:20.000Z",
+                "channelId": "UC56bbt0cKa79DbFvhIoVTSQ",
+                "title": "Suffocation - Effigy Of The Forgotten",
+                "description": "Band: Suffocation Album: Effigy Of The Forgotten Genre: Brutal Death Metal Country: United States Released: October 8th, 1991 Label: R/C Records Copyright ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IirX7oNCpMA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IirX7oNCpMA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IirX7oNCpMA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anderson Leal",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

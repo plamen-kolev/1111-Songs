@@ -5,6 +5,40 @@
         "artist": "Wynonie Harris",
         "song": "Bloodshot Eyes - The Best Of",
         "year": "(1947-1954)",
-        "url": "https://www.youtube.com/results?search_query=Wynonie%20Harris-Bloodshot%20Eyes%20-%20The%20Best%20Of"
+        "url": "https://www.youtube.com/results?search_query=Wynonie%20Harris-Bloodshot%20Eyes%20-%20The%20Best%20Of",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8x5ZDLe_skntRDbAoupyk3IFsaA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lvC6OGU3c6g"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-30T15:00:13.000Z",
+                "channelId": "UCEkxxgUaPfF7pniNDsDl1SA",
+                "title": "Wynonie Harris - Blood Shot Eyes - 1951 Great R&amp;B!!!",
+                "description": "Some fantastic Rhythm and Blues from Wynonie Harris Blood Shot Eyes, 1951 Enjoy!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lvC6OGU3c6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lvC6OGU3c6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lvC6OGU3c6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Will Adams",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

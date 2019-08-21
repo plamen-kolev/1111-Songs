@@ -5,6 +5,40 @@
         "artist": "The Rolling Stones",
         "song": "Around and Around",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones-Around%20and%20Around"
+        "url": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones-Around%20and%20Around",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/P34ZeQ6d93ixrh8O2TeyJWxQPc8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ozc1mYW1X9w"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-23T16:46:26.000Z",
+                "channelId": "UCNYhhkQqeFLUc-YEDcLpSYQ",
+                "title": "Around And Around (Original Single Mono Version)",
+                "description": "Provided to YouTube by Universal Music Group Around And Around (Original Single Mono Version) \u00b7 The Rolling Stones Singles 1963-1965 \u2117 1964 ABKCO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ozc1mYW1X9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ozc1mYW1X9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ozc1mYW1X9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Rolling Stones - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

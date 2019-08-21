@@ -5,6 +5,40 @@
         "artist": "M.C. Hammer",
         "song": "Please Hammer Don't Hurt 'Em",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=M.C.%20Hammer-Please%20Hammer%20Don%26%23x27%3Bt%20Hurt%20%26%23x27%3BEm"
+        "url": "https://www.youtube.com/results?search_query=M.C.%20Hammer-Please%20Hammer%20Don%26%23x27%3Bt%20Hurt%20%26%23x27%3BEm",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/WPoQshOLZGx8NT8Sdiph5XAICOs\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL6fUuxRtsksiEsBlvD9m2351TvC0qv4aE"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-09T07:06:40.000Z",
+                "channelId": "UC2-PpupognVSE8p6nXG5TVw",
+                "title": "MC Hammer - Please Hammer, Don't Hurt Em",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u8zoXcdxhZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u8zoXcdxhZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u8zoXcdxhZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Juan Camacho",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

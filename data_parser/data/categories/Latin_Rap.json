@@ -5,6 +5,40 @@
         "artist": "Tiro de Gracia",
         "song": "Ser h\u00fcmano!!",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Tiro%20de%20Gracia-Ser%20h%C3%BCmano%21%21"
+        "url": "https://www.youtube.com/results?search_query=Tiro%20de%20Gracia-Ser%20h%C3%BCmano%21%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TQiXdQtGGbaKdYrQy5lbwFl0xSY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLB57D00A78DFEF640"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-04T18:06:47.000Z",
+                "channelId": "UCFTOmnNSNI53O94TriwX2Xw",
+                "title": "Tiro de Gracia - Ser Humano!!",
+                "description": "primer LP de tiro de gracia 1997.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/adFHMg0YPpg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/adFHMg0YPpg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/adFHMg0YPpg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Naru13Rasendori",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Agoraphobic Nosebleed",
         "song": "Agoraphobic Nosebleed",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Agoraphobic%20Nosebleed-Agoraphobic%20Nosebleed"
+        "url": "https://www.youtube.com/results?search_query=Agoraphobic%20Nosebleed-Agoraphobic%20Nosebleed",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0dxOXdJmg9DbwAUMUajIr2E1pag\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u1Dji9T4R6Q"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-19T22:04:32.000Z",
+                "channelId": "UCwgaE3AlYxzpEK8J01xYD7w",
+                "title": "Agoraphobic Nosebleed / Kill The Client - split 7&quot; FULL EP (2007 - Grindcore)",
+                "description": "Agoraphobic Nosebleed is a classic drum-machine-driven grindcore band from Massachusetts (since 1994). In this 7\" vinyl split release they join forces with Kill ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u1Dji9T4R6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u1Dji9T4R6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u1Dji9T4R6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gore Grinder",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Blue Cheer",
         "song": "Vincebus Eruptum",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=Blue%20Cheer-Vincebus%20Eruptum"
+        "url": "https://www.youtube.com/results?search_query=Blue%20Cheer-Vincebus%20Eruptum",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/oR-gwJgZXZFZwMmsAlcvizDHKGQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLnBVW9fKyNVTkcb4C8NNyN0NB6dqQSNFG"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-06T12:53:27.000Z",
+                "channelId": "UCCSyb5elyE3WWZ9OLGGzYKw",
+                "title": "Blue Cheer - Vincebus Eruptum",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YXcYZsqkZ-g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YXcYZsqkZ-g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YXcYZsqkZ-g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lajojono",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

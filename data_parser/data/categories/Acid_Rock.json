@@ -5,6 +5,40 @@
         "artist": "The Jimi Hendrix Experience",
         "song": "Are You Experienced",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=The%20Jimi%20Hendrix%20Experience-Are%20You%20Experienced"
+        "url": "https://www.youtube.com/results?search_query=The%20Jimi%20Hendrix%20Experience-Are%20You%20Experienced",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Mokd-llWkUN0nxJHraedDj-I0S0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XxHS9lTUN4Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-30T05:54:13.000Z",
+                "channelId": "UC5NwXf8hOgZgInaYiOCZmUg",
+                "title": "Are You Experienced?",
+                "description": "Provided to YouTube by Universal Music Group Are You Experienced? \u00b7 The Jimi Hendrix Experience The Vietnam War - A Film By Ken Burns & Lynn Novick ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XxHS9lTUN4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XxHS9lTUN4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XxHS9lTUN4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jimi Hendrix - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

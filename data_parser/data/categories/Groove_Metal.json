@@ -5,6 +5,40 @@
         "artist": "Pantera",
         "song": "Cowboys From Hell",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Pantera-Cowboys%20From%20Hell"
+        "url": "https://www.youtube.com/results?search_query=Pantera-Cowboys%20From%20Hell",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/oICQwjD-pzUB2YDpElzX85EPP5Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "la1WfEr60yg"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-10T13:24:04.000Z",
+                "channelId": "UCP2H_-BBpgBztDXrur0g4Ng",
+                "title": "Pantera - Cowboys from Hell HQ (HD)",
+                "description": "Pantera - Cowboys from Hell HQ (HD) R.I.P. Dimebag Darell.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/la1WfEr60yg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/la1WfEr60yg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/la1WfEr60yg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luk\u00e1\u0161 Maxa",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

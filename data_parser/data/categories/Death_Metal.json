@@ -5,6 +5,40 @@
         "artist": "Possessed",
         "song": "Seven Churches",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Possessed-Seven%20Churches"
+        "url": "https://www.youtube.com/results?search_query=Possessed-Seven%20Churches",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ptxjynaW6MCQ7S8PdOwJXQKu-Yk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A6FZBIZ0Xbs"
+            },
+            "snippet": {
+                "publishedAt": "2008-05-31T05:11:00.000Z",
+                "channelId": "UCvdYsih2YDJU-ZV6Q5xbVXQ",
+                "title": "Possessed- Seven Churches",
+                "description": "Possessed \"Seven Churches\" Seven Churches (1985)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A6FZBIZ0Xbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A6FZBIZ0Xbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A6FZBIZ0Xbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AB51492",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

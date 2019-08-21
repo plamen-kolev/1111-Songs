@@ -5,7 +5,41 @@
         "artist": "Rammellzee vs. K_Rob",
         "song": "Beat Bop",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=Rammellzee%20vs.%20K_Rob-Beat%20Bop"
+        "url": "https://www.youtube.com/results?search_query=Rammellzee%20vs.%20K_Rob-Beat%20Bop",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/DHv_9LrweEflIqYDAnYmVEgfMSk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9I56Kkxh_os"
+            },
+            "snippet": {
+                "publishedAt": "2008-04-07T02:02:59.000Z",
+                "channelId": "UCvpOWEf0N6Q8wsV1WqBK0BQ",
+                "title": "Beat Bop - Rammellzee + K-Rob",
+                "description": "Enjoy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9I56Kkxh_os/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9I56Kkxh_os/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9I56Kkxh_os/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hiphoptheorem",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 797,
@@ -13,6 +47,40 @@
         "artist": "Divine Styler",
         "song": "Spiral Walls Containing Autumns of Light",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Divine%20Styler-Spiral%20Walls%20Containing%20Autumns%20of%20Light"
+        "url": "https://www.youtube.com/results?search_query=Divine%20Styler-Spiral%20Walls%20Containing%20Autumns%20of%20Light",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_mGK60emzkcXgdHPPHIruvT9-b0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLIiGEMOTJ95OXgloD49RpIzTL7EYUvbyw"
+            },
+            "snippet": {
+                "publishedAt": "2012-09-28T08:21:52.000Z",
+                "channelId": "UCupAfpObCO3RRCqyHhKHAug",
+                "title": "Spiral Walls Containing Autumns of Light",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O6yKtQ8Xabs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O6yKtQ8Xabs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O6yKtQ8Xabs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Liam Cooper",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

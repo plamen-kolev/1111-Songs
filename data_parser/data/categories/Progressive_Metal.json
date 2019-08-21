@@ -5,6 +5,40 @@
         "artist": "Fates Warning",
         "song": "The Spectre Within",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Fates%20Warning-The%20Spectre%20Within"
+        "url": "https://www.youtube.com/results?search_query=Fates%20Warning-The%20Spectre%20Within",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vlf043X11M-fODXkRBzB_Ir1BLA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BRi2G3ARoO8"
+            },
+            "snippet": {
+                "publishedAt": "2015-01-04T19:25:31.000Z",
+                "channelId": "UCYMlKWIgXQT0b_sJd29PShg",
+                "title": "FATES WARNING -The Spectre Within(Full Album)",
+                "description": "The Spectre Within(Full Album) Released October 1985 Genre :Progressive metal, heavy metal John Arch \u2013 vocals, arrangement, production Victor Arduini ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BRi2G3ARoO8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BRi2G3ARoO8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BRi2G3ARoO8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gor12P",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "The Stalin",
         "song": "\u866b (Mushi)",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=The%20Stalin-%E8%99%AB%20%28Mushi%29"
+        "url": "https://www.youtube.com/results?search_query=The%20Stalin-%E8%99%AB%20%28Mushi%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Kxm0QhnwCPFhQpTSFB8T4wXkh7g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cQhxmFsuAbY"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-18T22:23:33.000Z",
+                "channelId": "UCJ1yNrt4QXGfIshXhuATHfw",
+                "title": "The Stalin - \u866b (FULL ALBUM)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cQhxmFsuAbY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cQhxmFsuAbY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cQhxmFsuAbY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eric Rhodes",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

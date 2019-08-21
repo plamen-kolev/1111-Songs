@@ -5,6 +5,40 @@
         "artist": "Deadguy",
         "song": "Fixation on a Coworker",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Deadguy-Fixation%20on%20a%20Coworker"
+        "url": "https://www.youtube.com/results?search_query=Deadguy-Fixation%20on%20a%20Coworker",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/15_tg6cBD9ligxWDY_uIwA2unJg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YSwj1919UJE"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-07T23:18:04.000Z",
+                "channelId": "UCK_lWK0-T45ionQI2Z2IhHg",
+                "title": "Deadguy - Fixation on a Coworker",
+                "description": "Deadguy - Fixation on a Coworker 1. Doom Patrol 2. Pins And Needles 3. Die With Your Mask On 4. Baby Arm 5. Makeshift Atomsmasher 6. The Extremist 7.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSwj1919UJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSwj1919UJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSwj1919UJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sweetbabyjaysus",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

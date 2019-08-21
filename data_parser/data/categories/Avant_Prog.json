@@ -5,7 +5,41 @@
         "artist": "The Mothers of Invention",
         "song": "Uncle Meat",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=The%20Mothers%20of%20Invention-Uncle%20Meat"
+        "url": "https://www.youtube.com/results?search_query=The%20Mothers%20of%20Invention-Uncle%20Meat",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/imcphKilf2cC9JMlkox25_f11gU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLW79q83govkUvrGUT37oaIlabj29iqVUY"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-03T01:25:11.000Z",
+                "channelId": "UC-k3WeyTh9UlbCXGJuKlgSg",
+                "title": "The Mothers of Invention - Uncle Meat (Full Album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/If56BNUzhR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/If56BNUzhR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/If56BNUzhR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "zonasubterranea",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 827,
@@ -13,6 +47,40 @@
         "artist": "Henry Cow",
         "song": "In Praise of Learning",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Henry%20Cow-In%20Praise%20of%20Learning"
+        "url": "https://www.youtube.com/results?search_query=Henry%20Cow-In%20Praise%20of%20Learning",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/w96gEXZ-Omr7YfiwRanslXT7lLs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4iVbYmx9UVU"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-14T20:21:43.000Z",
+                "channelId": "UCYE09E7Akmx4oUTzKDWZC0A",
+                "title": "Henry Cow - In Praise of Learning (Full Album)",
+                "description": "Tracklist: 0:00 War 2:25 Living in the Heart of the Beast 17:56 Beginning The Long March 24:23 Beautiful as the Moon - Terrible as an Army with Banners 31:25 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4iVbYmx9UVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4iVbYmx9UVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4iVbYmx9UVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Alife",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

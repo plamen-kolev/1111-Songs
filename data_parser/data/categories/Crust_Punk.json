@@ -5,6 +5,40 @@
         "artist": "Amebix",
         "song": "Arise!",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Amebix-Arise%21"
+        "url": "https://www.youtube.com/results?search_query=Amebix-Arise%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ErVa2wPTUidJLHHIzZx6izKwto8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kE7YoeVB6us"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-21T23:31:58.000Z",
+                "channelId": "UC68StuguWSV29uX28kJYnhA",
+                "title": "AMEBIX - Arise!",
+                "description": "01. The Moor 0:00 02. Axeman 3:08 03. Fear of God 6:42 04. Largactyl 9:55 05. Drink and Be Merry 13:43 06. Spoils of Victory 19:50 07. Arise! 24:07 08.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kE7YoeVB6us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kE7YoeVB6us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kE7YoeVB6us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "6DISTRUST6",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

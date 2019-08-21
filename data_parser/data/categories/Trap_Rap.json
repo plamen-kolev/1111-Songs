@@ -5,6 +5,40 @@
         "artist": "Young Jeezy",
         "song": "Let's Get It - Thug Motivation 101",
         "year": "(2005)",
-        "url": "https://www.youtube.com/results?search_query=Young%20Jeezy-Let%26%23x27%3Bs%20Get%20It%20-%20Thug%20Motivation%20101"
+        "url": "https://www.youtube.com/results?search_query=Young%20Jeezy-Let%26%23x27%3Bs%20Get%20It%20-%20Thug%20Motivation%20101",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5A0yc1Mu52gs6xepEcF6t4ZEA2s\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLQpEoz4AORndVUbnCX2TsvD7ZYYokmk8r"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-12T00:13:10.000Z",
+                "channelId": "UCaOsI0t8I2elnj0cnWdcqHg",
+                "title": "Young Jeezy - Let's Get It: Thug Motivation 101",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/esip8uFQMHg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/esip8uFQMHg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/esip8uFQMHg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OTFCloutBoi6oTv",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

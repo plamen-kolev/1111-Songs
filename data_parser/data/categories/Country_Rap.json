@@ -5,6 +5,40 @@
         "artist": "Bubba Sparxxx",
         "song": "Deliverance",
         "year": "(2003)",
-        "url": "https://www.youtube.com/results?search_query=Bubba%20Sparxxx-Deliverance"
+        "url": "https://www.youtube.com/results?search_query=Bubba%20Sparxxx-Deliverance",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/75adtsRcKCDrfPKB8lOTP-J26zQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DsMikuC8dzs"
+            },
+            "snippet": {
+                "publishedAt": "2009-06-16T23:47:33.000Z",
+                "channelId": "UCD-hhrFvIymIdrS_fWi-dfg",
+                "title": "Bubba Sparxxx - Deliverance (Official Music Video)",
+                "description": "Music video by Bubba Sparxxx performing Deliverance. (C) 2003 Beat Club Records/Interscope Records #BubbaSparxxx #Deliverance #Vevo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DsMikuC8dzs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DsMikuC8dzs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DsMikuC8dzs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BubbaSparxxxVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

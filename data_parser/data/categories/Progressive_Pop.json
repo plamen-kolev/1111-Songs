@@ -5,6 +5,40 @@
         "artist": "The Beach Boys",
         "song": "Smiley Smile",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beach%20Boys-Smiley%20Smile"
+        "url": "https://www.youtube.com/results?search_query=The%20Beach%20Boys-Smiley%20Smile",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/pg-BQl3yHkunPqmuCCSEsok40-I\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLVPGzOHIIgz8oVhEq6B2FPfkMH342iVxF"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-20T12:27:48.000Z",
+                "channelId": "UCdcdQbkzBzTBLxpQ90tUupQ",
+                "title": "The Beach Boys - Smiley Smile",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iRSrrFOTlDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iRSrrFOTlDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iRSrrFOTlDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheEWFX29",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

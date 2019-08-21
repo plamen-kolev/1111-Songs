@@ -5,6 +5,40 @@
         "artist": "The Stooges",
         "song": "The Stooges",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=The%20Stooges-The%20Stooges"
+        "url": "https://www.youtube.com/results?search_query=The%20Stooges-The%20Stooges",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/MH32Ln1BSJS8HseLackNmOyVs8U\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL94gOvpr5yt3jVAKGpN0dmuiiwSa7SIT0"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-25T09:20:38.000Z",
+                "channelId": "UCf4HzWg8lmLNxds5qvGHY7Q",
+                "title": "The Stooges \"The Stooges\" - Full Album (1969)",
+                "description": "The Stooges is the self-titled debut studio album by American rock band The Stooges. It was released on August 5, 1969. It is considered a landmark proto-punk ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_7QK0_ZmKgk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_7QK0_ZmKgk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_7QK0_ZmKgk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

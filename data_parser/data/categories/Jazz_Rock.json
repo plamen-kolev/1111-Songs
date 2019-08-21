@@ -5,6 +5,40 @@
         "artist": "The Mothers of Invention",
         "song": "Absolutely Free",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=The%20Mothers%20of%20Invention-Absolutely%20Free"
+        "url": "https://www.youtube.com/results?search_query=The%20Mothers%20of%20Invention-Absolutely%20Free",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jKKc890FyodELeqmQXBjHbVuIRs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0WY1y8J7MM0"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-15T13:40:35.000Z",
+                "channelId": "UCkxHbyF8PI7FIo0P7HTW7YQ",
+                "title": "The Mothers of Invention - Absolutely Free (Full Album)",
+                "description": "Released: 1967 Genre: Rock experimental, psychedelic rock, doo-wop Country: US Label: Verve Records Producer: Frank Zappa,/Tom Wilson Tracklist: Side ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0WY1y8J7MM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0WY1y8J7MM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0WY1y8J7MM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The JukeboXx",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

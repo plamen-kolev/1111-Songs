@@ -5,6 +5,40 @@
         "artist": "Visage",
         "song": "Visage",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Visage-Visage"
+        "url": "https://www.youtube.com/results?search_query=Visage-Visage",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/q49rjGsZGSRHy7bVAuZ2BJiDYNw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rHkTKyCnsRA"
+            },
+            "snippet": {
+                "publishedAt": "2010-05-13T12:10:14.000Z",
+                "channelId": "UCOv7ozzK5l9L1neV-F-9ISQ",
+                "title": "Visage - Visage",
+                "description": "Music video by Visage performing Visage. (C) 1982 Universal Music International Ltd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rHkTKyCnsRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rHkTKyCnsRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rHkTKyCnsRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VisageVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

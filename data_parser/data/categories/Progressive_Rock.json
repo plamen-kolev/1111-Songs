@@ -5,6 +5,40 @@
         "artist": "The Nice",
         "song": "The Thoughts Of Emerlist Davjack",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=The%20Nice-The%20Thoughts%20Of%20Emerlist%20Davjack"
+        "url": "https://www.youtube.com/results?search_query=The%20Nice-The%20Thoughts%20Of%20Emerlist%20Davjack",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/2gYCAGY8b1xK6K_wKGz03gIavGA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ED1A4U_RMM"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-09T22:31:49.000Z",
+                "channelId": "UCHXwRGmWDYstvduyb6q0ikA",
+                "title": "Thoughts of Emerlist Davjack (The Nice)",
+                "description": "From their 1967 debut album of the same name. The album was named as one of Classic Rock magazine's \"50 Albums That Built Prog Rock.\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ED1A4U_RMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ED1A4U_RMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ED1A4U_RMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "on2silver",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Roxy Music",
         "song": "Avalon",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Roxy%20Music-Avalon"
+        "url": "https://www.youtube.com/results?search_query=Roxy%20Music-Avalon",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/d3DFIT77v7LB0rb1t6Fz8Rn4PAg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bpA_5a0miWk"
+            },
+            "snippet": {
+                "publishedAt": "2010-06-15T11:20:29.000Z",
+                "channelId": "UChYGvEysIeK-RgLeTozNYoA",
+                "title": "Roxy Music - Avalon (Official Video)",
+                "description": "Roxy Music's groundbreaking self-titled debut album will be released on 2nd February 2018 as an expanded edition including rare and unreleased music.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bpA_5a0miWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bpA_5a0miWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bpA_5a0miWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RoxyMusicVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

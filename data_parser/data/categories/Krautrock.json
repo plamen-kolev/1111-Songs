@@ -5,6 +5,40 @@
         "artist": "Hapshash & The Coloured Coat",
         "song": "Featuring the Human Host and the Heavy Metal Kids",
         "year": "(1967)",
-        "url": "https://www.youtube.com/results?search_query=Hapshash%20%26amp%3B%20The%20Coloured%20Coat-Featuring%20the%20Human%20Host%20and%20the%20Heavy%20Metal%20Kids"
+        "url": "https://www.youtube.com/results?search_query=Hapshash%20%26amp%3B%20The%20Coloured%20Coat-Featuring%20the%20Human%20Host%20and%20the%20Heavy%20Metal%20Kids",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/QyDw6fdZOeBuoLF5qoBYK6I9lcM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "__-gbITR92E"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-09T09:53:53.000Z",
+                "channelId": "UCMvTLLly2QlB0lZZq2YJQGA",
+                "title": "Hapshash &amp; The Coloured Coat - Featuring the Human Host and the Heavy Metal Kids (1967) FULL ALBUM",
+                "description": "I do not own this music. If you have copyrights and need to delete this video - please comment or send message to me and I will do it. Tracklist: 00:00 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/__-gbITR92E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/__-gbITR92E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/__-gbITR92E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Psychedelic Underground / Frank Savton",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

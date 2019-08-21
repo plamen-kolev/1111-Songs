@@ -5,6 +5,40 @@
         "artist": "David Bowie",
         "song": "The Man Who Sold the World",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=David%20Bowie-The%20Man%20Who%20Sold%20the%20World"
+        "url": "https://www.youtube.com/results?search_query=David%20Bowie-The%20Man%20Who%20Sold%20the%20World",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/cXQHS2vFO7evhIvKnxvRpPEzuXk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HSH--SJKVQQ"
+            },
+            "snippet": {
+                "publishedAt": "2007-10-16T11:13:55.000Z",
+                "channelId": "UCq3_AZMt4HIqp-g5lvM-67A",
+                "title": "DAVID BOWIE_____THE MAN WHO SOLD THE WORLD",
+                "description": "CLIP OF DAVID BOWIE SONG.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HSH--SJKVQQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HSH--SJKVQQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HSH--SJKVQQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Italia Home Decorators London",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

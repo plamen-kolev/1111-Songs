@@ -5,6 +5,40 @@
         "artist": "DJ Screw",
         "song": "Bigtyme - Volume 2 - All Screwed Up",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Screw-Bigtyme%20-%20Volume%202%20-%20All%20Screwed%20Up"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Screw-Bigtyme%20-%20Volume%202%20-%20All%20Screwed%20Up",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/uXXSXTzgCJ45qlEeeJDiKzo3yfk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tr0t-oveuoY"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-02T17:07:36.000Z",
+                "channelId": "UCJeCMoBJ79XCInmqID3FAZQ",
+                "title": "DJ Screw - Bigtyme Recordz Vol II: All Screwed Up",
+                "description": "DJ Screw, Bigtyme Recordz Vol II: All Screwed Up Intro Short Texas - UGK Wreckless - S.P.C. & Point Blank Pregnant Pussy - UGK After I Die - Point Blank ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tr0t-oveuoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tr0t-oveuoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tr0t-oveuoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Krazy3x (R.I.P. DJ Screw)",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Crass",
         "song": "The Feeding of the Five Thousand",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Crass-The%20Feeding%20of%20the%20Five%20Thousand"
+        "url": "https://www.youtube.com/results?search_query=Crass-The%20Feeding%20of%20the%20Five%20Thousand",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TfnUTeR0FOk4fmofW_ti51tQXlw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j5lrEcg-gxE"
+            },
+            "snippet": {
+                "publishedAt": "2012-07-05T10:43:09.000Z",
+                "channelId": "UCc3uUxV7u7Hx0krxb2lGsQw",
+                "title": "Crass - The Feeding of the 5,000 REMASTERED HD 2K",
+                "description": "here's the first Crass album. Remastered version of \"the feeding of the 5000\" with high-quality sound 1. Asylum 2. Do They Owe Us a Living? 3. End Result 4.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j5lrEcg-gxE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j5lrEcg-gxE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j5lrEcg-gxE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rudolfarch .sucks",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

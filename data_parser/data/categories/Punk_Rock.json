@@ -5,6 +5,40 @@
         "artist": "Ramones",
         "song": "Ramones",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Ramones-Ramones"
+        "url": "https://www.youtube.com/results?search_query=Ramones-Ramones",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/53r2DxFS9Vq1K2UQoGNI_y96914\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2DqXzL226Ok"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-27T07:22:43.000Z",
+                "channelId": "UCia3sM3GMVzQhau9GcO7i6w",
+                "title": "RAMONES - R.A.M.O.N.E.S",
+                "description": "New York City, N.Y.C. Pretty mean when it wants to be Black leather, knee-hole pants Can't play no highschool dance Fuzz tone, hear 'em go, Hear 'em on the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2DqXzL226Ok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2DqXzL226Ok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2DqXzL226Ok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ramones Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

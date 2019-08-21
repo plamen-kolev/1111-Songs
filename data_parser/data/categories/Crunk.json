@@ -5,6 +5,40 @@
         "artist": "Tear da Club Up Thugs",
         "song": "CrazyNDaLazDayz",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Tear%20da%20Club%20Up%20Thugs-CrazyNDaLazDayz"
+        "url": "https://www.youtube.com/results?search_query=Tear%20da%20Club%20Up%20Thugs-CrazyNDaLazDayz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/EhY4KK95iDjvLrV96LLpgN1GmH4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL52BCCB58B36DDADD"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-16T02:16:16.000Z",
+                "channelId": "UCtj_XJEDo9Y6gXYmhx6YJdg",
+                "title": "TEAR DA CLUB UP THUGS-CRAZYNDALAZDAYZ-1999",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jlOYpMH0zmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jlOYpMH0zmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jlOYpMH0zmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SALTHEZIPMONTAGNA",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

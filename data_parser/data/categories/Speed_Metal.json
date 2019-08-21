@@ -5,6 +5,40 @@
         "artist": "Venom",
         "song": "Welcome to Hell",
         "year": "(1981)",
-        "url": "https://www.youtube.com/results?search_query=Venom-Welcome%20to%20Hell"
+        "url": "https://www.youtube.com/results?search_query=Venom-Welcome%20to%20Hell",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tbYcSTyqLMsD60V8csOWb99HZ5M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4e0VvHZMaTs"
+            },
+            "snippet": {
+                "publishedAt": "2008-12-30T02:34:45.000Z",
+                "channelId": "UCjZluYp1XrRrTg-BZKHOOjg",
+                "title": "Venom - Welcome to Hell",
+                "description": "Fight, we will fight right, Living low in a world of our own, Destined to live right, fight, We're taking hell as our home, Burning lives burning, Asking me for the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4e0VvHZMaTs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4e0VvHZMaTs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4e0VvHZMaTs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DeathIsYourSaviour",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

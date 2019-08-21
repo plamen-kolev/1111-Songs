@@ -5,6 +5,40 @@
         "artist": "The Geto Boys",
         "song": "The Geto Boys",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=The%20Geto%20Boys-The%20Geto%20Boys"
+        "url": "https://www.youtube.com/results?search_query=The%20Geto%20Boys-The%20Geto%20Boys",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/3sBmAJWYUkJbKF4Egnr5PH-DpjE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XbKThf3aS-Q"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-25T00:38:35.000Z",
+                "channelId": "UCPD47wuUSWiTHdiOkAO-Z_w",
+                "title": "Geto Boys-The Geto Boys{FULL ALBUM} (1990)",
+                "description": "Artists-Geto Boys Album-The Geto Boys Year-1990 Label-Rap-A-Lot Records This is the full album upload of The Geto Boys self titled album with two new songs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XbKThf3aS-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XbKThf3aS-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XbKThf3aS-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BomberMonkAssassin35",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

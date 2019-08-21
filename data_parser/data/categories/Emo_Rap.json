@@ -5,6 +5,40 @@
         "artist": "Bones",
         "song": "Scumbag",
         "year": "(2013)",
-        "url": "https://www.youtube.com/results?search_query=Bones-Scumbag"
+        "url": "https://www.youtube.com/results?search_query=Bones-Scumbag",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/eProvBkjln95GBqtLb79snMlSD8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qH-aV_Ze_fc"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-22T02:55:16.000Z",
+                "channelId": "UCiriOGjYt8eHlu7uXDKy5Eg",
+                "title": "Bones - SCUMBAG [Full Album]",
+                "description": "Download: http://teamsesh.com/BONESSCUMBAG.zip Soundcloud: https://soundcloud.com/teamsesh Twitter: https://twitter.com/TeamSESH Facebook: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qH-aV_Ze_fc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qH-aV_Ze_fc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qH-aV_Ze_fc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u30a4\u30fc\u30b5\u30f3TeamSESH",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

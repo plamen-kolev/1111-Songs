@@ -5,6 +5,40 @@
         "artist": "The Freestyle Fellowship",
         "song": "To Whom It May Concern...",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=The%20Freestyle%20Fellowship-To%20Whom%20It%20May%20Concern..."
+        "url": "https://www.youtube.com/results?search_query=The%20Freestyle%20Fellowship-To%20Whom%20It%20May%20Concern...",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FOvdiTM2Ru0OulHJnQaVmSgF4kE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLR0fVig3WkmGGuvOPWTWmfNl7xAhYlly0"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-30T17:59:50.000Z",
+                "channelId": "UCMxgRl-br-G6sgePkEPTohw",
+                "title": "To Whom It May Concern...",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M0B5H0xYED4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M0B5H0xYED4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M0B5H0xYED4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "#TempleofHipHop Kulture",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Marillion",
         "song": "Script for a Jester's Tear",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=Marillion-Script%20for%20a%20Jester%26%23x27%3Bs%20Tear"
+        "url": "https://www.youtube.com/results?search_query=Marillion-Script%20for%20a%20Jester%26%23x27%3Bs%20Tear",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6Gbac0x8Ht-KlolZMhQ22L2VNcM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UThgR-4HDUA"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-17T19:32:58.000Z",
+                "channelId": "UCXL-7ZVrR7wf7Nf5-FcUVRw",
+                "title": "Marillion - Script For a Jester&#39;s Tear",
+                "description": "This is Marillion's 1983 vinyl release, Script For a Jester's Tear.- CD: DR14 Vinyl: DR15 http://dr.loudness-war.info/album/view/64471 Gear: VPI ClassicII, Benz ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UThgR-4HDUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UThgR-4HDUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UThgR-4HDUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Progressive Vinyl",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

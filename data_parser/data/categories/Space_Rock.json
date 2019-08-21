@@ -5,6 +5,40 @@
         "artist": "Hawkwind",
         "song": "Hawkwind",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Hawkwind-Hawkwind"
+        "url": "https://www.youtube.com/results?search_query=Hawkwind-Hawkwind",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/dW9TaQoZiCVls2VqUg1zH4NEDhU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLVTsf1XlOneUVf_xV9lL0aMZe1BoVrbh-"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-13T16:44:39.000Z",
+                "channelId": "UCXuLZKtEqtXJSDmE1rjMr8Q",
+                "title": "Hawkwind - Hawkwind (Full Album + Bonus Tracks) (1970)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PsN-Ib2OG64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PsN-Ib2OG64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PsN-Ib2OG64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marcus Askew",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

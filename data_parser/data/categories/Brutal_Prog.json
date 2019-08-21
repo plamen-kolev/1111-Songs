@@ -5,6 +5,40 @@
         "artist": "Ruins",
         "song": "1986-1992",
         "year": "(1986-1992)",
-        "url": "https://www.youtube.com/results?search_query=Ruins-1986-1992"
+        "url": "https://www.youtube.com/results?search_query=Ruins-1986-1992",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/73htF37Lld1OuVNrFbIMLMmBKg8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8m9wFAwR_Qs"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-17T21:20:49.000Z",
+                "channelId": "UCosZXrbGrIEkjhfXbOBGn6Q",
+                "title": "Ruins - Stonehenge (1990) [Full Album]",
+                "description": "1. Big Head - 0:00 2. Iron Lady - 4:58 3. Cathechism - 7:17 4. Kibbutz - 10:01 5. Fallout - 13:28 6. Plexus - 15:46 7. October - 16:48 8. Hexagon - 20:39 9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8m9wFAwR_Qs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8m9wFAwR_Qs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8m9wFAwR_Qs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Santiago Bernhardt",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

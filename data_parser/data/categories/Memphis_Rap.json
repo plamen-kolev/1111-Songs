@@ -5,6 +5,40 @@
         "artist": "Triple Six Mafia",
         "song": "Underground - Volume 1",
         "year": "(1991-1994)",
-        "url": "https://www.youtube.com/results?search_query=Triple%20Six%20Mafia-Underground%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Triple%20Six%20Mafia-Underground%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8G7dh9g3LYKYmnhbcXJJ_qJn6Hk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NWlGhqHT5tM"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-07T07:10:50.000Z",
+                "channelId": "UCDRyj0G57pcvH5ukaYY2vDg",
+                "title": "Triple Six Mafia  - Underground Vol.1 1991-1994",
+                "description": "1. Ridin' Da Chevy 0:00 2. Niggaz Ain't Barrin' Dat 6:02 3. Charging These Hoes 12:14 4. Now I'm High, Really High 15:42 5. Sucks On Dick 20:04 6.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NWlGhqHT5tM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NWlGhqHT5tM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NWlGhqHT5tM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eerie J",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

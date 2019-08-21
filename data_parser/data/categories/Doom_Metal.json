@@ -5,6 +5,40 @@
         "artist": "Witchfinder General",
         "song": "Death Penalty",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Witchfinder%20General-Death%20Penalty"
+        "url": "https://www.youtube.com/results?search_query=Witchfinder%20General-Death%20Penalty",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/EffVDM9V_2DAqJWv7CyF0r9-WTA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fPYdUdp87GQ"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-26T12:24:32.000Z",
+                "channelId": "UC1lRCBEy0uPGrYf6RV0romQ",
+                "title": "Witchfinder General - Death Penalty (Full Vinyl LP Album) [1982]",
+                "description": "If you don't want this video on YouTube, pls contact me and I'll remove it so I don't get copyright strikes. Thx in advance. 2010 Back On Black Ltd. Ed. RM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fPYdUdp87GQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fPYdUdp87GQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fPYdUdp87GQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jax Teller",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

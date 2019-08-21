@@ -5,6 +5,34 @@
         "artist": "Magma",
         "song": "Magma",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Magma-Magma"
+        "url": "https://www.youtube.com/results?search_query=Magma-Magma",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Y1FQsDfGLeFsk1bM9wVjrVGmNaw\"",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCneU-0NP-BUHGoahZ8xsiTg"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-04T21:22:29.000Z",
+                "channelId": "UCneU-0NP-BUHGoahZ8xsiTg",
+                "title": "Magma",
+                "description": "Hello, and welcome to my channel called Magma! I upload weekly videos of me playing Agma.io!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-4SMmEgSQNeQ/AAAAAAAAAAI/AAAAAAAAAAA/wxMh-BI8gsE/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-4SMmEgSQNeQ/AAAAAAAAAAI/AAAAAAAAAAA/wxMh-BI8gsE/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-4SMmEgSQNeQ/AAAAAAAAAAI/AAAAAAAAAAA/wxMh-BI8gsE/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    }
+                },
+                "channelTitle": "Magma",
+                "liveBroadcastContent": "upcoming"
+            }
+        }
     }
 ]

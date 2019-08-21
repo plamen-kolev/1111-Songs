@@ -5,6 +5,40 @@
         "artist": "Blondie",
         "song": "Blondie",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Blondie-Blondie"
+        "url": "https://www.youtube.com/results?search_query=Blondie-Blondie",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/lgub4YPau6CVS2IDDJHqUdL53r8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLyIE87_rcLdAztuxKNqOsNo1og9Vg9EGt"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-21T22:53:54.000Z",
+                "channelId": "UC0yZkDxprqF01UgNTDXeEmw",
+                "title": "Blondie - Blondie [Full album : 11/11 songs]",
+                "description": "Based uppon: https://www.discogs.com/fr/Blondie-Blondie/master/3454.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ubXfewlYCXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ubXfewlYCXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ubXfewlYCXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Monsieur Slobeo",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

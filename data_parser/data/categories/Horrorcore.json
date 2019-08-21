@@ -5,6 +5,40 @@
         "artist": "Gravediggaz",
         "song": "6 Feet Deep",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Gravediggaz-6%20Feet%20Deep"
+        "url": "https://www.youtube.com/results?search_query=Gravediggaz-6%20Feet%20Deep",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/THvDuGWPkuD5dfLZIp-Z_WYNjGU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLJaQqb1_vqOTbuXa5pEDug5ZwwC4-rGnP"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-09T15:14:03.000Z",
+                "channelId": "UCkIzOoRVGZvsrxJJJEIBFCA",
+                "title": "Gravediggaz - 6 Feet Deep (1994) (full album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6KdJPzASysc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6KdJPzASysc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6KdJPzASysc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Hip Hop Albums",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

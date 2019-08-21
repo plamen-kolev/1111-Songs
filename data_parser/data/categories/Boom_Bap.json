@@ -5,6 +5,40 @@
         "artist": "Eric B. & Rakim",
         "song": "Paid In Full",
         "year": "(1987)",
-        "url": "https://www.youtube.com/results?search_query=Eric%20B.%20%26amp%3B%20Rakim-Paid%20In%20Full"
+        "url": "https://www.youtube.com/results?search_query=Eric%20B.%20%26amp%3B%20Rakim-Paid%20In%20Full",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/NO5hgCbgwEySNPjfdw9A0Yd4U9c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E7t8eoA_1jQ"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-24T18:06:56.000Z",
+                "channelId": "UCc0w8n5YNwHz3Y4tF4VGoNw",
+                "title": "Eric B. &amp; Rakim - Paid In Full (Official Video)",
+                "description": "Best of EricBAndRakim: https://goo.gl/HCuKu7 Subscribe here: https://goo.gl/EMXvV5 Music video by Eric B. & Rakim performing Paid In Full. (C) 1987 UMG ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E7t8eoA_1jQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E7t8eoA_1jQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E7t8eoA_1jQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EricBAndRakimVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

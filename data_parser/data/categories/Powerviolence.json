@@ -5,6 +5,40 @@
         "artist": "Infest",
         "song": "Slave",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=Infest-Slave"
+        "url": "https://www.youtube.com/results?search_query=Infest-Slave",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/mEiZHh5VBKiO-xhytTaEnH0Gd9U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LbSVwqj_gog"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-19T22:56:24.000Z",
+                "channelId": "UC2Bs24mges-8uZvMg0LQKAA",
+                "title": "INFEST - Slave EP",
+                "description": "Infest's second recording brings us more speed and anger than their first masterpiece. behold the best punk album of all time... enjoy 1. break the chain 0:00 2.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LbSVwqj_gog/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LbSVwqj_gog/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LbSVwqj_gog/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jonathan Huynh",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

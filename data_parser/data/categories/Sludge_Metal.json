@@ -5,6 +5,40 @@
         "artist": "Melvins",
         "song": "Gluey Porch Treatments",
         "year": "(1986)",
-        "url": "https://www.youtube.com/results?search_query=Melvins-Gluey%20Porch%20Treatments"
+        "url": "https://www.youtube.com/results?search_query=Melvins-Gluey%20Porch%20Treatments",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vnfZXgVs6_oWB1axavjYOyv5ZMo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PJOsvcVg590"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-11T08:57:03.000Z",
+                "channelId": "UCqXrQkOw6Og1xD-rZQ3bLtw",
+                "title": "Melvins - Gluey Porch Treatments [Album]",
+                "description": "0:00 Eye Flys 6:16 Echo Head/Don't Piece Me 9:08 Heater Moves and Eyes 13:00 Steve Instant Neuman 14:33 Influence of Atmosphere 16:24 Exact ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJOsvcVg590/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJOsvcVg590/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJOsvcVg590/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marco Wilchisky",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

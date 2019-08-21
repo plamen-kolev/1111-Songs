@@ -5,6 +5,40 @@
         "artist": "The Rolling Stones",
         "song": "The Rolling Stones",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones-The%20Rolling%20Stones"
+        "url": "https://www.youtube.com/results?search_query=The%20Rolling%20Stones-The%20Rolling%20Stones",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/kM2woNE4v4tERt1vpnZjSyNEPPo\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL94gOvpr5yt2oXoubHxPnKrjn3BL1-bk7"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-13T15:24:50.000Z",
+                "channelId": "UCf4HzWg8lmLNxds5qvGHY7Q",
+                "title": "Rolling Stones \"The Rolling Stones\" - Full Album (1964)",
+                "description": "The Rolling Stones self titled debut album released April 16, 1964 & Recorded January 3, 1964 - February 25, 1964. A1. Route 66 2:20 A2. I Just Want to Make ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BE36QIwwkOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BE36QIwwkOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BE36QIwwkOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

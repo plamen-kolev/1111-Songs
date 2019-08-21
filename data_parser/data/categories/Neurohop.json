@@ -5,6 +5,40 @@
         "artist": "KOAN Sound",
         "song": "Funk Blaster",
         "year": "(2011)",
-        "url": "https://www.youtube.com/results?search_query=KOAN%20Sound-Funk%20Blaster"
+        "url": "https://www.youtube.com/results?search_query=KOAN%20Sound-Funk%20Blaster",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/YDROZUAAWDvq68-ZZAa6yJy4v0w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "04GVf_hOB5w"
+            },
+            "snippet": {
+                "publishedAt": "2012-05-15T21:26:26.000Z",
+                "channelId": "UC8nidfOKkcgpO6tfc9OSdBQ",
+                "title": "KOAN Sound - Funk Blaster",
+                "description": "Available on OWSLA 11/01/11 OWSLA: http://owsla.com/releases/koan-sound-funkblaster/ Beatport: http://beatport.com/release/funk-blaster/826947 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/04GVf_hOB5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/04GVf_hOB5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/04GVf_hOB5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OWSLA",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

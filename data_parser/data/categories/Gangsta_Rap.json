@@ -5,6 +5,40 @@
         "artist": "N.W.A",
         "song": "Straight Outta Compton",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=N.W.A-Straight%20Outta%20Compton"
+        "url": "https://www.youtube.com/results?search_query=N.W.A-Straight%20Outta%20Compton",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/i1g5E-Dh5lVw5xDwQ5L9qN23Y8M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TMZi25Pq3T8"
+            },
+            "snippet": {
+                "publishedAt": "2009-02-27T12:44:03.000Z",
+                "channelId": "UC-BZqVQqpqSwVlU5Urw4egA",
+                "title": "N.W.A. - Straight Outta Compton",
+                "description": "Get N.W.A vinyl here: http://smarturl.it/NWAstore Listen to N.W.A on Spotify: http://smarturl.it/NWASpotify Find N.W.A titles on Apple Music: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TMZi25Pq3T8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NWAVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "DJ Spooky",
         "song": "Songs of a Dead Dreamer",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Spooky-Songs%20of%20a%20Dead%20Dreamer"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Spooky-Songs%20of%20a%20Dead%20Dreamer",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Lx4woHqWBGfi1DpE60O5vWeq4rw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q5-31fCAslA"
+            },
+            "snippet": {
+                "publishedAt": "2016-12-15T13:39:25.000Z",
+                "channelId": "UCZrEZpu3xeoQ0LOgg26JznA",
+                "title": "Dj Spooky - Songs Of A Dead Dreamer (1996)",
+                "description": "Tracklist : 1. Intro 2. Vengeance Of Galaxy 5 3. Phase Interlude 4. Galactic Funk (Tau Ceti Mix) 5. Hologrammic Dub 6. Dance Of The Morlocks 7. Juba 8.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q5-31fCAslA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q5-31fCAslA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q5-31fCAslA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LJ",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

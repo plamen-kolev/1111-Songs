@@ -5,6 +5,40 @@
         "artist": "Burzum",
         "song": "Hvis lyset tar oss",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Burzum-Hvis%20lyset%20tar%20oss"
+        "url": "https://www.youtube.com/results?search_query=Burzum-Hvis%20lyset%20tar%20oss",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xd7RhZ1eyibGQ8_koVIJJqqaunY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Z2TlkRa-N1Q"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-09T17:59:40.000Z",
+                "channelId": "UCzCWehBejA23yEz3zp7jlcg",
+                "title": "Burzum - Hvis Lyset Tar Oss (Full Album)",
+                "description": "Country: Norway | Year: 1994 | Genre: Black Metal CD, LP & Merch available here: https://www.plastichead.com CD also available here: Russia: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z2TlkRa-N1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z2TlkRa-N1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z2TlkRa-N1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Black Metal Promotion",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

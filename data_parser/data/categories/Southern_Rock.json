@@ -5,6 +5,34 @@
         "artist": "The Allman Brothers Band",
         "song": "The Allman Brothers Band",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=The%20Allman%20Brothers%20Band-The%20Allman%20Brothers%20Band"
+        "url": "https://www.youtube.com/results?search_query=The%20Allman%20Brothers%20Band-The%20Allman%20Brothers%20Band",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/OzShCWlLg9fl07jIJ7aFI7WLlMQ\"",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC1-evqmLMusdbdD65Sz0-5Q"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-06T20:00:10.000Z",
+                "channelId": "UC1-evqmLMusdbdD65Sz0-5Q",
+                "title": "Allman Brothers on MV",
+                "description": "Welcome to Allman Brothers on MV, a sub channel of Music Vault, where you can find our entire collection of live Allman Brothers Band videos in one location.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-mYqTVQ9cXk8/AAAAAAAAAAI/AAAAAAAAAAA/g8ci1nxBf1Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-mYqTVQ9cXk8/AAAAAAAAAAI/AAAAAAAAAAA/g8ci1nxBf1Y/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-mYqTVQ9cXk8/AAAAAAAAAAI/AAAAAAAAAAA/g8ci1nxBf1Y/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    }
+                },
+                "channelTitle": "Allman Brothers on MV",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

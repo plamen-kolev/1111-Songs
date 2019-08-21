@@ -5,7 +5,41 @@
         "artist": "Bone Thugs_N_Harmony",
         "song": "E. 1999 Eternal",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Bone%20Thugs_N_Harmony-E.%201999%20Eternal"
+        "url": "https://www.youtube.com/results?search_query=Bone%20Thugs_N_Harmony-E.%201999%20Eternal",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/dw4_g-Spt6WERyPQ199TmkbrMAQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLC1ADBBBF0491522A"
+            },
+            "snippet": {
+                "publishedAt": "2010-06-14T16:53:54.000Z",
+                "channelId": "UCBNIAHkGz5UKXQV7F1d_cJg",
+                "title": "bone thugs e.1999 eternal  album",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/01WvwFQDz-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/01WvwFQDz-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/01WvwFQDz-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "13boodah",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 787,
@@ -13,6 +47,40 @@
         "artist": "Kanye West",
         "song": "The College Dropout",
         "year": "(2004)",
-        "url": "https://www.youtube.com/results?search_query=Kanye%20West-The%20College%20Dropout"
+        "url": "https://www.youtube.com/results?search_query=Kanye%20West-The%20College%20Dropout",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rrQj66uRFDK_2bdJs7vgKuIKby8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLO8fb6oJcdThi90VJPT1EYiDo21lXaf6o"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-17T23:03:23.000Z",
+                "channelId": "UC9FCVs9NT8OclJKcydTIMOQ",
+                "title": "Kanye West - The College Dropout",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OTZzjAU0Kg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OTZzjAU0Kg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OTZzjAU0Kg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andrew",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

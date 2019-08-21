@@ -5,6 +5,40 @@
         "artist": "Badfinger",
         "song": "Magic Christian Music",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=Badfinger-Magic%20Christian%20Music"
+        "url": "https://www.youtube.com/results?search_query=Badfinger-Magic%20Christian%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tzBsc3C1Pl35oKQO4Ut3Eqv0T5A\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL8a8cutYP7fpsOx17xiofVHWwJHB2Uq8B"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-23T10:59:12.000Z",
+                "channelId": "UCGs3APeHZmWMj0ruQOH-RmA",
+                "title": "Badfinger \"Magic Christian Music\" - Full Album",
+                "description": "Magic Christian Music is the debut album by the British rock band Badfinger, released in early 1970 on Apple Records. Three tracks from the LP are featured in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KWbTZuEWjnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KWbTZuEWjnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KWbTZuEWjnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

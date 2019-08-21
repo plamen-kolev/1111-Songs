@@ -5,7 +5,41 @@
         "artist": "Deep Purple",
         "song": "In Rock",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Deep%20Purple-In%20Rock"
+        "url": "https://www.youtube.com/results?search_query=Deep%20Purple-In%20Rock",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Gl3Ed-w2ZeqMqt3kQIYeIPxS2U4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLIKpCFu8FpmmAtaNvqeGMBl7f4hjWkqbz"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-23T20:16:25.000Z",
+                "channelId": "UCw_vDjpLWDx0_af7qw5co9A",
+                "title": "Deep Purple - Deep Purple In Rock (1970) Full Album (1995 Remastered)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W_jfHvcAXRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W_jfHvcAXRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W_jfHvcAXRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheDurokz",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 830,
@@ -13,7 +47,41 @@
         "artist": "Black Sabbath",
         "song": "Black Sabbath",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Black%20Sabbath-Black%20Sabbath"
+        "url": "https://www.youtube.com/results?search_query=Black%20Sabbath-Black%20Sabbath",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FK18O4EGvYIyt8i3gojVOIqP6VE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2KnyL4IFcwo"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-27T00:29:03.000Z",
+                "channelId": "UCwmVfF2m8XLQSlFpBjRkohA",
+                "title": "Black Sabbath   Black Sabbath",
+                "description": "What is this that stands before me? Figure in black which points at me Turn around quick, and start to run Find out I'm the chosen one Oh no Big black shape ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2KnyL4IFcwo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2KnyL4IFcwo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2KnyL4IFcwo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Oesterdamus21",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 831,
@@ -21,6 +89,40 @@
         "artist": "Judas Priest",
         "song": "Sad Wings of Destiny",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Judas%20Priest-Sad%20Wings%20of%20Destiny"
+        "url": "https://www.youtube.com/results?search_query=Judas%20Priest-Sad%20Wings%20of%20Destiny",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ec6jatiS64GhzkIkK-Du7_A0o5o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xu0z1csRnKQ"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-11T06:21:30.000Z",
+                "channelId": "UC0-FRE1s4BKfbRtlUIL8iEA",
+                "title": "Judas Priest - Sad Wings Of Destiny (1976) Full Album",
+                "description": "Set List: Victim Of Changes (00:02) The Ripper (7:42) Dreamer Deceiver (10:32) Deceiver (16:25) Prelude (19:12) Tyrant (21:11) Genocide (25:39) Epitaph ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xu0z1csRnKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xu0z1csRnKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xu0z1csRnKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HEAVY_PRIEST",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

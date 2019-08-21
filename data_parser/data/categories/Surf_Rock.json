@@ -5,6 +5,40 @@
         "artist": "Santo & Johnny",
         "song": "Santo & Johnny",
         "year": "(1959)",
-        "url": "https://www.youtube.com/results?search_query=Santo%20%26amp%3B%20Johnny-Santo%20%26amp%3B%20Johnny"
+        "url": "https://www.youtube.com/results?search_query=Santo%20%26amp%3B%20Johnny-Santo%20%26amp%3B%20Johnny",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/As6FH3U0P6hL8FiqtKdwUNM3RvE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YBRCvVpknvg"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-06T21:14:06.000Z",
+                "channelId": "UCnEkvOs_yW9beTlAYKMG9Uw",
+                "title": "Santo &amp; Johnny - Sleep walk [Original instrumental]",
+                "description": "Enjoy!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YBRCvVpknvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YBRCvVpknvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YBRCvVpknvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OfficialMusicHome",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

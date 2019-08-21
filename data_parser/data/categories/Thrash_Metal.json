@@ -5,6 +5,40 @@
         "artist": "Metallica",
         "song": "Kill 'Em All",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=Metallica-Kill%20%26%23x27%3BEm%20All"
+        "url": "https://www.youtube.com/results?search_query=Metallica-Kill%20%26%23x27%3BEm%20All",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/yiB5QasVQQrFB3iGzJ7sbEUDZOM\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL98C22F89DBF23879"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-09T04:01:55.000Z",
+                "channelId": "UCz1Ij2xvA2fycZX7OfJDP7w",
+                "title": "Metallica - Kill 'Em All (Full Album)",
+                "description": "1.Hit the Lights 4:17 2.The Four Horsemen 7:08 3.Motorbreath 3:03 4.Jump in the Fire 4:50 5.(Anesthesia) Pulling Teeth 4:17 6.Whiplash 4:06 7.Phantom Lord ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kqN4GBcELFI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kqN4GBcELFI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kqN4GBcELFI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Blake",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "L.L. Cool J",
         "song": "Radio",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=L.L.%20Cool%20J-Radio"
+        "url": "https://www.youtube.com/results?search_query=L.L.%20Cool%20J-Radio",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/2AJpzzK5gbQ4N-cwh6c4lY3uPIg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qqw2uby0dzc"
+            },
+            "snippet": {
+                "publishedAt": "2007-10-16T18:36:55.000Z",
+                "channelId": "UCX8KH3XRXe6yWzkCOxRrkDw",
+                "title": "LL Cool J-I can&#39;t live without my Radio 1985 (Full version)",
+                "description": "LL Cool J - I can't live without my Radio (Full version) But I know, i can't live without my radio.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qqw2uby0dzc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qqw2uby0dzc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qqw2uby0dzc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FlyteTymes",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

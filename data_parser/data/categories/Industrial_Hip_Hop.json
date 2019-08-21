@@ -5,7 +5,41 @@
         "artist": "The Beatnigs",
         "song": "The Beatnigs",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beatnigs-The%20Beatnigs"
+        "url": "https://www.youtube.com/results?search_query=The%20Beatnigs-The%20Beatnigs",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/gN-htZ3TaY7-iS7tggJihBWg3fs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "00NVXqc_zOk"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-15T02:47:00.000Z",
+                "channelId": "UCcUXdiKd4U3HAArs67qzbFw",
+                "title": "The Beatnigs - Television",
+                "description": "from 1988's \"The Beatnigs\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/00NVXqc_zOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/00NVXqc_zOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/00NVXqc_zOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mrbriefcaseMUSIC",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 799,
@@ -13,6 +47,40 @@
         "artist": "D\u00e4lek",
         "song": "Negro Necro Nekros",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=D%C3%A4lek-Negro%20Necro%20Nekros"
+        "url": "https://www.youtube.com/results?search_query=D%C3%A4lek-Negro%20Necro%20Nekros",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/InXza1hUOOu0VMq6uWZBzLi4kco\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sGFxw7MZGm0"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-10T18:09:09.000Z",
+                "channelId": "UCDMSoeNO3DB-Odg6hGbeoHw",
+                "title": "D\u00e4lek - Negro Necro Nekros (full album)",
+                "description": "Negro Necro Nekros is the debut album by D\u00e4lek, released in 1998. \"Swollen Tongue Bums\" \u2013 3:41 \"Three Rocks Blessed\" \u2013 7:45 \"Images Of .44 Casings\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sGFxw7MZGm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sGFxw7MZGm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sGFxw7MZGm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "farid20070",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "The Beatles",
         "song": "Revolver",
         "year": "(1966)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beatles-Revolver"
+        "url": "https://www.youtube.com/results?search_query=The%20Beatles-Revolver",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jKBOpeeKO4ASibK9l6QFIuuk6FU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLJ-ViTZrvg2wWf68hJc5dVtsAJw5QyPtk"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-01T04:04:29.000Z",
+                "channelId": "UCfEQvLZlFR4Ko3AYiOzWF4w",
+                "title": "Beatles \u201cRevolver\u201d",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l0zaebtU-CA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l0zaebtU-CA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l0zaebtU-CA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jimmy Jam",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

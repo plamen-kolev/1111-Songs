@@ -5,6 +5,40 @@
         "artist": "Meshuggah",
         "song": "Destroy Erase Improve",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Meshuggah-Destroy%20Erase%20Improve"
+        "url": "https://www.youtube.com/results?search_query=Meshuggah-Destroy%20Erase%20Improve",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0WMmdW_tCpzeVYC87o3nX27S064\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI7ve7lFMhIiqyXkGsN6uH-5LtaNBd1XK"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-27T16:59:05.000Z",
+                "channelId": "UC0984iCwQpUzVDgwoKsvZlA",
+                "title": "Meshuggah - Destroy Erase Improve [Full Album]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5j2aC-fnPik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5j2aC-fnPik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5j2aC-fnPik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ZeugmaPowa",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

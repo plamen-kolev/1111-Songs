@@ -5,6 +5,40 @@
         "artist": "The Beatles",
         "song": "A Hard Day's Night",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beatles-A%20Hard%20Day%26%23x27%3Bs%20Night"
+        "url": "https://www.youtube.com/results?search_query=The%20Beatles-A%20Hard%20Day%26%23x27%3Bs%20Night",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/piOki3oyAMCvN46gptLHweDTzLY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Yjyj8qnqkYI"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-21T15:00:03.000Z",
+                "channelId": "UC4dqLAF7yT-_DqeYisQ001w",
+                "title": "The Beatles - A Hard Day&#39;s Night",
+                "description": "Music video by The Beatles performing A Hard Day's Night. \u00a9 2015 Apple Corps Ltd., under exclusive license to Calderstone Productions Limited (a division of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yjyj8qnqkYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yjyj8qnqkYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yjyj8qnqkYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheBeatlesVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

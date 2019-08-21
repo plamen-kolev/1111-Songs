@@ -5,7 +5,41 @@
         "artist": "Gary Numan",
         "song": "The Pleasure Principle",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Gary%20Numan-The%20Pleasure%20Principle"
+        "url": "https://www.youtube.com/results?search_query=Gary%20Numan-The%20Pleasure%20Principle",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/1LdJ0Hf6c9BfS10rmygxREwESy4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLjIuADMrDKIZcaH6j6jRK1MWzwwB1PrKD"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-06T13:44:15.000Z",
+                "channelId": "UCSnCG4Y6H2jsd6e1L_CIfyA",
+                "title": "Gary Numan - The Pleasure Principle remastered full album",
+                "description": "1998 http://www.discogs.com/Gary-Numan-The-Pleasure-Principle/release/29293.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4Kv0yLg4LBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4Kv0yLg4LBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4Kv0yLg4LBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Album Playlists",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1050,
@@ -13,6 +47,40 @@
         "artist": "Kraftwerk",
         "song": "Radio_Aktivit\u00e4t",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Kraftwerk-Radio_Aktivit%C3%A4t"
+        "url": "https://www.youtube.com/results?search_query=Kraftwerk-Radio_Aktivit%C3%A4t",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/p6DR7HOyCjxKIriyYwa261eQ7LQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0EBTn_3DBYo"
+            },
+            "snippet": {
+                "publishedAt": "2011-05-25T21:26:52.000Z",
+                "channelId": "UCiuidWNC_2Nl-ZFAYlDkZmA",
+                "title": "RADIOACTIVITY - KRAFTWERK - HD Live",
+                "description": "RADIOACTIVITY - KRAFTWERK - HD Live http://www.agoravox.tv/culture-loisirs/culture/article/stop-radioactivity-valse-triste-30368 : \" Radioactivity & Valse Triste ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0EBTn_3DBYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0EBTn_3DBYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0EBTn_3DBYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AgoraVoxFrance",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Deep Six",
         "year": "(1986)",
-        "url": "https://www.youtube.com/results?search_query=Various-Deep%20Six"
+        "url": "https://www.youtube.com/results?search_query=Various-Deep%20Six",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Ack5-Wkhtmvl-fEBLlBm4F_WN2c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w5LZ8YErl2M"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-19T15:01:00.000Z",
+                "channelId": "UCRDy1zVuogK8Fl4svi9ZTyw",
+                "title": "Marilyn Manson - Deep Six (Explicit) (Official Music Video)",
+                "description": "THE PALE EMPEROR is now available wherever music is sold. Order now: iTunes: http://found.ee/PaleEmpiTunesDLX Amazon: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w5LZ8YErl2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w5LZ8YErl2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w5LZ8YErl2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MarilynMansonVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

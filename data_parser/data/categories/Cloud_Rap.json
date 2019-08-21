@@ -5,6 +5,40 @@
         "artist": "Lil B",
         "song": "6 Kiss",
         "year": "(2009)",
-        "url": "https://www.youtube.com/results?search_query=Lil%20B-6%20Kiss"
+        "url": "https://www.youtube.com/results?search_query=Lil%20B-6%20Kiss",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TPm0GOhQWFDHOYwUdUk5hWpd0-I\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jqKCq8S9MuY"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-29T00:06:11.000Z",
+                "channelId": "UC5vxVNvASU4s0nvg9a3RKOw",
+                "title": "Lil B - 6 Kiss (Full Album)",
+                "description": "DISCLAIMER: I do not own any of these songs or the album. All rights go to The BasedGod himself and Permanent Marks, LLC. Tracklist: 00:00 B.O.R. (Birth Of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jqKCq8S9MuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jqKCq8S9MuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jqKCq8S9MuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BluesBro",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

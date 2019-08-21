@@ -5,6 +5,40 @@
         "artist": "Iron Maiden",
         "song": "Iron Maiden",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Iron%20Maiden-Iron%20Maiden"
+        "url": "https://www.youtube.com/results?search_query=Iron%20Maiden-Iron%20Maiden",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/uyZ-t81Wt0gYYlWj0YWHL2dpluE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLPf69IGxwfBGe1KrczrDG4PBHdC-RigPg"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-08T19:38:00.000Z",
+                "channelId": "UCJmSxslnZAuSturD1WrgzAg",
+                "title": "Iron Maiden - Iron Maiden full album",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Klwbz6aXY6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Klwbz6aXY6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Klwbz6aXY6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Tony Annihilator",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

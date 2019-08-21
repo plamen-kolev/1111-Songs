@@ -5,6 +5,40 @@
         "artist": "Boston",
         "song": "Boston",
         "year": "(1976)",
-        "url": "https://www.youtube.com/results?search_query=Boston-Boston"
+        "url": "https://www.youtube.com/results?search_query=Boston-Boston",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/DhffpPhvCiawVV4099WwsCwOHMw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4zDR5jmCXOg"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-10T20:51:01.000Z",
+                "channelId": "UCQ0wkF6eolZ2tDtGYL6V5Qw",
+                "title": "Boston - Boston (1976) [Full Album]",
+                "description": "Track Listing: 1. More Than a Feeling: 2. Peace of Mind: 04:35 3. Foreplay/Long Time: 09:32 4. Rock & Roll Band: 17:08 5. Smokin': 20:08 6. Hitch a Ride: 24:29 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4zDR5jmCXOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4zDR5jmCXOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4zDR5jmCXOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vynil Library",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Black Flag",
         "song": "The First Four Years",
         "year": "(1978-1981)",
-        "url": "https://www.youtube.com/results?search_query=Black%20Flag-The%20First%20Four%20Years"
+        "url": "https://www.youtube.com/results?search_query=Black%20Flag-The%20First%20Four%20Years",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/XROJG6U9lkFHGPFR36TJmZHaDpY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLiuWChik5_Y93PQ8nVjWGyCcpvcJuPEcL"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-24T08:16:00.000Z",
+                "channelId": "UCQzdGFpVwVVk4gU6pvO_k1Q",
+                "title": "BLACK FLAG - THE FIRST FOUR YEARS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0pZDuzZ-nPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0pZDuzZ-nPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0pZDuzZ-nPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "deafpulp",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

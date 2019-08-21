@@ -5,7 +5,41 @@
         "artist": "DJ Shadow",
         "song": "What Does Your Soul Look Like",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Shadow-What%20Does%20Your%20Soul%20Look%20Like"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Shadow-What%20Does%20Your%20Soul%20Look%20Like",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/v5ULxSEul2iQUftxz5p75rlazSY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O-hdiaB6Duk"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-04T06:28:13.000Z",
+                "channelId": "UCRkXirAu0pCQ1FhnpkGoHAw",
+                "title": "DJ Shadow | What Does Your Soul Look Like? (1995)",
+                "description": "I don't own any of this. Support the artist http://www.discogs.com/DJ-Shadow-What-Does-Your-Soul-Look-Like/master/15366 00:00 Part II 13:50 Part III 19:00 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O-hdiaB6Duk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O-hdiaB6Duk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O-hdiaB6Duk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Luciano Palma",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 791,
@@ -13,6 +47,40 @@
         "artist": "Avalanches",
         "song": "Since I Left You",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Avalanches-Since%20I%20Left%20You"
+        "url": "https://www.youtube.com/results?search_query=Avalanches-Since%20I%20Left%20You",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HJC4Hr2a3vsjyNvv_FzhmRASjtc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wpqm-05R2Jk"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-21T13:33:10.000Z",
+                "channelId": "UCTTBHIoKPIWLAxxTNTiQ9vA",
+                "title": "The Avalanches -  &#39;Since I Left You&#39;",
+                "description": "The video for The Avalanches 'Since I Left You' Directed by Blue Source.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wpqm-05R2Jk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wpqm-05R2Jk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wpqm-05R2Jk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "XL Recordings",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

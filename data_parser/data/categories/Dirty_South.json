@@ -5,6 +5,40 @@
         "artist": "UGK",
         "song": "Ridin' Dirty",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=UGK-Ridin%26%23x27%3B%20Dirty"
+        "url": "https://www.youtube.com/results?search_query=UGK-Ridin%26%23x27%3B%20Dirty",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TJCgcPxSbvFXHSHJ5lrfGMDz9c8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oqmoXHzvWcE"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-15T16:32:49.000Z",
+                "channelId": "UCIO63T0xMm1t0R3V4A34CHQ",
+                "title": "UGK - Ridin&#39; Dirty",
+                "description": "Ridin' Dirty \u00a91996 Jive Records.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oqmoXHzvWcE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oqmoXHzvWcE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oqmoXHzvWcE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DeepNdaSouth",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

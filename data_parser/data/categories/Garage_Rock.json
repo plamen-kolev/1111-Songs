@@ -5,6 +5,40 @@
         "artist": "The Fabulous Wailers",
         "song": "At the Castle",
         "year": "(1962)",
-        "url": "https://www.youtube.com/results?search_query=The%20Fabulous%20Wailers-At%20the%20Castle"
+        "url": "https://www.youtube.com/results?search_query=The%20Fabulous%20Wailers-At%20the%20Castle",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HmfeGQeOCaaSSrjGfng5G_PFUzs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pEs--xUSd-k"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-13T18:00:02.000Z",
+                "channelId": "UCN84lWlDSG7_tCilT4JdD-g",
+                "title": "The Wailers - The Fabulous Wailers At the Castle (Original LP Remastered) (Full Album)",
+                "description": "Subscribe at Music Legends Book YouTube Chanel: http://bit.ly/2bLPWH5 This Video include 16 tracks of The Wailers Tip: click on the time and listen your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pEs--xUSd-k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pEs--xUSd-k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pEs--xUSd-k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Legends Book",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Prefuse 73",
         "song": "Vocal Studies + Uprock Narratives",
         "year": "(2001)",
-        "url": "https://www.youtube.com/results?search_query=Prefuse%2073-Vocal%20Studies%20%2B%20Uprock%20Narratives"
+        "url": "https://www.youtube.com/results?search_query=Prefuse%2073-Vocal%20Studies%20%2B%20Uprock%20Narratives",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/XL1kB5X1nQQPKvBR5uK-GePTU8k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S2FVsp8F0Do"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-14T00:23:15.000Z",
+                "channelId": "UC32otTO-BIkGFcmGs-p9o7A",
+                "title": "Prefuse 73 - Vocal Studies + Uprock Narratives (2001) [FULL ALBUM]",
+                "description": "Instrumental hip-hop in electronic and glitch sauce | Warp Records 2001. I DON'T OWN ANY RIGHTS. TRACKLIST: 0:00 Radio Attack 5:15 Nuno 8:15 Life Death ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S2FVsp8F0Do/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S2FVsp8F0Do/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S2FVsp8F0Do/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Torgan",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

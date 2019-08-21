@@ -5,6 +5,40 @@
         "artist": "Helloween",
         "song": "Walls of Jericho",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Helloween-Walls%20of%20Jericho"
+        "url": "https://www.youtube.com/results?search_query=Helloween-Walls%20of%20Jericho",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/3_ddTlbyXMCB86m9XtZ3-mveINk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLfm0GddQTCHHPQ7PnmkbhWSsAwhuRGFkK"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-04T13:08:28.000Z",
+                "channelId": "UCvlL2OJbuZt2qQJRDd9gZ2w",
+                "title": "Helloween - Walls of Jericho",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6izkJcIoZx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6izkJcIoZx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6izkJcIoZx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matteo Paratore",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

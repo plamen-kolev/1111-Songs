@@ -5,7 +5,41 @@
         "artist": "The 13th Floor Elevators",
         "song": "The Psychedelic Sounds Of",
         "year": "(1966)",
-        "url": "https://www.youtube.com/results?search_query=The%2013th%20Floor%20Elevators-The%20Psychedelic%20Sounds%20Of"
+        "url": "https://www.youtube.com/results?search_query=The%2013th%20Floor%20Elevators-The%20Psychedelic%20Sounds%20Of",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/QzjBjW1yq5f25EnoFA3Nm9XZxgI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Ag3v11Dkuc"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-04T01:27:52.000Z",
+                "channelId": "UC4Ca1LrjQQpEkHZ37XFp7EQ",
+                "title": "{BEST QUALITY!} The Psychedelic Sounds of the 13th Floor Elevators (1966) {Audiophile Edition 2.0}",
+                "description": "\"Here is the original 1966 stereo vinyl mix. This mix has never been released on CD. Bonus material includes the super rare and 'dry' alternate stereo mixes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Ag3v11Dkuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Ag3v11Dkuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Ag3v11Dkuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "psychedelicpiper",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 811,
@@ -13,6 +47,40 @@
         "artist": "The United States of America",
         "song": "The United States of America",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=The%20United%20States%20of%20America-The%20United%20States%20of%20America"
+        "url": "https://www.youtube.com/results?search_query=The%20United%20States%20of%20America-The%20United%20States%20of%20America",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_e9xf-PF01EN2U45nU_Wvtl9GKI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZEysecgCVr0"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-20T14:21:12.000Z",
+                "channelId": "UCdx3fOIV4jCgD9qU--6_Ttw",
+                "title": "The United States of America - The United States of America (Full Album)",
+                "description": "Tracklist: 01 - 00:00 - The American Metaphysical Circus 02 - 04:57 - Hard Coming Love 03 - 09:38 - Cloud Song 04 - 12:59 - The Garden of Earthly Delights 05 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZEysecgCVr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZEysecgCVr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZEysecgCVr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "scaredFFamous",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

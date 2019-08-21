@@ -5,6 +5,40 @@
         "artist": "D.R.I.",
         "song": "Dirty Rotten EP",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=D.R.I.-Dirty%20Rotten%20EP"
+        "url": "https://www.youtube.com/results?search_query=D.R.I.-Dirty%20Rotten%20EP",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/3XnFeMTcFnbRslLe19iaFdOwkPM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k88ADl46eok"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-07T18:29:07.000Z",
+                "channelId": "UCjGpgUXXihXg3uJD55TLY0Q",
+                "title": "D.  R.  I. - Dirty Rotten 1983 [FULL EP]",
+                "description": "Artista: D.R.I. \u00c1lbum: Dirty Rotten A\u00f1o: 1983 https://www.facebook.com/Dirty-Rotten-Imbeciles-20786986202/ Tracklist: 01. Sad To Be 00:00 02. War Crimes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k88ADl46eok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k88ADl46eok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k88ADl46eok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SkyxCream",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

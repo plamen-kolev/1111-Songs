@@ -5,6 +5,40 @@
         "artist": "The Beach Boys",
         "song": "The Beach Boys Today!",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beach%20Boys-The%20Beach%20Boys%20Today%21"
+        "url": "https://www.youtube.com/results?search_query=The%20Beach%20Boys-The%20Beach%20Boys%20Today%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/48SQE8o58Gm5gS_-Mnm0PEvxit0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL-UWPlRIl68rjNt-a2RSQTk9E9TvP8h-k"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-10T08:58:35.000Z",
+                "channelId": "UCl4Z9yBtRYTMHq5cQ7Qz_1Q",
+                "title": "The Beach Boys - The Beach Boys Today! (Full album + 2001 CD reissue bonus tracks)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GSvuRBbIKUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GSvuRBbIKUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GSvuRBbIKUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u05d7\u05e0\u05d5\u05da Enoch",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

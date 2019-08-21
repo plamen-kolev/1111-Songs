@@ -5,6 +5,34 @@
         "artist": "Sieg Heil",
         "song": "First Demo Tracks",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Sieg%20Heil-First%20Demo%20Tracks"
+        "url": "https://www.youtube.com/results?search_query=Sieg%20Heil-First%20Demo%20Tracks",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/crw7scXAq3TduNtfi0-2_BIqlus\"",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UC0Ys0HppgqDIEv4vIcmGgmw"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-07T07:19:04.000Z",
+                "channelId": "UC0Ys0HppgqDIEv4vIcmGgmw",
+                "title": "Sieg Heil - Topic",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/-pNThcPtFkH0/AAAAAAAAAAI/AAAAAAAAAAA/XYuyrJSfeII/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/-pNThcPtFkH0/AAAAAAAAAAI/AAAAAAAAAAA/XYuyrJSfeII/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/-pNThcPtFkH0/AAAAAAAAAAI/AAAAAAAAAAA/XYuyrJSfeII/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+                    }
+                },
+                "channelTitle": "Sieg Heil - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

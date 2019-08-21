@@ -5,6 +5,40 @@
         "artist": "The Byrds",
         "song": "Mr. Tambourine Man",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=The%20Byrds-Mr.%20Tambourine%20Man"
+        "url": "https://www.youtube.com/results?search_query=The%20Byrds-Mr.%20Tambourine%20Man",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/NPeClp-mUre6BzcsyCFbdJe70mw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gYLKlgalHMs"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-07T12:30:15.000Z",
+                "channelId": "UCrhP0cueRMTjidztZj-9ZbQ",
+                "title": "Mr. Tambourine Man The Byrds HD {Stereo}",
+                "description": "Video Edit by Smurfstools 1965....#1 U.S. Billboard Hot 100, #1 UK Singles Chart.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gYLKlgalHMs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gYLKlgalHMs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gYLKlgalHMs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Smurfstools Music Time Machine",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]
