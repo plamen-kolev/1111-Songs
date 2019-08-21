@@ -1,21 +1,15 @@
 import React from 'react';
-import genresList from '../../data/categories_lookup.json';
-import {Segment} from 'semantic-ui-react'
 import { SongLoading } from './SongLoading'
 import { Song } from './Song';
 import LazyLoad from 'react-lazyload';
 import { IframeProps } from 'components/song/Iframe';
-import { JsonSong } from '../../utils'
+import {getMoreSongs, JsonSong, playRandomSong} from '../../utils'
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-
-genresList.sort(() => Math.random() - 0.5);
-const genresForRandomPlay = genresList;
+import { Grid, Segment } from 'semantic-ui-react';
 
 type SongWrapperProps = {
     onSongClick(iframeData: IframeProps): void
 }
-
-const chunksToLoad = 24;
 
 export class SongWrapper extends React.Component<SongWrapperProps, { songs: JsonSong[] }> {
     constructor(props: SongWrapperProps, state: any) {
@@ -34,9 +28,7 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
     }
 
     playRandomSong = () => {
-        const randomGenreIndex = Math.floor(Math.random() * (genresForRandomPlay.length));
-        const randomGenre = require(`../../data/categories/${genresForRandomPlay[randomGenreIndex]}`);
-        const randomSong =  randomGenre[Math.floor(Math.random() * randomGenre.length)];
+        const randomSong = playRandomSong();
 
         this.props.onSongClick({
             url: randomSong.url,
@@ -46,39 +38,22 @@ export class SongWrapper extends React.Component<SongWrapperProps, { songs: Json
     };
 
     addMoreSongs = () => {
-
-        let songs: JsonSong[] = [];
-        for (let i = 0; i < chunksToLoad; i++) {
-            const filename = genresList.pop();
-            if(!filename) {
-                break;
-            }
-            const foo = require(`../../data/categories/${filename}`);
-            songs = songs.concat(foo);
-        }
-
-        // THERE ARE DEAD SONGS, because we load 32 genres,
-        // each genre can have multiple songs, if it goes above 32 entries per
-        // chunk, this function will truncate it
-        const songsToAppend = songs.splice(0, chunksToLoad);
-
         this.setState({
-            songs: this.state.songs.concat(songsToAppend)
+            songs: this.state.songs.concat(getMoreSongs())
         })
     };
     render() {
+        console.log("songwrapper rerendered");
         return (
-            <React.Fragment>
+            <Grid>
                 {this.state.songs.map((song: JsonSong) => (
-                    <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
-                        <Song click={this.props.onSongClick} {...song}/>
-                    </LazyLoad>
+                    <Song key={song.url} click={this.props.onSongClick} {...song}/>
                 ))}
-                    <Visibility
-                        continuous={true}
-                        onBottomVisible={() => this.addMoreSongs()}
-                        offset={100}
-                    />
-            </React.Fragment>
+                <Visibility
+                    continuous={true}
+                    onBottomVisible={() => this.addMoreSongs()}
+                    offset={100}
+                />
+            </Grid>
         )}
 }
