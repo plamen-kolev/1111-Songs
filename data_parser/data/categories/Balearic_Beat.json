@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Classic Balearic Mastercuts",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Various-Classic%20Balearic%20Mastercuts"
+        "url": "https://www.youtube.com/results?search_query=Various-Classic%20Balearic%20Mastercuts",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0xKGXOCCXBDozCBX9zbPNmH6RR8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLW-xOhNbmgjqyX9GXeFIitgTzb9tUNLeZ"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-05T02:47:09.000Z",
+                "channelId": "UCe62Z7ncX66NAgeyIza2lmw",
+                "title": "Classic Balearic Mastercuts Vol 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4I_iIxd2qCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4I_iIxd2qCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4I_iIxd2qCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Steven Kay",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

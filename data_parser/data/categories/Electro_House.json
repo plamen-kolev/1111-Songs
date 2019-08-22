@@ -5,6 +5,40 @@
         "artist": "Mr. Oizo",
         "song": "M_Seq",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Mr.%20Oizo-M_Seq"
+        "url": "https://www.youtube.com/results?search_query=Mr.%20Oizo-M_Seq",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5vYhX3fqxT3XjF5atmfb4ziIqOo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fBf_n6pohJI"
+            },
+            "snippet": {
+                "publishedAt": "2008-09-05T10:41:10.000Z",
+                "channelId": "UCSgzqJz28CdoK_XvzlISoiA",
+                "title": "Mr. Oizo - M-Seq (HD Quality sound)",
+                "description": "this is the song M-seq not the video but its an awesome song.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fBf_n6pohJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fBf_n6pohJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fBf_n6pohJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TRIGGER FORMULA",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Minutemen",
         "song": "My First Bells",
         "year": "(1980-1983)",
-        "url": "https://www.youtube.com/results?search_query=Minutemen-My%20First%20Bells"
+        "url": "https://www.youtube.com/results?search_query=Minutemen-My%20First%20Bells",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/IKMKRnBmhmiEoxHBlhUywORHd3w\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mc_BTZM5Lts"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-03T02:55:12.000Z",
+                "channelId": "UCBY4ltwxJeHh5squxdmIRtQ",
+                "title": "Minutemen - Prelude.",
+                "description": "Originally available on comp. \"Life is Beautiful Why Not Eat Healthfoods\" and, the Minutemen comp. \"My First Bells\". lt's a cover of a T Rex song.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mc_BTZM5Lts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mc_BTZM5Lts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mc_BTZM5Lts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "fallandbounce",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

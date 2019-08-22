@@ -5,6 +5,40 @@
         "artist": "Basic Channel",
         "song": "BCD",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Basic%20Channel-BCD"
+        "url": "https://www.youtube.com/results?search_query=Basic%20Channel-BCD",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jkUt5g3VE-MaBysFDtNRBSIBQy0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vZoI6gpjHo0"
+            },
+            "snippet": {
+                "publishedAt": "2017-10-09T00:22:42.000Z",
+                "channelId": "UCp9Sl2iWihIGqClZdWnIekw",
+                "title": "Basic Channel - BCD (full album)",
+                "description": "\"Feeling unwell last night, I took this record to bed with me. It was a welcome and familiar comfort, though I didn't think it was making me feel any better. When I ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vZoI6gpjHo0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vZoI6gpjHo0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vZoI6gpjHo0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paddy Scott",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

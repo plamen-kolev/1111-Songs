@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "No New York",
         "year": "(1978)",
-        "url": "https://www.youtube.com/results?search_query=Various-No%20New%20York"
+        "url": "https://www.youtube.com/results?search_query=Various-No%20New%20York",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/BTyThZA5pFpwCANtQWgqFXNrIkI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nul3A0pS_oc"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-05T10:31:23.000Z",
+                "channelId": "UCm4VfTWUNV4r01e3cn4PKtw",
+                "title": "Various Artists - No New York",
+                "description": "Artist: The Contortions, Teenage Jesus And The Jerks, Mars, D.N.A. Album: No New York (Released: November, 1978) Tracklist: 1. The Contortions - Dish It Out ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nul3A0pS_oc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nul3A0pS_oc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nul3A0pS_oc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MrNoWave",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

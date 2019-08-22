@@ -5,6 +5,40 @@
         "artist": "Deep Sensation",
         "song": "Somehow, Somewhere (There's a Soul Heaven)",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Deep%20Sensation-Somehow%2C%20Somewhere%20%28There%26%23x27%3Bs%20a%20Soul%20Heaven%29"
+        "url": "https://www.youtube.com/results?search_query=Deep%20Sensation-Somehow%2C%20Somewhere%20%28There%26%23x27%3Bs%20a%20Soul%20Heaven%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/RkaJrQzCwfS4Jr8FjFzamemnaRA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eG4kXMXac7E"
+            },
+            "snippet": {
+                "publishedAt": "2011-07-07T04:52:34.000Z",
+                "channelId": "UCuOxKRnhvqs9XqAVGhICz4w",
+                "title": "DEEP SENSATION - Somehow, Somewhere (There&#39;s A Soul Heaven)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eG4kXMXac7E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eG4kXMXac7E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eG4kXMXac7E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mydiscostuff",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

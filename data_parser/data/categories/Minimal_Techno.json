@@ -5,6 +5,40 @@
         "artist": "Basic Channel",
         "song": "BCD_2",
         "year": "(2008)",
-        "url": "https://www.youtube.com/results?search_query=Basic%20Channel-BCD_2"
+        "url": "https://www.youtube.com/results?search_query=Basic%20Channel-BCD_2",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5mOYX4AbMh79fGutEYr0e0tdrw8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "13WXU1nepm8"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-28T11:50:23.000Z",
+                "channelId": "UCbig3zoNMb8NN1cSrb8HauA",
+                "title": "Basic Channel - BCD-2 (Basic Channel) [Full Album]",
+                "description": "Basic Channel - BCD-2 Released 2008-08-08 on Basic Channel Download on iTunes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/13WXU1nepm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/13WXU1nepm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/13WXU1nepm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "finetunes Techno",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

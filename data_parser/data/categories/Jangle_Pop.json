@@ -5,6 +5,40 @@
         "artist": "Orange Juice",
         "song": "The Glasgow School",
         "year": "(1978-1981)",
-        "url": "https://www.youtube.com/results?search_query=Orange%20Juice-The%20Glasgow%20School"
+        "url": "https://www.youtube.com/results?search_query=Orange%20Juice-The%20Glasgow%20School",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8TGlsFu8FxEn8LlCmt3Um0-EEaI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XvP5I_moSgo"
+            },
+            "snippet": {
+                "publishedAt": "2014-12-13T12:58:49.000Z",
+                "channelId": "UCL3y2oCQhWUZMSOclajaBwQ",
+                "title": "Falling And Laughing",
+                "description": "Provided to YouTube by Domino Recording Co Ltd Falling And Laughing \u00b7 Orange Juice The Glasgow School \u2117 2005 Domino Recording Co Ltd \u2117 Analogue ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XvP5I_moSgo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XvP5I_moSgo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XvP5I_moSgo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Orange Juice - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

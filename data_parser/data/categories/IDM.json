@@ -5,7 +5,41 @@
         "artist": "Various",
         "song": "Artificial Intelligence",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Various-Artificial%20Intelligence"
+        "url": "https://www.youtube.com/results?search_query=Various-Artificial%20Intelligence",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/UANFHkJT8U7GFgRSFBF4z3_pNZI\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLjIuADMrDKIZm5dnvoppehtVEPNUXwUlq"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-25T10:27:06.000Z",
+                "channelId": "UCSnCG4Y6H2jsd6e1L_CIfyA",
+                "title": "Various Artists - Artificial Intelligence full album",
+                "description": "This various artists compilation album is the 1st in the 'Artificial Intelligence' series of 8 albums from Warp Records, released 6 Jul 1992 genres Electronic, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HVp6NH59d3M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HVp6NH59d3M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HVp6NH59d3M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Album Playlists",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 946,
@@ -13,7 +47,41 @@
         "artist": "Mouse on Mars",
         "song": "Autoditacker",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Mouse%20on%20Mars-Autoditacker"
+        "url": "https://www.youtube.com/results?search_query=Mouse%20on%20Mars-Autoditacker",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/acCKEZvml2k0r8NjOaKgHnGUMTk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL2AE833D81E86D040"
+            },
+            "snippet": {
+                "publishedAt": "2010-10-02T20:22:28.000Z",
+                "channelId": "UClqI6PqW_8Fn3d-4bLiylGA",
+                "title": "Mouse on Mars - Autoditacker",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ObjKhgGQE24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ObjKhgGQE24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ObjKhgGQE24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dchtofthedanman",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 947,
@@ -21,6 +89,40 @@
         "artist": "Autechre",
         "song": "Confield",
         "year": "(2001)",
-        "url": "https://www.youtube.com/results?search_query=Autechre-Confield"
+        "url": "https://www.youtube.com/results?search_query=Autechre-Confield",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tEz9sNicpTFmE8libjk7Gr-oySY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CxUD3t9SsTw"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-18T04:11:36.000Z",
+                "channelId": "UCp9Sl2iWihIGqClZdWnIekw",
+                "title": "Autechre - Confield (Full Album)",
+                "description": "Autechre's sixth album, a landmark step in their discography as a move away from the ambient techno of their past and towards the glitch and experimental ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CxUD3t9SsTw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CxUD3t9SsTw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CxUD3t9SsTw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paddy Scott",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

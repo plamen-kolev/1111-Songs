@@ -5,6 +5,40 @@
         "artist": "Fingers Inc.",
         "song": "Can You Feel It",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=Fingers%20Inc.-Can%20You%20Feel%20It"
+        "url": "https://www.youtube.com/results?search_query=Fingers%20Inc.-Can%20You%20Feel%20It",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/dhEJIewwOvOXRqoOUQO4ZfAbsnY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TUDWbTJiclI"
+            },
+            "snippet": {
+                "publishedAt": "2011-11-16T23:06:06.000Z",
+                "channelId": "UCJfRdO5Zn4sPZNgMDlHSCgg",
+                "title": "Fingers Inc - Can You Feel It",
+                "description": "Fingers Inc - Can You Feel It, 1988 on Jack Trax Records Electro/ House.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TUDWbTJiclI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TUDWbTJiclI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TUDWbTJiclI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MsCharlieBrown78 (Charlie Rae)",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

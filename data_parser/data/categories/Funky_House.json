@@ -5,6 +5,40 @@
         "artist": "The Bucketheads",
         "song": "The Bomb! (These Sounds Fall Into My Mind)",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=The%20Bucketheads-The%20Bomb%21%20%28These%20Sounds%20Fall%20Into%20My%20Mind%29"
+        "url": "https://www.youtube.com/results?search_query=The%20Bucketheads-The%20Bomb%21%20%28These%20Sounds%20Fall%20Into%20My%20Mind%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AwJJ2twkGguvUfMMI5rmgl_FibA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "no1vf854aUc"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-13T14:18:58.000Z",
+                "channelId": "UCFRe1i5lu0H26RgEBWR1gpA",
+                "title": "The Bucketheads - The Bomb [These Sounds Fall Into My Mind] (Official Video)",
+                "description": "Download at iTunes (Album) : http://tinyurl.com/l82zjly Download at iTunes (Single) : http://tinyurl.com/muvovwg Stream at Spotify : http://tinyurl.com/p49rofz \"The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/no1vf854aUc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/no1vf854aUc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/no1vf854aUc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Altra Moda Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

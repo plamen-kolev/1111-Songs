@@ -5,6 +5,40 @@
         "artist": "Daft Punk",
         "song": "Homework",
         "year": "(1993-1996)",
-        "url": "https://www.youtube.com/results?search_query=Daft%20Punk-Homework"
+        "url": "https://www.youtube.com/results?search_query=Daft%20Punk-Homework",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/t-HR3CwXEPOKvVhvoYr4DYntBnE\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLSdoVPM5Wnne3Q2AxosemsThywhraJ0su"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-15T12:40:36.000Z",
+                "channelId": "UC_kRDKYrUlrbtrSiyu5Tflg",
+                "title": "DAFT PUNK - HOMEWORK (OFFICIAL AUDIOS)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yuoghR-5-Xs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yuoghR-5-Xs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yuoghR-5-Xs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Daft Punk",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

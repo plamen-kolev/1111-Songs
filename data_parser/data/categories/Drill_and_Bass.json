@@ -5,6 +5,40 @@
         "artist": "Aphex Twin",
         "song": "Richard D. James Album",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Aphex%20Twin-Richard%20D.%20James%20Album"
+        "url": "https://www.youtube.com/results?search_query=Aphex%20Twin-Richard%20D.%20James%20Album",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/mlOdlKrr5O-Es-lYn9gadU5xgkc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HcsEiZGXBYE"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-28T03:13:00.000Z",
+                "channelId": "UC-jln7H9BVxgX1zZvDcDatg",
+                "title": "Aphex Twin - Richard D. James (1996) FULL ALBUM",
+                "description": "Tracklist: 00:00 | 4 03:36 | Cornish Acid 05:52 | Peek 824545201 08:54 | Fingerbib 12:41 | Carn Marth 15:13 | To Cure A Weakling Child 19:12 | Goon Gumpas ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HcsEiZGXBYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HcsEiZGXBYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HcsEiZGXBYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kuma's campfire",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

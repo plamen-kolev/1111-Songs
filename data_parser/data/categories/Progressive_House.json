@@ -5,6 +5,40 @@
         "artist": "Leftfield",
         "song": "Not Forgotten",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Leftfield-Not%20Forgotten"
+        "url": "https://www.youtube.com/results?search_query=Leftfield-Not%20Forgotten",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rp34qb0oZlotG5FmxHcEnmIb1P0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pwvxtg1_zAs"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-27T16:41:38.000Z",
+                "channelId": "UCN0tf4JrpZDPDlg2l9DusRg",
+                "title": "Leftfield - Not Forgotten",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pwvxtg1_zAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pwvxtg1_zAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pwvxtg1_zAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Backintday",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

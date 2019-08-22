@@ -5,6 +5,40 @@
         "artist": "Orbital",
         "song": "Halcyon",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Orbital-Halcyon"
+        "url": "https://www.youtube.com/results?search_query=Orbital-Halcyon",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/zxk8GXaXT4YgWAJmruWa7VJgPyA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bV-hSgL1R74"
+            },
+            "snippet": {
+                "publishedAt": "2009-02-26T03:21:05.000Z",
+                "channelId": "UCRfl0C8rAoiTg8imQplEPJw",
+                "title": "Orbital - Halcyon On and On",
+                "description": "One of the best emotional tune of all times! Sit back, relax, and feel the music as your mind journeys deep into the heavenly world. The beautiful vocalist is Kirsty ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bV-hSgL1R74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bV-hSgL1R74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bV-hSgL1R74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RoundxSeal",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

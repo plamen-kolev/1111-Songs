@@ -5,6 +5,40 @@
         "artist": "The KLF",
         "song": "What Time Is Love",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=The%20KLF-What%20Time%20Is%20Love"
+        "url": "https://www.youtube.com/results?search_query=The%20KLF-What%20Time%20Is%20Love",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8xLoRHwK_U3pGK3QOzK5OpEa0z8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "28w2LVzxVkU"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-28T23:46:44.000Z",
+                "channelId": "UCN0tf4JrpZDPDlg2l9DusRg",
+                "title": "The KLF - What Time Is Love?",
+                "description": "1990.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/28w2LVzxVkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/28w2LVzxVkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/28w2LVzxVkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Backintday",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

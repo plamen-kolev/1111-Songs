@@ -5,6 +5,40 @@
         "artist": "Bauhaus",
         "song": "In the Flat Field",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Bauhaus-In%20the%20Flat%20Field"
+        "url": "https://www.youtube.com/results?search_query=Bauhaus-In%20the%20Flat%20Field",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/cHAqGF6vI9T87CvgcsjaVBuKxOk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6KsxsO9FrLE"
+            },
+            "snippet": {
+                "publishedAt": "2013-09-02T22:11:29.000Z",
+                "channelId": "UCKunICV0m_lM3UL3BKtYHag",
+                "title": "Bauhaus - In the Flat Field",
+                "description": "A gut pull drag on me Into the chasm gaping we Mirrors multy reflecting this Between spunk stained sheet And odorous whim Calmer eye- flick- shudder- within ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6KsxsO9FrLE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6KsxsO9FrLE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6KsxsO9FrLE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jesse Oor",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

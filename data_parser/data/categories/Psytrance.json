@@ -5,6 +5,40 @@
         "artist": "Hallucinogen",
         "song": "Twisted",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Hallucinogen-Twisted"
+        "url": "https://www.youtube.com/results?search_query=Hallucinogen-Twisted",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/phuAEKJkX4LJkszoL-ybHGvouZw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qyd9F8oyUMA"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-27T03:01:44.000Z",
+                "channelId": "UCdoVXXdRFHnMFjhcFrqch9w",
+                "title": "Hallucinogen - Twisted (Full Album)",
+                "description": "Album Goa-Trance (Dragonfly Records) https://www.discogs.com/fr/Hallucinogen-Twisted/release/41400 track-list: 1- LSD 2-Orphic Thrench 3-Alpha Centauri 4- ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qyd9F8oyUMA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qyd9F8oyUMA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qyd9F8oyUMA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OM Shanti",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

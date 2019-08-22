@@ -5,6 +5,40 @@
         "artist": "Heroin",
         "song": "Heroin",
         "year": "(1991-1993)",
-        "url": "https://www.youtube.com/results?search_query=Heroin-Heroin"
+        "url": "https://www.youtube.com/results?search_query=Heroin-Heroin",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/hYD-4k4LfIIOQeV24WqZ2r1L5dY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5c7sMAOI9xo"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-24T16:02:40.000Z",
+                "channelId": "UCFQgi22Ht00CpaOQLtvZx2A",
+                "title": "Heroin addiction: A secret affliction in the US suburbs",
+                "description": "Few families want to acknowledge their struggle with opiates, but heroin deaths have tripled in the last three years. Subscribe to ITV News on YouTube: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5c7sMAOI9xo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5c7sMAOI9xo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5c7sMAOI9xo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITV News",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

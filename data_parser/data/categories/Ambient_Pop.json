@@ -5,6 +5,40 @@
         "artist": "Pale Cocoon",
         "song": "\u7e6d (Cocoon)",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Pale%20Cocoon-%E7%B9%AD%20%28Cocoon%29"
+        "url": "https://www.youtube.com/results?search_query=Pale%20Cocoon-%E7%B9%AD%20%28Cocoon%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ewA891X7MjNjWA-rwXeZJ5ltU3A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I6msTMTlHvA"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-12T19:32:55.000Z",
+                "channelId": "UCKMOvb3AbdiHpBmLLFGPtyA",
+                "title": "Pale Cocoon - Cocoon (\u7e6d\uff09",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I6msTMTlHvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I6msTMTlHvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I6msTMTlHvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u0418\u043d\u043d\u043e\u043a\u043d\u0435\u0442\u0438\u0439 \u041a\u043d\u0435\u043a\u043d\u0435\u0442\u0438\u0439",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

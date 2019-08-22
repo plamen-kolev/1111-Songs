@@ -5,6 +5,40 @@
         "artist": "State 808",
         "song": "Pacific",
         "year": "(1989)",
-        "url": "https://www.youtube.com/results?search_query=State%20808-Pacific"
+        "url": "https://www.youtube.com/results?search_query=State%20808-Pacific",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/J-L1-M3A6PlkH-oOweswkJw6LkE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tLxDRePUwEY"
+            },
+            "snippet": {
+                "publishedAt": "2009-09-18T18:48:02.000Z",
+                "channelId": "UCs0QvR_uiyEo4xzsUzQ6cqg",
+                "title": "808 State - Pacific State (Original Extended Version)",
+                "description": "The original version.......enjoy! No copyright infringement intended. NB This music has nothing to do with Warner Music Group as it was released on an ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tLxDRePUwEY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tLxDRePUwEY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tLxDRePUwEY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Johnny F",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

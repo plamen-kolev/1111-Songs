@@ -5,6 +5,40 @@
         "artist": "Kavinsky",
         "song": "1986",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Kavinsky-1986"
+        "url": "https://www.youtube.com/results?search_query=Kavinsky-1986",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Z03BAfsa7y-5QFqRhB6NiKAmeLw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wKES3IIbTl4"
+            },
+            "snippet": {
+                "publishedAt": "2010-08-06T21:40:25.000Z",
+                "channelId": "UCDGtZ0A8p42xRahdjf-Ooqw",
+                "title": "Kavinsky - 1986 (HQ)",
+                "description": "One of my favourite songs from Kavinsky, '1986'.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wKES3IIbTl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wKES3IIbTl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wKES3IIbTl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JohnnyMountainShow",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

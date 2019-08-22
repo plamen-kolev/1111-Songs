@@ -5,6 +5,40 @@
         "artist": "RP Boo",
         "song": "Baby Come On",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=RP%20Boo-Baby%20Come%20On"
+        "url": "https://www.youtube.com/results?search_query=RP%20Boo-Baby%20Come%20On",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/UFM6qWFs4j9neA7WsMvClDidS8Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dNlX2wFIitA"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-16T17:26:11.000Z",
+                "channelId": "UCSlj1zxcisWYi6ydWiajUow",
+                "title": "Baby Come On",
+                "description": "Provided to YouTube by Cargo Baby Come On \u00b7 RP Boo Classics Vol. 1 \u2117 2015 Copyright Control \u2117 Copyright Control Released on: 2015-04-06 Artist: RP Boo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dNlX2wFIitA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dNlX2wFIitA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dNlX2wFIitA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RP Boo - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

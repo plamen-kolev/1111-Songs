@@ -5,6 +5,40 @@
         "artist": "Feed Me",
         "song": "Feed Me's Big Adventure",
         "year": "(2010)",
-        "url": "https://www.youtube.com/results?search_query=Feed%20Me-Feed%20Me%26%23x27%3Bs%20Big%20Adventure"
+        "url": "https://www.youtube.com/results?search_query=Feed%20Me-Feed%20Me%26%23x27%3Bs%20Big%20Adventure",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/u3DcPvobqNlAJ2BzFr0PcR8rYEg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL98EF1949DC94A8A4"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-26T20:30:48.000Z",
+                "channelId": "UCDZ5xT0mQK2WXFzvZrJFk_Q",
+                "title": "Feed Me's Big Adventure",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tfcCgoH00DA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tfcCgoH00DA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tfcCgoH00DA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "James Greene",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

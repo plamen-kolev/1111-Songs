@@ -5,6 +5,40 @@
         "artist": "Cybotron",
         "song": "Enter",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=Cybotron-Enter"
+        "url": "https://www.youtube.com/results?search_query=Cybotron-Enter",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xvGIos4wWGo6Tg-6NVWn3yRk_G8\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL0ILEW7Puee3FGfMhREGdw1_Abmrqo5AJ"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-09T21:16:30.000Z",
+                "channelId": "UCsx6vv8izcm9T857KduEcwA",
+                "title": "Cybotron - Enter (Official Audio)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9gp2l40LlCw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9gp2l40LlCw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9gp2l40LlCw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Craft Recordings",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

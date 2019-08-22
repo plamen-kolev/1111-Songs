@@ -5,6 +5,40 @@
         "artist": "Sharpnel vs Project Gabbangelion",
         "song": "Sharpnel vs Project Gabbangelion",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Sharpnel%20vs%20Project%20Gabbangelion-Sharpnel%20vs%20Project%20Gabbangelion"
+        "url": "https://www.youtube.com/results?search_query=Sharpnel%20vs%20Project%20Gabbangelion-Sharpnel%20vs%20Project%20Gabbangelion",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/wmRRAKoKPDQQp-q0TKkgeq6UvhY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLC1598C7E72DEE921"
+            },
+            "snippet": {
+                "publishedAt": "2010-03-17T22:10:29.000Z",
+                "channelId": "UCn0o-4Fag4PcVZI40dZ9R9w",
+                "title": "[SRPC-0001] Sharpnel vs Project Gabbangelion",
+                "description": "Epic win DJ Sharpnel album.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J07UqPajpQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J07UqPajpQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J07UqPajpQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FFRrox",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

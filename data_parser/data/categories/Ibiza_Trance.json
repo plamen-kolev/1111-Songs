@@ -5,6 +5,40 @@
         "artist": "Energy 52",
         "song": "Cafe' del Mar",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Energy%2052-Cafe%26%23x27%3B%20del%20Mar"
+        "url": "https://www.youtube.com/results?search_query=Energy%2052-Cafe%26%23x27%3B%20del%20Mar",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/MXwz3DfCN-JZNXfudiXJ6zhZrLg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v4NUAS_HSfw"
+            },
+            "snippet": {
+                "publishedAt": "2010-02-18T05:50:48.000Z",
+                "channelId": "UC_rBMmijaaIqtUdsnt3DHcQ",
+                "title": "Paul Oakenfold - Energy 52 cafe del mar",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v4NUAS_HSfw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v4NUAS_HSfw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v4NUAS_HSfw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TranceMusicStation",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

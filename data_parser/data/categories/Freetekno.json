@@ -5,6 +5,40 @@
         "artist": "Spiral Tribe",
         "song": "Berlin",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Spiral%20Tribe-Berlin"
+        "url": "https://www.youtube.com/results?search_query=Spiral%20Tribe-Berlin",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/GeU9S_1e8D6bJ3d_v6Wrkn26sgE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8bH9YdpVAkQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-03T20:46:03.000Z",
+                "channelId": "UC2cuALzl505RYeIfFPK4pPg",
+                "title": "Spiral Tribe - Berlin 1994 [Side A + B]",
+                "description": "Format: Cassette http://bit.ly/undgr ^_^",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8bH9YdpVAkQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8bH9YdpVAkQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8bH9YdpVAkQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "P4Kid3RM",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

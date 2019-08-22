@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "So Young But So Cold - Underground French Music",
         "year": "(1977-1983)",
-        "url": "https://www.youtube.com/results?search_query=Various-So%20Young%20But%20So%20Cold%20-%20Underground%20French%20Music"
+        "url": "https://www.youtube.com/results?search_query=Various-So%20Young%20But%20So%20Cold%20-%20Underground%20French%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Td3mQ2CySfA5xju7nIJT-5EGkcg\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLMmudHHwtpR5GlfpvMO9HwIYhAvqDeTbJ"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-25T19:27:01.000Z",
+                "channelId": "UCvx8ltqXYZO1RMf4y-YzG3A",
+                "title": "So Young But So Cold : Underground French Music 1977 - 1983",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3n95BQEfLso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3n95BQEfLso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3n95BQEfLso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roberts Filders",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

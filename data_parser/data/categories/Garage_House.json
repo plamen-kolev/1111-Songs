@@ -5,7 +5,41 @@
         "artist": "Larry Levan",
         "song": "Live at Paradise Garage",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Larry%20Levan-Live%20at%20Paradise%20Garage"
+        "url": "https://www.youtube.com/results?search_query=Larry%20Levan-Live%20at%20Paradise%20Garage",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/2hmBN0gMxLP7Bm-JBc81bbzdxFs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "39JerMg2IQE"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-01T01:30:44.000Z",
+                "channelId": "UCBod7M_EX2QsgsrV9ZA6J7g",
+                "title": "Larry Levan - Live At The Paradise Garage [1979]",
+                "description": "If you enjoy my channel please consider donating to it via PayPal classichousejams@gmail.com I love to create the videos and share the memories but I do not ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/39JerMg2IQE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/39JerMg2IQE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/39JerMg2IQE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Old Skool Rewind Official",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 901,
@@ -13,6 +47,40 @@
         "artist": "Various",
         "song": "The Garage Sound - Volume 3 - The Third Generation",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Garage%20Sound%20-%20Volume%203%20-%20The%20Third%20Generation"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Garage%20Sound%20-%20Volume%203%20-%20The%20Third%20Generation",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_WpSR8d2tOtSN072wGeev8-ckEA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLGPa6WE-UKkhWwUHSXzXlvPW3H_f_jUKC"
+            },
+            "snippet": {
+                "publishedAt": "2016-07-23T14:24:05.000Z",
+                "channelId": "UCSsgxvBR2NMG_ErRlTWpJ8A",
+                "title": "The Garage Sound Volume III - The Third Generation",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B0xqDEK8u5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B0xqDEK8u5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B0xqDEK8u5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thomas st.clair",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

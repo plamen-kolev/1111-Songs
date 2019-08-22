@@ -5,6 +5,40 @@
         "artist": "Dinosaur",
         "song": "Dinosaur",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Dinosaur-Dinosaur"
+        "url": "https://www.youtube.com/results?search_query=Dinosaur-Dinosaur",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/d1Tbs9QtqLb_znUpWWnxnkaFxdY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_rmLnHzYjVA"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-21T15:30:00.000Z",
+                "channelId": "UCVrN23cf8SmtNIBK2C4Axbg",
+                "title": "DINO FIGHT | TARBOSAURUS VS THERIZINOSAURUS | THE BEST OF DINOSAURS | DINOSAUR BATTLE | DINO ARENA",
+                "description": "DINO FIGHT. TARBOSAURUS VS THERIZINOSAURUS. The best video about dinosaurs. See dinosaurs fighting eachother in a series of short battle clips.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_rmLnHzYjVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_rmLnHzYjVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_rmLnHzYjVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EARTH PLANET",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Evidence - Downwards",
         "year": "(1993-1997)",
-        "url": "https://www.youtube.com/results?search_query=Various-Evidence%20-%20Downwards"
+        "url": "https://www.youtube.com/results?search_query=Various-Evidence%20-%20Downwards",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FTTJOJtf3puVDktrFaWuOGOBEIY\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL82wWESj32kYvRLQbHTUVQLphBRNXr4kd"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-28T15:36:00.000Z",
+                "channelId": "UCHL7_pOFPl4vGk4TdFazCAg",
+                "title": "VA - Evidence, Downwards 1993 - 1997 [DNCD8]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/epVcJPiUqgs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/epVcJPiUqgs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/epVcJPiUqgs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Techno Scene",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

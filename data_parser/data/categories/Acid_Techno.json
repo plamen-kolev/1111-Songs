@@ -5,6 +5,40 @@
         "artist": "Model 500",
         "song": "Interference - Electronic",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=Model%20500-Interference%20-%20Electronic"
+        "url": "https://www.youtube.com/results?search_query=Model%20500-Interference%20-%20Electronic",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/LZP2TUPFjrAZQwevQ27K5XZT_uM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ofZrHhqxyr0"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-01T02:42:26.000Z",
+                "channelId": "UCNB4DVz3XCil5Ix2Vfql0qg",
+                "title": "Model 500 - Interference (Mix 2)",
+                "description": "Model 500 - Interference (Mix 2) Interference / Electronic, Metroplex, M 012, 1988.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ofZrHhqxyr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ofZrHhqxyr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ofZrHhqxyr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "acaixaelectronica",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

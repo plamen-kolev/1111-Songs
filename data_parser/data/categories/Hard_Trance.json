@@ -5,6 +5,40 @@
         "artist": "Jones & Stephenson",
         "song": "The First Rebirth - The Life of Flow",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Jones%20%26amp%3B%20Stephenson-The%20First%20Rebirth%20-%20The%20Life%20of%20Flow"
+        "url": "https://www.youtube.com/results?search_query=Jones%20%26amp%3B%20Stephenson-The%20First%20Rebirth%20-%20The%20Life%20of%20Flow",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AZo-RvgFGNyTTuS-PBO_MTfjLh0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ghDlYgvod9k"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-24T12:13:16.000Z",
+                "channelId": "UCjL7_8Myfhyr2NnHbr51DRQ",
+                "title": "Jones &amp; Stephenson - The First Rebirth (Original Mix)",
+                "description": "Beatport: https://www.beatport.com/release/the-first-rebirth/1864498 The 1993 release of Jones & Stephenson's - The First Rebirth, physically shook the whole ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ghDlYgvod9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ghDlYgvod9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ghDlYgvod9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bonzai Allstars",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

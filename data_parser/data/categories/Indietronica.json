@@ -5,6 +5,40 @@
         "artist": "Trembling Blue Stars",
         "song": "Her Handwriting",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Trembling%20Blue%20Stars-Her%20Handwriting"
+        "url": "https://www.youtube.com/results?search_query=Trembling%20Blue%20Stars-Her%20Handwriting",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Gv6-rWBgsNXmx2-PImLNJUMWmS8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HO3tBHjmAyA"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-13T15:13:36.000Z",
+                "channelId": "UC709TSJEfIf0Qndf2o0uKpw",
+                "title": "Trembling Blue Stars - Her Handrwiting (1996) Full Album",
+                "description": "Trembling Blue Stars was the London-based band based music project of Robert Wratten, started in 1996. Bobby Wratten: guitar, vocals; Keris Howard: bass, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HO3tBHjmAyA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HO3tBHjmAyA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HO3tBHjmAyA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Renata Cruz",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

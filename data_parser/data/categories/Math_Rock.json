@@ -5,6 +5,40 @@
         "artist": "Don Caballero",
         "song": "Singles Breaking Up - Volume 1",
         "year": "(1992-1997)",
-        "url": "https://www.youtube.com/results?search_query=Don%20Caballero-Singles%20Breaking%20Up%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Don%20Caballero-Singles%20Breaking%20Up%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rNOkT5cAwijy-yEOJq5tX5_NmOk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SxNJHI_ivRo"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-23T02:21:56.000Z",
+                "channelId": "UCKqzwP3USx4Gj0nFWdpAa-g",
+                "title": "Daddy Longhead - Mr. Stone",
+                "description": "Mr. Stone -uploaded in HD at http://www.TunesToTube.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SxNJHI_ivRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SxNJHI_ivRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SxNJHI_ivRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lysurgeon",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

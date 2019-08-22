@@ -5,6 +5,40 @@
         "artist": "Lizzy Mercier Descloux",
         "song": "Press Color",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Lizzy%20Mercier%20Descloux-Press%20Color"
+        "url": "https://www.youtube.com/results?search_query=Lizzy%20Mercier%20Descloux-Press%20Color",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/eFXv5T7nPO_C_gTmpBxX-moeJA4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LLrcQqizGdM"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-19T04:14:47.000Z",
+                "channelId": "UCy-Bw571kX9d3SrpT7nSj3w",
+                "title": "Lizzy Mercier Descloux - Press Color (FULL ALBUM)",
+                "description": "RIP My Queen 0:00 Fire 5:10 Torso Corso 6:57 Mission Impossible 9:33 No Golden Throat 12:12 JIm On The Move 14:44 Wawa 17:09 Tumour 20:10 Aya Mood ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LLrcQqizGdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LLrcQqizGdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LLrcQqizGdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Slight Difference",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

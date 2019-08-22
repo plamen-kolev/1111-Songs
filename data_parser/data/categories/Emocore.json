@@ -5,6 +5,40 @@
         "artist": "Rites of Spring",
         "song": "Rites of Spring",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Rites%20of%20Spring-Rites%20of%20Spring"
+        "url": "https://www.youtube.com/results?search_query=Rites%20of%20Spring-Rites%20of%20Spring",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/svQ8ID5ooigDSDRqjWAV8s3Yf6E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Bf7mukqw3hQ"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-22T15:31:51.000Z",
+                "channelId": "UC3gNt79g24u10fSnNbC7Iww",
+                "title": "Rites Of Spring - End On End [FULL ALBUM]",
+                "description": "[Rites Of Spring LP, 1985] 1. Spring 00:00 2. Deeper Than Inside 02:10 3. For Want Of 04:28 4. Hain's Point 07:37 5. All There Is 09:46 6. Drink Deep 12:41 7.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bf7mukqw3hQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bf7mukqw3hQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bf7mukqw3hQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gilpow",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

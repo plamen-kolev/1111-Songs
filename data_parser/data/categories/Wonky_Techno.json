@@ -5,6 +5,40 @@
         "artist": "Cristian Vogel",
         "song": "Absolute Time",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Cristian%20Vogel-Absolute%20Time"
+        "url": "https://www.youtube.com/results?search_query=Cristian%20Vogel-Absolute%20Time",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/th2Pow4vLGBOVa8zRrQ_2yWtfqw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1k6JZGl9b_4"
+            },
+            "snippet": {
+                "publishedAt": "2018-12-29T20:29:34.000Z",
+                "channelId": "UCBYxQG5MrupbHf24sxLYksQ",
+                "title": "Cristian Vogel - Absolute (Original Mix)",
+                "description": "Cristian Vogel - Absolute Time Label: \u00a9 Tresor / Catalog-Nr: TRESOR 22 Genre: Techno Release Date: 21.06.1995 Buy: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1k6JZGl9b_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1k6JZGl9b_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1k6JZGl9b_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DykksiTek",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

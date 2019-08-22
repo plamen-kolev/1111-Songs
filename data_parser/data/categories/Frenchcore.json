@@ -5,6 +5,40 @@
         "artist": "Micropoint",
         "song": "Neurophonie",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Micropoint-Neurophonie"
+        "url": "https://www.youtube.com/results?search_query=Micropoint-Neurophonie",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/-bmOtp2U6vZrJWyxHdY6JrAVYVo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IAUmJZC92Zc"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-15T17:17:03.000Z",
+                "channelId": "UCKCGGluXNcZxk7LsLxdLuzw",
+                "title": "Micropoint - Neurophonie - full Album",
+                "description": "Micropoint - Neurophonie - full Album Tracklist: 01 - Slow Scratch 02 - Nerojuice 03 - Dosage Correct 04 - Data Cops 05 - Serotonin 06 - Stimulation Binaire 07 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IAUmJZC92Zc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IAUmJZC92Zc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IAUmJZC92Zc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BoMbOkL44T",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

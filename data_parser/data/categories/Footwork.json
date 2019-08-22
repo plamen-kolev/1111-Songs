@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Bangs & Works - Volume 1 - A Chicago Footwork Compilation",
         "year": "(2010)",
-        "url": "https://www.youtube.com/results?search_query=Various-Bangs%20%26amp%3B%20Works%20-%20Volume%201%20-%20A%20Chicago%20Footwork%20Compilation"
+        "url": "https://www.youtube.com/results?search_query=Various-Bangs%20%26amp%3B%20Works%20-%20Volume%201%20-%20A%20Chicago%20Footwork%20Compilation",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vprszY3bhI6Kuzn99kdFhW4abYc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5Z3GZnN_VTk"
+            },
+            "snippet": {
+                "publishedAt": "2010-09-23T19:03:26.000Z",
+                "channelId": "UCrYb5vulFe9B5pGeKlUss6w",
+                "title": "BANGS &amp; WORKS VOL.1 (PLANET MU)",
+                "description": "On December 6th Planet Mu release the following various artists compilation of Chicago Footwork Tracks on triple vinyl, cd and digital.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Z3GZnN_VTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Z3GZnN_VTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Z3GZnN_VTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mikeplanetmu",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

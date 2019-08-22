@@ -5,6 +5,40 @@
         "artist": "2 Unlimited",
         "song": "Get Ready for This",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=2%20Unlimited-Get%20Ready%20for%20This"
+        "url": "https://www.youtube.com/results?search_query=2%20Unlimited-Get%20Ready%20for%20This",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rICFrB8jEUCLDdB1k68RLQuXNpo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9VAamPxlMG0"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-09T00:57:34.000Z",
+                "channelId": "UC0TJKMhs8zcbw3HmGzUUe3Q",
+                "title": "2 Unlimited- Get Ready For This HD",
+                "description": "2 Unlimiteds music video for Get Ready For This.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9VAamPxlMG0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9VAamPxlMG0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9VAamPxlMG0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Paparoach493",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

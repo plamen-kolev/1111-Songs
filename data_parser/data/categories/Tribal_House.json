@@ -5,6 +5,40 @@
         "artist": "Yothu Yindi",
         "song": "Treaty (The Filthy Lucre Remix)",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Yothu%20Yindi-Treaty%20%28The%20Filthy%20Lucre%20Remix%29"
+        "url": "https://www.youtube.com/results?search_query=Yothu%20Yindi-Treaty%20%28The%20Filthy%20Lucre%20Remix%29",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tMStWFWuasWxJiQJuxoh8IAvR6c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2uszdyMaC2c"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-22T04:52:00.000Z",
+                "channelId": "UClvCYrXBy7ft_5zKD7-cxKQ",
+                "title": "Yothu Yindi - Treaty (Filthy Lucre Radio Edit)",
+                "description": "You can find this hit and many more on their best of 'Healing Stone'. You can buy 'Healing Stone' now from; - JB HiFi - http://bit.ly/1qV1Xuq - iTunes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2uszdyMaC2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2uszdyMaC2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2uszdyMaC2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mushroomvideos",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

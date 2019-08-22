@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Shut Up And Dance",
         "year": "(1989-1992)",
-        "url": "https://www.youtube.com/results?search_query=Various-Shut%20Up%20And%20Dance"
+        "url": "https://www.youtube.com/results?search_query=Various-Shut%20Up%20And%20Dance",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7cNGHXHbByQZMSHmmDMO7AWFbQE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6JCLY0Rlx6Q"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-23T16:00:18.000Z",
+                "channelId": "UC33W-ccS1iDKLxlI5WOPknA",
+                "title": "WALK THE MOON - Shut Up and Dance (Official Video)",
+                "description": "Check out the official music video for \"Shut Up and Dance\" by WALK THE MOON Download \"Shut Up and Dance\" on iTunes: http://smarturl.it/SUAD?Iqid=yt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JCLY0Rlx6Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WalkTheMoonVEVO",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

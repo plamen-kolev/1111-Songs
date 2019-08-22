@@ -5,6 +5,40 @@
         "artist": "Undying",
         "song": "The Whispered Lies of Angels",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Undying-The%20Whispered%20Lies%20of%20Angels"
+        "url": "https://www.youtube.com/results?search_query=Undying-The%20Whispered%20Lies%20of%20Angels",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rNa_iyBJqYkz4UuFkJ-P9j9D6LY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "istMvO0WdLI"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-21T05:25:01.000Z",
+                "channelId": "UCXgEX89Cs26aypz0GAvTX6w",
+                "title": "Undying - The Whispered Lies Of Angels (Full Album) - 2000",
+                "description": "Band: Undying Album: The Whispered Lies Of Angels Year: 2000 Country: USA 01. Echoes 02. Tears Seven Times Salt 03. The Company Of Storms 04.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/istMvO0WdLI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/istMvO0WdLI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/istMvO0WdLI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LaRekoHxCMusic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

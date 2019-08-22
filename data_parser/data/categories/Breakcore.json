@@ -5,6 +5,40 @@
         "artist": "Alec Empire",
         "song": "The Destroyer",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Alec%20Empire-The%20Destroyer"
+        "url": "https://www.youtube.com/results?search_query=Alec%20Empire-The%20Destroyer",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/oWK8oYIl0eBsaO9JBxtZ-rwGy78\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cYSSQuy71Vg"
+            },
+            "snippet": {
+                "publishedAt": "2011-03-06T16:11:09.000Z",
+                "channelId": "UCGra6gHPYEhX1yH-q9jDuEA",
+                "title": "Alec Empire - The Destroyer",
+                "description": "Alec Empire - Squeeze The Trigger. Digital Hardcore Recordings 1997.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cYSSQuy71Vg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cYSSQuy71Vg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cYSSQuy71Vg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "7ym0n6",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

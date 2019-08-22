@@ -5,6 +5,40 @@
         "artist": "The Beatmasters",
         "song": "Rok da House",
         "year": "(1987)",
-        "url": "https://www.youtube.com/results?search_query=The%20Beatmasters-Rok%20da%20House"
+        "url": "https://www.youtube.com/results?search_query=The%20Beatmasters-Rok%20da%20House",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/aUOAeiXd_D7yMK5ENa6hkzRXs0g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eEgJv4Qn1JM"
+            },
+            "snippet": {
+                "publishedAt": "2009-01-18T21:35:57.000Z",
+                "channelId": "UCVdA8dJG0C56HJINHlhWm3A",
+                "title": "THE BEATMASTERS   THE COOKIE CREW - Rok Da House   12 Mix",
+                "description": "LA ZIK QUI CLAQUE ET LES MEILLEURS SOUVENIRS C'EST CHAQUE LUNDI DE 19H30 A 21H :L'EMISSION ELECTRO SOUND, SUR RYTHMEFM.FR LE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eEgJv4Qn1JM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eEgJv4Qn1JM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eEgJv4Qn1JM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "jackrythmefm",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

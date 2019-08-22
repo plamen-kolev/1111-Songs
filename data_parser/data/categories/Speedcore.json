@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Braindead",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Various-Braindead"
+        "url": "https://www.youtube.com/results?search_query=Various-Braindead",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/qKlIMZmHXSryoha0cK-v3Yc5ypY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xsfimUD8Gcc"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-26T14:11:14.000Z",
+                "channelId": "UCnII8EJeZyLjsKp_5g7exlg",
+                "title": "Unrest - Braindead",
+                "description": "Unrest - Braindead https://www.hardtunes.com/albums/various-artists-hardcore-op-je-muil/4700.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xsfimUD8Gcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xsfimUD8Gcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xsfimUD8Gcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Uptempo Hardcore",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

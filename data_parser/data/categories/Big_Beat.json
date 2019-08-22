@@ -5,6 +5,40 @@
         "artist": "The Prodigy",
         "song": "Music for the Jilted Generation",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=The%20Prodigy-Music%20for%20the%20Jilted%20Generation"
+        "url": "https://www.youtube.com/results?search_query=The%20Prodigy-Music%20for%20the%20Jilted%20Generation",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/XX_ttnMZi5cwSX_zljNs9SH8S50\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xb9SfGg-aFs"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-17T15:02:46.000Z",
+                "channelId": "UChrozx9BcT9jKHM7C_ID6aw",
+                "title": "&quot;&quot;The Prodigy - More Music For The Jilted Generation (Remastered) (2008)&quot;&quot;",
+                "description": "RmFrZQ8 \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u043d\u0430\u0437\u0430\u0434 (\u0438\u0437\u043c\u0435\u043d\u0435\u043d\u043e) So.. I've decided to take my work back underground.. to stop falling into wrong hands.. [00:00:00] Intro (Remastered) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xb9SfGg-aFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xb9SfGg-aFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xb9SfGg-aFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mutabor Mutabor",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

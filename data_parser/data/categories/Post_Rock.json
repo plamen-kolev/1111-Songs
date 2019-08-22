@@ -5,6 +5,40 @@
         "artist": "Bark Psychosis",
         "song": "Independency",
         "year": "(1989-1992)",
-        "url": "https://www.youtube.com/results?search_query=Bark%20Psychosis-Independency"
+        "url": "https://www.youtube.com/results?search_query=Bark%20Psychosis-Independency",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/4yZKlVmVljikK6_MQhWl0MzRrk8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zYmD9SOIBEg"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-01T04:59:45.000Z",
+                "channelId": "UCtj41V5UWA4Jqn4lXTcKK_A",
+                "title": "Bark Psychosis - Independency [Full Album]",
+                "description": "1994 1. I Know 2. Nothing Feels 3. All Different Things 4. By Blow 5. Manman 6. Blood Rush 7. Tooled Up 8. Scum.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zYmD9SOIBEg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zYmD9SOIBEg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zYmD9SOIBEg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "bariken",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

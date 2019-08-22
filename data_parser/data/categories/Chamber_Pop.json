@@ -5,6 +5,40 @@
         "artist": "Tindersticks",
         "song": "Tindersticks",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Tindersticks-Tindersticks"
+        "url": "https://www.youtube.com/results?search_query=Tindersticks-Tindersticks",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/VwykpUKA0M9wTz5hRlF1ca-vb3Q\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL94gOvpr5yt07WjpWkN9LMlBeEDcMNd-G"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-02T07:30:33.000Z",
+                "channelId": "UCf4HzWg8lmLNxds5qvGHY7Q",
+                "title": "Tindersticks \"Tindersticks\" (1993) - Full Album",
+                "description": "Tindersticks is the debut album by the chamber pop band Tindersticks, released in the UK on 11 October 1993 on This Way Up. Following positive reviews for ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/53U-NoqHz5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/53U-NoqHz5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/53U-NoqHz5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roy Hulland",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

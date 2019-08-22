@@ -5,6 +5,40 @@
         "artist": "American Music Club",
         "song": "The Restless Stranger",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=American%20Music%20Club-The%20Restless%20Stranger"
+        "url": "https://www.youtube.com/results?search_query=American%20Music%20Club-The%20Restless%20Stranger",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/RS0plADNqWLEHzMRcONp4GN_Rzw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rn6_MH70OTw"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-01T00:59:33.000Z",
+                "channelId": "UCopspSr2W-0OYLn47-aJ2_Q",
+                "title": "American Music Club - The Restless Stranger (Full Album)",
+                "description": "1. Room Above the Club 00:00 2. $1000000 Song 3:51 3. Away Down the Street 7:49 4. Yvonne Gets Dumped 12:12 5. Mr. Lucky 15:30 6. Point of Desire 18:15 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rn6_MH70OTw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rn6_MH70OTw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rn6_MH70OTw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurry Goren",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

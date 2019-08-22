@@ -5,6 +5,40 @@
         "artist": "Scraping Foetus Off the Wheel",
         "song": "Hole",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Scraping%20Foetus%20Off%20the%20Wheel-Hole"
+        "url": "https://www.youtube.com/results?search_query=Scraping%20Foetus%20Off%20the%20Wheel-Hole",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/j4ctXcBy4eoNKtC3E0GoQPae9vs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eEB6blu1zKQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-11T21:00:12.000Z",
+                "channelId": "UCPJWboxsg37yFECdGmRjeGw",
+                "title": "Foetus - Hole (1984) Full Album",
+                "description": "Tracklist: 01. Clothes Hoist 0:00 02. Lust For Death 3:26 03. I'll Meet You In Poland, Baby 7:04 04. Hot Horse 11:54 05. Sick Man 15:25 06. Street of Shame ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eEB6blu1zKQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eEB6blu1zKQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eEB6blu1zKQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rare Music #2",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

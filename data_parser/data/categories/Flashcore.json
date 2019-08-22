@@ -5,6 +5,40 @@
         "artist": "Richard Devine",
         "song": "Richard Coleman Devine",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Richard%20Devine-Richard%20Coleman%20Devine"
+        "url": "https://www.youtube.com/results?search_query=Richard%20Devine-Richard%20Coleman%20Devine",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jrLmdmQ2FpgsqYuxSUtqLTcP308\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TTP55mMFSxI"
+            },
+            "snippet": {
+                "publishedAt": "2011-05-25T02:29:09.000Z",
+                "channelId": "UCorSxdSLcrfXj_cwtCDnyyw",
+                "title": "Richard Coleman Divine - Untitled 4",
+                "description": "Schematic 006 - Richard Colman Divine EP - Clear Vinyl 1997.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TTP55mMFSxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TTP55mMFSxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TTP55mMFSxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anteye",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

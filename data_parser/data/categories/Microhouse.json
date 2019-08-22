@@ -5,6 +5,40 @@
         "artist": "Isol\u00e9e",
         "song": "Beau mot plage",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Isol%C3%A9e-Beau%20mot%20plage"
+        "url": "https://www.youtube.com/results?search_query=Isol%C3%A9e-Beau%20mot%20plage",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/e0XyJZmdht6CTUbVLm1N4eihZR0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mQy2V_3LRMQ"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-30T14:09:20.000Z",
+                "channelId": "UCFNfezEnS1klpHCbH0fFlZA",
+                "title": "Isol\u00e9e &#39;Beau Mot Plage&#39; (Original)",
+                "description": "http://www.beatport.com/release/beau-mot-plage-freeform-reform-onionz-and-original-versions/350589 'Beau Mot Plage' is house, but more for the dark ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mQy2V_3LRMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mQy2V_3LRMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mQy2V_3LRMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Classic Music Company",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

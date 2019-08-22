@@ -5,6 +5,40 @@
         "artist": "Atari Teenage Riot",
         "song": "Atari Teenage Riot",
         "year": "(1992-2000)",
-        "url": "https://www.youtube.com/results?search_query=Atari%20Teenage%20Riot-Atari%20Teenage%20Riot"
+        "url": "https://www.youtube.com/results?search_query=Atari%20Teenage%20Riot-Atari%20Teenage%20Riot",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/esIOx6wKFf3KuIMj_YDHU2Ht9Ro\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6o5v2E20jKg"
+            },
+            "snippet": {
+                "publishedAt": "2007-03-13T13:32:58.000Z",
+                "channelId": "UCJM__U-Z5c7B9fUdsU63qqg",
+                "title": "Atari Teenage Riot - Atari Teenage Riot",
+                "description": "Atari Teenage Riot - Atari Teenage Riot PV.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6o5v2E20jKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6o5v2E20jKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6o5v2E20jKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sd6r131r303",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

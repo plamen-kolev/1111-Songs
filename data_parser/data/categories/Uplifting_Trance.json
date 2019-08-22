@@ -5,6 +5,40 @@
         "artist": "Carlos",
         "song": "The Silmarillia",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Carlos-The%20Silmarillia"
+        "url": "https://www.youtube.com/results?search_query=Carlos-The%20Silmarillia",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/fR5wx04eh-jq7S1DT2xtF2EL-jw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5JzQBgye6zc"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-19T16:00:01.000Z",
+                "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+                "title": "Carlos - The Silmarillia 2019 (Official Audio)",
+                "description": "Carlos - The Silmarillia 2019 is OUT NOW! Like this track? Download on Beatport or add it to your favourite Spotify/Apple Music playlist by clicking HERE: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5JzQBgye6zc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5JzQBgye6zc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5JzQBgye6zc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Spinnin' Records",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Justice",
         "song": "Waters of Nazareth",
         "year": "(2005)",
-        "url": "https://www.youtube.com/results?search_query=Justice-Waters%20of%20Nazareth"
+        "url": "https://www.youtube.com/results?search_query=Justice-Waters%20of%20Nazareth",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Wpwn2L_HQCN-8SKsrdEI2yrB4F4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1SEgoi7kjw8"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-07T17:20:08.000Z",
+                "channelId": "UCQ5Ssrs48yJBfOesfDqXUeA",
+                "title": "Justice - Waters Of Nazareth - \u2020",
+                "description": "Justice - Waters Of Nazareth - \u2020 IRIS: A SPACE OPERA BY JUSTICE Get your ticket here: https://EdBanger.lnk.to/Justice_TicketsIris Subscribe to Justice's official ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1SEgoi7kjw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1SEgoi7kjw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1SEgoi7kjw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Justice",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Cocteau Twins",
         "song": "Garlands",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Cocteau%20Twins-Garlands"
+        "url": "https://www.youtube.com/results?search_query=Cocteau%20Twins-Garlands",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tLTJbdjwG8fZNFew8RR47-MAbuk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLpNjiONNer0_iN5gln2m_bV7tL3b2CeTX"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-05T16:14:10.000Z",
+                "channelId": "UCPhp7ssezSdcg04nZACWsHQ",
+                "title": "Cocteau Twins \"Garlands\" (Full Album)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HZg2SjtNb5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HZg2SjtNb5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HZg2SjtNb5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Charles Mills",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

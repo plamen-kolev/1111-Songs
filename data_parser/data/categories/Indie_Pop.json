@@ -5,6 +5,40 @@
         "artist": "The Go_Betweens",
         "song": "The Lost Album",
         "year": "(1978-1979)",
-        "url": "https://www.youtube.com/results?search_query=The%20Go_Betweens-The%20Lost%20Album"
+        "url": "https://www.youtube.com/results?search_query=The%20Go_Betweens-The%20Lost%20Album",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/-x1MfSig07kOa36P4JIwIx_apIQ\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLcGwQrbJTMPBf555GQKddPe37Z_OLVni9"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-06T22:18:44.000Z",
+                "channelId": "UC9YotBk53iWbrY1BS0i-y4w",
+                "title": "go betweens 78-79",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aC21C0NPrNo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aC21C0NPrNo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aC21C0NPrNo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "joscofe",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "My Bloody Valentine",
         "song": "You Made Me Realise",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=My%20Bloody%20Valentine-You%20Made%20Me%20Realise"
+        "url": "https://www.youtube.com/results?search_query=My%20Bloody%20Valentine-You%20Made%20Me%20Realise",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Jknz3SuhV_RxwWeg5Fx2Nm-i8E0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8GcdtkSPdPw"
+            },
+            "snippet": {
+                "publishedAt": "2010-02-15T04:52:24.000Z",
+                "channelId": "UCeDFHkifQF0YXAb4jJ3K9iQ",
+                "title": "My Bloody Valentine - You Made Me Realise",
+                "description": "First track off of the You Made Me Realise EP.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8GcdtkSPdPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8GcdtkSPdPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8GcdtkSPdPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lee Sin",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

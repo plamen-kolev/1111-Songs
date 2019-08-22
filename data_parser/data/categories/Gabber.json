@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Fucking Hardcore",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Various-Fucking%20Hardcore"
+        "url": "https://www.youtube.com/results?search_query=Various-Fucking%20Hardcore",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/uoUD7LqDB9cUd5IGWgOBYJXRD1g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v1rnmPUQaVg"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-20T22:28:39.000Z",
+                "channelId": "UCPnUXnnl7xs0uipioe4GutA",
+                "title": "Mokum Fucking Hardcore Pt 3 Full Album 1995",
+                "description": "https://www.discogs.com/Various-Fking-Hardcore-Pt3/release/40428 Tracklist: 01 Chosen Few - Fucking Hardcore #3 00:00 02 Technohead - I Wanna Be A ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v1rnmPUQaVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v1rnmPUQaVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v1rnmPUQaVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zertrex",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

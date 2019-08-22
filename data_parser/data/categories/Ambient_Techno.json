@@ -5,6 +5,40 @@
         "artist": "Carl Craig",
         "song": "Elements",
         "year": "(1989-1990)",
-        "url": "https://www.youtube.com/results?search_query=Carl%20Craig-Elements"
+        "url": "https://www.youtube.com/results?search_query=Carl%20Craig-Elements",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Qv0wKGTV0JijHC2SZ4QgXDP8VSo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DgcXPLy9qFE"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-25T03:52:44.000Z",
+                "channelId": "UCqK6dN8T1npNfPLaHlIQ5jA",
+                "title": "Psyche / BFC \u2014 Elements 1989-1990 (Carl Craig)(Full Album)",
+                "description": "A compilation of classic Carl Craig's tunes released under his Psyche and BFC names. Style: Techno, Ambient, Experimental ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DgcXPLy9qFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DgcXPLy9qFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DgcXPLy9qFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Healing Songs Space",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

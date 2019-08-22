@@ -5,6 +5,40 @@
         "artist": "BT",
         "song": "Ima",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=BT-Ima"
+        "url": "https://www.youtube.com/results?search_query=BT-Ima",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TtUNOVyW7qNwaqui7i_YKZxk5xs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KTEmQzEknis"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-18T21:17:20.000Z",
+                "channelId": "UC6zUNy1s8rb4sRBjvjvcWcA",
+                "title": "BT \u2014 Ima (1995/Full album) \u2022 Progressive Trance",
+                "description": "00:00 Nocturnal transmission 08:37 Quark 15:04 Tripping the light fantastic 21:33 Sasha's voyage of Ima \u2014 21:33 Embracing the future (Embracing the sunshine ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KTEmQzEknis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KTEmQzEknis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KTEmQzEknis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "12edit",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

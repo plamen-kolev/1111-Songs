@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Industrial Fucking Strength",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Various-Industrial%20Fucking%20Strength"
+        "url": "https://www.youtube.com/results?search_query=Various-Industrial%20Fucking%20Strength",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/gc8g5rPN5l3VN7S54nCNevIiZQE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N8EXLCptm00"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-08T13:25:59.000Z",
+                "channelId": "UCjgRIJlVTC-XUnhPyzZX0dg",
+                "title": "INDUSTRIAL STRENGTH [FULL ALBUM 117:31 MIN] 1995 HD HQ HIGH QUALITY (2-CD-SET)",
+                "description": "INDUSTRIAL STRENGTH - INDUSTRIAL STRENGTH 1995 TRACKLIST CD 1 01 Mescalinium - Mescalinium United 00:00 02 Disintegrator - Locked On Target ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N8EXLCptm00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N8EXLCptm00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N8EXLCptm00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "missedHARDCOREGABBER",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

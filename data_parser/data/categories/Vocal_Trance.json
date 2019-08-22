@@ -5,6 +5,40 @@
         "artist": "Grace",
         "song": "Not Over Yet",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Grace-Not%20Over%20Yet"
+        "url": "https://www.youtube.com/results?search_query=Grace-Not%20Over%20Yet",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/l1PyEfinL75rm85lk0gzUkpuI20\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oBUT0cxtHlg"
+            },
+            "snippet": {
+                "publishedAt": "2007-07-03T18:28:30.000Z",
+                "channelId": "UCmXIRBw5baGbdjFfX8pHB8g",
+                "title": "Grace - Not Over Yet",
+                "description": "Grace - Not Over Yet music video.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oBUT0cxtHlg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oBUT0cxtHlg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oBUT0cxtHlg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "steeeeea",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

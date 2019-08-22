@@ -5,6 +5,40 @@
         "artist": "Cap'n Jazz",
         "song": "Burritos, Inspiration Point, ...",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=Cap%26%23x27%3Bn%20Jazz-Burritos%2C%20Inspiration%20Point%2C%20..."
+        "url": "https://www.youtube.com/results?search_query=Cap%26%23x27%3Bn%20Jazz-Burritos%2C%20Inspiration%20Point%2C%20...",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ndph_JHbGg_-Mb3sklFnXenUxtA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL578wO5QC9fQxoPq0dS-qRZgR_aFfPb7b"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-23T18:09:57.000Z",
+                "channelId": "UCV9n7KZ9og_kVVftXE9pzUA",
+                "title": "Cap'n Jazz - Burritos, Inspiration Points,.... (Shmap'n Shmazz)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o0lCewxDrDU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o0lCewxDrDU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o0lCewxDrDU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lam Viet Thang",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

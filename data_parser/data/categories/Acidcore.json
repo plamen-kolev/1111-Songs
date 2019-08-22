@@ -5,6 +5,40 @@
         "artist": "AFX",
         "song": "Analog Bubblebath - Volume 2",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=AFX-Analog%20Bubblebath%20-%20Volume%202"
+        "url": "https://www.youtube.com/results?search_query=AFX-Analog%20Bubblebath%20-%20Volume%202",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8GysMlml7x7__7DLDjGYRlyFvmo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2p8uvUP5GO4"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-05T22:27:15.000Z",
+                "channelId": "UC-K-dw6PZmAB39fkOXhQCDw",
+                "title": "AFX - Analog Bubblebath 2 (1991)",
+                "description": "The only version of the analogue bubblebath series that exists on youtube is all of them together, so I'm splitting them up. Here's volume 2. Tracklist: 1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2p8uvUP5GO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2p8uvUP5GO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2p8uvUP5GO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Avarita",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

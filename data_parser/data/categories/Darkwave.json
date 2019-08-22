@@ -5,6 +5,40 @@
         "artist": "R.L. Crutchfield's Dark Day",
         "song": "Exterminating Angel",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=R.L.%20Crutchfield%26%23x27%3Bs%20Dark%20Day-Exterminating%20Angel"
+        "url": "https://www.youtube.com/results?search_query=R.L.%20Crutchfield%26%23x27%3Bs%20Dark%20Day-Exterminating%20Angel",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/URueM0dpR5kJmfn9eLauDA_8o7o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lfYw9vELWEw"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-06T14:05:31.000Z",
+                "channelId": "UC0BuQ-tCVtx5HLmqoUn3psg",
+                "title": "Dark Day - Exterminating Angel (Full Album)",
+                "description": "A1 Raven's Wing 1:56 A2 Forced Landing 2:06 A3 Arp's Carpet 3:00 A4 Chameleon 2:31 A5 Crown Of Thorns 2:10 A6 No, Nothing, Never 6:12 Vocals [Second] ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lfYw9vELWEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lfYw9vELWEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lfYw9vELWEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "isolitiignoti1",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

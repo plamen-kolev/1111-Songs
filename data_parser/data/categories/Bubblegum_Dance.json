@@ -5,6 +5,40 @@
         "artist": "Aqua",
         "song": "Aquarium",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Aqua-Aquarium"
+        "url": "https://www.youtube.com/results?search_query=Aqua-Aquarium",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/lgPZUy9AsREovuKbd8s9wkZqNMk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLF1B08092157973EF"
+            },
+            "snippet": {
+                "publishedAt": "2011-10-27T10:15:38.000Z",
+                "channelId": "UChgUPgEvkvZoLwzostvRlBA",
+                "title": "Aquarium Full Album",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mVOD7hM5Zr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mVOD7hM5Zr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mVOD7hM5Zr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marc Lenzo",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

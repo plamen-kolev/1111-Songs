@@ -5,6 +5,40 @@
         "artist": "Phuture",
         "song": "Acid Tracks - Phuture Jacks - Your Only Friend",
         "year": "(1985-1987)",
-        "url": "https://www.youtube.com/results?search_query=Phuture-Acid%20Tracks%20-%20Phuture%20Jacks%20-%20Your%20Only%20Friend"
+        "url": "https://www.youtube.com/results?search_query=Phuture-Acid%20Tracks%20-%20Phuture%20Jacks%20-%20Your%20Only%20Friend",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/q9Z5oDv_iaugLwMDNVx7kg2UUuA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "igNBeo3QSqc"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-29T17:33:17.000Z",
+                "channelId": "UCkcUxLKo_mP3OI7MqIO68kw",
+                "title": "PHUTURE - ACID TRACKS (1987) VINYL",
+                "description": "A - Acid Tracks (Vocal Mix) 00:00 B - Phuture Jacks 12:12 B1 - Your Only Friend 19:57 Label: Trax Records   \u2013 TX142 Format: Vinyl, 12\", 33 \u2153 RPM, Reissue, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/igNBeo3QSqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/igNBeo3QSqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/igNBeo3QSqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Igor Karevski",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

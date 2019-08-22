@@ -5,6 +5,40 @@
         "artist": "The Soft Boys",
         "song": "A Can of Bees",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=The%20Soft%20Boys-A%20Can%20of%20Bees"
+        "url": "https://www.youtube.com/results?search_query=The%20Soft%20Boys-A%20Can%20of%20Bees",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/SsLx0d02UUEnVwrh-qMuzvuf9pg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hBvINSbz2OI"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-26T11:16:25.000Z",
+                "channelId": "UCIqMmRFNE-_qOtvkv6LKINQ",
+                "title": "The Soft Boys - A Can Of Bees (full album)",
+                "description": "Label: Rykodisc   \u2013 RCD 20231 Format: CD, Album Country: US Released: 1992 https://www.discogs.com/en/Soft-Boys-A-Can-Of-Bees/release/1381596 1 Give ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hBvINSbz2OI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hBvINSbz2OI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hBvINSbz2OI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Anto Beltrani",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

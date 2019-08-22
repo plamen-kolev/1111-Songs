@@ -5,6 +5,40 @@
         "artist": "DJ Booman",
         "song": "To 'da Rhythm",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Booman-To%20%26%23x27%3Bda%20Rhythm"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Booman-To%20%26%23x27%3Bda%20Rhythm",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/IjDeecQw_Bcxg3XDDYDhmZfne68\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EQ4Qc5qAQqk"
+            },
+            "snippet": {
+                "publishedAt": "2009-05-15T05:00:32.000Z",
+                "channelId": "UC5HE_ZjtyyAG2NMX39rB0wA",
+                "title": "DJ Booman - &quot;To da Rhythm&quot;",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EQ4Qc5qAQqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EQ4Qc5qAQqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EQ4Qc5qAQqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "41yoClubMonth",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

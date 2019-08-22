@@ -5,6 +5,40 @@
         "artist": "R.E.M.",
         "song": "Murmur",
         "year": "(1983)",
-        "url": "https://www.youtube.com/results?search_query=R.E.M.-Murmur"
+        "url": "https://www.youtube.com/results?search_query=R.E.M.-Murmur",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/QuZ_tIfurrdknbqB_Iscd8pSMf0\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLv8ZCmeG525Z-52p4HgdIq4N7-uEnfo5X"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-03T16:23:30.000Z",
+                "channelId": "UCQI0gjwDvegTjw8wxVlgJOg",
+                "title": "R.E.M.  Murmur",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B7Dekd24kMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B7Dekd24kMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B7Dekd24kMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Diego Cornejo",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

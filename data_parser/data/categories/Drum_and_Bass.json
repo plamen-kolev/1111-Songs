@@ -5,7 +5,41 @@
         "artist": "Meat Beat Manifesto",
         "song": "Helter Skelter - Radio Babylon",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Meat%20Beat%20Manifesto-Helter%20Skelter%20-%20Radio%20Babylon"
+        "url": "https://www.youtube.com/results?search_query=Meat%20Beat%20Manifesto-Helter%20Skelter%20-%20Radio%20Babylon",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/gd1R9qk4f-xbrqzGJ8Npd2fdcOA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J_6ljVFTXMM"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-09T03:12:35.000Z",
+                "channelId": "UC3htIfRl9HPRkbmn899U7LA",
+                "title": "Meat Beat Manifesto - Helter Skelter",
+                "description": "I don't own.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J_6ljVFTXMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J_6ljVFTXMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J_6ljVFTXMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "paullyboy8440",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 968,

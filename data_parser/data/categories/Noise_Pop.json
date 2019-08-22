@@ -5,6 +5,40 @@
         "artist": "The Jesus and Mary Chain",
         "song": "Psychocandy",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=The%20Jesus%20and%20Mary%20Chain-Psychocandy"
+        "url": "https://www.youtube.com/results?search_query=The%20Jesus%20and%20Mary%20Chain-Psychocandy",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/91a3wKZwFjHaIqHvnzki5FgsFJI\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLdS8ZZ_QXWJG2Uv9H3tUMb25SH1Goopgc"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-25T00:00:40.000Z",
+                "channelId": "UCSasYtNjGsBKF84ERNmhmPg",
+                "title": "The Jesus and Mary Chain - Psychocandy",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/470HnRobKLc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/470HnRobKLc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/470HnRobKLc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wigms",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

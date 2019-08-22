@@ -5,6 +5,40 @@
         "artist": "Dolly Mixture",
         "song": "Demonstration Tapes",
         "year": "(1978-1983)",
-        "url": "https://www.youtube.com/results?search_query=Dolly%20Mixture-Demonstration%20Tapes"
+        "url": "https://www.youtube.com/results?search_query=Dolly%20Mixture-Demonstration%20Tapes",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/qDp-4TLCVvj2lzyGw6nnFzrOCR4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2wjqbC5UzYg"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-18T17:31:02.000Z",
+                "channelId": "UCj4SXxwEQRZTbC62L7AbLvA",
+                "title": "Dolly Mixture - Demonstration Tapes (Full Album HD)",
+                "description": "(1983) 1 - Dream Come True : 00:00 2 - Ernie Ball (twice) : 01:33 3 - He's So Frisky : 03:33 4 - The Didn't Song : 05:17 5 - Will He Kiss Me Tonight : 07:32 6 - Miss ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2wjqbC5UzYg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2wjqbC5UzYg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2wjqbC5UzYg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheMusicGuide",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

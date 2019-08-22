@@ -5,6 +5,40 @@
         "artist": "DJ Assault",
         "song": "Jungle Love",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Assault-Jungle%20Love"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Assault-Jungle%20Love",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/eFGBhS0tHRgI8JsmzpNmPip8Z6o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZR-6K0GgXD0"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-16T14:23:38.000Z",
+                "channelId": "UCXemhNyDDg85fBhkeMmvtTg",
+                "title": "DJ Assault - Jungle Love",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZR-6K0GgXD0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZR-6K0GgXD0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZR-6K0GgXD0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Clapham Junction",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]
