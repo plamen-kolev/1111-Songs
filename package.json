@@ -82,8 +82,8 @@
     "build": "npm run presteps && npm run copy:assets && node scripts/build.js",
     "test": "jest",
     "test:coverage": "jest --coverage",
-    "test:python": "pushd . && cd data_parser && ./venv/bin/python -m unittest discover; popd",
-    "setup:python": "pushd . && cd data_parser && virtualenv -p python3 venv ; popd",
+    "test:python": "pushd . && cd data_parser && ./venv/bin/python -m unittest discover && popd",
+    "setup:python": "pushd . && cd data_parser && virtualenv -p python3 venv && ./venv/bin/pip install -r requirements.txt && popd",
     "lint": "tslint --project tsconfig.json --fix --exclude src/react-app-env.d.ts -c tslint.json 'src/**/*.ts*'",
     "copy:assets": "mkdir -p src/data && cp -r data_parser/data/categories src/data/ && cp data_parser/data/categories_lookup.json src/data/",
     "presteps": "npm run lint && npm run test:coverage"
