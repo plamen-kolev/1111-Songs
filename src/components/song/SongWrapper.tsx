@@ -2,9 +2,9 @@ import { IIframeProps } from "components/song/Iframe";
 import React from "react";
 import { Grid } from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-import {getMoreSongs, IJsonSong, getRandomSong} from "../../utils";
-import { Song } from "./Song";
 import genresList from "../../data/categories_lookup.json";
+import {getMoreSongs, getRandomSong, IJsonSong} from "../../utils";
+import { Song } from "./Song";
 
 genresList.sort(() => Math.random() - 0.5);
 const genresForRandomPlay = genresList;
@@ -44,7 +44,7 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
 
     public addMoreSongs = () => {
         this.setState({
-            songs: this.state.songs.concat(getMoreSongs(genresForRandomPlay)),
+            songs: this.state.songs.concat(getMoreSongs(genresForRandomPlay, 24)),
         });
     }
     public render() {

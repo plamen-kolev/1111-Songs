@@ -1,5 +1,4 @@
 
-
 interface IYoutubeId {
   kind: string;
   playlistId?: string;
@@ -17,23 +16,22 @@ export interface IJsonSong {
   artist: string;
   song: string;
   url: string;
+  year: string;
   enriched: boolean;
   youtube?: IYoutubeInterface;
 }
-
-const chunksToLoad = 24;
 
 // THERE ARE DEAD SONGS, because we load 32 genres,
 // each genre can have multiple songs, if it goes above 32 entries per
 // chunk, this function will truncate it
 // const songsToAppend = songs.splice(0, chunksToLoad);
 
-export const getMoreSongs = (list: Array<string>) => {
-  if(!list.length) {
-    return {};
+export const getMoreSongs = (list: string[], chunk: number): IJsonSong[] => {
+  if (!list.length) {
+    return [];
   }
   let songs: IJsonSong[] = [];
-  for (let i = 0; i < chunksToLoad; i++) {
+  for (let i = 0; i < chunk; i++) {
     const filename = list.pop();
     if (!filename) {
       break;
@@ -41,11 +39,11 @@ export const getMoreSongs = (list: Array<string>) => {
     const foo = require(`../data/categories/${filename}`);
     songs = songs.concat(foo);
   }
-  return songs.splice(0, chunksToLoad);
+  return songs.splice(0, chunk);
 };
 
-export const getRandomSong = (list: Array<string>) => {
-  if(!list.length) {
+export const getRandomSong = (list: string[]) => {
+  if (!list.length) {
     return {};
   }
   const randomGenreIndex = Math.floor(Math.random() * (list.length));

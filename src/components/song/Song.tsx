@@ -7,7 +7,7 @@ import {SongLoading} from "./SongLoading";
 
 export interface ISongProps {
     enriched: boolean;
-    youtube: IYoutubeInterface;
+    youtube?: IYoutubeInterface;
     artist: string;
     song: string;
     url: string;
@@ -17,7 +17,7 @@ export interface ISongProps {
 
 export const Song = React.memo(({enriched, youtube, artist, song, click, genre, url}: ISongProps) => {
     const isEnriched = enriched && youtube;
-    const title = isEnriched ? youtube.snippet.title : `${artist} - ${song}`;
+    const title = (isEnriched && youtube) ? youtube.snippet.title : `${artist} - ${song}`;
 
     let enrichedTooltip;
     if (isEnriched) {
@@ -35,7 +35,7 @@ export const Song = React.memo(({enriched, youtube, artist, song, click, genre, 
                 title,
                 url,
                 youtube,
-            })}>
+            } as IIframeProps)}>
                 <Card.Content>
                     <Card.Description className="song-card-title">
                         {title}
