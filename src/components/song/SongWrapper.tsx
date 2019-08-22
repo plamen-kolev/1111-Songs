@@ -4,6 +4,10 @@ import { Grid } from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
 import {getMoreSongs, IJsonSong, playRandomSong} from "../../utils";
 import { Song } from "./Song";
+import genresList from "../../data/categories_lookup.json";
+
+genresList.sort(() => Math.random() - 0.5);
+const genresForRandomPlay = genresList;
 
 interface ISongWrapperProps {
     onSongClick(iframeData: IIframeProps): void;
@@ -29,7 +33,7 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
     }
 
     public playRandomSong = () => {
-        const randomSong = playRandomSong();
+        const randomSong = playRandomSong(genresList);
 
         this.props.onSongClick({
             title: `${randomSong.artist} - ${randomSong.song}`,
@@ -40,15 +44,15 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
 
     public addMoreSongs = () => {
         this.setState({
-            songs: this.state.songs.concat(getMoreSongs()),
+            songs: this.state.songs.concat(getMoreSongs(genresForRandomPlay)),
         });
     }
     public render() {
         return (
-            <Grid container centered>
+            <Grid centered>
                 {this.state.songs.map((song: IJsonSong) => (
-                    <Grid.Column mobile={8} tablet={4} computer={4} largeScreen={4} widescreen={2}>
-                        <Song key={song.url} click={this.props.onSongClick} {...song}/>
+                    <Grid.Column key={song.url} mobile={8} tablet={4} computer={3} largeScreen={3} widescreen={2}>
+                        <Song click={this.props.onSongClick} {...song}/>
                     </Grid.Column>
                 ))}
 

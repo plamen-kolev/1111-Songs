@@ -1,7 +1,4 @@
-import genresList from "../data/categories_lookup.json";
 
-genresList.sort(() => Math.random() - 0.5);
-const genresForRandomPlay = genresList;
 
 interface IYoutubeId {
   kind: string;
@@ -31,10 +28,10 @@ const chunksToLoad = 24;
 // chunk, this function will truncate it
 // const songsToAppend = songs.splice(0, chunksToLoad);
 
-export const getMoreSongs = () => {
+export const getMoreSongs = (list: Array<string>) => {
   let songs: IJsonSong[] = [];
   for (let i = 0; i < chunksToLoad; i++) {
-    const filename = genresList.pop();
+    const filename = list.pop();
     if (!filename) {
       break;
     }
@@ -44,8 +41,8 @@ export const getMoreSongs = () => {
   return songs.splice(0, chunksToLoad);
 };
 
-export const playRandomSong = () => {
-  const randomGenreIndex = Math.floor(Math.random() * (genresForRandomPlay.length));
-  const randomGenre = require(`../data/categories/${genresForRandomPlay[randomGenreIndex]}`);
+export const playRandomSong = (list: Array<string>) => {
+  const randomGenreIndex = Math.floor(Math.random() * (list.length));
+  const randomGenre = require(`../data/categories/${list[randomGenreIndex]}`);
   return randomGenre[Math.floor(Math.random() * randomGenre.length)];
 };
