@@ -18,7 +18,7 @@ export interface IJsonSong {
   song: string;
   url: string;
   enriched: boolean;
-  youtube: IYoutubeInterface;
+  youtube?: IYoutubeInterface;
 }
 
 const chunksToLoad = 24;
@@ -29,6 +29,9 @@ const chunksToLoad = 24;
 // const songsToAppend = songs.splice(0, chunksToLoad);
 
 export const getMoreSongs = (list: Array<string>) => {
+  if(!list.length) {
+    return {};
+  }
   let songs: IJsonSong[] = [];
   for (let i = 0; i < chunksToLoad; i++) {
     const filename = list.pop();
@@ -41,7 +44,10 @@ export const getMoreSongs = (list: Array<string>) => {
   return songs.splice(0, chunksToLoad);
 };
 
-export const playRandomSong = (list: Array<string>) => {
+export const getRandomSong = (list: Array<string>) => {
+  if(!list.length) {
+    return {};
+  }
   const randomGenreIndex = Math.floor(Math.random() * (list.length));
   const randomGenre = require(`../data/categories/${list[randomGenreIndex]}`);
   return randomGenre[Math.floor(Math.random() * randomGenre.length)];

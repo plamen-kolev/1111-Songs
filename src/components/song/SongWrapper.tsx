@@ -2,7 +2,7 @@ import { IIframeProps } from "components/song/Iframe";
 import React from "react";
 import { Grid } from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-import {getMoreSongs, IJsonSong, playRandomSong} from "../../utils";
+import {getMoreSongs, IJsonSong, getRandomSong} from "../../utils";
 import { Song } from "./Song";
 import genresList from "../../data/categories_lookup.json";
 
@@ -33,7 +33,7 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
     }
 
     public playRandomSong = () => {
-        const randomSong = playRandomSong(genresList);
+        const randomSong = getRandomSong(genresList);
 
         this.props.onSongClick({
             title: `${randomSong.artist} - ${randomSong.song}`,
