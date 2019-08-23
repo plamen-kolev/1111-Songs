@@ -59,7 +59,6 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
                         <LazyLoad overflow once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
                             <Song click={this.props.onSongClick} {...song}/>
                         </LazyLoad>
-
                     </Grid.Column>
                 ))}
 
