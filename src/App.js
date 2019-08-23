@@ -4,9 +4,13 @@ import { Iframe } from './components/song/Iframe';
 import { SongWrapper } from './components/song/SongWrapper';
 import ReactGA from 'react-ga';
 import {Button, Checkbox, Menu} from "semantic-ui-react";
+import genresList from "./data/categories_lookup";
+import {getRandomSong} from "./utils";
 
 ReactGA.initialize('UA-89618080-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
+
+genresList.sort(() => Math.random() - 0.5);
 
 export class App extends React.Component {
     constructor(props, state) {
@@ -26,6 +30,16 @@ export class App extends React.Component {
     toggleAutoplay = (e) => {
         this.setState({autoplay: !this.state.autoplay});
     };
+
+    playRandomSong = () => {
+        const randomSong = getRandomSong(genresList);
+
+        this.onSongClick({
+            title: `${randomSong.artist} - ${randomSong.song}`,
+            url: randomSong.url,
+            youtube: randomSong.youtube,
+        });
+    }
 
     render() {
         return (

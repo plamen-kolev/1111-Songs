@@ -11,7 +11,6 @@ import {SongLoading} from "./SongLoading";
 const CHUNKS_TO_LOAD = 24;
 
 genresList.sort(() => Math.random() - 0.5);
-const genresForRandomPlay = genresList;
 
 interface ISongWrapperProps {
     onSongClick(iframeData: IIframeProps): void;
@@ -36,19 +35,9 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
         this.addMoreSongs();
     }
 
-    public playRandomSong = () => {
-        const randomSong = getRandomSong(genresList);
-
-        this.props.onSongClick({
-            title: `${randomSong.artist} - ${randomSong.song}`,
-            url: randomSong.url,
-            youtube: randomSong.youtube,
-        });
-    }
-
     public addMoreSongs = () => {
         this.setState({
-            songs: this.state.songs.concat(getMoreSongs(genresForRandomPlay, CHUNKS_TO_LOAD)),
+            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD)),
         });
     }
     public render() {
