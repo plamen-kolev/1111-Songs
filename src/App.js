@@ -1,11 +1,18 @@
 import React from 'react';
+import {
+    BrowserView,
+    MobileView,
+    isBrowser,
+    isMobile
+} from "react-device-detect";
+import {Button, Checkbox, Menu} from "semantic-ui-react";
+
 import './App.css';
 import { Iframe } from './components/song/Iframe';
 import { SongWrapper } from './components/song/SongWrapper';
 import ReactGA from 'react-ga';
-import {Button, Checkbox, Menu} from "semantic-ui-react";
 import genresList from "./data/categories_lookup";
-import {getRandomSong} from "./utils";
+import { getRandomSong } from "./utils";
 
 ReactGA.initialize('UA-89618080-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
@@ -45,9 +52,11 @@ export class App extends React.Component {
         return (
             <div className="App iframe-container ui">
                 <div className="youtube-player-container nopadding menu-container">
-                    <Menu>
-                        <Menu.Item name='editorials'><Checkbox onChange={(e) => this.toggleAutoplay("enabled")} toggle label='Autoplay'/></Menu.Item>
-                    </Menu>
+                    <BrowserView>
+                        <Menu>
+                            <Menu.Item name='editorials'><Checkbox onChange={(e) => this.toggleAutoplay("enabled")} toggle label='Autoplay'/></Menu.Item>
+                        </Menu>
+                    </BrowserView>
 
                     <div className="nopadding">
                         <Iframe autoplay={this.state.autoplay} {...this.state.currentSong} />
