@@ -95,9 +95,6 @@ describe("song", () => {
             // because it is enriched and is of type video
             fireEvent.click(getByTestId("embedded-song"));
             expect(getByText("This song is embedded")).toBeDefined();
-
-            fireEvent.click(getByTestId("cant-autoplay"));
-            expect(getByText("Playlists cannot be autoplayed yet")).toBeDefined();
         });
     })
 });
