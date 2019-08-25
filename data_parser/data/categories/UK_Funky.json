@@ -5,6 +5,40 @@
         "artist": "Supa D",
         "song": "Rinse - 03",
         "year": "(2008)",
-        "url": "https://www.youtube.com/results?search_query=Supa%20D-Rinse%20-%2003"
+        "url": "https://www.youtube.com/results?search_query=Supa%20D-Rinse%20-%2003",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HtM5raphgTQksk5O3MDv7xrvlDk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1iY-nOLn_ow"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-11T19:07:12.000Z",
+                "channelId": "UCQAnY_suiNH0MvdTHk5GiBA",
+                "title": "Marcus Nasty b2b Bok Bok b2b Supa D DJ set | Keep Hush Live: Marcus Nasty Show",
+                "description": "The main man of the night goes b2b w/ Supa D and Bok Bok! Keep Hush is a members club built from the ground up. Join us: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1iY-nOLn_ow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1iY-nOLn_ow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1iY-nOLn_ow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Keep Hush",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

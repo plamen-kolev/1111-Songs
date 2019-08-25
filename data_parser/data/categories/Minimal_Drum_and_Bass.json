@@ -5,6 +5,40 @@
         "artist": "dBridge",
         "song": "The Gemini Principle",
         "year": "(2009)",
-        "url": "https://www.youtube.com/results?search_query=dBridge-The%20Gemini%20Principle"
+        "url": "https://www.youtube.com/results?search_query=dBridge-The%20Gemini%20Principle",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6b5hVrtjecaHGdY267ejd_npCSk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLC0F1A0FED3CBEA98"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-23T01:55:36.000Z",
+                "channelId": "UCaxodpJBuwS3LoLJ4O0yfOg",
+                "title": "ExitCD 002 - dBridge - The Gemini Principle",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VNZ-IxqP6L0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VNZ-IxqP6L0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VNZ-IxqP6L0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ExitRecords",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

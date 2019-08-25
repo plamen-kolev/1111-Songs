@@ -5,7 +5,41 @@
         "artist": "Supersilent",
         "song": "1-3",
         "year": "(1997)",
-        "url": "https://www.youtube.com/results?search_query=Supersilent-1-3"
+        "url": "https://www.youtube.com/results?search_query=Supersilent-1-3",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/DSDkkYkRDPynfKXBfN6lf-QLKsg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zjZT8rejJB0"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-01T19:06:42.000Z",
+                "channelId": "UCwxiBvC1ffh4nPujseUgsgg",
+                "title": "Supersilent - 1.3",
+                "description": "from 1-3, Rune Grammofon, 1997.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zjZT8rejJB0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zjZT8rejJB0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zjZT8rejJB0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thomas Garcia",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1034,
@@ -13,6 +47,40 @@
         "artist": "MIMEO",
         "song": "Lifting Concrete Lightly",
         "year": "(2004)",
-        "url": "https://www.youtube.com/results?search_query=MIMEO-Lifting%20Concrete%20Lightly"
+        "url": "https://www.youtube.com/results?search_query=MIMEO-Lifting%20Concrete%20Lightly",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FYLf-VYHHPOSKX5Q01iTP6e4Hbk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6GPdtjZbOfg"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-26T16:31:09.000Z",
+                "channelId": "UCysBusch54M-m4qVMwC1Hmg",
+                "title": "M.I.M.E.O. - Lifting Concrete Lightly (full album)",
+                "description": "third release from M.I.M.E.O. (Music In Movement Electronic Orchestra) electroacoustic improvisation / musique concr\u00e8te ~3 hours of menacing glitch / noise, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6GPdtjZbOfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6GPdtjZbOfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6GPdtjZbOfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "k0nfuciu5",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

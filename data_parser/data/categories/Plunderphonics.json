@@ -5,6 +5,40 @@
         "artist": "John Oswald",
         "song": "Plunderphonic",
         "year": "(1989)",
-        "url": "https://www.youtube.com/results?search_query=John%20Oswald-Plunderphonic"
+        "url": "https://www.youtube.com/results?search_query=John%20Oswald-Plunderphonic",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/fqcPyWa3YmedMulOCJuTanNkPaQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AXKLkxfFvvw"
+            },
+            "snippet": {
+                "publishedAt": "2018-02-16T06:41:29.000Z",
+                "channelId": "UCachBWwI_i-dl-tuwhP4E8w",
+                "title": "Plunderphonic \u200e\u2013 Plunderphonic [Full Album]",
+                "description": "Plunderphonic   \u2013 Plunderphonic--- 1: George Martin-Beatles (0:00) 2: Michael Jackson-Dab (1:00) 3: Lennon/Harrison-Way (7:35) 4: Don Van Vliet-Replica ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AXKLkxfFvvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AXKLkxfFvvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AXKLkxfFvvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VapeTheWaves",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

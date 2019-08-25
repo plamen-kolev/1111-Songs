@@ -5,6 +5,40 @@
         "artist": "Ed Rush & Optical",
         "song": "Gas Mask - Bacteria",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Ed%20Rush%20%26amp%3B%20Optical-Gas%20Mask%20-%20Bacteria"
+        "url": "https://www.youtube.com/results?search_query=Ed%20Rush%20%26amp%3B%20Optical-Gas%20Mask%20-%20Bacteria",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/JnT4tJeLOSesXCMIsJG_qj1Ap90\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v5LCg9icUnM"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-16T21:46:53.000Z",
+                "channelId": "UC4z4NrdBqz3p2PVr4h-Bj4g",
+                "title": "Ed Rush &amp; Optical - Gas Mask",
+                "description": "VRS005 1999 Virus Recordings All of these early Virus releases are in a league of their own. Technically stunning, era-defining works.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v5LCg9icUnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v5LCg9icUnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v5LCg9icUnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PhantomAudio83",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

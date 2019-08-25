@@ -5,6 +5,40 @@
         "artist": "La Monte Young",
         "song": "The Black Record",
         "year": "(1969)",
-        "url": "https://www.youtube.com/results?search_query=La%20Monte%20Young-The%20Black%20Record"
+        "url": "https://www.youtube.com/results?search_query=La%20Monte%20Young-The%20Black%20Record",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/BDjGUZu9Dbz3XOq7XkReuv62hOs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mv-Ddu3TQx0"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-18T00:17:05.000Z",
+                "channelId": "UCtrBSg0WnEMYE9RiCkAoIiw",
+                "title": "La Monte Young / Marian Zazeela \u200e\u2013 The Black Album (1969) Full Album",
+                "description": "Side A -- 00:00 -- 31 VII 69 10h26min - 10h49min PM This work was recorded at the date and time indicated in the title, at Galerie Heiner Friedrich, M\u00fcnchen 31 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mv-Ddu3TQx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mv-Ddu3TQx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mv-Ddu3TQx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gabriel Albuquerque",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

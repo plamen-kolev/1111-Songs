@@ -5,7 +5,41 @@
         "artist": "Ensemble Oriol Berlin",
         "song": "A Catalogue of Sounds",
         "year": "(1995-1997)",
-        "url": "https://www.youtube.com/results?search_query=Ensemble%20Oriol%20Berlin-A%20Catalogue%20of%20Sounds"
+        "url": "https://www.youtube.com/results?search_query=Ensemble%20Oriol%20Berlin-A%20Catalogue%20of%20Sounds",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Zh0VpjL79JCoOfqXNBYJtZepA0U\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLAIkWtHVoE9qgpnBqVWMmbOsbVDxX80QM"
+            },
+            "snippet": {
+                "publishedAt": "2013-05-04T05:06:32.000Z",
+                "channelId": "UC4LDkmwl7e2H5nN-L0dBmRw",
+                "title": "Early 20th Century Music, 78 rpm",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z7AMR9uPr_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z7AMR9uPr_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z7AMR9uPr_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cletus Hunnicutt",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1041,
@@ -13,6 +47,40 @@
         "artist": "Michael Pisaro",
         "song": "Reinier van Houdt - The Earth and the Sky",
         "year": "(2016)",
-        "url": "https://www.youtube.com/results?search_query=Michael%20Pisaro-Reinier%20van%20Houdt%20-%20The%20Earth%20and%20the%20Sky"
+        "url": "https://www.youtube.com/results?search_query=Michael%20Pisaro-Reinier%20van%20Houdt%20-%20The%20Earth%20and%20the%20Sky",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/TPTzHa3npN59GBpZ65qazX2Rq2g\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HlTKZnWrLq4"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-29T12:22:01.000Z",
+                "channelId": "UCiWpEHYSe2Qe8AJhyF-0aDg",
+                "title": "Reinier van Houdt &amp; Michael Pisaro - Pi (2352-2420)",
+                "description": "Reinier van Houdt & Michael Pisaro - The Earth and the Sky (Erstwhile Records, 2016) [EC001] (I do not own the rights to this song) SUPPORT: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HlTKZnWrLq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HlTKZnWrLq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HlTKZnWrLq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "zimmmmify",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

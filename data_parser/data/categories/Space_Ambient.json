@@ -5,7 +5,41 @@
         "artist": "Klaus Schulze",
         "song": "Irrlicht",
         "year": "(1972)",
-        "url": "https://www.youtube.com/results?search_query=Klaus%20Schulze-Irrlicht"
+        "url": "https://www.youtube.com/results?search_query=Klaus%20Schulze-Irrlicht",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/j2wjdV9CmrTKbrEx9t8xw0TWg0U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R8tjPGCWlTM"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-29T12:47:30.000Z",
+                "channelId": "UCLOtPenDexidfO4pjQ7vA1Q",
+                "title": "Klaus Schulze - Irrlicht",
+                "description": "0:00:00 - Satz: Ebene [23.23] 0:23:23 - Satz: Gewitter / Energy Rise - Energy Collaps [05.39] 0:29:02 - Satz: Exil Sils Maria [21.26] 0:50:28 - Dungeon [24.03]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R8tjPGCWlTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R8tjPGCWlTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R8tjPGCWlTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Richard W",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1029,
@@ -13,6 +47,40 @@
         "artist": "Steve Roach",
         "song": "Structures From Silence",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Steve%20Roach-Structures%20From%20Silence"
+        "url": "https://www.youtube.com/results?search_query=Steve%20Roach-Structures%20From%20Silence",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Eh30wxqNr6R3XYdn9AMRwPIaMZg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AsIjyJvhR9A"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-29T04:47:04.000Z",
+                "channelId": "UCepS-kV4mOOgXwvP2_nCd4A",
+                "title": "Structures From Silence",
+                "description": "Provided to YouTube by Entertainment One Distribution US Structures From Silence \u00b7 Steve Roach Structures From Silence (30th anniversary Deluxe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AsIjyJvhR9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AsIjyJvhR9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AsIjyJvhR9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Steve Roach - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

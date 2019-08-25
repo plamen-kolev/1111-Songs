@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Columbia_Princeton Electronic Music Center",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=Various-Columbia_Princeton%20Electronic%20Music%20Center"
+        "url": "https://www.youtube.com/results?search_query=Various-Columbia_Princeton%20Electronic%20Music%20Center",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/e6wRd2iZowkjyJiGh2HEih570EY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DwCAwxzWpJU"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-14T01:27:11.000Z",
+                "channelId": "UCN17RPhkoE4zLVHw5SxDbxQ",
+                "title": "Composition for Synthesizer",
+                "description": "Provided to YouTube by Sony Music Entertainment Composition for Synthesizer \u00b7 Columbia-Princeton Electronic Music Center \u00b7 Milton Babbitt Masterworks of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DwCAwxzWpJU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DwCAwxzWpJU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DwCAwxzWpJU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Columbia-Princeton Electronic Music Center - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

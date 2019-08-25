@@ -5,6 +5,40 @@
         "artist": "Girl Talk",
         "song": "Night Ripper",
         "year": "(2006)",
-        "url": "https://www.youtube.com/results?search_query=Girl%20Talk-Night%20Ripper"
+        "url": "https://www.youtube.com/results?search_query=Girl%20Talk-Night%20Ripper",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/9WBsV0lCaAvkITCjCewM-OO107o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kSoTN8suQ1o"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-31T15:00:05.000Z",
+                "channelId": "UC8Gk3U3dqXoMiwPN7sefbXg",
+                "title": "Night Ripper - Girl Talk (Full Album)",
+                "description": "Here's the full album of Night Ripper by Girl Talk. Subscribe for more Girl Talk: http://bit.ly/GirlTalkSub Girl Talk and Freeway's first single, \"Tolerated ft. Wacka ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kSoTN8suQ1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kSoTN8suQ1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kSoTN8suQ1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Girl Talk",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

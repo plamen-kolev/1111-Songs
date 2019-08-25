@@ -5,6 +5,40 @@
         "artist": "Negativland",
         "song": "Negativland",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Negativland-Negativland"
+        "url": "https://www.youtube.com/results?search_query=Negativland-Negativland",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/vu-bKOEfiolSD2zgXnbM3Lmlr-Q\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DV08nrktjlI"
+            },
+            "snippet": {
+                "publishedAt": "2014-10-19T01:19:32.000Z",
+                "channelId": "UCOGTTLisR0oK2m01prFSwjw",
+                "title": "Negativland - Negativland (1980)",
+                "description": "Artist: Negativland Album: [See Artist] Released: 1980, on 12\" record Label: Seeland Records, which is their own record label. Tracklist: Pre 1. 0:00 2. 1:03 3.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DV08nrktjlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DV08nrktjlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DV08nrktjlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "my.electronic.music.library",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

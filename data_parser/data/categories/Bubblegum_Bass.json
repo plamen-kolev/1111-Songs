@@ -5,6 +5,40 @@
         "artist": "A. G. Cook",
         "song": "Radio Tank Mix",
         "year": "(2013)",
-        "url": "https://www.youtube.com/results?search_query=A.%20G.%20Cook-Radio%20Tank%20Mix"
+        "url": "https://www.youtube.com/results?search_query=A.%20G.%20Cook-Radio%20Tank%20Mix",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/QNPESiB4957IUjPnROikfDhyoB0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hUs_VYVdBkI"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-05T05:44:19.000Z",
+                "channelId": "UCC4iIyakn3cudQT9q6T_kZw",
+                "title": "A. G. Cook - [untitled]",
+                "description": "Track 2 from A. G. Cook's Radio Tank Mix Track 5 (also named [untitled]) is uploaded here: https://www.youtube.com/watch?v=GREqb-hubD0.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hUs_VYVdBkI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hUs_VYVdBkI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hUs_VYVdBkI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Marc Stockton",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

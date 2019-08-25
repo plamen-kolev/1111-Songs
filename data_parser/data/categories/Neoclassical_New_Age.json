@@ -5,6 +5,40 @@
         "artist": "Popol Vuh",
         "song": "Hosianna Mantra",
         "year": "(1972)",
-        "url": "https://www.youtube.com/results?search_query=Popol%20Vuh-Hosianna%20Mantra"
+        "url": "https://www.youtube.com/results?search_query=Popol%20Vuh-Hosianna%20Mantra",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/X9CD-vT9JZ_hfgTh6p6vxS0fx4E\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLP8DwHVWRuxzCAPnHCQ6CRYl5hMbVxldH"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-12T16:09:55.000Z",
+                "channelId": "UCSU6xOe8aUJL6i2HRCbcwLg",
+                "title": "Hosianna Mantra - Popol Vuh (1972)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2RRbREhFzRE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2RRbREhFzRE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2RRbREhFzRE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kasus Belly Musyk",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

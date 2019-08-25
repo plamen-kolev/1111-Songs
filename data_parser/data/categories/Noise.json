@@ -5,7 +5,41 @@
         "artist": "Lou Reed",
         "song": "Metal Machine Music - The Amine \u03b2 Ring",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Lou%20Reed-Metal%20Machine%20Music%20-%20The%20Amine%20%CE%B2%20Ring"
+        "url": "https://www.youtube.com/results?search_query=Lou%20Reed-Metal%20Machine%20Music%20-%20The%20Amine%20%CE%B2%20Ring",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/3ckWvbaTyisTrPf2tkYxGRLwORg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XIMSbKU2oZM"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-22T05:05:26.000Z",
+                "channelId": "UCopspSr2W-0OYLn47-aJ2_Q",
+                "title": "Lou Reed - Metal Machine Music (Full Album)",
+                "description": "Presented under fair use, but will be taken down upon request. Support the artist here: http://www.loureed.com/inmemoriam/ RIP Lou Reed. You were one of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XIMSbKU2oZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XIMSbKU2oZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XIMSbKU2oZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurry Goren",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1036,
@@ -13,6 +47,40 @@
         "artist": "Kevin Drumm",
         "song": "Sheer Hellish Miasma",
         "year": "(2002)",
-        "url": "https://www.youtube.com/results?search_query=Kevin%20Drumm-Sheer%20Hellish%20Miasma"
+        "url": "https://www.youtube.com/results?search_query=Kevin%20Drumm-Sheer%20Hellish%20Miasma",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/bUDx5uC_K5q5b47VErBBhZQ9N0M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tL-fohhu_FI"
+            },
+            "snippet": {
+                "publishedAt": "2011-03-23T22:59:44.000Z",
+                "channelId": "UC_YolltvuKbJWaAg4FQbfLQ",
+                "title": "Kevin Drumm - Hitting The Pavement",
+                "description": "H A R S H D R O N E    Track 3 from Sheer Hellish Miasma which you should buy and put in a stereo and blast as loud as possible so that your walls reverberate ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tL-fohhu_FI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tL-fohhu_FI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tL-fohhu_FI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "purplenumberF",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

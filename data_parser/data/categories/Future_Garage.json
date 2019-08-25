@@ -5,6 +5,40 @@
         "artist": "Burial",
         "song": "Burial",
         "year": "(2006)",
-        "url": "https://www.youtube.com/results?search_query=Burial-Burial"
+        "url": "https://www.youtube.com/results?search_query=Burial-Burial",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/cWRdT30jMhXIP1gwdmRjdg9AXls\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BnBfqmhjifU"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-18T03:06:09.000Z",
+                "channelId": "UCrHwUZpA0qgCft2v_q8mtHA",
+                "title": "Burial - Burial // Full Album",
+                "description": "Artist: Burial Album: Burial Label: Hyperdub Year: 2006 00:00 Untitled 00:35 Distant Lights 06:02 Spaceape 10:04 Wounder 14:55 Night Bus 17:16 Southern ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BnBfqmhjifU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BnBfqmhjifU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BnBfqmhjifU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Black Shaman",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

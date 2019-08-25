@@ -5,6 +5,40 @@
         "artist": "Glenn Branca",
         "song": "Symphony No. 1 - Tonal Plexus",
         "year": "(1981)",
-        "url": "https://www.youtube.com/results?search_query=Glenn%20Branca-Symphony%20No.%201%20-%20Tonal%20Plexus"
+        "url": "https://www.youtube.com/results?search_query=Glenn%20Branca-Symphony%20No.%201%20-%20Tonal%20Plexus",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/4syTXDXqOl1XlD_jwMknii27TsA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9uo4dJ0e3Uk"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-04T07:47:31.000Z",
+                "channelId": "UCkLN8vcUmmJ03GVxlwiGYcQ",
+                "title": "Glenn Branca - Symphony No. 1 Tonal Plexus (1983) - FULL ALBUM",
+                "description": "Awesome four movements for guitars, keyboards, brass and percussion by Glenn Branca, an American avant-garde composer and guitarist known for his use of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9uo4dJ0e3Uk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9uo4dJ0e3Uk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9uo4dJ0e3Uk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PartForanaSound",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "The Rita",
         "song": "Sea Wolf Leviathan",
         "year": "(2004)",
-        "url": "https://www.youtube.com/results?search_query=The%20Rita-Sea%20Wolf%20Leviathan"
+        "url": "https://www.youtube.com/results?search_query=The%20Rita-Sea%20Wolf%20Leviathan",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/bs3KNJosFn7dqJYFl0THiykdaLU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zz-XPrTzhm0"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-23T18:02:23.000Z",
+                "channelId": "UCcXVNWxGGndlxEg8qA7zNEQ",
+                "title": "The Rita - Sea Wolf Leviathan",
+                "description": "This video is about The Rita - Sea Wolf Leviathan.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zz-XPrTzhm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zz-XPrTzhm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zz-XPrTzhm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Full Noise-Albums",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

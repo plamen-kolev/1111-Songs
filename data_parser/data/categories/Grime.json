@@ -5,7 +5,41 @@
         "artist": "Stush",
         "song": "Dollar Sign",
         "year": "(2002)",
-        "url": "https://www.youtube.com/results?search_query=Stush-Dollar%20Sign"
+        "url": "https://www.youtube.com/results?search_query=Stush-Dollar%20Sign",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ivdDzUHr3qunpI2OKubxwowQ8MA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RF-54UL85aQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-12T02:25:43.000Z",
+                "channelId": "UCRm9_N4Q1W2aTjJ-NwcXk3A",
+                "title": "Uk Garage Sticky ft Stush Dollar Sign.",
+                "description": "Uk Garage Sticky ft Stush Dollar Sign.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RF-54UL85aQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RF-54UL85aQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RF-54UL85aQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ShaneRoe85",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 987,
@@ -13,6 +47,40 @@
         "artist": "Dizzee Rascal",
         "song": "Boy in da Corner",
         "year": "(2003)",
-        "url": "https://www.youtube.com/results?search_query=Dizzee%20Rascal-Boy%20in%20da%20Corner"
+        "url": "https://www.youtube.com/results?search_query=Dizzee%20Rascal-Boy%20in%20da%20Corner",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/N0dHrtPEH8FKyB7dX14_3NpC42k\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLveulyMsTXwGNllT4Y85ksB2oOb7y4xAD"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-30T03:52:57.000Z",
+                "channelId": "UC7EJnxOt6Eg1-EceCop-TsA",
+                "title": "Dizzee Rascal - Boy In Da Corner",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AnxjjatlV1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AnxjjatlV1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AnxjjatlV1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ivy Skechez",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

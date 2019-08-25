@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Sounds of Animals",
         "year": "(1954)",
-        "url": "https://www.youtube.com/results?search_query=Various-Sounds%20of%20Animals"
+        "url": "https://www.youtube.com/results?search_query=Various-Sounds%20of%20Animals",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Nep0bcyB1eH4IuMxKf_B7zCEDEU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Gg1AwImc86M"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-11T23:33:06.000Z",
+                "channelId": "UCZSUvJTxnp7ay48TUJAf4RQ",
+                "title": "Animal Sounds For Children To Learn || BEST",
+                "description": "Animal sounds for children to learn or animal sounds for kids or animal sounds for toddlers or animal sounds for babies. Animals used in alphabetical order: Bat ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gg1AwImc86M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gg1AwImc86M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gg1AwImc86M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mihaifrancu",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Walter Carlos",
         "song": "Sonic Seasonings",
         "year": "(1972)",
-        "url": "https://www.youtube.com/results?search_query=Walter%20Carlos-Sonic%20Seasonings"
+        "url": "https://www.youtube.com/results?search_query=Walter%20Carlos-Sonic%20Seasonings",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rOOHeqLtZ-VIztlV-ieZoadEULM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P5RcNuQXuR4"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-12T16:23:28.000Z",
+                "channelId": "UCRPjN_p3Np8DfwLhL0KH2uA",
+                "title": "Tron Suite - Wendy Carlos",
+                "description": "Probably one of the most underrated score from the 80's. Wendy Carlos composed an effective score for large orchestra, chorus and moogs (the same she used ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P5RcNuQXuR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P5RcNuQXuR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P5RcNuQXuR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "coreymouth",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1009,
@@ -13,6 +47,40 @@
         "artist": "Robert Rich",
         "song": "Somnium",
         "year": "(2001)",
-        "url": "https://www.youtube.com/results?search_query=Robert%20Rich-Somnium"
+        "url": "https://www.youtube.com/results?search_query=Robert%20Rich-Somnium",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HvIIcwnuSbT5lNim1e6nKZxAjIg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sNwukK7Y8wQ"
+            },
+            "snippet": {
+                "publishedAt": "2017-05-21T21:45:31.000Z",
+                "channelId": "UCcpxdjh8t3e65jGqdiADYWA",
+                "title": "Robert Rich   Perpetual  A Somnium Continuum 8h Complete Masterpiece 2014",
+                "description": "can buy here - https://robertrich.bandcamp.com/album/perpetual blackblackknight https://www.youtube.com/watch?v=q1XH6eq8xP8.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sNwukK7Y8wQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sNwukK7Y8wQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sNwukK7Y8wQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "chillout",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

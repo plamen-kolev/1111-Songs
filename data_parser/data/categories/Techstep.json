@@ -5,6 +5,40 @@
         "artist": "Dom & Roland",
         "song": "Industry",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Dom%20%26amp%3B%20Roland-Industry"
+        "url": "https://www.youtube.com/results?search_query=Dom%20%26amp%3B%20Roland-Industry",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/-qG1kkosrvTXIue-aBdiTVhCq0w\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLEFzn6UC2C1OYEAEeaOR4z8YVpOyTgaD6"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-07T04:01:33.000Z",
+                "channelId": "UCWoXkmQnQ02tfyfK3iVlFAQ",
+                "title": "Dom & Roland - Industry LP",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3pey39H8aQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3pey39H8aQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3pey39H8aQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Amen Insurgency",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

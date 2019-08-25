@@ -5,6 +5,40 @@
         "artist": "A Split Second",
         "song": "A Split Second",
         "year": "(1988)",
-        "url": "https://www.youtube.com/results?search_query=A%20Split%20Second-A%20Split%20Second"
+        "url": "https://www.youtube.com/results?search_query=A%20Split%20Second-A%20Split%20Second",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/p6nH014Da6XpVwQc3AVWVfNOt2Y\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qzu1_lzDHaA"
+            },
+            "snippet": {
+                "publishedAt": "2008-10-12T11:17:08.000Z",
+                "channelId": "UCrFCedXRvfQphGL4GhJLmsw",
+                "title": "A Split Second - Kiss of Fury",
+                "description": "Enjoy! Artist: A Split Second Song: Kiss of Fury Album: Kiss of Fury Year: 1990 For no commercial use only.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qzu1_lzDHaA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qzu1_lzDHaA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qzu1_lzDHaA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Virablatira",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Todd Edwards",
         "song": "Nervous Tracks",
         "year": "(1993-1994)",
-        "url": "https://www.youtube.com/results?search_query=Todd%20Edwards-Nervous%20Tracks"
+        "url": "https://www.youtube.com/results?search_query=Todd%20Edwards-Nervous%20Tracks",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ghDNg5fYQH_meNgBu9KxtG8IqAc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JawwMgd12R0"
+            },
+            "snippet": {
+                "publishedAt": "2014-05-09T15:23:07.000Z",
+                "channelId": "UCg6FWgajbA2EPWJwZa4MuUg",
+                "title": "Todd Edwards \u200e-- Nervous Tracks: Vol 4/5",
+                "description": "Todd Edwards   -- Nervous Tracks: Vol 4/5 Label: Nervous Records   -- NRV 20373-1 Series: Nervous Innovators Series -- 4 Format: 2 \u00d7 Vinyl, 12\", Compilation, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JawwMgd12R0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JawwMgd12R0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JawwMgd12R0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "msieu david",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 981,
@@ -13,6 +47,40 @@
         "artist": "Zed Bias",
         "song": "Sound of the Pirates - The Garage Sound of UK Pirate Radio",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Zed%20Bias-Sound%20of%20the%20Pirates%20-%20The%20Garage%20Sound%20of%20UK%20Pirate%20Radio"
+        "url": "https://www.youtube.com/results?search_query=Zed%20Bias-Sound%20of%20the%20Pirates%20-%20The%20Garage%20Sound%20of%20UK%20Pirate%20Radio",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6YUdpxzKmH0rJJnfaZXg0YHpp9M\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FblnxFupVs8"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-10T11:32:46.000Z",
+                "channelId": "UCiNdPNnnnQfCo4X89HPkoTQ",
+                "title": "UK GARAGE - High Rollerz @SUBLOW FM - Sound of Pirates 090614",
+                "description": "Votre \u00e9missions 100% UKG Lundis - 20h/21h on Sublow FM http://www.sublowfm.com/ - Captured Live on Ustream at http://www.ustream.tv/channel/sublow-fm.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FblnxFupVs8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FblnxFupVs8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FblnxFupVs8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sublow FM",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

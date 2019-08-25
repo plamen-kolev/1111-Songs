@@ -5,7 +5,41 @@
         "artist": "Whitehouse",
         "song": "Birthdeath Experience",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Whitehouse-Birthdeath%20Experience"
+        "url": "https://www.youtube.com/results?search_query=Whitehouse-Birthdeath%20Experience",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/hyP8SE1M9ybfE2XyyaoMmTRwKSk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EUMuvyPx304"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-20T17:46:15.000Z",
+                "channelId": "UCG8Nh59XZh8HqZtQvAj561w",
+                "title": "Whitehouse - On Top",
+                "description": "First song of Whitehouse's First album, Birthdeath Experience, on Susan Lawly/Very Friendly Records 1980.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EUMuvyPx304/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EUMuvyPx304/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EUMuvyPx304/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KessBloodysunday",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1066,
@@ -13,6 +47,40 @@
         "artist": "Whitehouse",
         "song": "Birdseed",
         "year": "(2003)",
-        "url": "https://www.youtube.com/results?search_query=Whitehouse-Birdseed"
+        "url": "https://www.youtube.com/results?search_query=Whitehouse-Birdseed",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/4gfMlLxTqPypuH7Ces-QbaFGRfk\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLXtvMf5cYYJL7LPSw1WK0gv7zJQh0TwK9"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-17T15:17:18.000Z",
+                "channelId": "UCHZZ285lLgmmnoHVlIHxjjA",
+                "title": "Whitehouse - Bird Seed",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KjAF7D4l91M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KjAF7D4l91M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KjAF7D4l91M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Glorious Asssquat",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

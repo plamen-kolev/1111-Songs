@@ -5,6 +5,40 @@
         "artist": "Grooverider",
         "song": "Hardstep Selection - Volume 1",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Grooverider-Hardstep%20Selection%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Grooverider-Hardstep%20Selection%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/1xwv0hWJLW7z-A8tyYvqqdxUwCg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q9JRU91j_lU"
+            },
+            "snippet": {
+                "publishedAt": "2017-12-26T11:17:31.000Z",
+                "channelId": "UCxRa6aZHlYB1A99uDDoil1Q",
+                "title": "Grooverider&#39;s Hardstep Selection Vol. II",
+                "description": "All rights belong to Kickin Records 1995 https://www.discogs.com/Grooverider-Grooveriders-Hardstep-Selection-Vol-II/release/129921 J Majik - Your Sound ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9JRU91j_lU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9JRU91j_lU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9JRU91j_lU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "I-Witness DnB",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

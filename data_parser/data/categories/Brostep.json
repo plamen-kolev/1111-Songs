@@ -5,6 +5,40 @@
         "artist": "Caspa & Rusko",
         "song": "Fabriclive.37",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Caspa%20%26amp%3B%20Rusko-Fabriclive.37"
+        "url": "https://www.youtube.com/results?search_query=Caspa%20%26amp%3B%20Rusko-Fabriclive.37",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/sKuazawaZdGV1GoO8Pxo5CXJq1U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_m5oJCgK8ss"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-24T19:04:30.000Z",
+                "channelId": "UClU4rOkuz3D01UBKiPrnYKg",
+                "title": "Caspa &amp; Rusko - FabricLive.37 [FULL MIX]",
+                "description": "FabricLive.37 by Caspa & Rusko. The album was released 2007 as part of the FabricLive Mix Series and was the first edition of the series to feature the genre ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_m5oJCgK8ss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_m5oJCgK8ss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_m5oJCgK8ss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "dude who loves fabriclive37",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

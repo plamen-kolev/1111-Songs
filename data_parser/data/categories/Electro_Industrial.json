@@ -5,6 +5,40 @@
         "artist": "Skinny Puppy",
         "song": "Bites",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Skinny%20Puppy-Bites"
+        "url": "https://www.youtube.com/results?search_query=Skinny%20Puppy-Bites",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/dJY40vTOnoEXmUfHTVxLjWHccP4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9W38jroNbF8"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-19T01:00:01.000Z",
+                "channelId": "UCX1ry_DJg7RvMJ66EzgSe-A",
+                "title": "Skinny Puppy - Bites (Full Album Stream)",
+                "description": "Bites http://smarturl.it/spbites Assimilate 0:00 Blood On The Wall 7:02 Dead Lines 10:00 Church 16:14 Icebreaker 22:28 Tomorrow 25:43 Dead Doll 27:33 Film ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9W38jroNbF8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9W38jroNbF8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9W38jroNbF8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nettwerkbackstage",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

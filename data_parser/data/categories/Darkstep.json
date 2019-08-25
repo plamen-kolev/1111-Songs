@@ -5,6 +5,40 @@
         "artist": "Quoit",
         "song": "Lounge",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Quoit-Lounge"
+        "url": "https://www.youtube.com/results?search_query=Quoit-Lounge",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Y370nXu5EObvbGFwpeTjaShV7pA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XZlZI9b5oBs"
+            },
+            "snippet": {
+                "publishedAt": "2017-04-17T02:32:19.000Z",
+                "channelId": "UCOVBEPdigRzmKIZAhKgiHaA",
+                "title": "QUOIT &quot;Lounge&quot; [Full Album]",
+                "description": "Dark, atmospheric drum and bass from Mick Harris, released in 1996 on his short-lived label \"Possible\". This was the first CD release for the label, which would ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XZlZI9b5oBs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XZlZI9b5oBs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XZlZI9b5oBs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Killian",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

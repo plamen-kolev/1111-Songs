@@ -5,6 +5,40 @@
         "artist": "YMO",
         "song": "BGM",
         "year": "(1981)",
-        "url": "https://www.youtube.com/results?search_query=YMO-BGM"
+        "url": "https://www.youtube.com/results?search_query=YMO-BGM",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/MphggSnGTDgjdRuoOmYD1cPAQEU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hIw3kT2Q9Zk"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-26T09:13:25.000Z",
+                "channelId": "UCeOs3ewV9m7Om6sa6fputdw",
+                "title": "Yellow Magic Orchestra - BGM (1981)",
+                "description": "BGM is the fourth studio album by Yellow Magic Orchestra, released on March 21, 1981. The title stands for \"Background music\". This album was produced by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hIw3kT2Q9Zk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hIw3kT2Q9Zk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hIw3kT2Q9Zk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Keeble Films",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

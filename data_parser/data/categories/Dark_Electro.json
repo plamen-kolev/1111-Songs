@@ -5,6 +5,40 @@
         "artist": "G.G.F.H.",
         "song": "Disease",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=G.G.F.H.-Disease"
+        "url": "https://www.youtube.com/results?search_query=G.G.F.H.-Disease",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/e9pYUIMBkX45AEYCNaJFqDtFqB0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lt5xZGgmSW0"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-07T17:27:50.000Z",
+                "channelId": "UCOVBEPdigRzmKIZAhKgiHaA",
+                "title": "GGFH &quot;Disease&quot; [Full Album]",
+                "description": "The final release of new material by GGFH under the Dreamtime label. This album sees more of a shift towards a dark electro sound but maintains the chilling, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lt5xZGgmSW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lt5xZGgmSW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lt5xZGgmSW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Killian",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

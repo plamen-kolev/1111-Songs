@@ -5,7 +5,41 @@
         "artist": "Toshimaru Nakamura",
         "song": "No_Input Mixing Board",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Toshimaru%20Nakamura-No_Input%20Mixing%20Board"
+        "url": "https://www.youtube.com/results?search_query=Toshimaru%20Nakamura-No_Input%20Mixing%20Board",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/IMDElgct1E9BTwqF3urPQgymftA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qTi0hom6r44"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-22T06:57:30.000Z",
+                "channelId": "UCopspSr2W-0OYLn47-aJ2_Q",
+                "title": "Toshimaru Nakamura - No-Input Mixing Board (Full Album)",
+                "description": "1. Nimb #1 00:00 2. Nimb #2 7:00 3. Nimb #3 14:17 4. Nimb #4 20:16 5. Nimb #5 25:22 6. Nimb #6 27:36 7. Nimb #7 29:29 8. Nimb #8 37:25 9. Nimb #9 40:31 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qTi0hom6r44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qTi0hom6r44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qTi0hom6r44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nurry Goren",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1044,
@@ -13,6 +47,40 @@
         "artist": "Nikos Veliotis, Taku Sugimoto, Kazushige Kinoshita & Taku Unami",
         "song": "Quartet",
         "year": "(2005)",
-        "url": "https://www.youtube.com/results?search_query=Nikos%20Veliotis%2C%20Taku%20Sugimoto%2C%20Kazushige%20Kinoshita%20%26amp%3B%20Taku%20Unami-Quartet"
+        "url": "https://www.youtube.com/results?search_query=Nikos%20Veliotis%2C%20Taku%20Sugimoto%2C%20Kazushige%20Kinoshita%20%26amp%3B%20Taku%20Unami-Quartet",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/92o2Mb2OX0fKDk-6K6DjXMWnTLs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p0UJbJJkLFc"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-26T01:10:33.000Z",
+                "channelId": "UCAxNxYeFbMULL75EXpFlDGw",
+                "title": "Quartet - Nikos Veliotis, Taku Sugimoto, Kazushige Kinoshita &amp; Taku Unami",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p0UJbJJkLFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p0UJbJJkLFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p0UJbJJkLFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kitty Cat",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

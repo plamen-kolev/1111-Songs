@@ -5,6 +5,40 @@
         "artist": "Hudson Mohawke",
         "song": "Butter",
         "year": "(2009)",
-        "url": "https://www.youtube.com/results?search_query=Hudson%20Mohawke-Butter"
+        "url": "https://www.youtube.com/results?search_query=Hudson%20Mohawke-Butter",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5wj3kE-rGgmju9jB9tFTaXjvWU4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLZqsyBiYZFQ3Bz8PxJkmE7AIY2ek8azyM"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-08T03:52:29.000Z",
+                "channelId": "UCHUQGyuwOZEOGnOggX-DHrA",
+                "title": "Hudson Mohawke - Butter 2009 (full album)",
+                "description": "Hudson Mohawke - Butter 2009 (full album)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M49VSLLYDMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M49VSLLYDMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M49VSLLYDMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Indie Guvenc",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

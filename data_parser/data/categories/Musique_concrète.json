@@ -5,6 +5,40 @@
         "artist": "Pierre Henry, Pierre Schaeffer, Philippe Arthuys",
         "song": "1er Panorama de Musique Concr\u00e8te",
         "year": "(1957)",
-        "url": "https://www.youtube.com/results?search_query=Pierre%20Henry%2C%20Pierre%20Schaeffer%2C%20Philippe%20Arthuys-1er%20Panorama%20de%20Musique%20Concr%C3%A8te"
+        "url": "https://www.youtube.com/results?search_query=Pierre%20Henry%2C%20Pierre%20Schaeffer%2C%20Philippe%20Arthuys-1er%20Panorama%20de%20Musique%20Concr%C3%A8te",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/U2Rj-wyaFPDL7-3ldzMpgYrM4UU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL4UtjIDuLpKcAgvQrl2bpb9MaDaXYjRCG"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-26T11:05:37.000Z",
+                "channelId": "UCW7NZwtedK9j1XySYVHynmw",
+                "title": "\ud83d\udcbf [Album] Various Artists - 1er Panorama de Musique Concrete \ud83d\udcbf",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/49RCd4oUBYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/49RCd4oUBYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/49RCd4oUBYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Early Electronic Music Compilation",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

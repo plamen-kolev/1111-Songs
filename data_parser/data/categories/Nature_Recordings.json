@@ -5,6 +5,40 @@
         "artist": "Chris Watson",
         "song": "Weather Report",
         "year": "(2003)",
-        "url": "https://www.youtube.com/results?search_query=Chris%20Watson-Weather%20Report"
+        "url": "https://www.youtube.com/results?search_query=Chris%20Watson-Weather%20Report",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/52bfu-2VjGpsHadGbopwMZOYWDY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CH2o-FGrWdE"
+            },
+            "snippet": {
+                "publishedAt": "2013-04-05T14:26:08.000Z",
+                "channelId": "UC-ksUES3XQOFheQdrSycKDQ",
+                "title": "03 Chris Watson - Vatnajokull [Touch]",
+                "description": "Download: http://ks.kud.li/to47 Subscribe: http://sb.kud.li/touchmusic33 Official stream from Touch. Distributed by Kudos Records. On iTunes: http://it.kud.li/to47 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CH2o-FGrWdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CH2o-FGrWdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CH2o-FGrWdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "touchmusic33",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

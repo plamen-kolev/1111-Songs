@@ -5,6 +5,40 @@
         "artist": "Apoptygma Berzerk",
         "song": "7",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Apoptygma%20Berzerk-7"
+        "url": "https://www.youtube.com/results?search_query=Apoptygma%20Berzerk-7",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/63ecMnNNgjSuDPmhzaOYQA9N_i8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NzskwgD85Sw"
+            },
+            "snippet": {
+                "publishedAt": "2008-09-16T04:24:48.000Z",
+                "channelId": "UCsjRnNmtHT1pzYhYi1wkqZQ",
+                "title": "Apoptygma Berzerk - Love Never Dies Part 1 (album version)",
+                "description": "Track 1 of the \"7\" album from Apoptygma Berzerk.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NzskwgD85Sw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NzskwgD85Sw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NzskwgD85Sw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pravus jif",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

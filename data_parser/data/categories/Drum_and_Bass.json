@@ -47,6 +47,40 @@
         "artist": "Various",
         "song": "Metalheadz Presents Platinum Breakz",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Various-Metalheadz%20Presents%20Platinum%20Breakz"
+        "url": "https://www.youtube.com/results?search_query=Various-Metalheadz%20Presents%20Platinum%20Breakz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ZbEb8VmFk-HjA-pVTIp7EtAYnqY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pQwRJegkvEk"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-16T19:30:29.000Z",
+                "channelId": "UCoO8oJBhl4gJkutZKE1e5Wg",
+                "title": "Various Artists \u200e\u2013 Metalheadz Platinum Breakz",
+                "description": "Year: 1996 Tracklist Rufige Kru - V.I.P. Riders Ghost 0:00 Peshay - Psychosis 7:27 Doc Scott - Far Away 16:11 Dillinja - The Angels Fell 24:10 J Majik - Your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pQwRJegkvEk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pQwRJegkvEk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pQwRJegkvEk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "angelakard87",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "24hr Experience",
         "song": "The Test Press EP",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=24hr%20Experience-The%20Test%20Press%20EP"
+        "url": "https://www.youtube.com/results?search_query=24hr%20Experience-The%20Test%20Press%20EP",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/1_seYYLt5iaZaBJyoAet_FeCAPg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "atOmC2mZFvc"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-29T01:05:37.000Z",
+                "channelId": "UCPgtR9eyMiX2KI640v6kb0w",
+                "title": "24Hour Experience &#39;&#39;The Test Press EP&#39;&#39; - Not Gonna Let Ya",
+                "description": "UK Garage 1995 [Nice 'N' Ripe]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/atOmC2mZFvc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/atOmC2mZFvc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/atOmC2mZFvc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jonny Roberts",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

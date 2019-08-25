@@ -5,6 +5,40 @@
         "artist": "Coil",
         "song": "Love's Secret Domain",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Coil-Love%26%23x27%3Bs%20Secret%20Domain"
+        "url": "https://www.youtube.com/results?search_query=Coil-Love%26%23x27%3Bs%20Secret%20Domain",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jp35kzukH0H8Vb2sJxtS5hwfsuE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UJMQRfT3jRo"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-29T11:25:37.000Z",
+                "channelId": "UCugkvDe_qb0oYx493c3FehA",
+                "title": "Coil - Love&#39;s Secret Domain (1991)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJMQRfT3jRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJMQRfT3jRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJMQRfT3jRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "escava\u00e7\u00f5es sonoras",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "AMM",
         "song": "AMMMusic",
         "year": "(1966)",
-        "url": "https://www.youtube.com/results?search_query=AMM-AMMMusic"
+        "url": "https://www.youtube.com/results?search_query=AMM-AMMMusic",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/HlXbYfeA3TnyQzF3_mkDN-NtXO0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e40Jz-jKcQc"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-15T16:42:35.000Z",
+                "channelId": "UCVl6GgUbLSU8dbg7LJNKSAw",
+                "title": "AMM - After Rapidly Circling The Plaza (1967)",
+                "description": "From \u201cAMM - Ammmusic\u201d [ Elektra - EUK-256 (LP) UK 1967 ] Recorded on the 8th and 27th June 1966 by Harry Davis and Jac Holzman at Sound Techniques, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e40Jz-jKcQc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e40Jz-jKcQc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e40Jz-jKcQc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Magnetic Fields",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1031,
@@ -13,7 +47,41 @@
         "artist": "Evan Parker, Derek Bailey & Han Bennink",
         "song": "The Topography of the Lungs",
         "year": "(1970)",
-        "url": "https://www.youtube.com/results?search_query=Evan%20Parker%2C%20Derek%20Bailey%20%26amp%3B%20Han%20Bennink-The%20Topography%20of%20the%20Lungs"
+        "url": "https://www.youtube.com/results?search_query=Evan%20Parker%2C%20Derek%20Bailey%20%26amp%3B%20Han%20Bennink-The%20Topography%20of%20the%20Lungs",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/F4mAkZM8hhcBgnCMcRFX9mNIxJ0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GJZuf4OiMcQ"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-07T05:10:27.000Z",
+                "channelId": "UCWec80NqEPGYgEz1C4kGPEA",
+                "title": "Evan Parker / Derek Bailey / Han Bennink - The Topography Of The Lungs (FULL ALBUM)",
+                "description": "1. Titan Moon 0:00 2. For Peter B. & Peter K. 20:53 3. Fixed Elsewhere 25:20 4. Dogmeat 30:38 Bonus Tracks: 5. Found Elsewhere 1 42:58 6. Found Elsewhere ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GJZuf4OiMcQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GJZuf4OiMcQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GJZuf4OiMcQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "\u904e\u9177\u306a\u30ce\u30a4\u30ba\u30e0\u30fc\u30d6\u30e1\u30f3\u30c8",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1032,
@@ -21,6 +89,40 @@
         "artist": "Fred Frith",
         "song": "Guitar Solos",
         "year": "(1974)",
-        "url": "https://www.youtube.com/results?search_query=Fred%20Frith-Guitar%20Solos"
+        "url": "https://www.youtube.com/results?search_query=Fred%20Frith-Guitar%20Solos",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/zUvQAP9iyF5uco87OtyuToM2GiY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YSOFCm_ejbo"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-04T22:15:07.000Z",
+                "channelId": "UCVjJEbHnQdSQHVguDPKeD8g",
+                "title": "Fred Frith - Guitar Solos (1974) FULL ALBUM",
+                "description": "We do not own any of the content present in this video. This is for disclosure purposes only and it is protected by fair use. If you'd like to download this album, try ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YSOFCm_ejbo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YSOFCm_ejbo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YSOFCm_ejbo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Free Forgotten Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

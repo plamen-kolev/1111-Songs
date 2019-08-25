@@ -5,6 +5,40 @@
         "artist": "Neon Phusion",
         "song": "The Future Ain't the Same as It Used to Be",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Neon%20Phusion-The%20Future%20Ain%26%23x27%3Bt%20the%20Same%20as%20It%20Used%20to%20Be"
+        "url": "https://www.youtube.com/results?search_query=Neon%20Phusion-The%20Future%20Ain%26%23x27%3Bt%20the%20Same%20as%20It%20Used%20to%20Be",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/IZ0xvRWlS-EyBOj6TNb9caVspPw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XMiCQOWLRZM"
+            },
+            "snippet": {
+                "publishedAt": "2011-03-30T05:16:29.000Z",
+                "channelId": "UCHQhVPf8hros71NY9A4uCyg",
+                "title": "Neon Phusion &amp; New Sector Movements - The Future Ain&#39;t The Same As it Used 2 B",
+                "description": "http://www.groovedis.com/shop/Neon-Phusion-FUTURE-AINT-THE-SAME..-CD-p-665395.html.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XMiCQOWLRZM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XMiCQOWLRZM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XMiCQOWLRZM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SOUNDROTATION",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "Terry Riley",
         "song": "A Rainbow in Curved Air",
         "year": "(1968)",
-        "url": "https://www.youtube.com/results?search_query=Terry%20Riley-A%20Rainbow%20in%20Curved%20Air"
+        "url": "https://www.youtube.com/results?search_query=Terry%20Riley-A%20Rainbow%20in%20Curved%20Air",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/b0DzTWkezPbegYYFjC8n09ncu7s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hy3W-3HPMWg"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-07T06:39:37.000Z",
+                "channelId": "UCyugr4r1xecQ31H3QTl45nw",
+                "title": "Terry Riley - A Rainbow in Curved Air - Full CD (HQ)",
+                "description": "Created by Terry Riley 1. A Rainbow in Curved Air - 00:00 2. Poppy Nogood and the Phantom Band - 18:46 Ripped using EAC with 98% accuracy and encoded ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hy3W-3HPMWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hy3W-3HPMWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hy3W-3HPMWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "kademan13",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1026,
@@ -13,6 +47,40 @@
         "artist": "Manuel G\u00f6ttsching",
         "song": "E2-E4",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Manuel%20G%C3%B6ttsching-E2-E4"
+        "url": "https://www.youtube.com/results?search_query=Manuel%20G%C3%B6ttsching-E2-E4",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/qir_8R2KZh8_MXRaVTU0v59aeaw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ys0HyevZpQg"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-13T07:05:09.000Z",
+                "channelId": "UCbaU1KqFLY-sZAbNsbcYirg",
+                "title": "Manuel Go\u0308ttsching - E2-E4 (Full Length Version) - 1981/1984",
+                "description": "unfortunately there is no digital download available, but you can check at least cd & vinyl at Manuels own page: http://www.ashra.com/pages/shop.htm or ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ys0HyevZpQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ys0HyevZpQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ys0HyevZpQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ohral",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

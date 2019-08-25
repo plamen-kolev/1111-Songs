@@ -5,6 +5,40 @@
         "artist": "Front 242",
         "song": "Geography",
         "year": "(1982)",
-        "url": "https://www.youtube.com/results?search_query=Front%20242-Geography"
+        "url": "https://www.youtube.com/results?search_query=Front%20242-Geography",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/fQeey1vSQgq394CjM3mQnWHotKw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TjrK_r62mC8"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-29T20:29:27.000Z",
+                "channelId": "UCe7yMqNBcAGZ5IO3lMtmzDQ",
+                "title": "Front 242 - Geography [Full Album] (1982)",
+                "description": "Geography is the debut album by Front 242, released in 1982. The band on this record consisted of Daniel Bressanutti, Dirk Bergen, Jean-Luc De Meyer, and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TjrK_r62mC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TjrK_r62mC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TjrK_r62mC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rachel Clarence",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

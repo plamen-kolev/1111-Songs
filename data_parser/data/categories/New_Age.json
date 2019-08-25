@@ -5,6 +5,40 @@
         "artist": "Tony Scott, Shinichi Yuize & Hozan Yamamoto",
         "song": "Music for Zen Meditation",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=Tony%20Scott%2C%20Shinichi%20Yuize%20%26amp%3B%20Hozan%20Yamamoto-Music%20for%20Zen%20Meditation"
+        "url": "https://www.youtube.com/results?search_query=Tony%20Scott%2C%20Shinichi%20Yuize%20%26amp%3B%20Hozan%20Yamamoto-Music%20for%20Zen%20Meditation",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/YeXpx2pvZtoVS8kTP-7W1CwiLWg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zmNVf5k9J5o"
+            },
+            "snippet": {
+                "publishedAt": "2014-06-07T15:01:23.000Z",
+                "channelId": "UCdPkCeCT_jHTn8_PdmZxuVA",
+                "title": "Sanzen   Tony Scott",
+                "description": "superb piece featuring the beautiful harmonics of (Brother) Tony Scott, (Master) Shinichi Yuize and (Father) Hozan Yamamoto. 1964 selection from ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zmNVf5k9J5o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zmNVf5k9J5o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zmNVf5k9J5o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "theurbanmusicologist",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

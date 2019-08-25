@@ -5,7 +5,41 @@
         "artist": "Ernest Hood",
         "song": "Neighborhoods",
         "year": "(1975)",
-        "url": "https://www.youtube.com/results?search_query=Ernest%20Hood-Neighborhoods"
+        "url": "https://www.youtube.com/results?search_query=Ernest%20Hood-Neighborhoods",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/jle07GxUP57IbUfqNwH8fmdvfNw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tUdSrNAgr2Y"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-23T01:30:26.000Z",
+                "channelId": "UC-x0Ati-9q54m0-zirXhuMw",
+                "title": "Ernest Hood - Neighborhoods (1975)",
+                "description": "http://www.discogs.com/Ernest-Hood-Neighborhoods/release/4549152 A 1 Saturday Morning Doze 7:15 A 2 At The Store 6:21 A 3 August Haze 8:00 A 4 The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tUdSrNAgr2Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tUdSrNAgr2Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tUdSrNAgr2Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "late privktorian era",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1004,
@@ -13,6 +47,40 @@
         "artist": "Various",
         "song": "Pictures of Sound - One Thousand Years of Educed Audio",
         "year": "(980-1980)",
-        "url": "https://www.youtube.com/results?search_query=Various-Pictures%20of%20Sound%20-%20One%20Thousand%20Years%20of%20Educed%20Audio"
+        "url": "https://www.youtube.com/results?search_query=Various-Pictures%20of%20Sound%20-%20One%20Thousand%20Years%20of%20Educed%20Audio",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/9nKsPcX1ua2xxyvO4VDb51_q67c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kx_WANIVOcM"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-30T23:06:19.000Z",
+                "channelId": "UCDqeX741Z-PkyY_5xF5jL3A",
+                "title": "Patrick Feaster discusses &quot;Pictures of Sound&quot;",
+                "description": "\"Pictures of Sound: One Thousand Years of Educed Audio: 980-1980\" is a book/CD set produced by Patrick Feaster http://www.dust-digital.com/feaster/ This ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kx_WANIVOcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kx_WANIVOcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kx_WANIVOcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dust-to-Digital",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

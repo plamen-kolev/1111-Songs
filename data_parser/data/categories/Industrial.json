@@ -5,7 +5,41 @@
         "artist": "COUM Transmissions",
         "song": "The Sound of Porridge Bubbling",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=COUM%20Transmissions-The%20Sound%20of%20Porridge%20Bubbling"
+        "url": "https://www.youtube.com/results?search_query=COUM%20Transmissions-The%20Sound%20of%20Porridge%20Bubbling",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tuSjm8V_oCvoZTVxj4y6scG0swk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uqlv2UtVZCs"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-24T01:35:58.000Z",
+                "channelId": "UCIFDm4I_CeOYSpgx5JKOEcQ",
+                "title": "COUM Transmissions - The Sound of Porridge Bubbling",
+                "description": "1. Welcome to the Alien Camp (0:00) 2. Real Sure Alien Brain (1:57) 3. On The Count of Three (4:48) 4. Dogs Are Funny People (6:44) 5. It's Easy With Kesey ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uqlv2UtVZCs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uqlv2UtVZCs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uqlv2UtVZCs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "gaba 13",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1061,
@@ -13,7 +47,41 @@
         "artist": "Throbbing Gristle",
         "song": "The Second Annual Report",
         "year": "(1977)",
-        "url": "https://www.youtube.com/results?search_query=Throbbing%20Gristle-The%20Second%20Annual%20Report"
+        "url": "https://www.youtube.com/results?search_query=Throbbing%20Gristle-The%20Second%20Annual%20Report",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/SI4wNS3DtuFUI8tXER8bqIb16M4\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLEeF3DgPdjfaiObBRBDgXd90XR6L_pwzM"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-20T00:32:18.000Z",
+                "channelId": "UCjszhBTj49jec4dDEeGzBtQ",
+                "title": "Throbbing Gristle--Second Annual Report",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uncglT7LLOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uncglT7LLOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uncglT7LLOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jamey Bazes",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1062,
@@ -21,6 +89,40 @@
         "artist": "Einst\u00fcrzende Neubauten",
         "song": "\u00bd Mensch",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Einst%C3%BCrzende%20Neubauten-%C2%BD%20Mensch"
+        "url": "https://www.youtube.com/results?search_query=Einst%C3%BCrzende%20Neubauten-%C2%BD%20Mensch",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/g4RA-FJLnhYcVdpDou1yVcjXPj8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CweBj4pvcfg"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-09T11:06:57.000Z",
+                "channelId": "UCugkvDe_qb0oYx493c3FehA",
+                "title": "Einst\u00fcrzende Neubauten \u200e\u2013 Halber Mensch (1985)",
+                "description": "https://neubauten.org/en/halber-mensch.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CweBj4pvcfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CweBj4pvcfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CweBj4pvcfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "escava\u00e7\u00f5es sonoras",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

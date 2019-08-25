@@ -5,6 +5,40 @@
         "artist": "Chuck Person",
         "song": "Eccojams - Volume 1",
         "year": "(2010)",
-        "url": "https://www.youtube.com/results?search_query=Chuck%20Person-Eccojams%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Chuck%20Person-Eccojams%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_Gr3DUXnVyrVW6PxD5WkkckGpZ8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "unN7QvSWSTo"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-07T20:39:58.000Z",
+                "channelId": "UC7CPy6qiqGZxCkH5iEDUr-g",
+                "title": "Chuck Person - Eccojams Vol. 1 [Full Album, Normal Speed]",
+                "description": "Classic. TRACK LIST (this is approximative) by 'wathever' A1: 00:00 A2: 02:44 A3: 06:46 A4: 13:18 A5: 14:23 A6: 18:27 A7: 21:27 A8: 23:55 B1: 29:08 B2: 34:02 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/unN7QvSWSTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/unN7QvSWSTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/unN7QvSWSTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "v a p o r g o d",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

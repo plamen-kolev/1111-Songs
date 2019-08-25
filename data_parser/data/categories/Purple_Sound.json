@@ -5,6 +5,40 @@
         "artist": "Joker",
         "song": "Kapsize EP",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Joker-Kapsize%20EP"
+        "url": "https://www.youtube.com/results?search_query=Joker-Kapsize%20EP",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AQQxxxiJvUm5MjTTxhu_NnugHk0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GR7LLZoZmaw"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-01T06:53:34.000Z",
+                "channelId": "UCCJJ8Y8tv06f1dde-PczYxg",
+                "title": "Joker Ft Footsie - Marching Orders",
+                "description": "KAPSIZE.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GR7LLZoZmaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GR7LLZoZmaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GR7LLZoZmaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Off The Radar",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

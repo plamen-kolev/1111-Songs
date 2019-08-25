@@ -5,6 +5,40 @@
         "artist": "Sunship",
         "song": "Is This Real",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Sunship-Is%20This%20Real"
+        "url": "https://www.youtube.com/results?search_query=Sunship-Is%20This%20Real",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/JroXhz_dRYeSrK0jv9k3R6H6qwQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z5RiMAj5UrY"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-30T21:06:47.000Z",
+                "channelId": "UCDo_VHBvW6g6esvbRLyqr8A",
+                "title": "Sunship - Is This Real",
+                "description": "Huge track 1998 with vocals by Robert Owens. Had it then lost it but got it again. Madness! But its up here anyway. Probably the most solid Garage track on the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z5RiMAj5UrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z5RiMAj5UrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z5RiMAj5UrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DEE DUBZ",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

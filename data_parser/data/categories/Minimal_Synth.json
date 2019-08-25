@@ -5,6 +5,40 @@
         "artist": "The Human League",
         "song": "Reproduction",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=The%20Human%20League-Reproduction"
+        "url": "https://www.youtube.com/results?search_query=The%20Human%20League-Reproduction",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Z_-aJKRup6qKFi_RCkKYyCnFQmU\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLjIuADMrDKIbgT9mipzEfkS2b6CzJ81aH"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-19T11:21:44.000Z",
+                "channelId": "UCSnCG4Y6H2jsd6e1L_CIfyA",
+                "title": "The Human League - Reproduction (remastered) full album",
+                "description": "Debut album from The Human League originally released Oct 1979 genres Electronic, Electro, SynthPop, Experimental, Industrial & New Wave. Find on Discogs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UYNggevb-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UYNggevb-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UYNggevb-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Album Playlists",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "The Ganja Kru",
         "song": "Super Sharp Shooter",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=The%20Ganja%20Kru-Super%20Sharp%20Shooter"
+        "url": "https://www.youtube.com/results?search_query=The%20Ganja%20Kru-Super%20Sharp%20Shooter",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/oR-NNslzOH0f6LF1u2Wl3I_SQOA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4spmdX5DDcc"
+            },
+            "snippet": {
+                "publishedAt": "2008-10-17T10:28:10.000Z",
+                "channelId": "UC6T_Q1My32b6xlRkoAZ2sVw",
+                "title": "Super Sharp Shooter - The Ganja Kru",
+                "description": "A drum & bass classic from the vaults. I did the typography and animation as a tribute.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4spmdX5DDcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4spmdX5DDcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4spmdX5DDcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Seb Lester",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

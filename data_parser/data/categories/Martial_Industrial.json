@@ -5,6 +5,40 @@
         "artist": "Laibach",
         "song": "Nova akropola",
         "year": "(1985)",
-        "url": "https://www.youtube.com/results?search_query=Laibach-Nova%20akropola"
+        "url": "https://www.youtube.com/results?search_query=Laibach-Nova%20akropola",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/998SgzplxSbAsdwVRJOWSdyKukM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WsqiVE6ch20"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-11T04:50:00.000Z",
+                "channelId": "UCOaR16rGEaoKoBdr5VsvhLw",
+                "title": "Laibach - Nova Akropola",
+                "description": "From the album Nova Akropola. 1985.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WsqiVE6ch20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WsqiVE6ch20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WsqiVE6ch20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Antonio Ch\u00e1vez",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,7 +5,41 @@
         "artist": "The Gerogerigegege",
         "song": "Art is Over",
         "year": "(1995)",
-        "url": "https://www.youtube.com/results?search_query=The%20Gerogerigegege-Art%20is%20Over"
+        "url": "https://www.youtube.com/results?search_query=The%20Gerogerigegege-Art%20is%20Over",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/B7LarnyuqDwUAGjtk36nyxr_-EE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sreR03ynkd0"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-08T12:00:55.000Z",
+                "channelId": "UCvk9CvQOE6CAAI-tuYXd4KA",
+                "title": "ART IS (C)OVER // Tribute to The GEROGERIGEGEGE",
+                "description": "THE GEROGERIGEGEGE TRIBUTE ALBUM //////////////////////////////////////////////////////////// TRACKLIST: 1. GIHT SHASIE - ZERO SONG 2. DISFORJIA - WATER BUSINESS ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sreR03ynkd0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sreR03ynkd0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sreR03ynkd0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Sheep Portal",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1049,
@@ -13,6 +47,40 @@
         "artist": "YellowJelly",
         "song": "Music",
         "year": "(2015)",
-        "url": "https://www.youtube.com/results?search_query=YellowJelly-Music"
+        "url": "https://www.youtube.com/results?search_query=YellowJelly-Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/h358bOllcMP6-A_kMTdw9SqKMig\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0ARL5UuD6fg"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-20T14:29:20.000Z",
+                "channelId": "UCpEuhNyTh_tJ4CSzQE1-_6Q",
+                "title": "Yellow Jelly",
+                "description": "Provided to YouTube by The state51 Conspiracy Yellow Jelly \u00b7 Baby Sensory Say Hello to the Sun \u2117 2004 Baby Sensory Limited Released on: 2004-04-04 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0ARL5UuD6fg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0ARL5UuD6fg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0ARL5UuD6fg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Baby Sensory - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Ben UFO",
         "song": "FACT Mix 08",
         "year": "(2008)",
-        "url": "https://www.youtube.com/results?search_query=Ben%20UFO-FACT%20Mix%2008"
+        "url": "https://www.youtube.com/results?search_query=Ben%20UFO-FACT%20Mix%2008",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/eSzEIcafYTGSL5YXB7-ph4hKZVE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lWtUZ2a1AdA"
+            },
+            "snippet": {
+                "publishedAt": "2011-11-13T10:50:36.000Z",
+                "channelId": "UCZdJz3D0fAaiDL_YLKo8xCg",
+                "title": "DOWNLOAD FREE VA-Rinse 16 Ben UFO-WEB-2011 FULL",
+                "description": "DOWNLOAD: http://www.filesonic.com/file/2463470404/VA-Rinse_16_Ben_UFO-WEB-2011-SO_28788.rar VA-Rinse 16 Ben UFO-WEB-2011 Artist: VA Title: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lWtUZ2a1AdA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lWtUZ2a1AdA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lWtUZ2a1AdA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "microsoft5030",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "John Cage",
         "song": "4 33",
         "year": "(1952)",
-        "url": "https://www.youtube.com/results?search_query=John%20Cage-4%2033"
+        "url": "https://www.youtube.com/results?search_query=John%20Cage-4%2033",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Tuk2lDVaOOBnShVvQ5m6QXQ97aY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JTEFKFiXSx4"
+            },
+            "snippet": {
+                "publishedAt": "2010-12-15T16:27:33.000Z",
+                "channelId": "UCgVgcS3xWT0TmD0KYLs7tNw",
+                "title": "John Cage&#39;s 4&#39;33&quot;",
+                "description": "A performance by William Marx of John Cage's 4'33. Filmed at McCallum Theatre, Palm Desert, CA. Composer John Adams wrote the following in The New York ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JTEFKFiXSx4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JTEFKFiXSx4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JTEFKFiXSx4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Joel Hochberg",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

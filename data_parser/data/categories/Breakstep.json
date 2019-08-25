@@ -5,6 +5,40 @@
         "artist": "DJ Zinc",
         "song": "138 Trek",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=DJ%20Zinc-138%20Trek"
+        "url": "https://www.youtube.com/results?search_query=DJ%20Zinc-138%20Trek",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/hnJUgD8h8ayy18kRNcxROPSXy2s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MfmqmrFHJZg"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-17T07:33:36.000Z",
+                "channelId": "UCZWgxC48ev9wLUrX4_P2YZw",
+                "title": "DJ Zinc - 138 Trek",
+                "description": "DJ Zinc - Beats By Design EP More @ http://badassdrumnbass.wordpress.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MfmqmrFHJZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MfmqmrFHJZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MfmqmrFHJZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DaBlazingAsian",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

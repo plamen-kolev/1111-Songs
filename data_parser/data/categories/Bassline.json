@@ -5,6 +5,40 @@
         "artist": "Lonyo",
         "song": "Garage Girls",
         "year": "(2001)",
-        "url": "https://www.youtube.com/results?search_query=Lonyo-Garage%20Girls"
+        "url": "https://www.youtube.com/results?search_query=Lonyo-Garage%20Girls",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ob5UKJvCMDYysr39ceTWE6FLtgs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "30rgXwnwBRQ"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-01T08:37:28.000Z",
+                "channelId": "UCFRe1i5lu0H26RgEBWR1gpA",
+                "title": "Lonyo - Garage Girls (Sunship Radio Edit)",
+                "description": "Download at iTunes : http://tinyurl.com/p27y7lv Stream with Spotify : http://tinyurl.com/qcys4ad.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/30rgXwnwBRQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/30rgXwnwBRQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/30rgXwnwBRQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Altra Moda Music",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Rustie",
         "song": "Jagz the Smack",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Rustie-Jagz%20the%20Smack"
+        "url": "https://www.youtube.com/results?search_query=Rustie-Jagz%20the%20Smack",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/uds_buP3TXnEdnups2nDXfQ37mE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_tH1DohU_Nk"
+            },
+            "snippet": {
+                "publishedAt": "2009-07-17T10:00:18.000Z",
+                "channelId": "UC3wVlhiC_wxg4ie6e55BHiA",
+                "title": "Rustie - Jagz the Smack",
+                "description": "massive tune from the Jagz the Smack EP.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_tH1DohU_Nk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_tH1DohU_Nk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_tH1DohU_Nk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "arforcee",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

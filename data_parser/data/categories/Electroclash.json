@@ -5,6 +5,40 @@
         "artist": "Peaches",
         "song": "The Teaches of Peaches",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Peaches-The%20Teaches%20of%20Peaches"
+        "url": "https://www.youtube.com/results?search_query=Peaches-The%20Teaches%20of%20Peaches",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8CuxoKKfe1WQRE6fsVwDIgNohZA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EpDmklLFXVc"
+            },
+            "snippet": {
+                "publishedAt": "2011-07-12T14:22:46.000Z",
+                "channelId": "UCTTp8rOUFbEvajupFXEpHsQ",
+                "title": "Peaches - Fuck the Pain Away",
+                "description": "Unofficial music video for \"Fuck the Pain Away\" by Peaches. Directed by Erik Huber. Features several episodes of The Andy Griffith Show, but I forget which now.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EpDmklLFXVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EpDmklLFXVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EpDmklLFXVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Erik Huber",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

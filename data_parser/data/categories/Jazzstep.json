@@ -5,6 +5,40 @@
         "artist": "Endemic Void",
         "song": "Equations",
         "year": "(1996)",
-        "url": "https://www.youtube.com/results?search_query=Endemic%20Void-Equations"
+        "url": "https://www.youtube.com/results?search_query=Endemic%20Void-Equations",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/adzjCPQPYv7qN-M2JhMtZkOueOI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qzNi9i7e2NA"
+            },
+            "snippet": {
+                "publishedAt": "2014-11-29T12:47:19.000Z",
+                "channelId": "UCAAssxZPwCmBK9hFsH2ANXA",
+                "title": "Hydrosphere",
+                "description": "Provided to YouTube by Pias UK Limited Hydrosphere \u00b7 Endemic Void Equations \u2117 1996 Crammed Discs Released on: 1996-11-15 Mixer: Endemic Void ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qzNi9i7e2NA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qzNi9i7e2NA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qzNi9i7e2NA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Endemic Void - Topic",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

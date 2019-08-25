@@ -5,6 +5,40 @@
         "artist": "Jon Hassell & Brian Eno",
         "song": "Fourth World - Volume 1 - Possible Musics",
         "year": "(1980)",
-        "url": "https://www.youtube.com/results?search_query=Jon%20Hassell%20%26amp%3B%20Brian%20Eno-Fourth%20World%20-%20Volume%201%20-%20Possible%20Musics"
+        "url": "https://www.youtube.com/results?search_query=Jon%20Hassell%20%26amp%3B%20Brian%20Eno-Fourth%20World%20-%20Volume%201%20-%20Possible%20Musics",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rANkE8dPE6mAqBxjuQC4Pwx1Nso\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cFig-OiIwDo"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-28T14:12:37.000Z",
+                "channelId": "UCjv_socIwRPNp89J2j6qnrA",
+                "title": "Brian Eno / Jon Hassell - Fourth World Vol. 1: Possible Musics Full Album (2014 Remaster)",
+                "description": "Tracklist: 1. Chemistry - 0:00 2. Delta Rain Dream - 6:59 3. Griot (Over \"Contagious Magic\") - 10:25 4. Ba-Benz\u00e9l\u00e9 - 14:28 5. Rising Thermal 14\u00b0 16' N; 32\u00b0 28' E ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cFig-OiIwDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cFig-OiIwDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cFig-OiIwDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ibnpatuta",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

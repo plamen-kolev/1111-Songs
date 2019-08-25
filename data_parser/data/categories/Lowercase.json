@@ -5,6 +5,40 @@
         "artist": "Steve Roden",
         "song": "Crop Circles",
         "year": "(1998)",
-        "url": "https://www.youtube.com/results?search_query=Steve%20Roden-Crop%20Circles"
+        "url": "https://www.youtube.com/results?search_query=Steve%20Roden-Crop%20Circles",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6wKVaKBTXpSq9FyZO-i3I-EE9nk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TH3TDTDO3u0"
+            },
+            "snippet": {
+                "publishedAt": "2016-05-14T18:05:09.000Z",
+                "channelId": "UCtKNV2q3sfOL1fmHxCoRiHg",
+                "title": "Steve Roden - Crop Circles (FULL ALBUM)",
+                "description": "Steve's first full length released under his own name (so not counting the \"In Between Noise\" releases). Great album!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TH3TDTDO3u0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TH3TDTDO3u0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TH3TDTDO3u0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Morten Boerman",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

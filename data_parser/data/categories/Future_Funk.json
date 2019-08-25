@@ -5,6 +5,40 @@
         "artist": "Saint Pepsi",
         "song": "Hit Vibes",
         "year": "(2013)",
-        "url": "https://www.youtube.com/results?search_query=Saint%20Pepsi-Hit%20Vibes"
+        "url": "https://www.youtube.com/results?search_query=Saint%20Pepsi-Hit%20Vibes",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0mE9t0Q48QEX4D95kzGpC-AACts\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3r2zleGxv7w"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-04T20:37:01.000Z",
+                "channelId": "UCrAQfodua_OIFpd6F8ObG0A",
+                "title": "SAINT PEPSI - Hit Vibes (FULL ALBUM)",
+                "description": "I don't own any copyrights to this album or picture. Out via Keats Collective: http://keatscollective.bandcamp.com (Free Download included) Official Facebook ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3r2zleGxv7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3r2zleGxv7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3r2zleGxv7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sephurix",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

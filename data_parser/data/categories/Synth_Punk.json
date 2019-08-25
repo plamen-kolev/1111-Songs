@@ -5,6 +5,40 @@
         "artist": "Units",
         "song": "Digital Stimulation",
         "year": "(NA)",
-        "url": "https://www.youtube.com/results?search_query=Units-Digital%20Stimulation"
+        "url": "https://www.youtube.com/results?search_query=Units-Digital%20Stimulation",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/hnLyVo5k-gz_2C_3tjs5x9IpnJ0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OFcOQuilOPk"
+            },
+            "snippet": {
+                "publishedAt": "2015-08-03T13:08:57.000Z",
+                "channelId": "UCw53UNiDRITKNoH8R7uRCqg",
+                "title": "The Units - Digital Stimulation [FULL ALBUM]",
+                "description": "Credit to fanart.tv for the touched-up album cover 01. High Pressure Days - 0:00 02. Digital Stimulation - 3:18 03. Warm Moving Bodies - 6:28 04. Go - 9:59 05.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OFcOQuilOPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OFcOQuilOPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OFcOQuilOPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TheKimJongIllest",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

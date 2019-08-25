@@ -5,6 +5,40 @@
         "artist": "Tangerine Dream",
         "song": "Phaedra",
         "year": "(1974)",
-        "url": "https://www.youtube.com/results?search_query=Tangerine%20Dream-Phaedra"
+        "url": "https://www.youtube.com/results?search_query=Tangerine%20Dream-Phaedra",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/1mi0Yg52Zjl4firhXUgije-L4uM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "URssLwPXkVk"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-17T15:14:11.000Z",
+                "channelId": "UCV4jlmh4WwZF5Or9KnKfQ7Q",
+                "title": "tangerine dream - phaedra (full album) 1974",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/URssLwPXkVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/URssLwPXkVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/URssLwPXkVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "olivier",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

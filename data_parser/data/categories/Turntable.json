@@ -5,6 +5,40 @@
         "artist": "Milan Kn\u00ed\u017e\u00e1k",
         "song": "Broken Music",
         "year": "(1979)",
-        "url": "https://www.youtube.com/results?search_query=Milan%20Kn%C3%AD%C5%BE%C3%A1k-Broken%20Music"
+        "url": "https://www.youtube.com/results?search_query=Milan%20Kn%C3%AD%C5%BE%C3%A1k-Broken%20Music",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/o0V4-NQmOpnmvaNiYabPvH50FYo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "88ONydyRX7c"
+            },
+            "snippet": {
+                "publishedAt": "2008-10-18T19:33:08.000Z",
+                "channelId": "UCKyTJo0UJl2BTxvlpKeQy7g",
+                "title": "Milan Knizak - &quot;Broken Music Composition, 1979&quot;",
+                "description": "\"In 1963-64 I used to play records both too slowly and too fast and thus changed the quality of the music, thereby, creating new compositions. In 1965 I started to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/88ONydyRX7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/88ONydyRX7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/88ONydyRX7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "suxulfluxus",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

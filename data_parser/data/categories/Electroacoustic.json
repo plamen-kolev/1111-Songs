@@ -5,6 +5,40 @@
         "artist": "Karlheinz Stockhausen",
         "song": "Kontakte",
         "year": "(1960)",
-        "url": "https://www.youtube.com/results?search_query=Karlheinz%20Stockhausen-Kontakte"
+        "url": "https://www.youtube.com/results?search_query=Karlheinz%20Stockhausen-Kontakte",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6Q-UQjnZVYl5XaPcP3TtcLXJmzg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KwtAMGXyTI4"
+            },
+            "snippet": {
+                "publishedAt": "2011-05-22T22:15:49.000Z",
+                "channelId": "UCfo8kJ4stEdZu-_uu1cZWUA",
+                "title": "KONTAKTE (Stockhausen)",
+                "description": "Karlheinz Stockhausen - Kontakte Elektronische Graphik.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KwtAMGXyTI4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KwtAMGXyTI4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KwtAMGXyTI4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pretaccio",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

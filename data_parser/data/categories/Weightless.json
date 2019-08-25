@@ -5,6 +5,40 @@
         "artist": "Various",
         "song": "Weightless - Volume 1",
         "year": "(2014)",
-        "url": "https://www.youtube.com/results?search_query=Various-Weightless%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Various-Weightless%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/LAkziOKannfLcN6wLohT7ICcIVA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sYoqCJNPxv4"
+            },
+            "snippet": {
+                "publishedAt": "2016-11-24T12:25:57.000Z",
+                "channelId": "UC6Q2ZkwzOjbeMEhLJNpZKaA",
+                "title": "Marconi Union - Weightless (Official Extended Version)",
+                "description": "Check out the new version, Weightless (253 Edit): https://www.youtube.com/watch?v=2JNM-xPZXgI Buy the album Weightless (Ambient Transmissions Vol 2): + ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sYoqCJNPxv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sYoqCJNPxv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sYoqCJNPxv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JustMusicTV",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

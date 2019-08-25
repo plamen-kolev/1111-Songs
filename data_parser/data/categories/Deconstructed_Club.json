@@ -5,6 +5,40 @@
         "artist": "Jam City",
         "song": "Classical Curves",
         "year": "(2012)",
-        "url": "https://www.youtube.com/results?search_query=Jam%20City-Classical%20Curves"
+        "url": "https://www.youtube.com/results?search_query=Jam%20City-Classical%20Curves",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ZmFQP-Pg6irXeC2M-BR19x8-5L8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tGalOot8Adw"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-08T01:38:09.000Z",
+                "channelId": "UCysBusch54M-m4qVMwC1Hmg",
+                "title": "Jam City - Classical Curves (full album)",
+                "description": "first album from Jam City retro-futuristic glossy uk bass/techno, perfect soundtrack for dystopian nightlife released in 2012 on Night Slugs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tGalOot8Adw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tGalOot8Adw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tGalOot8Adw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "k0nfuciu5",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

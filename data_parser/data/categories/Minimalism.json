@@ -5,7 +5,41 @@
         "artist": "Terry Riley",
         "song": "In C",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=Terry%20Riley-In%20C"
+        "url": "https://www.youtube.com/results?search_query=Terry%20Riley-In%20C",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/hMs527J313-hNqEUT0Y1UZ6DdRg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yNi0bukYRnA"
+            },
+            "snippet": {
+                "publishedAt": "2012-02-01T21:16:00.000Z",
+                "channelId": "UCR5DXt0gwjX8pOuYtMWD0uA",
+                "title": "Terry Riley: In C",
+                "description": "Terry Riley: In C, performed on 2012 Jan. 31 at CEU, Budapest. http://erato.uvt.nl/files/imglnks/usimg/4/47/IMSLP00899-TerryRiley-InC.pdf.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yNi0bukYRnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yNi0bukYRnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yNi0bukYRnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "komaromykornel",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1021,
@@ -13,6 +47,40 @@
         "artist": "Steve Reich",
         "song": "Drumming",
         "year": "(1971)",
-        "url": "https://www.youtube.com/results?search_query=Steve%20Reich-Drumming"
+        "url": "https://www.youtube.com/results?search_query=Steve%20Reich-Drumming",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/OCnivmzVyuaiZ35UxMPZdQSngxU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "doJk4yPwJDk"
+            },
+            "snippet": {
+                "publishedAt": "2012-10-03T15:57:56.000Z",
+                "channelId": "UCWPj-SdpXRQhFXqppxkxi0Q",
+                "title": "Steve Reich Drumming - Portland Percussion Group",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/doJk4yPwJDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/doJk4yPwJDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/doJk4yPwJDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PDXPercussionGroup",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]
