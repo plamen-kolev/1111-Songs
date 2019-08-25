@@ -14,7 +14,9 @@ export interface ISongProps {
     url: string;
     genre: string;
     liked?: boolean | undefined;
+    active: boolean;
     click(iframeData: IIframeProps): void;
+    setActiveSong(id: string): void;
 }
 
 export const Song = React.memo((song: ISongProps) => {
@@ -24,13 +26,20 @@ export const Song = React.memo((song: ISongProps) => {
     const isEnriched = song.enriched && song.youtube;
     const title = (isEnriched && song.youtube) ? song.youtube.snippet.title : `${song.artist} - ${song.song}`;
 
+    let classes = "song-card";
+    if (song.active) {
+        classes += " active";
+    }
     return (
-        <Card className="song-card" >
-            <Card.Content onClick={() => song.click({
-                title,
-                url: song.url,
-                youtube: song.youtube,
-            } as IIframeProps)}>
+        <Card className={classes} >
+            <Card.Content data-testid="song-card-clickable" onClick={() => {
+                song.setActiveSong(song.unique_id);
+                song.click({
+                    title,
+                    url: song.url,
+                    youtube: song.youtube,
+                } as IIframeProps);
+            }}>
                 <Card.Description className="song-card-title">
                     {title}
                 </Card.Description>

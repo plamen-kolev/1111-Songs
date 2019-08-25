@@ -4,7 +4,8 @@ import '@testing-library/jest-dom/extend-expect';
 import { Song } from '../../../src/components/song/Song';
 import { ISongProps } from "../../../src/components/song/Song";
 
-let fakeClick = jest.fn();
+const fakeClick = jest.fn();
+const fakeSetActive = jest.fn()
 let song: ISongProps;
 
 describe("song", () => {
@@ -19,6 +20,7 @@ describe("song", () => {
             url: "soundsofmetal.com",
             genre: "Perfect clinging",
             click: fakeClick,
+            setActiveSong: fakeSetActive,
             youtube: {
                 id: {
                     kind: "youtube#video"
