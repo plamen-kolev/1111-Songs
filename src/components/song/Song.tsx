@@ -1,5 +1,5 @@
 import React from "react";
-import {Card, Icon, Popup} from "semantic-ui-react";
+import {Button, Card, Icon, Popup} from "semantic-ui-react";
 import { IYoutubeInterface } from "../../utils";
 import { IIframeProps } from "./Iframe";
 
@@ -54,6 +54,18 @@ export const Song = React.memo(({enriched, youtube, artist, song, click, genre, 
                         </span>
                 </Card.Description>
             </Card.Content>
+            <span className="hide">
+                <Card.Content extra>
+                    <div className='ui two buttons'>
+                        <Button basic color='green'>
+                            Like
+                        </Button>
+                        <Button basic color='red'>
+                            Dislike
+                        </Button>
+                    </div>
+                </Card.Content>
+            </span>
         </Card>
     );
 });

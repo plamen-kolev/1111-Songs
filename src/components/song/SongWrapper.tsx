@@ -8,7 +8,6 @@ import {getMoreSongs, IJsonSong} from "../../utils";
 import { Song } from "./Song";
 import {SongLoading} from "./SongLoading";
 
-
 const CHUNKS_TO_LOAD_ON_SCROLL = 64;
 const INITIAL_CHUNKS_TO_LOAD = 124;
 
@@ -22,30 +21,18 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
     constructor(props: ISongWrapperProps, state: any) {
         super(props, state);
         this.state = {
-            songs: getMoreSongs(genresList, INITIAL_CHUNKS_TO_LOAD)
+            songs: getMoreSongs(genresList, INITIAL_CHUNKS_TO_LOAD),
         };
     }
 
-    shouldComponentUpdate(
+    public shouldComponentUpdate(
         nextProps: Readonly<ISongWrapperProps>,
         nextState: Readonly<{ songs: IJsonSong[] }>,
         nextContext: any): boolean {
         return !(this.state.songs === nextState.songs);
     }
 
-    private shouldLoadMoreSongs(nothing: null, {calculations}: VisibilityEventData): void {
-        if (calculations.height - calculations.pixelsPassed < 2000) {
-            this.addMoreSongs();
-        }
-    }
-
-    private addMoreSongs = () => {
-        this.setState({
-            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD_ON_SCROLL)),
-        });
-    };
-
-    render() {
+    public render() {
         return (
             <Visibility
                 continuous={true}
@@ -72,4 +59,16 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
             </Visibility>
 
         ); }
+
+    private shouldLoadMoreSongs(nothing: null, {calculations}: VisibilityEventData): void {
+        if (calculations.height - calculations.pixelsPassed < 2000) {
+            this.addMoreSongs();
+        }
+    }
+
+    private addMoreSongs = () => {
+        this.setState({
+            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD_ON_SCROLL)),
+        });
+    }
 }
