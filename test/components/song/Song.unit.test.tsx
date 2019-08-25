@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 import { render, fireEvent, cleanup } from '@testing-library/react'
+import '@testing-library/jest-dom/extend-expect';
 import { Song } from '../../../src/components/song/Song';
 import { ISongProps } from "../../../src/components/song/Song";
-import '@testing-library/jest-dom/extend-expect'
 
 let fakeClick = jest.fn();
 let song: ISongProps;

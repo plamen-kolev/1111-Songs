@@ -10,9 +10,9 @@ interface ILike {
 
 export const LikeDislikeComponent = ({liked, unique_id, setLiked}: ILike) => {
     const likeDislike = (interaction: IUserInteraction) => {
-        let value: boolean | undefined = undefined;
-        if( !(interaction.liked === liked )) {
-            value = interaction.liked
+        let value: boolean | undefined;
+        if ( !(interaction.liked === liked )) {
+            value = interaction.liked;
         }
         setLiked(value);
         save(interaction);

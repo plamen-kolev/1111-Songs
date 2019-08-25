@@ -8,6 +8,16 @@ interface ITooltip {
 }
 
 export const TooltipComponent = ({liked, youtube}: ITooltip) => {
+    let likedStatus: "caret down" | "thumbs up" | "thumbs down" = "caret down";
+    let color: "grey" | "green" | "red" = "grey";
+
+    if (liked === true) {
+        likedStatus = "thumbs up";
+        color = "green";
+    } else if (liked === false) {
+        likedStatus = "thumbs down";
+        color = "red";
+    }
 
     return (
         <>
@@ -18,8 +28,8 @@ export const TooltipComponent = ({liked, youtube}: ITooltip) => {
             }
             < Icon
                 data-testid="embedded-like-dislike-song"
-                color={(liked && "green") || (liked === undefined && "grey") || "red"}
-                name={(liked && "thumbs up") || (liked === undefined && "caret down") || "thumbs down"}/>
+                color={color}
+                name={likedStatus}/>
             {!youtube &&
                 <Popup content="This song is not embedded" trigger={
                     <Icon data-testid="not-embedded-song-tooltip" color="grey" name="external alternate"/>
