@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "nvm": "0.0.4",
     "react": "^16.9.0",
     "react-device-detect": "^1.7.5",
     "react-dom": "^16.9.0",

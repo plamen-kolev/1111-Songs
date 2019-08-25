@@ -54,7 +54,7 @@ export class App extends React.Component {
                                 <Menu.Item name='editorials'><Checkbox onChange={(e) => this.toggleAutoplay("enabled")} toggle label='Autoplay'/></Menu.Item>
                             </BrowserView>
                         </Menu>
-                        <div class="iframe-element">
+                        <div className="iframe-element">
                             <Iframe  autoplay={this.state.autoplay} {...this.state.currentSong} />
                         </div>
 

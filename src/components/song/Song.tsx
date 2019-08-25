@@ -1,40 +1,51 @@
-import React from "react";
+import React, {useState} from "react";
 import {Button, Card, Icon, Popup} from "semantic-ui-react";
 import { IYoutubeInterface } from "../../utils";
+import {save} from "../../utils/localStorage";
 import { IIframeProps } from "./Iframe";
 
 export interface ISongProps {
-    unique_id: string,
+    unique_id: string;
     enriched: boolean;
     youtube?: IYoutubeInterface;
     artist: string;
     song: string;
     url: string;
     genre: string;
+    liked?: boolean | undefined;
     click(iframeData: IIframeProps): void;
 }
 
-export const Song = React.memo(({enriched, youtube, artist, song, click, genre, url, unique_id}: ISongProps) => {
-    const isEnriched = enriched && youtube;
-    const title = (isEnriched && youtube) ? youtube.snippet.title : `${artist} - ${song}`;
+export const Song = React.memo((song: ISongProps) => {
 
-    const like = (songId: string, liked: boolean) => {
-        alert("song liked, feature not implemented yet" + song)
-    }
+    const [liked, setLiked] = useState(song.liked);
 
-    const dislike = (songId: string, liked: boolean) => {
-        alert("song disliked, feature not implemented yet" + song)
+    const isEnriched = song.enriched && song.youtube;
+    const title = (isEnriched && song.youtube) ? song.youtube.snippet.title : `${song.artist} - ${song.song}`;
 
-    }
+    const like = (likedSong: any) => {
+        setLiked(likedSong.liked);
+        save(likedSong);
+    };
+
+    const dislike = (dislikedSong: any) => {
+        setLiked(dislikedSong.liked);
+        save(dislikedSong);
+    };
 
     let enrichedTooltip;
     if (isEnriched) {
         enrichedTooltip = <>
             <Popup content="This song is embedded" trigger={
                 <Icon data-testid="embedded-song" color="grey" name="sound"/>
-
             } />
-            {youtube && youtube.id.kind === "youtube#playlist" &&
+
+            <Icon
+                data-testid="embedded-like-dislike-song"
+                color={(liked && "green") || (liked === undefined && "grey") || "red"}
+                name={(liked && "thumbs up") || (liked === undefined && "caret down") || "thumbs down"}/>
+
+            {song.youtube && song.youtube.id.kind === "youtube#playlist" &&
             <Popup content="Playlists cannot be autoplayed yet" trigger={
                 <Icon data-testid="cant-autoplay" color="grey" name="question circle"/>
             } />}
@@ -46,31 +57,35 @@ export const Song = React.memo(({enriched, youtube, artist, song, click, genre, 
     }
 
     return (
-        <Card className="song-card" onClick={() => click({
-            title,
-            url,
-            youtube,
-        } as IIframeProps)}>
-            <Card.Content>
+        <Card color={(liked === false && "red") || (liked === true && "green") || undefined}  className="song-card" >
+            <Card.Content onClick={() => song.click({
+                title,
+                url: song.url,
+                youtube: song.youtube,
+            } as IIframeProps)}>
                 <Card.Description className="song-card-title">
                     {title}
                 </Card.Description>
             </Card.Content>
             <Card.Content extra>
                 <Card.Description className="song-card-meta">
-                    {genre}
+                    {song.genre}
                     <span className="ui right floated ">
                         {enrichedTooltip}
-                        </span>
+                    </span>
                 </Card.Description>
             </Card.Content>
             <span className="hide">
                 <Card.Content extra>
                     <div className="ui two buttons">
-                        <Button onClick={() => like(unique_id, true)} basic color="green">
+                        <Button basic={liked === false || liked === undefined}
+                                onClick={() => like({unique_id: song.unique_id, liked: true})}
+                                color="green">
                             Like
                         </Button>
-                        <Button onClick={() => dislike(unique_id, false)} basic color="red">
+                        <Button basic={liked === true || liked === undefined}
+                                onClick={() => dislike({unique_id: song.unique_id, liked: false})}
+                                color="red">
                             Dislike
                         </Button>
                     </div>

@@ -5,13 +5,14 @@ import {Grid, VisibilityEventData} from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
 import genresList from "../../data/categories_lookup.json";
 import {getMoreSongs, IJsonSong} from "../../utils";
+import {getAll} from "../../utils/localStorage";
 import { Song } from "./Song";
 import {SongLoading} from "./SongLoading";
 
+const likedSongs = getAll();
+
 const CHUNKS_TO_LOAD_ON_SCROLL = 64;
 const INITIAL_CHUNKS_TO_LOAD = 124;
-
-genresList.sort(() => Math.random() - 0.5);
 
 interface ISongWrapperProps {
     onSongClick(iframeData: IIframeProps): void;
@@ -40,7 +41,6 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
                 onUpdate={(nothing, data) => this.shouldLoadMoreSongs(nothing, data)}
             >
                 <Grid padded centered>
-
                     {this.state.songs.map((song: IJsonSong) => (
                         <Grid.Column className="song-column-item"
                                      key={song.url}
@@ -50,7 +50,10 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
                                      largeScreen={3}
                                      widescreen={2}>
                             <LazyLoad once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
-                                <Song click={this.props.onSongClick} {...song}/>
+                                <Song click={this.props.onSongClick}
+                                      { ...{...song, liked: likedSongs[song.unique_id] &&
+                                              likedSongs[song.unique_id].liked}}
+                                />
                             </LazyLoad>
                         </Grid.Column>
                     ))}
