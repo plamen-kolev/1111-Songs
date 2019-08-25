@@ -22,12 +22,12 @@ export const LikeDislikeComponent = ({liked, unique_id, setLiked}: ILike) => {
     return (
         <Card.Content extra>
             <div className="ui two buttons">
-                <Button basic={liked === false || liked === undefined}
+                <Button data-testid={"like-button"} basic={liked === false || liked === undefined}
                         onClick={() => like({unique_id, liked: true})}
                         color="green">
                     Like
                 </Button>
-                <Button basic={liked === true || liked === undefined}
+                <Button data-testid={"dislike-button"} basic={liked === true || liked === undefined}
                         onClick={() => dislike({unique_id, liked: false})}
                         color="red">
                     Dislike

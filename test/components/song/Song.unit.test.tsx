@@ -10,7 +10,8 @@ describe("song", () => {
 
     beforeEach(() => {
         cleanup();
-        song = song = {
+        song = {
+            unique_id: "hello",
             enriched: true,
             artist: "The Shogun Smiths",
             song: "Hammering all day",
