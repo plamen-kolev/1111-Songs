@@ -4,6 +4,7 @@ import { IYoutubeInterface } from "../../utils";
 import { IIframeProps } from "./Iframe";
 
 export interface ISongProps {
+    unique_id: string,
     enriched: boolean;
     youtube?: IYoutubeInterface;
     artist: string;
@@ -13,9 +14,18 @@ export interface ISongProps {
     click(iframeData: IIframeProps): void;
 }
 
-export const Song = React.memo(({enriched, youtube, artist, song, click, genre, url}: ISongProps) => {
+export const Song = React.memo(({enriched, youtube, artist, song, click, genre, url, unique_id}: ISongProps) => {
     const isEnriched = enriched && youtube;
     const title = (isEnriched && youtube) ? youtube.snippet.title : `${artist} - ${song}`;
+
+    const like = (songId: string, liked: boolean) => {
+        alert("song liked, feature not implemented yet" + song)
+    }
+
+    const dislike = (songId: string, liked: boolean) => {
+        alert("song disliked, feature not implemented yet" + song)
+
+    }
 
     let enrichedTooltip;
     if (isEnriched) {
@@ -56,11 +66,11 @@ export const Song = React.memo(({enriched, youtube, artist, song, click, genre, 
             </Card.Content>
             <span className="hide">
                 <Card.Content extra>
-                    <div className='ui two buttons'>
-                        <Button basic color='green'>
+                    <div className="ui two buttons">
+                        <Button onClick={() => like(unique_id, true)} basic color="green">
                             Like
                         </Button>
-                        <Button basic color='red'>
+                        <Button onClick={() => dislike(unique_id, false)} basic color="red">
                             Dislike
                         </Button>
                     </div>

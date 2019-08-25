@@ -5,6 +5,7 @@ import { IframeSubstitute } from "./IframeSubstitute";
 let iframe;
 
 export interface IIframeProps {
+    unique_id: string;
     url: string;
     title: string;
     autoplay?: boolean;
