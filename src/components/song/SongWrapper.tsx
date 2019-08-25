@@ -8,7 +8,9 @@ import {getMoreSongs, IJsonSong} from "../../utils";
 import { Song } from "./Song";
 import {SongLoading} from "./SongLoading";
 
-const CHUNKS_TO_LOAD = 32;
+
+const CHUNKS_TO_LOAD_ON_SCROLL = 64;
+const INITIAL_CHUNKS_TO_LOAD = 124;
 
 genresList.sort(() => Math.random() - 0.5);
 
@@ -20,7 +22,7 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
     constructor(props: ISongWrapperProps, state: any) {
         super(props, state);
         this.state = {
-            songs: [],
+            songs: getMoreSongs(genresList, INITIAL_CHUNKS_TO_LOAD)
         };
     }
 
@@ -31,17 +33,17 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
         return !(this.state.songs === nextState.songs);
     }
 
-    addMoreSongs = () => {
-        this.setState({
-            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD)),
-        });
-    };
-
-    shouldLoadMoreSongs(nothing: null, {calculations}: VisibilityEventData): void {
-        if(calculations.height - calculations.pixelsPassed < 2000) {
-            this.addMoreSongs()
+    private shouldLoadMoreSongs(nothing: null, {calculations}: VisibilityEventData): void {
+        if (calculations.height - calculations.pixelsPassed < 2000) {
+            this.addMoreSongs();
         }
     }
+
+    private addMoreSongs = () => {
+        this.setState({
+            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD_ON_SCROLL)),
+        });
+    };
 
     render() {
         return (
@@ -49,7 +51,6 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
                 continuous={true}
                 once={true}
                 onUpdate={(nothing, data) => this.shouldLoadMoreSongs(nothing, data)}
-                fireOnMount={true}
             >
                 <Grid padded centered>
 

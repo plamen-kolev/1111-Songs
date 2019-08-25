@@ -21,11 +21,6 @@ export interface IJsonSong {
   youtube?: IYoutubeInterface;
 }
 
-// THERE ARE DEAD SONGS, because we load 32 genres,
-// each genre can have multiple songs, if it goes above 32 entries per
-// chunk, this function will truncate it
-// const songsToAppend = songs.splice(0, chunksToLoad);
-
 export const getMoreSongs = (list: string[], chunk: number): IJsonSong[] => {
   if (!list.length) {
     return [];
@@ -39,7 +34,7 @@ export const getMoreSongs = (list: string[], chunk: number): IJsonSong[] => {
     const foo = require(`../data/categories/${filename}`);
     songs = songs.concat(foo);
   }
-  return songs.splice(0, chunk);
+  return songs;
 };
 
 export const getRandomSong = (list: string[]) => {

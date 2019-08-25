@@ -47,18 +47,17 @@ export class App extends React.Component {
         return (
             <div className="App iframe-container ui">
                 <div className="youtube-player-container nopadding menu-container">
-
-                    <div className="nopadding">
-                        <Iframe autoplay={this.state.autoplay} {...this.state.currentSong} />
-                    </div>
                     <div className="menu-container">
                         <Menu>
                             <Menu.Item name='editorials'><Button onClick={this.playRandomSong}>Random Song</Button></Menu.Item>
                             <BrowserView>
                                 <Menu.Item name='editorials'><Checkbox onChange={(e) => this.toggleAutoplay("enabled")} toggle label='Autoplay'/></Menu.Item>
                             </BrowserView>
-
                         </Menu>
+                        <div class="iframe-element">
+                            <Iframe  autoplay={this.state.autoplay} {...this.state.currentSong} />
+                        </div>
+
                     </div>
                 </div>
 
