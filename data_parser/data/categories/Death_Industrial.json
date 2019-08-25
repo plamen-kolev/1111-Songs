@@ -5,6 +5,40 @@
         "artist": "Ramleh",
         "song": "Hole in the Heart",
         "year": "(1987)",
-        "url": "https://www.youtube.com/results?search_query=Ramleh-Hole%20in%20the%20Heart"
+        "url": "https://www.youtube.com/results?search_query=Ramleh-Hole%20in%20the%20Heart",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/bIJODZpit_fvxUcP1IVtQlE8XfI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BwIjwVGwsG8"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-25T01:03:16.000Z",
+                "channelId": "UCZpBgm1lWDPTsKlnSbvaU4w",
+                "title": "Ramleh - Hole In The Heart (1987/2009) [Full Album]",
+                "description": "The original 1987 Hole In The Heart cassette consisted of tracks 1-4 on Disc 2) Disc 1: 1. Bite the Bolster 0:00 2. Do Not Come Near 5:13 3. Redcap Part I 13:17 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "God",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

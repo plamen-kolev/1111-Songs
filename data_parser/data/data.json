@@ -1,6 +1,6 @@
 {
     "total": 1111,
-    "enriched": 1078,
+    "enriched": 1081,
     "entries": {
         "Prehistoric": [
             {
@@ -44415,7 +44415,41 @@
                 "artist": "Ramleh",
                 "song": "Hole in the Heart",
                 "year": "(1987)",
-                "url": "https://www.youtube.com/results?search_query=Ramleh-Hole%20in%20the%20Heart"
+                "url": "https://www.youtube.com/results?search_query=Ramleh-Hole%20in%20the%20Heart",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/bIJODZpit_fvxUcP1IVtQlE8XfI\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "BwIjwVGwsG8"
+                    },
+                    "snippet": {
+                        "publishedAt": "2016-10-25T01:03:16.000Z",
+                        "channelId": "UCZpBgm1lWDPTsKlnSbvaU4w",
+                        "title": "Ramleh - Hole In The Heart (1987/2009) [Full Album]",
+                        "description": "The original 1987 Hole In The Heart cassette consisted of tracks 1-4 on Disc 2) Disc 1: 1. Bite the Bolster 0:00 2. Do Not Come Near 5:13 3. Redcap Part I 13:17 ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/BwIjwVGwsG8/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "God",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Power Noise": [
@@ -44425,7 +44459,41 @@
                 "artist": "Esplendor Geom\u00e9trico",
                 "song": "EG_1",
                 "year": "(1981)",
-                "url": "https://www.youtube.com/results?search_query=Esplendor%20Geom%C3%A9trico-EG_1"
+                "url": "https://www.youtube.com/results?search_query=Esplendor%20Geom%C3%A9trico-EG_1",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/trdWRKjOO6SaO7BsQP-pgigtgrs\"",
+                    "id": {
+                        "kind": "youtube#video",
+                        "videoId": "BFe4IQXaZf8"
+                    },
+                    "snippet": {
+                        "publishedAt": "2015-09-07T23:59:10.000Z",
+                        "channelId": "UC3TNI4E7Xu2OfylsqPL1kIw",
+                        "title": "Esplendor Geom\u00e9trico | Eg1 CS [full]",
+                        "description": "(1982) 1.Muerte A Escala Industrial 2. Neuridina 3. El Cabecilla Del Vaticano 4. La Ciudad De Los Heroes Rojos 5. Amor En Mauthaussen 6. Paedophile ...",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/BFe4IQXaZf8/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/BFe4IQXaZf8/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/BFe4IQXaZf8/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "1/4 DEAD",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             },
             {
                 "unique_id": 1069,
@@ -44433,7 +44501,41 @@
                 "artist": "Converter",
                 "song": "Shock Front",
                 "year": "(1991)",
-                "url": "https://www.youtube.com/results?search_query=Converter-Shock%20Front"
+                "url": "https://www.youtube.com/results?search_query=Converter-Shock%20Front",
+                "enriched": true,
+                "youtube": {
+                    "kind": "youtube#searchResult",
+                    "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/R7XFD7B6tBSLYXykDhi6-i_VUkk\"",
+                    "id": {
+                        "kind": "youtube#playlist",
+                        "playlistId": "PLOrUyUVuqtSQmK0voc3zMOTSNGBWgdYkH"
+                    },
+                    "snippet": {
+                        "publishedAt": "2013-11-20T23:21:47.000Z",
+                        "channelId": "UCW7VqZeYd4fsm0pfHIJGqdg",
+                        "title": "Converter - Shock Front (1999)",
+                        "description": "",
+                        "thumbnails": {
+                            "default": {
+                                "url": "https://i.ytimg.com/vi/RUi9he-PcSQ/default.jpg",
+                                "width": 120,
+                                "height": 90
+                            },
+                            "medium": {
+                                "url": "https://i.ytimg.com/vi/RUi9he-PcSQ/mqdefault.jpg",
+                                "width": 320,
+                                "height": 180
+                            },
+                            "high": {
+                                "url": "https://i.ytimg.com/vi/RUi9he-PcSQ/hqdefault.jpg",
+                                "width": 480,
+                                "height": 360
+                            }
+                        },
+                        "channelTitle": "D.pooly",
+                        "liveBroadcastContent": "none"
+                    }
+                }
             }
         ],
         "Dark Ambient": [
