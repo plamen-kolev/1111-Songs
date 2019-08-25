@@ -36,8 +36,8 @@ export const Iframe = React.memo<IIframeProps>((({url, youtube, title, autoplay}
     } else {
         iframe = (<iframe
             title={title}
-            height="100px"
-            width="220px"
+            height="150px"
+            width="300px"
             src={source}
             frameBorder="0"
             allow="autoplay; encrypted-media; picture-in-picture"

@@ -57,7 +57,7 @@ export const Song = React.memo((song: ISongProps) => {
     }
 
     return (
-        <Card color={(liked === false && "red") || (liked === true && "green") || undefined}  className="song-card" >
+        <Card className="song-card" >
             <Card.Content onClick={() => song.click({
                 title,
                 url: song.url,

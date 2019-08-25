@@ -1,4 +1,4 @@
-import {IJsonSong, IYoutubeInterface, getRandomSong, getMoreSongs} from "../../src/utils";
+import {IJsonSong, getRandomSong, getMoreSongs} from "../../src/utils";
 
 describe("SongUtilities", () => {
 
