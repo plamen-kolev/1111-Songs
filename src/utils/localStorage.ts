@@ -1,12 +1,11 @@
 export const SONG_DATA_KEY = "SONGS_DATA";
 
 export interface IUserInteraction {
-    liked: boolean,
-    unique_id: string
+    liked: boolean;
+    unique_id: string;
 }
 
 export interface IUserPreferences { [s: string]: IUserInteraction; }
-
 
 export const getAll = (): IUserPreferences => {
     return localStoreEntriesAsJson();
