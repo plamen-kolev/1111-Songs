@@ -1,7 +1,7 @@
 import { IIframeProps } from "components/song/Iframe";
 import React from "react";
 import LazyLoad from "react-lazyload";
-import { Grid } from "semantic-ui-react";
+import {Grid, VisibilityEventData} from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
 import genresList from "../../data/categories_lookup.json";
 import {getMoreSongs, IJsonSong} from "../../utils";
@@ -24,52 +24,50 @@ export class SongWrapper extends React.Component<ISongWrapperProps, { songs: IJs
         };
     }
 
-    public shouldComponentUpdate(
+    shouldComponentUpdate(
         nextProps: Readonly<ISongWrapperProps>,
         nextState: Readonly<{ songs: IJsonSong[] }>,
         nextContext: any): boolean {
         return !(this.state.songs === nextState.songs);
     }
 
-    public componentDidMount(): void {
-        this.addMoreSongs();
-    }
-
-    public addMoreSongs = () => {
+    addMoreSongs = () => {
         this.setState({
             songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD)),
         });
+    };
+
+    shouldLoadMoreSongs(nothing: null, {calculations}: VisibilityEventData): void {
+        if(calculations.height - calculations.pixelsPassed < 2000) {
+            this.addMoreSongs()
+        }
     }
-    public render() {
+
+    render() {
         return (
             <Visibility
                 continuous={true}
                 once={true}
-                // onBottomVisible={() => this.addMoreSongs()}
-                onUpdate={(e, {calculations}) => {
-                    if(calculations.height - calculations.pixelsPassed < 2000) {
-                        this.addMoreSongs()
-                    }
-                }}
+                onUpdate={(nothing, data) => this.shouldLoadMoreSongs(nothing, data)}
+                fireOnMount={true}
             >
-            <Grid padded centered>
+                <Grid padded centered>
 
-                {this.state.songs.map((song: IJsonSong) => (
-                    <Grid.Column className="song-column-item"
-                                 key={song.url}
-                                 mobile={8}
-                                 tablet={4}
-                                 computer={3}
-                                 largeScreen={3}
-                                 widescreen={2}>
-                        <LazyLoad once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
-                            <Song click={this.props.onSongClick} {...song}/>
-                        </LazyLoad>
-                    </Grid.Column>
-                ))}
+                    {this.state.songs.map((song: IJsonSong) => (
+                        <Grid.Column className="song-column-item"
+                                     key={song.url}
+                                     mobile={8}
+                                     tablet={4}
+                                     computer={3}
+                                     largeScreen={3}
+                                     widescreen={2}>
+                            <LazyLoad once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
+                                <Song click={this.props.onSongClick} {...song}/>
+                            </LazyLoad>
+                        </Grid.Column>
+                    ))}
 
-
-            </Grid>
+                </Grid>
             </Visibility>
 
         ); }
