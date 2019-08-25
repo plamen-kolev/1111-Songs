@@ -2,6 +2,7 @@ import React from 'react'
 import { render, fireEvent, cleanup } from '@testing-library/react'
 import { Song } from '../../../src/components/song/Song';
 import { ISongProps } from "../../../src/components/song/Song";
+import '@testing-library/jest-dom/extend-expect'
 
 let fakeClick = jest.fn();
 let song: ISongProps;
@@ -96,6 +97,95 @@ describe("song", () => {
             // because it is enriched and is of type video
             fireEvent.click(getByTestId("embedded-song"));
             expect(getByText("This song is embedded")).toBeDefined();
+        });
+    });
+
+    describe("Clicking like/dislike button", () => {
+        it("clicking like button should set state on the button", () => {
+            const { getByTestId } = render(
+                <Song {...song}/>
+            );
+
+            fireEvent.click(getByTestId("like-button"));
+            expect(getByTestId('like-button')).not.toHaveClass("basic");
+        });
+
+        it("clicking dislike button should set state on the button", () => {
+            const { getByTestId } = render(
+                <Song {...song}/>
+            );
+
+            fireEvent.click(getByTestId("dislike-button"));
+            expect(getByTestId('dislike-button')).not.toHaveClass("basic");
+        });
+
+        it("disliking a liked song should dislike it", () => {
+            // arrange
+            const { getByTestId } = render(
+                <Song {...{...song, liked: true}}/>
+            );
+
+            expect(getByTestId('like-button')).not.toHaveClass("basic");
+            expect(getByTestId("embedded-like-dislike-song")).toHaveClass("thumbs up");
+
+            // act
+            fireEvent.click(getByTestId("dislike-button"));
+
+            // assert
+            expect(getByTestId('like-button')).toHaveClass("basic");
+            expect(getByTestId('dislike-button')).not.toHaveClass("basic");
+            expect(getByTestId("embedded-like-dislike-song")).toHaveClass("thumbs down");
+        });
+
+        it("liking a disliked song should like it", () => {
+            // arrange
+            const { getByTestId } = render(
+                <Song {...{...song, liked: false}}/>
+            );
+
+            expect(getByTestId('dislike-button')).not.toHaveClass("basic");
+            expect(getByTestId("embedded-like-dislike-song")).toHaveClass("thumbs down");
+
+            // act
+            fireEvent.click(getByTestId("like-button"));
+
+            // assert
+            expect(getByTestId('dislike-button')).toHaveClass("basic");
+            expect(getByTestId('like-button')).not.toHaveClass("basic");
+            expect(getByTestId("embedded-like-dislike-song")).toHaveClass("thumbs up");
+        });
+
+        it("liking a liked song should default it", () => {
+            // arrange
+            const { getByTestId } = render(
+                <Song {...{...song, liked: true}}/>
+            );
+
+            expect(getByTestId('like-button')).not.toHaveClass("basic");
+
+            // act
+            fireEvent.click(getByTestId("like-button"));
+
+            // assert
+            expect(getByTestId('like-button')).toHaveClass("basic");
+            expect(getByTestId('dislike-button')).toHaveClass("basic");
+
+        });
+
+        it("disliking a disliked song should default it", () => {
+            // arrange
+            const { getByTestId } = render(
+                <Song {...{...song, liked: false}}/>
+            );
+
+            expect(getByTestId('dislike-button')).not.toHaveClass("basic");
+
+            // act
+            fireEvent.click(getByTestId("dislike-button"));
+
+            // assert
+            expect(getByTestId('like-button')).toHaveClass("basic");
+            expect(getByTestId('dislike-button')).toHaveClass("basic");
         });
     })
 });
