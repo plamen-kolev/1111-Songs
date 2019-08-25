@@ -1,4 +1,4 @@
-import { IIframeProps } from "components/song/Iframe";
+import { IIframeProps } from "components/song/IframeComponent";
 import React from "react";
 import LazyLoad from "react-lazyload";
 import {Grid, VisibilityEventData} from "semantic-ui-react";

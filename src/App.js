@@ -3,7 +3,7 @@ import {BrowserView} from "react-device-detect";
 import {Button, Checkbox, Menu} from "semantic-ui-react";
 
 import './App.css';
-import { Iframe } from './components/song/Iframe';
+import { Iframe } from './components/song/IframeComponent';
 import { SongWrapper } from './components/song/SongWrapper';
 import ReactGA from 'react-ga';
 import genresList from "./data/categories_lookup";

@@ -2,7 +2,7 @@ import React from "react";
 import { IYoutubeInterface } from "../../utils";
 import { IframeSubstitute } from "./IframeSubstitute";
 
-let iframe;
+let iframeComponent;
 
 export interface IIframeProps {
     unique_id: string;
@@ -32,9 +32,9 @@ export const Iframe = React.memo<IIframeProps>((({url, youtube, title, autoplay}
         }
     }
     if (!source) {
-        iframe = (<IframeSubstitute title={title} url={url}/>);
+        iframeComponent = (<IframeSubstitute title={title} url={url}/>);
     } else {
-        iframe = (<iframe
+        iframeComponent = (<iframe
             title={title}
             height="150px"
             width="300px"
@@ -48,7 +48,7 @@ export const Iframe = React.memo<IIframeProps>((({url, youtube, title, autoplay}
 
     return (
         <React.Fragment>
-            {iframe}
+            {iframeComponent}
         </React.Fragment>
     );
 }), hasComponentChanged);

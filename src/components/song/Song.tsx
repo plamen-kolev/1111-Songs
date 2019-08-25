@@ -1,8 +1,8 @@
 import React, {useState} from "react";
-import {Button, Card, Icon, Popup} from "semantic-ui-react";
+import {Card, Icon, Popup} from "semantic-ui-react";
 import { IYoutubeInterface } from "../../utils";
-import {save} from "../../utils/localStorage";
-import { IIframeProps } from "./Iframe";
+import { IIframeProps } from "./IframeComponent";
+import {LikeDislikeComponent} from "./LikeDislikeComponent";
 
 export interface ISongProps {
     unique_id: string;
@@ -22,16 +22,6 @@ export const Song = React.memo((song: ISongProps) => {
 
     const isEnriched = song.enriched && song.youtube;
     const title = (isEnriched && song.youtube) ? song.youtube.snippet.title : `${song.artist} - ${song.song}`;
-
-    const like = (likedSong: any) => {
-        setLiked(likedSong.liked);
-        save(likedSong);
-    };
-
-    const dislike = (dislikedSong: any) => {
-        setLiked(dislikedSong.liked);
-        save(dislikedSong);
-    };
 
     let enrichedTooltip;
     if (isEnriched) {
@@ -76,20 +66,7 @@ export const Song = React.memo((song: ISongProps) => {
                 </Card.Description>
             </Card.Content>
             <span className="hide">
-                <Card.Content extra>
-                    <div className="ui two buttons">
-                        <Button basic={liked === false || liked === undefined}
-                                onClick={() => like({unique_id: song.unique_id, liked: true})}
-                                color="green">
-                            Like
-                        </Button>
-                        <Button basic={liked === true || liked === undefined}
-                                onClick={() => dislike({unique_id: song.unique_id, liked: false})}
-                                color="red">
-                            Dislike
-                        </Button>
-                    </div>
-                </Card.Content>
+                <LikeDislikeComponent liked={liked} unique_id={song.unique_id} setLiked={setLiked} />
             </span>
         </Card>
     );

@@ -1,7 +1,7 @@
 export const SONG_DATA_KEY = "SONGS_DATA";
 
 export interface IUserInteraction {
-    liked: boolean;
+    liked: boolean | undefined;
     unique_id: string;
 }
 
