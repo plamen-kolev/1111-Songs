@@ -36,7 +36,11 @@
 }
 
 .song-card-container {
-  height: 60vh;
+  display:table;
+}
+
+.song-column-item{
+  padding:3px !important;
 }
 
 .song-card-container .song-card {

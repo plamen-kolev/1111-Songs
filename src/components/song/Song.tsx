@@ -1,9 +1,7 @@
 import React from "react";
-import LazyLoad from "react-lazyload";
 import {Card, Icon, Popup} from "semantic-ui-react";
 import { IYoutubeInterface } from "../../utils";
 import { IIframeProps } from "./Iframe";
-import {SongLoading} from "./SongLoading";
 
 export interface ISongProps {
     enriched: boolean;
