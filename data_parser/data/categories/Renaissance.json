@@ -1,7 +1,7 @@
 [
     {
         "unique_id": 510,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Leonel Power",
         "song": "Masses & Motets",
         "year": "(~1410)",
@@ -43,7 +43,7 @@
     },
     {
         "unique_id": 511,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "John Dunstaple",
         "song": "Sweet Harmony - Masses and Motets",
         "year": "(~1420)",
@@ -85,7 +85,7 @@
     },
     {
         "unique_id": 512,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Oswald von Wolkenstein",
         "song": "Monophone und Polyphone Lieder",
         "year": "(~1430)",
@@ -127,7 +127,7 @@
     },
     {
         "unique_id": 513,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Gilles Binchois",
         "song": "Mon souverain d\u00e9sir - Chansons",
         "year": "(~1430)",
@@ -169,7 +169,7 @@
     },
     {
         "unique_id": 514,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Guillaume Du Fay",
         "song": "Missa 'L'homme arm\u00e9' - Motets",
         "year": "(~1450)",
@@ -211,7 +211,7 @@
     },
     {
         "unique_id": 515,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Johannes Ockeghem",
         "song": "Requiem - Missa Mi_Mi",
         "year": "(~1470)",
@@ -253,7 +253,7 @@
     },
     {
         "unique_id": 516,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Josquin des Prez",
         "song": "Missa Pange lingua",
         "year": "(1515)",
@@ -295,7 +295,7 @@
     },
     {
         "unique_id": 517,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Giovanni Pierluigi da Palestrina",
         "song": "Missa Papae Marcelli",
         "year": "(1562)",
@@ -337,7 +337,7 @@
     },
     {
         "unique_id": 518,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "William Byrd",
         "song": "The Three Masses",
         "year": "(1592-1595)",
@@ -379,7 +379,7 @@
     },
     {
         "unique_id": 519,
-        "genre": "Renaissance ",
+        "genre": "Renaissance",
         "artist": "Carlo Gesualdo",
         "song": "Tenebrae Responsoria",
         "year": "(1611)",

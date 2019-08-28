@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1095,
-        "genre": "Fairy Tales ",
+        "genre": "Fairy Tales",
         "artist": "Danny Kaye",
         "song": "Grimm's Fairy Tales",
         "year": "(1962)",
-        "url": "https://www.youtube.com/results?search_query=Danny%20Kaye-Grimm%26%23x27%3Bs%20Fairy%20Tales"
+        "url": "https://www.youtube.com/results?search_query=Danny%20Kaye-Grimm%26%23x27%3Bs%20Fairy%20Tales",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/l_wZjLFNucGppdbG3A-ubxPsDWY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eov3A40e_Lc"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-22T22:27:16.000Z",
+                "channelId": "UC72IavRK3bYVWHVvw2_p9_Q",
+                "title": "Grimm&#39;s Fairy Tales told by Danny Kaye pt 1",
+                "description": "Description 1 - Clever Gretel 2 - Water Nixie 3 - The Bean the Coal and the Straw.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eov3A40e_Lc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eov3A40e_Lc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eov3A40e_Lc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mwd2525",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

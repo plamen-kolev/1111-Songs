@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1096,
-        "genre": "Radio Play ",
+        "genre": "Radio Play",
         "artist": "Orson Welles",
         "song": "War of the Worlds",
         "year": "(1938)",
-        "url": "https://www.youtube.com/results?search_query=Orson%20Welles-War%20of%20the%20Worlds"
+        "url": "https://www.youtube.com/results?search_query=Orson%20Welles-War%20of%20the%20Worlds",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/YjnFyDjIRjvyxHlmV9kGG3JdtPI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xs0K4ApWl4g"
+            },
+            "snippet": {
+                "publishedAt": "2010-12-16T22:23:05.000Z",
+                "channelId": "UCNSrflFZLLjdPgqIEvEZXDg",
+                "title": "Orson Welles - War Of The Worlds - Radio Broadcast 1938 - Complete Broadcast.",
+                "description": "Orson Welles - War Of The Worlds - Radio Broadcast 1938 - Complete Broadcast. The War of the Worlds was an episode of the American radio drama anthology ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xs0K4ApWl4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xs0K4ApWl4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xs0K4ApWl4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "David Webb",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

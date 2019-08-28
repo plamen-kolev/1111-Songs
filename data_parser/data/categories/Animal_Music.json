@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1099,
-        "genre": "Animal Music ",
+        "genre": "Animal Music",
         "artist": "Thai Elephant Orchestra",
         "song": "Thai Elephant Orchestra",
         "year": "(2000)",
-        "url": "https://www.youtube.com/results?search_query=Thai%20Elephant%20Orchestra-Thai%20Elephant%20Orchestra"
+        "url": "https://www.youtube.com/results?search_query=Thai%20Elephant%20Orchestra-Thai%20Elephant%20Orchestra",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ATEJaLO7UG6WWF0WOh17EQfRViU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lSLVgrNJ-HU"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-22T09:15:02.000Z",
+                "channelId": "UCUM3_MPA-0jD03cb8ASoRCA",
+                "title": "THAILAND&#39;S ELEPHANT ORCHESTRA PLAY",
+                "description": "The elephant ensemble was set up by Dave Soldier and Richard Lair at a conservation centre in northern Thailand. They set out to demonstrate that animals ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lSLVgrNJ-HU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lSLVgrNJ-HU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lSLVgrNJ-HU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kids Age",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

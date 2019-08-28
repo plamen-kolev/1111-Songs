@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1094,
-        "genre": "Interview ",
+        "genre": "Interview",
         "artist": "Peter Sotos",
         "song": "Buyer's Market",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Peter%20Sotos-Buyer%26%23x27%3Bs%20Market"
+        "url": "https://www.youtube.com/results?search_query=Peter%20Sotos-Buyer%26%23x27%3Bs%20Market",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/lC5HcedxfZBj78aNL0hCzFwMW4s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "prODovMDh4A"
+            },
+            "snippet": {
+                "publishedAt": "2018-11-18T04:21:07.000Z",
+                "channelId": "UCsUqI4gzBEAVvLRZ6tNifAw",
+                "title": "Peter Sotos \u200e\u2013 Buyer&#39;s Market (AWB Recording, 1992) [Full Album]",
+                "description": "All rights belong to AWB Recording 1. Children 00:00 2. McMartin 17:47 3. Trash 26:46 4. Bundy 38:06 5. Victims 48:06 Just for promotion. Please write me if you ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/prODovMDh4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/prODovMDh4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/prODovMDh4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FreedomFromFreedom",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

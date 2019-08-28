@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1097,
-        "genre": "Sound Poetry ",
+        "genre": "Sound Poetry",
         "artist": "Kurt Schwitters",
         "song": "Ursonate",
         "year": "(1923-1932)",
-        "url": "https://www.youtube.com/results?search_query=Kurt%20Schwitters-Ursonate"
+        "url": "https://www.youtube.com/results?search_query=Kurt%20Schwitters-Ursonate",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5DStsFjjW-4k69gurJteeFT0Rl0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6X7E2i0KMqM"
+            },
+            "snippet": {
+                "publishedAt": "2010-10-24T14:56:42.000Z",
+                "channelId": "UCXbcokG5CylW0kHHwj988_g",
+                "title": "Kurt Schwitters - Ursonate  (1932)",
+                "description": "Ce fragment de l'URSONATE (Sonate de sons primitifs) interpr\u00e9t\u00e9 pas Kurt Schwitters fut enregistr\u00e9 le 5 mai 1932 \u00e0 Francfort par la station S\u00fcddeutschen ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6X7E2i0KMqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6X7E2i0KMqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6X7E2i0KMqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Laurent Cournoyer",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

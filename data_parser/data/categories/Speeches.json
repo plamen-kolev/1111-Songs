@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1093,
-        "genre": "Speeches ",
+        "genre": "Speeches",
         "artist": "Various",
         "song": "Great Speeches of the 20th Century",
         "year": "(2007)",
-        "url": "https://www.youtube.com/results?search_query=Various-Great%20Speeches%20of%20the%2020th%20Century"
+        "url": "https://www.youtube.com/results?search_query=Various-Great%20Speeches%20of%20the%2020th%20Century",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/xJunDXKygAFQ9SE-3O1aQDyr5Mw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5110UES-QzE"
+            },
+            "snippet": {
+                "publishedAt": "2014-03-08T16:04:19.000Z",
+                "channelId": "UCdAQDpfVqVm_rsp2sbqdTKg",
+                "title": "\u2605 Top 5 - Greatest Speeches of the 20th Century - Subtitles Included",
+                "description": "A Top 5 tribute to some of the Greatest Speeches in History. My photos: https://plus.google.com/u/0/b/105656643463219506384/+aheli \u2606 The Largest Stars in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5110UES-QzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5110UES-QzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5110UES-QzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Heli",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

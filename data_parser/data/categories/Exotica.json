@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1075,
-        "genre": "Exotica ",
+        "genre": "Exotica",
         "artist": "Yma Sumac",
         "song": "Voice of the Xtabay",
         "year": "(1950)",
-        "url": "https://www.youtube.com/results?search_query=Yma%20Sumac-Voice%20of%20the%20Xtabay"
+        "url": "https://www.youtube.com/results?search_query=Yma%20Sumac-Voice%20of%20the%20Xtabay",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/8Ci4eQNq6txJAyNCfmI2-3OFHPA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jtlZHxoEyEw"
+            },
+            "snippet": {
+                "publishedAt": "2014-02-11T06:32:09.000Z",
+                "channelId": "UCW9yGtF2FT9fJKCt2lg63yg",
+                "title": "(HD) Yma Sumac&#39;s Vocal Showcase - Voice of the Xtabay: E2 - B\u266d7 (Debut Studio Album, 1950)",
+                "description": "+VocalPop: Blog / Site Official: http://goo.gl/9aMk0X Facebook Official Page: http://goo.gl/CDuccJ Facebook Official Group: http://goo.gl/KdSTnb Twitter: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jtlZHxoEyEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jtlZHxoEyEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jtlZHxoEyEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Contato Vocal Pop",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "unique_id": 817,
-        "genre": "Heavy Metal ",
+        "genre": "Heavy Metal",
         "artist": "Deep Purple",
         "song": "In Rock",
         "year": "(1970)",
@@ -43,7 +43,7 @@
     },
     {
         "unique_id": 830,
-        "genre": "Heavy Metal ",
+        "genre": "Heavy Metal",
         "artist": "Black Sabbath",
         "song": "Black Sabbath",
         "year": "(1970)",
@@ -85,7 +85,7 @@
     },
     {
         "unique_id": 831,
-        "genre": "Heavy Metal ",
+        "genre": "Heavy Metal",
         "artist": "Judas Priest",
         "song": "Sad Wings of Destiny",
         "year": "(1976)",

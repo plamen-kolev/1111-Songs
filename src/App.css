@@ -111,6 +111,14 @@ button {
   background-color: #eef4ff;
 }
 
+.ui.card .dimmer, .ui.cards > .card .dimmer {
+  z-index: 5;
+}
+
+.initial-video-thumbnail {
+  color:white;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

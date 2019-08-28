@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1092,
-        "genre": "Stand_up Comedy ",
+        "genre": "Stand_up Comedy",
         "artist": "Woody Allen",
         "song": "The Nightclub Years",
         "year": "(1964-1968)",
-        "url": "https://www.youtube.com/results?search_query=Woody%20Allen-The%20Nightclub%20Years"
+        "url": "https://www.youtube.com/results?search_query=Woody%20Allen-The%20Nightclub%20Years",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/_PD3-E356dEkP-VqkZpy1jJ6HtE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ol5en7RbHJY"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-10T17:55:43.000Z",
+                "channelId": "UCVIDM1vFCju-S2AIIIr_wJQ",
+                "title": "Woody Allen Stand-up &#39;65",
+                "description": "www.cinematheia.com The film of Tomorrow is The Love Of Today Woody was in England filming \"Casino Royale\" when he guested on a British TV show.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ol5en7RbHJY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ol5en7RbHJY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ol5en7RbHJY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cinematheia",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

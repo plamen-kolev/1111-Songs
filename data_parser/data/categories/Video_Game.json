@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1084,
-        "genre": "Video Game ",
+        "genre": "Video Game",
         "artist": "Nmesh",
         "song": "Welcome to Warp Zone!",
         "year": "(2014)",
-        "url": "https://www.youtube.com/results?search_query=Nmesh-Welcome%20to%20Warp%20Zone%21"
+        "url": "https://www.youtube.com/results?search_query=Nmesh-Welcome%20to%20Warp%20Zone%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/B7SEKarqrdlizdRgTYQ3mM33Gac\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "n7zyMGr9VfE"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-22T19:31:07.000Z",
+                "channelId": "UCCCS8cRSiJjAqgwvmP7VxJw",
+                "title": "Nmesh : Welcome to Warp Zone!",
+                "description": "Test your might, mother fucker. Critics all agree, this is the soundtrack to a retro gamer's wet dream.. Dan Forden called it \u201cToasty!\u201d. That guy from Metal Gear ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n7zyMGr9VfE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n7zyMGr9VfE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n7zyMGr9VfE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Vapor Memory",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

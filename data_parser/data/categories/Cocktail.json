@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1079,
-        "genre": "Cocktail ",
+        "genre": "Cocktail",
         "artist": "Combustible Edison",
         "song": "I, Swinger",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Combustible%20Edison-I%2C%20Swinger"
+        "url": "https://www.youtube.com/results?search_query=Combustible%20Edison-I%2C%20Swinger",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/s4iQgPpPTo0jueMJJJlINgJi_Fw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jD_6eD2puOg"
+            },
+            "snippet": {
+                "publishedAt": "2011-10-03T22:56:21.000Z",
+                "channelId": "UCqPGv5vSTEChdq37K-xiMfQ",
+                "title": "Spy Vs Spy - Combustible Edison",
+                "description": "del disco I, Swinger de 1994 el grupo Combustible edison, interpretando su mas grande exito, gracias a su aparicion en la pelicula miedo y asco en las vegas y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jD_6eD2puOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jD_6eD2puOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jD_6eD2puOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nathalie Armando Moreno Dur\u00e1n",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -5,6 +5,40 @@
         "artist": "Yumiko Kanki, Naoto Ishida",
         "song": "F_Zero OST",
         "year": "(1990)",
-        "url": "https://www.youtube.com/results?search_query=Yumiko%20Kanki%2C%20Naoto%20Ishida-F_Zero%20OST"
+        "url": "https://www.youtube.com/results?search_query=Yumiko%20Kanki%2C%20Naoto%20Ishida-F_Zero%20OST",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/67M3h-23e7A-MEy3M_ydmdwwVok\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1z2xFsn2Y8w"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-11T18:41:54.000Z",
+                "channelId": "UCUXTxsU23H02fewbRzHXBgQ",
+                "title": "Yumiko Kanki &amp; Naoto Ishida (F-Zero Soundtrack) - Silence (Bass Only) (Play Along Tabs In Video)",
+                "description": "BECOME A PATRON AND GET THE SONG YOU WANT: http://www.patreon.com/coversolutions BUY THE T-SHIRT: https://teespring.com/cover-solutions TABS: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1z2xFsn2Y8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1z2xFsn2Y8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1z2xFsn2Y8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CoverSolutions",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

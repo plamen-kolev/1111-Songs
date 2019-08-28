@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1098,
-        "genre": "Sounds and Effects ",
+        "genre": "Sounds and Effects",
         "artist": "Jac Holzman",
         "song": "Authentic Sound Effects - Volume 1",
         "year": "(1964)",
-        "url": "https://www.youtube.com/results?search_query=Jac%20Holzman-Authentic%20Sound%20Effects%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Jac%20Holzman-Authentic%20Sound%20Effects%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/1OatlGCiClay1GcB9rNnL8G8flc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QzrN_Raa2Gs"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-12T19:59:28.000Z",
+                "channelId": "UCtAZoa5NdR0QoPQVnEUvF3Q",
+                "title": "Jac Holzman \u200e\u2013 Authentic Sound Effects Volume 6 [12&quot;]",
+                "description": "1964. . Under Section 107 of the Copyright Act of 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QzrN_Raa2Gs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QzrN_Raa2Gs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QzrN_Raa2Gs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Seth Props",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

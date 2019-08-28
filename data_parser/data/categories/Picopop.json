@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1082,
-        "genre": "Picopop ",
+        "genre": "Picopop",
         "artist": "Various",
         "song": "Usagi_Chang Superstar!! - Volume 1",
         "year": "(2002)",
-        "url": "https://www.youtube.com/results?search_query=Various-Usagi_Chang%20Superstar%21%21%20-%20Volume%201"
+        "url": "https://www.youtube.com/results?search_query=Various-Usagi_Chang%20Superstar%21%21%20-%20Volume%201",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/roDZufDLzxQYGPjlZuVUj2Tc6u8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nimL8DnPHL0"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-26T17:38:30.000Z",
+                "channelId": "UCKfbbsRdWZJGQffxT9IF8qA",
+                "title": "EeL - Eat Everything of You!",
+                "description": "Usagi Chang Superstar!! Vol.1.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nimL8DnPHL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nimL8DnPHL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nimL8DnPHL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Noka",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

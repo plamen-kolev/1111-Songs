@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1089,
-        "genre": "Nu Jazz ",
+        "genre": "Nu Jazz",
         "artist": "9 Lazy 9",
         "song": "Paradise Blown",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=9%20Lazy%209-Paradise%20Blown"
+        "url": "https://www.youtube.com/results?search_query=9%20Lazy%209-Paradise%20Blown",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Fwmc2OW66VgfJNW7UmaLnDKzdso\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b8tISGwGqGw"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-12T02:59:26.000Z",
+                "channelId": "UCU82FuktSiXHyHxwg2se1Bg",
+                "title": "9 Lazy 9 - Spoonful of Slow",
+                "description": "Album: Paradise Blown Track: Spoonful of Slow Artist: 9 Lazy 9.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b8tISGwGqGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b8tISGwGqGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b8tISGwGqGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Milani",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

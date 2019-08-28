@@ -1,7 +1,7 @@
 [
     {
         "unique_id": 575,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Bela Bartok",
         "song": "The 6 String Quartets",
         "year": "(1908-1939)",
@@ -43,7 +43,7 @@
     },
     {
         "unique_id": 576,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Igor Stravinsky",
         "song": "Le Sacre du printemps",
         "year": "(1913)",
@@ -85,7 +85,7 @@
     },
     {
         "unique_id": 577,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Gustav Holst",
         "song": "The Planets",
         "year": "(1916)",
@@ -127,7 +127,7 @@
     },
     {
         "unique_id": 578,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Shostakovich",
         "song": "Symphony No. 15",
         "year": "(1971)",
@@ -169,7 +169,7 @@
     },
     {
         "unique_id": 579,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Einojuhani Rautavaara",
         "song": "Symphony No. 7",
         "year": "(1994)",
@@ -211,7 +211,7 @@
     },
     {
         "unique_id": 585,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Edgard Var\u00e8se",
         "song": "Music of Edgar Var\u00e8se - Ionisation; Density 21.5; Integrales; etc",
         "year": "(1922-1958)",
@@ -253,7 +253,7 @@
     },
     {
         "unique_id": 586,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Olivier Messiaen",
         "song": "Quatuor pour la fin du temps",
         "year": "(1941)",
@@ -295,7 +295,7 @@
     },
     {
         "unique_id": 587,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Gy\u00f6rgy Ligeti",
         "song": "The Ligeti Project II - Lontano, Atmosph\u00e8res, Apparitions, etc",
         "year": "(1952-1974)",
@@ -304,7 +304,7 @@
     },
     {
         "unique_id": 588,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Alfred Schnittke",
         "song": "Symphony No. 1",
         "year": "(1974)",
@@ -346,7 +346,7 @@
     },
     {
         "unique_id": 589,
-        "genre": "Modern Classical ",
+        "genre": "Modern Classical",
         "artist": "Morton Feldman",
         "song": "String Quartet No. 2",
         "year": "(1983)",

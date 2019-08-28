@@ -1,18 +1,86 @@
 [
     {
         "unique_id": 1085,
-        "genre": "Downtempo ",
+        "genre": "Downtempo",
         "artist": "Deep Forest",
         "song": "Deep Forest",
         "year": "(1992)",
-        "url": "https://www.youtube.com/results?search_query=Deep%20Forest-Deep%20Forest"
+        "url": "https://www.youtube.com/results?search_query=Deep%20Forest-Deep%20Forest",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/z7IECbQyGPAF6HfWsUiJYlBZ52U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lJHTuh5wXkU"
+            },
+            "snippet": {
+                "publishedAt": "2011-04-18T20:02:55.000Z",
+                "channelId": "UCIMUSORCFFFBH3FfdaiWVeg",
+                "title": "Deep Forest - Deep Forest 1992",
+                "description": "here's the title track from Deep Forest's debut album. This is a \"rare and unusual mix of ambient modern music and the songs of the pigmies of the Central ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lJHTuh5wXkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lJHTuh5wXkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lJHTuh5wXkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "muzikman",
+                "liveBroadcastContent": "none"
+            }
+        }
     },
     {
         "unique_id": 1086,
-        "genre": "Downtempo ",
+        "genre": "Downtempo",
         "artist": "Moby",
         "song": "Play",
         "year": "(1999)",
-        "url": "https://www.youtube.com/results?search_query=Moby-Play"
+        "url": "https://www.youtube.com/results?search_query=Moby-Play",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Y70CoqHOsS2-07SumsLKFzq7szA\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLFaK21Va8pz29plKdTlygGwKRfS9BHTjy"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-17T08:41:21.000Z",
+                "channelId": "UCkxidxw0ScE7J6fTPCGerYQ",
+                "title": "moby play full album",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8d9SgRtEkBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8d9SgRtEkBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8d9SgRtEkBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maria Pia di Buono",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

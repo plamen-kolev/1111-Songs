@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1083,
-        "genre": "Denpa ",
+        "genre": "Denpa",
         "artist": "Mosaic.wav",
         "song": "We Love AKIBA_POP!!",
         "year": "(2004)",
-        "url": "https://www.youtube.com/results?search_query=Mosaic.wav-We%20Love%20AKIBA_POP%21%21"
+        "url": "https://www.youtube.com/results?search_query=Mosaic.wav-We%20Love%20AKIBA_POP%21%21",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ghWYQuYgIt3LuIXYC-QkBYGZmbU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pk2MxF9Zon0"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-17T19:26:08.000Z",
+                "channelId": "UCclsj_QPPE9cI_3Gi2zU4ow",
+                "title": "We Love &#39;AKIBA-POP&#39;!! - mosaic.wav",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pk2MxF9Zon0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pk2MxF9Zon0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pk2MxF9Zon0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ehwazzup dude",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

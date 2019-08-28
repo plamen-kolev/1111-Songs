@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1073,
-        "genre": "Black Ambient ",
+        "genre": "Black Ambient",
         "artist": "Mo\u00ebv\u00f6t",
         "song": "Abgzvoryathre",
         "year": "(1993)",
-        "url": "https://www.youtube.com/results?search_query=Mo%C3%ABv%C3%B6t-Abgzvoryathre"
+        "url": "https://www.youtube.com/results?search_query=Mo%C3%ABv%C3%B6t-Abgzvoryathre",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/eW-NXg5Z-vmv_4ynQJfr7EbkHKo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ydaesBEVZkU"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-04T22:24:44.000Z",
+                "channelId": "UCMWS85m2WLIimqKOg_udqGg",
+                "title": "\u0336 \u0336 \u0336f\u0336a\u0336u\u0336x\u0336{(((\u0287\u00f6v\u00ebom)))}\u0336x\u0336n\u0336\u0250\u0336\u025f\u0336 \u0336 \u0336",
+                "description": "Unknown necro\u2720glossolalist purportedly from France, and supposedly from the legendary Mo\u00ebv\u00f6t. I am doubtful that this is in fact a Mo\u00ebv\u00f6t recording, or, for that ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ydaesBEVZkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ydaesBEVZkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ydaesBEVZkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "vVf\u00e6ph Sinucidere",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

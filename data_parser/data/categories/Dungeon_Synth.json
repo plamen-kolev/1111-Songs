@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1074,
-        "genre": "Dungeon Synth ",
+        "genre": "Dungeon Synth",
         "artist": "Mortiis",
         "song": "F\u00f8dt til \u00e5 herske",
         "year": "(1994)",
-        "url": "https://www.youtube.com/results?search_query=Mortiis-F%C3%B8dt%20til%20%C3%A5%20herske"
+        "url": "https://www.youtube.com/results?search_query=Mortiis-F%C3%B8dt%20til%20%C3%A5%20herske",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Pu41rd1sGZbprqTs_-3iFRKdegU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o83uriMyqw8"
+            },
+            "snippet": {
+                "publishedAt": "2015-10-08T21:51:42.000Z",
+                "channelId": "UC6wX1FycaPwODYiy-Q8kxbQ",
+                "title": "Mortiis - F\u00f8dt til \u00e5 herske - 1994 - [Full Album]",
+                "description": "Mortiis' debut full length release, recorded and mixed at Studio S, Norway in December of 1993. It was released on Malicious Records in 1994. TrackList: 1. F\u00f8dt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o83uriMyqw8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o83uriMyqw8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o83uriMyqw8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mortiis",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

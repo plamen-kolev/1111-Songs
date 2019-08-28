@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1076,
-        "genre": "Space Age Pop ",
+        "genre": "Space Age Pop",
         "artist": "Esquivel",
         "song": "Other Worlds, Other Sounds",
         "year": "(1958)",
-        "url": "https://www.youtube.com/results?search_query=Esquivel-Other%20Worlds%2C%20Other%20Sounds"
+        "url": "https://www.youtube.com/results?search_query=Esquivel-Other%20Worlds%2C%20Other%20Sounds",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/4ZG0YVaed7Lp2w3gngw3uyCSoY8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xcCqJwpNbrc"
+            },
+            "snippet": {
+                "publishedAt": "2015-12-23T16:33:30.000Z",
+                "channelId": "UCjSPBCGqUwQBAPjGB6LpK3w",
+                "title": "Esquivel - Other Worlds, Other Sounds - Full Album - Vintage Music Songs",
+                "description": "Esquivel - Other Worlds, Other Sounds - Full Album - Vintage Music Songs Granada 00:00:00,00 Begin The Beguine 00:04:04,20 Night And Day 00:07:12,02 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xcCqJwpNbrc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xcCqJwpNbrc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xcCqJwpNbrc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rarity Music Great Hits '60",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

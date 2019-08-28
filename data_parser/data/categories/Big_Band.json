@@ -1,7 +1,7 @@
 [
     {
         "unique_id": 610,
-        "genre": "Big Band ",
+        "genre": "Big Band",
         "artist": "Fletcher Henderson",
         "song": "The Chronogical Classics",
         "year": "(1921-1923)",
@@ -43,7 +43,7 @@
     },
     {
         "unique_id": 611,
-        "genre": "Big Band ",
+        "genre": "Big Band",
         "artist": "Paul Whiteman",
         "song": "Volume 1",
         "year": "(1920-1934)",
@@ -85,7 +85,7 @@
     },
     {
         "unique_id": 612,
-        "genre": "Big Band ",
+        "genre": "Big Band",
         "artist": "Duke Ellington",
         "song": "Ellington at Newport",
         "year": "(1956)",
@@ -127,7 +127,7 @@
     },
     {
         "unique_id": 613,
-        "genre": "Big Band ",
+        "genre": "Big Band",
         "artist": "Ella Fitzgerald",
         "song": "Ella Fitzgerald Sings the Irving Berlin Song Book",
         "year": "(1958)",
@@ -169,7 +169,7 @@
     },
     {
         "unique_id": 614,
-        "genre": "Big Band ",
+        "genre": "Big Band",
         "artist": "The Buddy Rich Big Band",
         "song": "Big Swing Face",
         "year": "(1967)",

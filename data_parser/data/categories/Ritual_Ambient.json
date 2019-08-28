@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1072,
-        "genre": "Ritual Ambient ",
+        "genre": "Ritual Ambient",
         "artist": "Zero Kama",
         "song": "The Secret Eye of L.A.Y.L.A.H.",
         "year": "(1984)",
-        "url": "https://www.youtube.com/results?search_query=Zero%20Kama-The%20Secret%20Eye%20of%20L.A.Y.L.A.H."
+        "url": "https://www.youtube.com/results?search_query=Zero%20Kama-The%20Secret%20Eye%20of%20L.A.Y.L.A.H.",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/a-MNbwUYtu-gRKa4Hi9ud0V20Bs\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SCI8CVcJJ2M"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-04T21:33:40.000Z",
+                "channelId": "UCjhbNe-CIvmHMzP4e_1r-qQ",
+                "title": "Zero Kama The Secret Eye Of L A Y L A H (Full Album)",
+                "description": "Zero Kama was a ritual industrial project from Vienna, Austria, formed in 1984 by Michael DeWitt (owner of Nekrophile Rekords). The album \u201cThe Secret Eye Of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SCI8CVcJJ2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SCI8CVcJJ2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SCI8CVcJJ2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kostas C",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1087,
-        "genre": "Acid Jazz ",
+        "genre": "Acid Jazz",
         "artist": "Various",
         "song": "The Best of Acid Jazz",
         "year": "(1991)",
-        "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20of%20Acid%20Jazz"
+        "url": "https://www.youtube.com/results?search_query=Various-The%20Best%20of%20Acid%20Jazz",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/6M55CZgXBAQ3mU7TqY4w2FepQ7s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eaRhetAoqEw"
+            },
+            "snippet": {
+                "publishedAt": "2015-07-10T16:00:01.000Z",
+                "channelId": "UCMuIrv9Nlk0nPM8QZAv9Gtw",
+                "title": "The Best of Acid Jazz: Jazz Funk Soul Acid Groove",
+                "description": "subscribe now: http://bit.ly/IrmaChannel buy on iTunes: http://apple.co/1HRAWUD Spotify: http://spoti.fi/1LVXhA7 If you liked this video, you can also give a look ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eaRhetAoqEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eaRhetAoqEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eaRhetAoqEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "irmachannel1",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]

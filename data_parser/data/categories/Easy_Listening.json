@@ -1,10 +1,44 @@
 [
     {
         "unique_id": 1078,
-        "genre": "Easy Listening ",
+        "genre": "Easy Listening",
         "artist": "Herb Alpert & The Tijuana Brass",
         "song": "Going Places",
         "year": "(1965)",
-        "url": "https://www.youtube.com/results?search_query=Herb%20Alpert%20%26amp%3B%20The%20Tijuana%20Brass-Going%20Places"
+        "url": "https://www.youtube.com/results?search_query=Herb%20Alpert%20%26amp%3B%20The%20Tijuana%20Brass-Going%20Places",
+        "enriched": true,
+        "youtube": {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/cHmhpJxGDXnA5A74c_ZJeH86ZKo\"",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL7CE6B0E8FE97B54D"
+            },
+            "snippet": {
+                "publishedAt": "2011-05-30T01:56:34.000Z",
+                "channelId": "UCVElo3msAvaY2fbRGkEZ5BQ",
+                "title": "Herb Alpert & TJB Going Places",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GQ2GqpvbDmE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GQ2GqpvbDmE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GQ2GqpvbDmE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "smwca123",
+                "liveBroadcastContent": "none"
+            }
+        }
     }
 ]
