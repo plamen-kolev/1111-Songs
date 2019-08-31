@@ -9,7 +9,7 @@ describe("SongWrapper", () => {
     describe("on initial load", () => {
         it("should display default results", () => {
             const {queryAllByTestId} = render(<SongWrapper onSongClick={mockOnClick}/>);
-            expect(queryAllByTestId("song-column-item").length).toEqual(147);
+            expect(queryAllByTestId("song-column-item").length).toEqual(124);
             expect(mockOnClick).not.toHaveBeenCalled();
         });
 

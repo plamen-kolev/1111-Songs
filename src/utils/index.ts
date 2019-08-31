@@ -1,47 +1,32 @@
-
-interface IYoutubeId {
-  kind: string;
-  playlistId?: string;
-  videoId?: string;
-}
-
-export interface IYoutubeInterface {
-  snippet: any;
-  id: IYoutubeId;
-}
+import {SongType} from "../components/song/Song";
 
 export interface IJsonSong {
-  unique_id: string;
+  id: number;
   genre: string;
-  artist: string;
-  song: string;
+  title: string;
   url: string;
-  year: string;
-  enriched: boolean;
-  youtube?: IYoutubeInterface;
+  kind: SongType;
 }
 
-export const getMoreSongs = (list: string[], chunk: number): IJsonSong[] => {
+export const getMoreSongs = (list: IJsonSong[], chunk: number): IJsonSong[] => {
   if (!list.length) {
     return [];
   }
-  let songs: IJsonSong[] = [];
+  const songs: IJsonSong[] = [];
   for (let i = 0; i < chunk; i++) {
-    const filename = list.pop();
-    if (!filename) {
+    const song = list.pop();
+    if (!song) {
       break;
     }
-    const foo = require(`../data/categories/${filename}`);
-    songs = songs.concat(foo);
+    songs.push(song);
   }
   return songs;
 };
 
-export const getRandomSong = (list: string[]) => {
+export const getRandomSong = (list: IJsonSong[]): IJsonSong | {} => {
   if (!list.length) {
     return {};
   }
-  const randomGenreIndex = Math.floor(Math.random() * (list.length));
-  const randomGenre = require(`../data/categories/${list[randomGenreIndex]}`);
-  return randomGenre[Math.floor(Math.random() * randomGenre.length)];
+  const randomSongIndex = Math.floor(Math.random() * (list.length));
+  return list[randomSongIndex];
 };

@@ -1,11 +1,10 @@
 import React from "react";
-import { render, fireEvent, cleanup } from '@testing-library/react'
+import {cleanup, fireEvent, render} from '@testing-library/react'
 import '@testing-library/jest-dom/extend-expect';
-import { Song } from '../../../src/components/song/Song';
-import { ISongProps } from "../../../src/components/song/Song";
+import {ISongProps, Song, SongType} from '../../../src/components/song/Song';
 
 const fakeClick = jest.fn();
-const fakeSetActive = jest.fn()
+const fakeSetActive = jest.fn();
 let song: ISongProps;
 
 describe("song", () => {
@@ -13,22 +12,14 @@ describe("song", () => {
     beforeEach(() => {
         cleanup();
         song = {
-            unique_id: "hello",
-            enriched: true,
-            artist: "The Shogun Smiths",
-            song: "Hammering all day",
+            id: 1,
+            title: "The Shogun Smiths - Hammering all day",
             url: "soundsofmetal.com",
             genre: "Perfect clinging",
             click: fakeClick,
             setActiveSong: fakeSetActive,
-            youtube: {
-                id: {
-                    kind: "youtube#video"
-                },
-                snippet: {
-                    title: "title"
-                }
-            }
+            kind: SongType.none,
+            active: false
         }
     });
 
@@ -37,8 +28,7 @@ describe("song", () => {
             const { getByText } = render(
                 <Song {...song}/>
             );
-            // @ts-ignore
-            fireEvent.click(getByText(song.youtube.snippet.title));
+            fireEvent.click(getByText(song.title));
             expect(fakeClick).toHaveBeenCalled();
         })
     });
@@ -46,17 +36,14 @@ describe("song", () => {
     describe("which is not enriched", () => {
 
         it("should render with default title", () => {
-            song.enriched = false;
-            song.youtube = undefined;
             const { getByText, getByTestId, queryByText } = render(
                 <Song {...song}/>
             );
-            expect(getByText(`${song.artist} - ${song.song}`))
+            expect(getByText(song.title))
         });
 
         it("should have an icon with tooltip 'not embedded'", () => {
-            song.enriched = false;
-            song.youtube = undefined;
+
             const { getByText, getByTestId, queryByText } = render(
                 <Song {...song}/>
             );
@@ -67,12 +54,15 @@ describe("song", () => {
     });
 
     describe("which is enriched", () => {
+
         it("should render with video item", () => {
+
+            // sets it to video and not to playlist
+            song.kind = SongType.song;
             const { getByText, getByTestId, queryByText } = render(
                 <Song {...song}/>
             );
-            // @ts-ignore
-            expect(getByText(song.youtube.snippet.title)).toBeDefined();
+            expect(getByText(song.title)).toBeDefined();
             expect(getByText(song.genre)).toBeDefined();
 
             // because it is enriched and is of type video
@@ -82,9 +72,9 @@ describe("song", () => {
         });
 
         it("should render with playlist item", () => {
+
             // arrange
-            // @ts-ignore
-            song.youtube.id.kind = "youtube#playlist";
+            song.kind = SongType.playlist;;
 
             // act
             const { getByText, getByTestId } = render(
@@ -92,8 +82,7 @@ describe("song", () => {
             );
 
             // assert
-            // @ts-ignore
-            expect(getByText(song.youtube.snippet.title)).toBeDefined();
+            expect(getByText(song.title)).toBeDefined();
             expect(getByText(song.genre)).toBeDefined();
 
             // because it is enriched and is of type video

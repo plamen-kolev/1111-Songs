@@ -3,13 +3,14 @@ import React from "react";
 import LazyLoad from "react-lazyload";
 import {Grid, VisibilityEventData} from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-import genresList from "../../data/categories_lookup.json";
+import genresList from "../../data/simplified.json";
 import {getMoreSongs, IJsonSong} from "../../utils";
 import {getAll} from "../../utils/localStorage";
 import { Song } from "./Song";
 import {SongLoading} from "./SongLoading";
 
-const likedSongs = getAll();
+const songPreferences = getAll();
+const list: IJsonSong[] = [];
 
 const CHUNKS_TO_LOAD_ON_SCROLL = 64;
 const INITIAL_CHUNKS_TO_LOAD = 124;
@@ -19,15 +20,17 @@ interface ISongWrapperProps {
 }
 
 interface ISongWrapperState {
-    songs: IJsonSong[]; activeSong: undefined | string;
+    songs: IJsonSong[];
+    activeSong: undefined | number;
 }
 
 export class SongWrapper extends React.Component<ISongWrapperProps, ISongWrapperState> {
     constructor(props: ISongWrapperProps, state: any) {
         super(props, state);
+        Object.assign(list, genresList);
         this.state = {
             activeSong: undefined,
-            songs: getMoreSongs(genresList, INITIAL_CHUNKS_TO_LOAD),
+            songs: getMoreSongs(list, INITIAL_CHUNKS_TO_LOAD),
         };
     }
 
@@ -57,10 +60,10 @@ export class SongWrapper extends React.Component<ISongWrapperProps, ISongWrapper
                             largeScreen={3}
                             widescreen={2}>
                             <LazyLoad once={true} throttle={100} height={1000} placeholder={<SongLoading/>} >
-                                <Song active={this.state.activeSong === song.unique_id}
+                                <Song active={this.state.activeSong === song.id}
                                       setActiveSong={this.setActiveSong} click={this.props.onSongClick}
                                       { ...{...song,
-                                          liked: likedSongs[song.unique_id] && likedSongs[song.unique_id].liked,
+                                          liked: songPreferences[song.id] && songPreferences[song.id].liked,
                                       }
                                       }
                                 />
@@ -81,11 +84,11 @@ export class SongWrapper extends React.Component<ISongWrapperProps, ISongWrapper
 
     private addMoreSongs = () => {
         this.setState({
-            songs: this.state.songs.concat(getMoreSongs(genresList, CHUNKS_TO_LOAD_ON_SCROLL)),
+            songs: this.state.songs.concat(getMoreSongs(list, CHUNKS_TO_LOAD_ON_SCROLL)),
         });
     }
 
-    private setActiveSong = (id: string) => {
+    private setActiveSong = (id: number) => {
         this.setState({
             activeSong: id,
     });

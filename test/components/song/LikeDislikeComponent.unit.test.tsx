@@ -15,7 +15,7 @@ describe("LikeDislike component", () => {
     describe("when interacting for the first time", () => {
         beforeEach(() => {
             const renderer = render(
-                <LikeDislikeComponent liked={undefined} unique_id={"unique"} setLiked={mockSetLiked} />
+                <LikeDislikeComponent liked={undefined} id={1} setLiked={mockSetLiked} />
             );
             getByTestId = renderer.getByTestId;
             debug = renderer.debug;
@@ -41,14 +41,14 @@ describe("LikeDislike component", () => {
 
     it("when liked green button should be selected",() => {
         const {getByTestId} = render(
-            <LikeDislikeComponent liked={true} unique_id={"unique"} setLiked={mockSetLiked} />
+            <LikeDislikeComponent liked={true} id={1} setLiked={mockSetLiked} />
         );
         expect(getByTestId("like-button")).not.toHaveClass("basic");
     });
 
     it("when liked red button should be selected",() => {
         const {getByTestId} = render(
-            <LikeDislikeComponent liked={false} unique_id={"unique"} setLiked={mockSetLiked} />
+            <LikeDislikeComponent liked={false} id={3} setLiked={mockSetLiked} />
         );
         expect(getByTestId("dislike-button")).not.toHaveClass("basic");
     });

@@ -8,6 +8,7 @@
         "no-unused-variable": [
             false
         ],
+        "object-literal-sort-keys": false,
         "no-console": [true, "log", "error"]
     },
     "rulesDirectory": []

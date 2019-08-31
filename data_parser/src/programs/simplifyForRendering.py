@@ -20,7 +20,7 @@ def main(songs_json):
         for songIndex in range(0, len(song_entries[key])):
             entry = song_entries[key][songIndex]
 
-            kind = "not embedded"
+            kind = "none"
             url = entry['url']
             title = "%s - %s" % (entry['artist'], entry['song'])
             if "youtube" in entry and "snippet" in entry['youtube']:
@@ -35,7 +35,7 @@ def main(songs_json):
 
             simplified.append({
                 "genre": entry["genre"],
-                "unique_id": entry["unique_id"],
+                "id": entry["unique_id"],
                 "title": title,
                 "kind": kind,
                 "url": url

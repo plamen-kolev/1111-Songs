@@ -1,30 +1,28 @@
 import React, {useState} from "react";
 import {Card} from "semantic-ui-react";
-import { IYoutubeInterface } from "../../utils";
 import { IIframeProps } from "./IframeComponent";
 import {LikeDislikeComponent} from "./LikeDislikeComponent";
 import {TooltipComponent} from "./TooltipComponent";
 
+export enum SongType {
+    none= "none", playlist = "youtube#playlist", song = "youtube#song",
+}
+
 export interface ISongProps {
-    unique_id: string;
-    enriched: boolean;
-    youtube?: IYoutubeInterface;
-    artist: string;
-    song: string;
-    url: string;
-    genre: string;
-    liked?: boolean | undefined;
     active: boolean;
+    genre: string;
+    id: number;
+    kind: SongType;
+    liked?: boolean | undefined;
+    title: string;
+    url: string;
     click(iframeData: IIframeProps): void;
-    setActiveSong(id: string): void;
+    setActiveSong(id: number): void;
 }
 
 export const Song = React.memo((song: ISongProps) => {
 
     const [liked, setLiked] = useState(song.liked);
-
-    const isEnriched = song.enriched && song.youtube;
-    const title = (isEnriched && song.youtube) ? song.youtube.snippet.title : `${song.artist} - ${song.song}`;
 
     let classes = "song-card";
     if (song.active) {
@@ -33,27 +31,27 @@ export const Song = React.memo((song: ISongProps) => {
     return (
         <Card className={classes} >
             <Card.Content data-testid="song-card-clickable" onClick={() => {
-                song.setActiveSong(song.unique_id);
+                song.setActiveSong(song.id);
                 song.click({
-                    title,
+                    title: song.title,
                     url: song.url,
-                    youtube: song.youtube,
+                    kind: song.kind,
                 } as IIframeProps);
             }}>
                 <Card.Description className="song-card-title">
-                    {title}
+                    {song.title}
                 </Card.Description>
             </Card.Content>
             <Card.Content extra>
                 <Card.Description className="song-card-meta">
                     {song.genre}
                     <span className="ui right floated ">
-                        <TooltipComponent liked={liked} youtube={song.youtube}/>
+                        <TooltipComponent liked={liked} kind={song.kind}/>
                     </span>
                 </Card.Description>
             </Card.Content>
             <span className="hide">
-                <LikeDislikeComponent liked={liked} unique_id={song.unique_id} setLiked={setLiked} />
+                <LikeDislikeComponent liked={liked} id={song.id} setLiked={setLiked} />
             </span>
         </Card>
     );

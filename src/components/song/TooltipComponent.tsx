@@ -1,13 +1,13 @@
 import React from "react";
 import {Icon, Popup} from "semantic-ui-react";
-import {IYoutubeInterface} from "../../utils";
+import {SongType} from "./Song";
 
 interface ITooltip {
     liked: boolean | undefined;
-    youtube: IYoutubeInterface | undefined;
+    kind: SongType;
 }
 
-export const TooltipComponent = ({liked, youtube}: ITooltip) => {
+export const TooltipComponent = ({liked, kind}: ITooltip) => {
     let likedStatus: "caret down" | "thumbs up" | "thumbs down" = "caret down";
     let color: "grey" | "green" | "red" = "grey";
 
@@ -21,7 +21,7 @@ export const TooltipComponent = ({liked, youtube}: ITooltip) => {
 
     return (
         <>
-            {youtube &&
+            {kind !== "none" &&
                 <Popup content="This song is embedded" trigger={
                     <Icon data-testid="embedded-song" color="grey" name="sound"/>
                 }/>
@@ -30,7 +30,7 @@ export const TooltipComponent = ({liked, youtube}: ITooltip) => {
                 data-testid="embedded-like-dislike-song"
                 color={color}
                 name={likedStatus}/>
-            {!youtube &&
+            {kind === "none" &&
                 <Popup content="This song is not embedded" trigger={
                     <Icon data-testid="not-embedded-song-tooltip" color="grey" name="external alternate"/>
                 } />
