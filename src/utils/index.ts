@@ -1,38 +1,30 @@
-
-interface IYoutubeId {
-  kind: string;
-  playlistId?: string;
-  videoId?: string;
-}
-
-export interface IYoutubeInterface {
-  snippet: any;
-  id: IYoutubeId;
+export enum SongKind {
+  VIDEO = "youtube#video",
+  PLAYLIST = "youtube#playlist",
+  NONE = ""
 }
 
 export interface IJsonSong {
-  unique_id: string;
+  id: number;
   genre: string;
-  artist: string;
-  song: string;
+  title: string;
+  kind: string;
   url: string;
-  year: string;
-  enriched: boolean;
-  youtube?: IYoutubeInterface;
+  active?: boolean;
 }
 
-export const getMoreSongs = (list: string[], chunk: number): IJsonSong[] => {
+export const getMoreSongs = (list: IJsonSong[], chunk: number): IJsonSong[] => {
+  let songs: IJsonSong[] = [];
   if (!list.length) {
     return [];
   }
-  let songs: IJsonSong[] = [];
+  
   for (let i = 0; i < chunk; i++) {
-    const filename = list.pop();
-    if (!filename) {
-      break;
+    const song = list.pop();
+    if(!song) {
+      return songs;
     }
-    const foo = require(`../data/categories/${filename}`);
-    songs = songs.concat(foo);
+    songs = songs.concat(song);
   }
   return songs;
 };

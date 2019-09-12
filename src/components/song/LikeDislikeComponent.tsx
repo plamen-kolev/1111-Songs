@@ -4,11 +4,11 @@ import {IUserInteraction, save} from "../../utils/localStorage";
 
 interface ILike {
     liked: boolean | undefined;
-    unique_id: string;
+    id: number;
     setLiked(liked: boolean | undefined): void;
 }
 
-export const LikeDislikeComponent = ({liked, unique_id, setLiked}: ILike) => {
+export const LikeDislikeComponent = ({liked, id, setLiked}: ILike) => {
     const likeDislike = (interaction: IUserInteraction) => {
         let value: boolean | undefined;
         if ( !(interaction.liked === liked )) {
@@ -16,18 +16,17 @@ export const LikeDislikeComponent = ({liked, unique_id, setLiked}: ILike) => {
         }
         setLiked(value);
         save(interaction);
-    };
-
+    }
     return (
         <Card.Content extra>
             <div className="ui two buttons">
                 <Button data-testid={"like-button"} basic={liked === false || liked === undefined}
-                        onClick={() => likeDislike({unique_id, liked: true})}
+                        onClick={() => likeDislike({id, liked: true})}
                         color="green">
                     Like
                 </Button>
                 <Button data-testid={"dislike-button"} basic={liked === true || liked === undefined}
-                        onClick={() => likeDislike({unique_id, liked: false})}
+                        onClick={() => likeDislike({id, liked: false})}
                         color="red">
                     Dislike
                 </Button>

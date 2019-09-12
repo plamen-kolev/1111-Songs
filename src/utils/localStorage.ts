@@ -2,7 +2,7 @@ export const SONG_DATA_KEY = "SONGS_DATA";
 
 export interface IUserInteraction {
     liked: boolean | undefined;
-    unique_id: string;
+    id: number;
 }
 
 export interface IUserPreferences { [s: string]: IUserInteraction; }
@@ -14,7 +14,7 @@ export const getAll = (): IUserPreferences => {
 export const save = (song: IUserInteraction): void =>  {
     const entries: IUserPreferences = localStoreEntriesAsJson();
 
-    entries[song.unique_id] = song;
+    entries[song.id] = song;
     writeUpdate(entries);
 };
 

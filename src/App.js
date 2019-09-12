@@ -24,6 +24,7 @@ export class App extends React.Component {
     }
 
     onSongClick = (song) => {
+        console.log("Setting current song to : ", song);
         this.setState({
             currentSong: song,
         });

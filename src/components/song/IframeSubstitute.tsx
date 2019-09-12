@@ -1,17 +1,13 @@
 import React from "react";
 import { Button } from "semantic-ui-react";
+import { IJsonSong } from "utils";
 
 const openInNewTab = (url: string) => {
     const win: any = window.open(url, "_blank");
     win.focus();
 };
 
-interface IIframeSubstituteProps {
-    url: string;
-    title: string;
-}
-
-export const IframeSubstitute = ({url, title}: IIframeSubstituteProps) => {
+export const IframeSubstitute = ({url, title}: IJsonSong) => {
     return (
         <>
             { url &&

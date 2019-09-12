@@ -1,41 +1,39 @@
 import React from "react";
-import { IYoutubeInterface } from "../../utils";
 import { IframeSubstitute } from "./IframeSubstitute";
+import { IJsonSong } from "utils";
 
 let iframeComponent;
 
-export interface IIframeProps {
-    unique_id: string;
-    url: string;
-    title: string;
-    autoplay?: boolean;
-    youtube: IYoutubeInterface;
-}
-
 const hasComponentChanged = (currentProps: IIframeProps, nextProps: IIframeProps) => {
-    return (currentProps.youtube === nextProps.youtube && currentProps.url === nextProps.url);
+    return (currentProps !== nextProps);
 };
 
-export const Iframe = React.memo<IIframeProps>((({url, youtube, title, autoplay}: IIframeProps) => {
+export interface IIframeProps {
+    autoplay: boolean;
+    song: IJsonSong;
+}
+
+export const Iframe = React.memo<IIframeProps>((({song, autoplay}: IIframeProps) => {
+    console.log("rendering");
     const autoplayValue = autoplay ? 1 : 0;
     let source;
-    if (youtube && youtube.id && youtube.id.kind) {
-        switch (youtube.id.kind) {
-            case "youtube#video":
-                source = `https://www.youtube.com/embed/${youtube.id.videoId}?autoplay=${autoplayValue}`;
-                break;
-            case "youtube#playlist":
-                source = `https://www.youtube.com/embed/videoseries?list=${youtube.id.playlistId}`;
-                break;
-            default:
-                break;
-        }
+    
+    switch (song && song.kind) {
+        case "youtube#video":
+            source = `https://www.youtube.com/embed/${song.url}?autoplay=${autoplayValue}`;
+            break;
+        case "youtube#playlist":
+            source = `https://www.youtube.com/embed/videoseries?list=${song.url}`;
+            break;
+        default:
+            break;
     }
+    
     if (!source) {
-        iframeComponent = (<IframeSubstitute title={title} url={url}/>);
+        iframeComponent = (<IframeSubstitute {...song} />);
     } else {
         iframeComponent = (<iframe
-            title={title}
+            title={song.title}
             height="150px"
             width="300px"
             src={source}
