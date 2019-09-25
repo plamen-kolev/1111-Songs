@@ -3,11 +3,13 @@ import React from "react";
 import LazyLoad from "react-lazyload";
 import {Grid, VisibilityEventData} from "semantic-ui-react";
 import Visibility from "semantic-ui-react/dist/commonjs/behaviors/Visibility";
-import genresList from "../../data/simplified.json";
+import listOfAllSongs from "../../data/simplified.json";
 import {getMoreSongs, IJsonSong} from "../../utils";
 import {getAll} from "../../utils/localStorage";
 import { Song } from "./Song";
 import {SongLoading} from "./SongLoading";
+
+listOfAllSongs.sort(() => Math.random() - 0.5);
 
 const songPreferences = getAll();
 const list: IJsonSong[] = [];
@@ -27,7 +29,7 @@ interface ISongWrapperState {
 export class SongWrapper extends React.Component<ISongWrapperProps, ISongWrapperState> {
     constructor(props: ISongWrapperProps, state: any) {
         super(props, state);
-        Object.assign(list, genresList);
+        Object.assign(list, listOfAllSongs);
         this.state = {
             activeSong: undefined,
             songs: getMoreSongs(list, INITIAL_CHUNKS_TO_LOAD),
